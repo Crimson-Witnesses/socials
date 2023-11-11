@@ -109,10 +109,10 @@ void main() {
 
 export const WavesMaterial = shaderMaterial(
   {
-    color1: new Color(`#9bff5c`),
-    color2: new Color(`#38fff0`),
-    color3: new Color(`#fc12ff`),
-    backgroundColor: new Color(`#fff`),
+    color1: new Color(`#ff8f00`),
+    color2: new Color(`#f5c000`),
+    color3: new Color(`#7c0009`),
+    backgroundColor: new Color(`#000000`),
     colorSmoothing: 0.5,
     foldFrequency: 0.05,
     foldHeight: 4.0,
