@@ -5,7 +5,12 @@ import { Stack, QRCode, IconLink } from "../components";
 
 const Page: NextPage = () => (
   <>
-    <Stack style={{ marginBlock: `auto` }}>
+    <Stack
+      style={{
+        // @ts-expect-error
+        marginBlock: `auto`
+      }}
+    >
       <QRCode />
     </Stack>
     <IconLink title="Back to Home" href="/">

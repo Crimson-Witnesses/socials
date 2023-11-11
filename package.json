@@ -1,8 +1,8 @@
 {
-  "name": "saeris.gg",
+  "name": "@crimson-witnesses/socials",
   "version": "2023.05.15",
   "main": "src/pages/index.tsx",
-  "repository": "git@github.com:Saeris/saeris.gg.git",
+  "repository": "git@github.com:crimson-witnesses/socials.git",
   "author": "Drake Costa <drake@saeris.io> (https://saeris.gg)",
   "license": "MIT",
   "private": true,

@@ -1,8 +1,4 @@
-import {
-  SiInstagram,
-  SiTwitter,
-  SiDiscord
-} from "react-icons/si";
+import { SiInstagram, SiTwitter, SiDiscord } from "react-icons/si";
 import type { SiteConfig } from "./types";
 
 export const config: SiteConfig = {
