@@ -7,7 +7,6 @@ const Page: NextPage = () => (
   <>
     <Stack
       style={{
-        // @ts-expect-error
         marginBlock: `auto`
       }}
     >
