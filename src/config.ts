@@ -3,7 +3,6 @@ import {
   SiTwitter,
   SiDiscord
 } from "react-icons/si";
-import { MdPermContactCalendar, MdGamepad } from "react-icons/md";
 import type { SiteConfig } from "./types";
 
 export const config: SiteConfig = {
