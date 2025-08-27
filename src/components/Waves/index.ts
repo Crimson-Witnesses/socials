@@ -1,1 +1,0 @@
-export { Waves } from "./Waves";

@@ -1,11 +1,19 @@
-import React from "react";
 import type { MotionProps } from "framer-motion";
 import { motion } from "framer-motion";
 
 const variants = {
-  hidden: { opacity: 0, rotateY: 180 },
-  enter: { opacity: 1, rotateY: 0 },
-  exit: { opacity: 0, rotateY: -180 }
+  hidden: {
+    opacity: 0,
+    rotateY: 180
+  },
+  enter: {
+    opacity: 1,
+    rotateY: 0
+  },
+  exit: {
+    opacity: 0,
+    rotateY: -180
+  }
 };
 
 export interface StackProps
@@ -21,7 +29,7 @@ export const Stack: React.FC<StackProps> = ({ children, ...props }) => (
     initial="hidden"
     animate="enter"
     exit="exit"
-    transition={{ type: `linear` }}
+    transition={{ type: `tween` }}
   >
     {children}
   </motion.section>

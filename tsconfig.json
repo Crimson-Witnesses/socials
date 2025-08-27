@@ -1,9 +1,11 @@
 {
-  "$schema": "https://raw.githubusercontent.com/SchemaStore/schemastore/master/src/schemas/json/tsconfig.json",
   "ts-node": {
     "transpileOnly": true
   },
-  "include": ["./src/**/*", "postcss.config.js"],
+  "include": [
+    "./src/**/*",
+    ".next/types/**/*.ts"
+  ],
   "exclude": [
     "node_modules",
     "**/__mocks__/**/*",
@@ -37,13 +39,18 @@
     "noFallthroughCasesInSwitch": true,
     // "strictFunctionTypes": true,
     /* Module Resolution Options */
-    "moduleResolution": "node",
+    "moduleResolution": "bundler",
     "esModuleInterop": true,
     "resolveJsonModule": true,
     /* Advanced Options */
     "forceConsistentCasingInFileNames": true,
     "skipLibCheck": true,
     "incremental": true,
-    "noErrorTruncation": true
+    "noErrorTruncation": true,
+    "plugins": [
+      {
+        "name": "next"
+      }
+    ]
   }
 }

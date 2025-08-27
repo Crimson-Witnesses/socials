@@ -12,6 +12,7 @@ const Page: NextPage = () => (
     >
       <QRCode />
     </Stack>
+
     <IconLink title="Back to Home" href="/">
       <HiXMark />
     </IconLink>

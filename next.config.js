@@ -1,19 +1,15 @@
 // @ts-check
-const withPWA = require("next-pwa");
-const runtimeCaching = require("next-pwa/cache");
+import process from "node:process";
+import withPWA from "next-pwa";
 
-/**
- * @type {import('next').NextConfig}
- */
-const nextConfig = {
+export default withPWA({
+  dest: `public`,
+  disable: process.env.NODE_ENV !== `production`
+})({
+  reactStrictMode: true,
   i18n: {
-    locales: ["en"],
-    defaultLocale: "en"
-  }
-};
-
-module.exports = withPWA({
-  dest: "public",
-  disable: process.env.NODE_ENV !== "production",
-  runtimeCaching
-})(nextConfig);
+    locales: [`en`],
+    defaultLocale: `en`
+  },
+  productionBrowserSourceMaps: process.env.VERCEL_ENV !== `production`
+});
