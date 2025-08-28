@@ -67,6 +67,7 @@ types/
 
 .next/
 .cache/
+dist/
 **/public/workbox-*.js*
 **/public/sw.js*
 **/public/worker-*.js*
@@ -75,6 +76,7 @@ yarn-error.log
 .idea
 .vscode
 schema.json
+*.tsbuildinfo
 
 cypress/e2e/build
 

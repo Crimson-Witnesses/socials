@@ -1,7 +1,4 @@
 {
-  "ts-node": {
-    "transpileOnly": true
-  },
   "include": [
     "./src/**/*",
     ".next/types/**/*.ts"
@@ -13,7 +10,6 @@
     "**/*.spec.ts"
   ],
   "compilerOptions": {
-    "outDir": "dist",
     "noEmit": true,
     "isolatedModules": true,
     // Always include these settings
