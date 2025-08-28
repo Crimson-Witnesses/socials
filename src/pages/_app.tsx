@@ -19,7 +19,12 @@ const _app: React.FC<AppProps> = ({ Component, pageProps, router }) => (
       <link rel="mask-icon" color="white" href="/icon.svg" />
       <link rel="manifest" href="/manifest.webmanifest" />
       <meta name="description" content={meta.title} />
-      <meta name="image" content="/share-card.png" />
+
+      <meta
+        name="image"
+        content="https://crimsonwitnesses.com/share-card.png"
+      />
+
       {/* OpenGraph */}
       <meta property="og:site_name" content={meta.name} />
       <meta property="og:url" content="https://crimsonwitnesses.com" />
@@ -27,14 +32,24 @@ const _app: React.FC<AppProps> = ({ Component, pageProps, router }) => (
       <meta property="og:title" content={meta.name} />
       <meta property="og:description" content={meta.title} />
       <meta property="og:locale" content="en_US" />
-      <meta property="og:image" content="/share-card.png" />
+
+      <meta
+        property="og:image"
+        content="https://crimsonwitnesses.com/share-card.png"
+      />
+
       <meta property="og:image:alt" content={meta.title} />
       {/* Twitter */}
       <meta name="twitter:card" content="summary_large_image" />
       <meta name="twitter:site" content="@crimwitnesses" />
       <meta name="twitter:title" content={meta.name} />
       <meta name="twitter:description" content={meta.title} />
-      <meta name="twitter:image" content="/share-card.png" />
+
+      <meta
+        name="twitter:image"
+        content="https://crimsonwitnesses.com/share-card.png"
+      />
+
       {/* iOS */}
       <link rel="apple-touch-icon" href="/app-icon-192.png" />
       <meta name="mobile-web-app-capable" content="yes" />
