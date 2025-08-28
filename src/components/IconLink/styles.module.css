@@ -1,13 +1,13 @@
 .link {
   all: unset;
   position: absolute;
-  bottom: calc(env(safe-area-inset-top) + 2.4rem);
-  right: 2.4rem;
+  top: calc(env(safe-area-inset-top) + 24px);
+  right: 24px;
   display: flex;
   justify-content: center;
   align-items: center;
-  width: 4rem;
-  height: 4rem;
+  width: 40px;
+  height: 40px;
   cursor: pointer;
 
   &:hover,
