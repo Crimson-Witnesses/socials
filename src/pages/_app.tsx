@@ -21,7 +21,7 @@ const _app: React.FC<AppProps> = ({ Component, pageProps, router }) => (
       <meta name="image" content="/share-card.png" />
       {/* OpenGraph */}
       <meta property="og:site_name" content={meta.name} />
-      <meta property="og:url" content={process.env.NEXT_PUBLIC_VERCEL_URL} />
+      <meta property="og:url" content="https://crimsonwitnesses.com" />
       <meta property="og:type" content="website" />
       <meta property="og:title" content={meta.name} />
       <meta property="og:description" content={meta.title} />
@@ -29,20 +29,13 @@ const _app: React.FC<AppProps> = ({ Component, pageProps, router }) => (
       <meta property="og:image" content="/share-card.png" />
       <meta property="og:image:alt" content={meta.title} />
       {/* Twitter */}
+      <meta name="twitter:card" content="summary_large_image" />
+      <meta name="twitter:site" content="@crimwitnesses" />
       <meta name="twitter:title" content={meta.name} />
       <meta name="twitter:description" content={meta.title} />
-      <meta name="twitter:card" content="summary_large_image" />
       <meta name="twitter:image" content="/share-card.png" />
-      <meta name="twitter:image:alt" content={meta.name} />
       {/* iOS */}
       <link rel="apple-touch-icon" href="/app-icon-192.png" />
-
-      <link
-        rel="apple-touch-startup-image"
-        href="/splash-screen.png"
-        media="screen and (device-width: 320px) and (-webkit-device-pixel-ratio: 2)"
-      />
-
       <meta name="mobile-web-app-capable" content="yes" />
       <meta name="apple-mobile-web-app-capable" content="yes" />
 
