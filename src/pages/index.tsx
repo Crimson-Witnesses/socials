@@ -94,7 +94,7 @@ const Home: NextPage = () => {
           exit="hidden"
           variants={variants}
         >
-          <SocialLink url="//discord.gg/qxZqjsYT5U">
+          <SocialLink url="//discord.gg/crimsonwitnesses">
             <SiDiscord />
             <span>Discord</span>
             <Glow />
