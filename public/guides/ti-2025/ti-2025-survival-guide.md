@@ -349,51 +349,50 @@ It is generally prohibited to bring any food and drink into the Barclays Arena. 
 Food options near the arena are fairly limited. These are the closest, but you should expect a trip to them to take an hour or more between walking and eating. Many more options are available within the locality but would require either public transport, a taxi, or a car share with others at the event.
 
 [Grill-Pavillion](https://pommeskoenig.jimdoweb.com/)
+: <ul><li>🍔 Fast Food</li></ul>
 : <address>
 
     [Schnackenburgallee 119<br/>22525 Hamburg](https://maps.app.goo.gl/92L8nyFNfCH2UodVA)
 
   </address>
 
-[Iss Gut](https://www.issgut-hamburg.de/)  
+[Iss Gut](https://www.issgut-hamburg.de/)
+: <ul><li>🥘 Indian</li></ul>
 : <address>
 
     [Ottensener Str. 86<br/>22525 Hamburg](https://maps.app.goo.gl/YQWwaAp2A5AdMg7W7)
 
   </address>
 
-[Frühstücksladen](https://www.fruehstuecksladen-eidelstedt.de/)  
+[Frühstücksladen](https://www.fruehstuecksladen-eidelstedt.de/)
+: <ul><li>🍳 Breakfast</li></ul>
 : <address>
 
     [Fangdieckstraße 20<br/>22547 Hamburg](https://maps.app.goo.gl/3TX4gbeEp72YtFgx6)
 
   </address>
 
-[Das Moin Moin](https://www.dasmoinmoin.de/)  
+[Das Moin Moin](https://www.dasmoinmoin.de/)
+: <ul><li>🍳 Breakfast</li><li>🥪 Lunch</li></ul>
 : <address>
 
     [Schnackenburgallee 200<br/>22525 Hamburg](https://maps.app.goo.gl/K2EMqEfuFusAQo5PA)
 
   </address>
 
-[Namaste Hamburg](https://www.namaste-food.de/)  
+[Namaste Hamburg](https://www.namaste-food.de/)
+: <ul><li>🥘 Indian</li></ul>
 : <address>
 
     [Ottensener Str. 86<br/>22525 Hamburg](https://maps.app.goo.gl/hzFp3iutxSE79hZp8)
 
   </address>
 
-[Picknick Imbiß](https://bistro-picknick.de)  
+[Picknick Imbiß](https://bistro-picknick.de)
+: <ul><li>🍽️ Bistro</li></ul>
 : <address>
 
     [Hellgrundweg 2<br/>22525 Hamburg](https://maps.app.goo.gl/1WmKrgSNbQLWKvJaA)
-
-  </address>
-
-[IMBISSBUDE](https://www.yelp.com/biz/imbissbude-hamburg#reviews)  
-: <address>
-
-    [Schnackenburgsallee 20<br/>22525 Hamburg](https://www.yelp.com/map/imbissbude-hamburg)
 
   </address>
 
@@ -1259,91 +1258,104 @@ Restaurant Freudenhaus St. Paulim
 
 #### **€€€€ (€100+) - [Google List](https://maps.app.goo.gl/EbM1JYgna85GGrKGA)**
 
-The Table
+![](./images/the-table.png) [The Table](https://the-table-hamburg.de/)
+: Elevated global cuisine around a single table snaking around a stylish room with an open kitchen.
+: <ul><li>📅 Reservation Required</li><li>👨‍🍳 Fine Dining</li><li>🍽 Dinner</li><li>🍸 Cocktails</li><li>🍷 Wine</li></ul>
 : <address>
 
     [Shanghaiallee 15<br/>20457 Hamburg](https://maps.app.goo.gl/PsdhbrPmNvAZS4BfA)
 
   </address>
 
-Petit Amour
+![](./images/petit-amour.png) [Petit Amour](https://petitamour-hh.com/)
+: Urbane choice with understated decor & a terrace specializing in imaginative French cuisine.
+: <ul><li>📅 Reservation Required</li><li>👨‍🍳 Fine Dining</li><li>🍽 Dinner</li><li>🥖 French</li><li>🍷 Wine</li></ul>
 : <address>
 
     [Spritzenpl. 11<br/>22765 Hamburg](https://maps.app.goo.gl/6fwzh1Cxjr2pwvuQ9)
 
   </address>
 
-Haerlin Restaurant
+![](./images/haerlin-restaurant.png) [Haerlin Restaurant](https://hvj.de/en/restaurant-haerlin.html)
+: Sophisticated plates of seasonally inspired cuisine, plus wine, offered in refined pastel surrounds.
+: <ul><li>⭐ Michelin Starred</li><li>📅 Reservation Required</li><li>👨‍🍳 Fine Dining</li><li>🍽 Dinner</li><li>🍸 Cocktails</li><li>🍷 Wine</li></ul>
 : <address>
 
     [Neuer Jungfernstieg 9-14<br/>20354 Hamburg](https://maps.app.goo.gl/yw5ibtnajQ3CPKPv6)
 
   </address>
 
-Lakeside
+![](./images/lakeside.png) [Lakeside](https://www.thefontenay.com/en/restaurants-bar/lakeside-restaurant)
+: <ul><li>⭐ Michelin Starred</li><li>📅 Reservation Required</li><li>👨‍🍳 Fine Dining</li><li>🍽 Dinner</li><li>🍸 Cocktails</li><li>🍷 Wine</li></ul>
 : <address>
 
     [Fontenay 10<br/>20354 Hamburg](https://maps.app.goo.gl/B3XJUBwq9C8bcQgR9)
 
   </address>
 
-100/200 Kitchen
+![](./images/100-200-kitchen.png)[100/200 Kitchen](https://www.100200.kitchen/restaurant/)
+: A changing seasonal menu with elegant plate presentations & wine in a funky warehouse setting.
+: <ul><li>⭐ Michelin Starred</li><li>📅 Reservation Required</li><li>👨‍🍳 Fine Dining</li><li>🥪 Lunch</li><li>🍽 Dinner</li><li>🍷 Wine</li></ul>
 : <address>
 
     [Brandshofer Deich 68<br/>20539 Hamburg](https://maps.app.goo.gl/TzCyPwUDEBWXGZ2b6)
 
   </address>
 
-The Lisbeth
+![](./images/the-lisbeth.png) [The Lisbeth](https://www.cantinepapalisbeth.de/)
+: Industrial-chic eatery with a sidewalk terrace featuring fish rolls, pasta & other seafood dishes.
+: <ul><li>👨‍🍳 Fine Dining</li><li>🍽 Dinner</li><li>🐟 Seafood</li><li>🍝 Pasta</li><li>🍷 Wine</li></ul>
 : <address>
 
     [Deichstraße 32<br/>20459 Hamburg](https://maps.app.goo.gl/fvnkMJzWUXq6k8Nc8)
 
   </address>
 
-Le Petit Chef
+![](./images/le-petit-chef.png) [Le Petit Chef](https://lepetitchef.com/Hamburg)
+: <ul><li>👨‍🍳 Fine Dining</li><li>🎭 Dinner Show</li><li>🥪 Lunch</li><li>🍽 Dinner</li><li>🍷 Wine</li></ul>
 : <address>
 
     [Rothenbaumchaussee 10<br/>20148 Hamburg](https://maps.app.goo.gl/uUvPpLygb2JnYGVF6)
 
   </address>
 
-Criss Studio
+![](./images/criss-studio.png) [Criss Studio Polish-Jamaican](https://www.criss.studio/)
+: <ul><li>📅 Reservation Required</li><li>👨‍🍳 Fine Dining</li><li>🍽 Dinner</li><li>🥟 Polish</li><li>🍗 Jamaican</li><li>🍷 Wine</li></ul>
 : <address>
 
     [Moorkamp 6<br/>20357 Hamburg](https://maps.app.goo.gl/MMPqU4g3sms7onmh9)
 
   </address>
 
-The Dining Room
-: <address>
-
-    [Rödingsmarkt 2<br/>20459 Hamburg](https://maps.app.goo.gl/NF3Us5TnhqYR7MZn9)
-
-  </address>
-
-ZEIK Restaurant
+![](./images/restaurant-zeik.png) [Restaurant Zeik](https://zeik.de/)
+: Elevated regional tasting menus with seasonal ingredients & optional wine pairings plus a terrace.
+: <ul><li>⭐ Michelin Starred</li><li>📅 Reservation Required</li><li>👨‍🍳 Fine Dining</li><li>🍽 Dinner</li><li>🍷 Wine</li></ul>
 : <address>
 
     [Sierichstraße 112<br/>22299 Hamburg](https://maps.app.goo.gl/RAWMeG5YANk6R7Jy8)
 
   </address>
 
-\[m\]eatery restaurant & botanist bar
+![](./images/meatery-restaurant-and-bar.png) [[m]eatery restaurant & botanist bar](https://www.meatery.de/restaurants-bar/meatery-hamburg/)
+: <ul><li>📅 Reservation Required</li><li>👨‍🍳 Fine Dining</li><li>🍽 Dinner</li><li>🥩 Steakhouse</li><li>🍸 Cocktails</li></ul>
 : <address>
 
     [Drehbahn 49<br/>20354 Hamburg](https://maps.app.goo.gl/ETignW7C1x74Uewv9)
 
   </address>
 
-Restaurant Atlantic Grill & Health
+![](./images/restaurant-atlantic-grill-and-health.png) [Restaurant Atlantic Grill & Health](https://brhhh.com/atlantic-hamburg/taste/)
+: Posh, wood-paneled eatery serving locally sourced seafood entrees & market-fresh salads, plus wine.
+: <ul><li>📅 Reservation Required</li><li>👨‍🍳 Fine Dining</li><li>🥪 Lunch</li><li>🍽 Dinner</li><li>🐟 Seafood</li><li>🍷 Wine</li></ul>
 : <address>
 
     [An d. Alster 72-79<br/>20099 Hamburg](https://maps.app.goo.gl/nTcYnumuR4hw41GD9)
 
   </address>
 
-Salt & Silver
+![](./images/salt-and-silver.png) [Salt & Silver](https://saltandsilver.de/restaurants/hamburg)
+: Hip stop for creative tasting menus with Mexican & Peruvian dishes, plus a terrace for harbor views.
+: <ul><li>📅 Reservation Required</li><li>👨‍🍳 Fine Dining</li><li>🍽 Dinner</li><li>🌮 Mexican</li><li>🥘 Peruvian</li><li>🍷 Wine</li></ul>
 : <address>
 
     [St. Pauli Hafenstraße 136<br/>20359 Hamburg](https://maps.app.goo.gl/M2THwoPgyLFKhifw6)
@@ -1525,12 +1537,40 @@ Ask your questions on the Reddit post or over on the [Crimson Witnesses Discord 
     text-wrap: pretty;
   }
   dt {
-    break-after: avoid-column;
+    display: grid;
+    place-items: center;
+    overflow: hidden;
+    break-after: avoid;
+  }
+  dt img {
+    max-width: 400px;
+    max-height: 240px;
+    ratio: 5 / 3;
+    object-fit: cover;
   }
   dl dt:first-child {
     margin-top: 0;
   }
-  dd, address {
+  dl dd > ul {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 2px 4px;
+    margin: 0;
+    padding: 0;
+    margin-bottom: 0 !important;
+    padding-left: 0 !important;
+    list-style: none;
+  }
+  dd > ul li {
+    display: inline-flex;
+    margin: 0 !important;
+    padding-block: 2px;
+    padding-inline: 8px 12px;
+    border-radius: 24px;
+    background-color: #C5F3FF;
+    break-inside: avoid;
+  }
+  dt, dd, address {
     break-inside: avoid-column;
   }
 </style>
