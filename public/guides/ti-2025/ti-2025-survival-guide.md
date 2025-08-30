@@ -1540,12 +1540,13 @@ Ask your questions on the Reddit post or over on the [Crimson Witnesses Discord 
     display: grid;
     place-items: center;
     overflow: hidden;
-    break-after: avoid;
+    break-after: avoid-column;
   }
   dt img {
+    width: 100%;
     max-width: 400px;
     max-height: 240px;
-    ratio: 5 / 3;
+    aspect-ratio: 5 / 3;
     object-fit: cover;
   }
   dl dt:first-child {
@@ -1572,5 +1573,8 @@ Ask your questions on the Reddit post or over on the [Crimson Witnesses Discord 
   }
   dt, dd, address {
     break-inside: avoid-column;
+  }
+  dd:not(:last-child) {
+    break-before: avoid-column;
   }
 </style>
