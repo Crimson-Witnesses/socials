@@ -1172,84 +1172,107 @@ Restaurant Charmant
 
 #### **€€€ (€40-70) - [Google List](https://maps.app.goo.gl/Ydk34ZMjkxBuH9Vs8)**
 
-Kofookoo
+![](./images/kofookoo.png) [Kofookoo](https://sushigrillbar.kofookoo.de/)
+: <ul><li>🥪 Lunch</li><li>🍽 Dinner</li><li>🍱 Japanese</li><li>🍣 Sushi</li><li>حلال Halal</li><li>🥗 Vegetarian</li><li>🌱 Vegan</li><li>🍺 Beer</li><li>🍸 Cocktails</li><li>🍷 Wine</li></ul>
 : <address>
 
     [Neuer Kamp 31 Rindermarkthalle<br/>20359 Hamburg](https://maps.app.goo.gl/pkEbscGHD6YAu2nU8)
 
   </address>
 
-Tschebull Restaurant|Beisl|Bar
+![](./images/tschebull-restaurant.png) [Tschebull Restaurant|Beisl|Bar](https://www.tschebull.de/de/)
+: Classic Austrian-style tapas & meat dishes, plus a long wine list, in a formal dining room.
+: <ul><li>🥪 Lunch</li><li>🍽 Dinner</li><li>🥧 Austrian</li><li>🥩 Meat</li><li>🌱 Vegan</li><li>🍺 Beer</li><li>🍸 Cocktails</li><li>🍷 Wine</li></ul>
 : <address>
 
     [Mönckebergstraße 7<br/>20095 Hamburg](https://maps.app.goo.gl/yC1xoRYFt6VxqEZf6)
 
   </address>
 
-Deichgraf Restaurant
+![](./images/deichgraf-restaurant.png) [Deichgraf Restaurant](https://speisekartenweb.de/restaurants/hamburg/deichgraf-restaurant-30023?utm_source=google_profile&utm_medium=google_profile&utm_campaign=admin)
+: Salted meat labskaus & other northern specialities in a posh dining room or on a sidewalk terrace.
+: <ul><li>📅 Reservation Required</li><li>🥪 Lunch</li><li>🍽 Dinner</li><li>🥨 German</li><li>🥩 Meat</li><li>🌱 Vegan</li><li>🍺 Beer</li><li>🍷 Wine</li></ul>
 : <address>
 
     [Deichstraße 23<br/>20459 Hamburg](https://maps.app.goo.gl/TkbcGnmR7bcsSXPB6)
 
   </address>
 
-Restaurant Cox
+![](./images/restaurant-cox.png) [Restaurant Cox](https://www.restaurant-cox.de/cox.html)
+: Longstanding, rustic-chic tavern offering game dishes like wild boar & an extensive wine selection.
+: <ul><li>🥪 Lunch</li><li>🍽 Dinner</li><li>🥩 Meat</li><li>🥗 Vegetarian</li><li>🌱 Vegan</li><li>🍺 Beer</li><li>🍸 Cocktails</li><li>🍷 Wine</li></ul>
 : <address>
 
     [Lange Reihe 68<br/>Greifswalder Str. 43<br/>20099 Hamburg](https://maps.app.goo.gl/QXLSSLk2tqZtF1e87)
 
   </address>
 
-Fischereihafen Restaurant
+![](./images/fischereihafen-restaurant.png) [Fischereihafen Restaurant](https://www.fischereihafenrestaurant.de/en/)
+: Lively, long-running place for oysters, caviar & grilled seafood, with views of the harbor.
+: <ul><li>📅 Reservation Required</li><li>🥪 Lunch</li><li>🍽 Dinner</li><li>🐟 Seafood</li><li>🦪 Oysters</li><li>🍺 Beer</li><li>🍸 Cocktails</li><li>🍷 Wine</li></ul>
 : <address>
 
     [Große Elbstraße 143<br/>22767 Hamburg](https://maps.app.goo.gl/eaHh6cRmJJAT3J3x5)
 
   </address>
 
-Das Dorf
+![](./images/das-dorf.png) [Das Dorf](https://restaurant-dorf.de/eng/)
+: Informal eatery serving local staples including schnitzel, meat plates & desserts, plus draft beer.
+: <ul><li>🍽 Dinner</li><li>🥨 German</li><li>🍺 Beer</li><li>🍸 Cocktails</li><li>🍷 Wine</li></ul>
 : <address>
 
     [Lange Reihe 39<br/>20099 Hamburg](https://maps.app.goo.gl/7nJW26kgBJxmJvuZ8)
 
   </address>
 
-NENI
+![](./images/neni.png) [NENI](https://nenifood.com/restaurants/hamburg)
+: Upmarket Middle Eastern classics, served in an airy, industrial-chic space with kelim rugs.
+: <ul><li>🍳 Breakfast</li><li>🥪 Lunch</li><li>🍽 Dinner</li><li>🧆 Middle Eastern</li><li>حلال Halal</li><li>🥗 Vegetarian</li><li>🌱 Vegan</li><li>🍺 Beer</li><li>🍸 Cocktails</li><li>🍷 Wine</li></ul>
 : <address>
 
     [Osakaallee 12<br/>20457 Hamburg](https://maps.app.goo.gl/aF8ML79sfSbw82m76)
 
   </address>
 
-Petit Bonheur
+![](./images/petit-bonheur.png) [Petit Bonheur](https://www.petitbonheur-restaurant.de/)
+: Romantic restaurant with red walls & eclectic artwork, serving classic French dishes & wines.
+: <ul><li>🥪 Lunch</li><li>🍽 Dinner</li><li>🥖 French</li><li>🍺 Beer</li><li>🍸 Cocktails</li><li>🍷 Wine</li></ul>
 : <address>
 
     [Hütten 85-86<br/>20355 Hamburg](https://maps.app.goo.gl/RxUw2zDbnNzAY4wg9)
 
   </address>
 
-Philipps
+![](./images/philipps-restaurant.png) [philipps Restaurant](https://www.philipps-restaurant.de/)
+: Modern space with a rustic-chic vibe for an international menu of pasta, schnitzels & steak tartare.
+: <ul><li>🥪 Lunch</li><li>🍽 Dinner</li><li>🥨 German</li><li>🍝 Pasta</li><li>🥩 Steak</li><li>🍺 Beer</li><li>🍸 Cocktails</li><li>🍷 Wine</li></ul>
 : <address>
 
     [Turnerstraße 9<br/>20357 Hamburg](https://maps.app.goo.gl/X67Th6qLWjzvsRLY8)
 
   </address>
 
-Restaurant Casa di Roma
+![](./images/restaurant-casa-di-roma.png) [Restaurant Casa di Roma](https://casadiroma.de/)
+: Creatively presented antipasti, pasta & mains, plus a robust wine list, at a stylish trattoria.
+: <ul><li>🥪 Lunch</li><li>🍽 Dinner</li><li>🍝 Italian</li><li>🥙 Mediterranean</li><li>🍺 Beer</li><li>🍸 Cocktails</li><li>🍷 Wine</li></ul>
 : <address>
 
     [Lange Reihe 76<br/>20099 Hamburg](https://maps.app.goo.gl/xHGQn28pLvSkXWE3A)
 
   </address>
 
-PATIO Restaurant Weinbar
+![](./images/patio-restaurant-weinbar.png)[ PATIO Restaurant Weinbar](https://patio.hamburg/)
+: Contemporary Mediterranean cuisine, tapas & wine in a stylishly designed space with dark accents.
+: <ul><li>🍳 Breakfast</li><li>🥑 Brunch</li><li>🥪 Lunch</li><li>🍽 Dinner</li><li>🥙 Mediterranean</li><li>🍺 Beer</li><li>🍸 Cocktails</li><li>🍷 Wine</li></ul>
 : <address>
 
     [Poelchaukamp 33<br/>22301 Hamburg](https://maps.app.goo.gl/12p1sRWX6NG5TBUx8)
 
   </address>
 
-Restaurant Freudenhaus St. Paulim
+![](./images/restaurant-freudenhaus-st-paulim.png) [Restaurant Freudenhaus St. Paulim](https://www.stpauli-freudenhaus.de/restaurant/)
+: Robust northern German meat & fish dishes in a cozy, elaborately decorated bar/restaurant.
+: <ul><li>📅 Reservation Required</li><li>🍽 Dinner</li><li>🥨 German</li><li>🐟 Seafood</li></ul>
 : <address>
 
     [Hein-Hoyer-Straße 7-9<br/>20359 Hamburg](https://maps.app.goo.gl/v2FADDsNE3MxLKwS7)
@@ -1532,7 +1555,7 @@ Ask your questions on the Reddit post or over on the [Crimson Witnesses Discord 
 
 <style>
   dl {
-    columns: auto 12em;
+    columns: auto 300px;
     column-fill: balance;
     text-wrap: pretty;
   }
@@ -1569,6 +1592,8 @@ Ask your questions on the Reddit post or over on the [Crimson Witnesses Discord 
     padding-inline: 8px 12px;
     border-radius: 24px;
     background-color: #C5F3FF;
+    font-size: small;
+    text-wrap: nowrap;
     break-inside: avoid;
   }
   dt, dd, address {
