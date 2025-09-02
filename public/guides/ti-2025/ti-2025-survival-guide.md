@@ -1652,7 +1652,147 @@ Opening Hours
 
 ## **Talent**
 
-TBA
+### English
+
+[![](./images/talent/english/siractionslacks.png) SirActionSlacks](https://liquipedia.net/dota2/SirActionSlacks)
+: 🇺🇸 Jake Kanner
+: Host
+
+[![](./images/talent/english/lizzard.png) lizZard](https://liquipedia.net/dota2/LizZard)
+: 🇧🇦 Admir Salkanović
+: Analyst, Caster
+
+[![](./images/talent/english/odpixel.png) ODPixel](https://liquipedia.net/dota2/ODPixel)
+: 🇬🇧 Owen Davies
+: Caster
+
+[![](./images/talent/english/bkop.png) Bkop](https://liquipedia.net/dota2/Bkop)
+: 🇺🇸 Benjamin Kopilow
+: Caster
+
+[![](./images/talent/english/misery.png) Misery](https://liquipedia.net/dota2/MISERY)
+: 🇩🇰 Rasmus Berth Filipsen
+: Analyst
+
+[![](./images/talent/english/trent.png) trent](https://liquipedia.net/dota2/Trent)
+: 🇨🇦 Trent MacKenzie
+: Caster
+
+[![](./images/talent/english/cap.png) Cap](https://liquipedia.net/dota2/Cap)
+: 🇺🇸 Austin Walsh
+: Caster
+
+[![](./images/talent/english/seeknstrike.png) SeekNStrike](https://liquipedia.net/dota2/SeekNStrike)
+: 🇺🇸 Richie Garcia
+: Caster
+
+[![](./images/talent/english/ephey.png) Ephey](https://liquipedia.net/dota2/Ephey)
+: 🇯🇴 Mira Riad (ميرا رياض)
+: Analyst
+
+[![](./images/talent/english/nomad.png) Nomad](https://liquipedia.net/dota2/Nomad)
+: 🇬🇧 Jared Bajina
+: Caster
+
+[![](./images/talent/english/svg.png) SVG](https://liquipedia.net/dota2/SVG)
+: 🇺🇸 Avery Silverman
+: Caster
+
+[![](./images/talent/english/reya.png) Reya](https://liquipedia.net/dota2/Sheepsticked)
+: 🇬🇧 Alexandra Roberts
+: Analyst
+
+[![](./images/talent/english/winter.png) WinteR](https://liquipedia.net/dota2/WinteR)
+: 🇲🇾 Chan Litt Binn
+: Caster
+
+[![](./images/talent/english/zquixotix.png) ZQuixotix](https://liquipedia.net/dota2/ZQuixotix)
+: 🇺🇸 Zachary Ang
+: Caster
+
+[![](./images/talent/english/lyrical.png) Lyrical](https://liquipedia.net/dota2/Lyrical)
+: 🇺🇸 Gabriel Thomas Cruz
+: Caster
+
+[![](./images/talent/english/gareth.png) Gareth](https://liquipedia.net/dota2/Gareth)
+: 🇬🇧 Gareth Bateson
+: Caster
+
+[![](./images/talent/english/tsunami.png) tsunami](https://liquipedia.net/dota2/Tsunami)
+: 🇺🇸 Neal Khandheria
+: Host, Analyst
+
+[![](./images/talent/english/teaguvnor.png) TeaGuvnor](https://liquipedia.net/dota2/TeaGuvnor)
+: 🇬🇧 Robson Merritt
+: Caster, Analyst
+
+[![](./images/talent/english/stormstormer.png) Stormstormer](https://liquipedia.net/dota2/Stormstormer)
+: 🇩🇪 Daniel Schoetzau
+: Analyst
+
+[![](./images/talent/english/fly.png) Fly](https://liquipedia.net/dota2/Fly)
+: 🇮🇱 Tal Aizik (טל אייזיק)
+: Analyst
+
+[![](./images/talent/english/synderen.png) syndereN](https://liquipedia.net/dota2/SyndereN)
+: 🇩🇰 Troels Lyngholt Nielsen
+: Caster
+
+[![](./images/talent/english/lacoste.png) Lacoste](https://liquipedia.net/dota2/Lacoste)
+: 🇭🇷 Dominik Stipić
+: Analyst
+
+[![](./images/talent/english/purge.png) Purge](<https://liquipedia.net/dota2/Purge_(Kevin_Godec)>)
+: 🇺🇸 Kevin Godec
+: Caster, Analyst
+
+[![](./images/talent/english/sheever.png) Sheever](https://liquipedia.net/dota2/Sheever)
+: 🇳🇱 Jorien van der Heijden
+: Host
+
+[![](./images/talent/english/khezu.png) KheZu](https://liquipedia.net/dota2/KheZu)
+: 🇩🇪 Maurice Gutmann
+: Analyst
+
+[![](./images/talent/english/wagamama.png) Wagamama](https://liquipedia.net/dota2/Wagamama)
+: 🇸🇪 Niklas Högström
+: Caster
+
+[![](./images/talent/english/f-dog.png) F-Dog](https://liquipedia.net/dota2/Fogged)
+: 🇺🇸 Ioannis Loucas
+: Caster, Analyst
+
+[![](./images/talent/english/pyrion-flax.png) Pyrion Flax](https://liquipedia.net/dota2/PyrionFlax)
+: 🇬🇧 Ted Forsyth
+: Caster, Analyst
+
+[![](./images/talent/english/sunsfan.png) SUNSfan](https://liquipedia.net/dota2/SUNSfan)
+: 🇺🇸 Shannon Scotten
+: Caster
+
+[![](./images/talent/english/gunnar.png) Gunnar](https://liquipedia.net/dota2/Gunnar)
+: 🇺🇸 Nicolas Lopez
+: Analyst
+
+[![](./images/talent/english/johnxfire.png) johnxfire](https://liquipedia.net/dota2/Johnxfire)
+: 🇵🇭 John Nathan Fernandez
+: Caster
+
+[![](./images/talent/english/mlpdota.png) MLPDotA](https://liquipedia.net/dota2/MLPDotA)
+: 🇦🇺 Mike Le Phoenix
+: Caster
+
+[![](./images/talent/english/fear.png) Fear](<https://liquipedia.net/dota2/Fear_(Clinton_Loomis)>)
+: 🇺🇸 Clinton Loomis
+: Analyst
+
+[![](./images/talent/english/nattea.png) NatTea](https://liquipedia.net/dota2/NatTea)
+: 🇦🇺 Natalie Mahoney
+: Host
+
+[![](./images/talent/english/jenkins.png) Jenkins](https://liquipedia.net/dota2/Jenkins)
+: 🇨🇦 Andrew Jenkins
+: Analyst
 
 ---
 
