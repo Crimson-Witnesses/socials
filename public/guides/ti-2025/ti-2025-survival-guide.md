@@ -348,48 +348,41 @@ It is generally prohibited to bring any food and drink into the Barclays Arena. 
 
 Food options near the arena are fairly limited. These are the closest, but you should expect a trip to them to take an hour or more between walking and eating. Many more options are available within the locality but would require either public transport, a taxi, or a car share with others at the event.
 
-[Grill-Pavillion](https://pommeskoenig.jimdoweb.com/)
-: <ul><li>🍔 Fast Food</li></ul>
+![](./images/grill-pavillion.png) [Grill-Pavillion](https://pommeskoenig.jimdoweb.com/)
+: <ul><li>🍳 Breakfast</li><li>🥪 Lunch</li><li>🍽️ Dinner</li><li>🍔 Fast Food</li><li>🥗 Vegetarian</li><li>🌱 Vegan</li><li>🍺 Beer</li></ul>
 : <address>
 
     [Schnackenburgallee 119<br/>22525 Hamburg](https://maps.app.goo.gl/92L8nyFNfCH2UodVA)
 
   </address>
 
-[Iss Gut](https://www.issgut-hamburg.de/)
-: <ul><li>🥘 Indian</li></ul>
-: <address>
-
-    [Ottensener Str. 86<br/>22525 Hamburg](https://maps.app.goo.gl/YQWwaAp2A5AdMg7W7)
-
-  </address>
-
-[Frühstücksladen](https://www.fruehstuecksladen-eidelstedt.de/)
-: <ul><li>🍳 Breakfast</li></ul>
+![](./images/fruhstucksladen.png) [Frühstücksladen](https://www.fruehstuecksladen-eidelstedt.de/)
+: <ul><li>🍳 Breakfast</li><li>🥪 Lunch</li><li>☕ Coffee</li></ul>
 : <address>
 
     [Fangdieckstraße 20<br/>22547 Hamburg](https://maps.app.goo.gl/3TX4gbeEp72YtFgx6)
 
   </address>
 
-[Das Moin Moin](https://www.dasmoinmoin.de/)
-: <ul><li>🍳 Breakfast</li><li>🥪 Lunch</li></ul>
+![](./images/das-moin-moin.png) [Das Moin Moin](https://www.dasmoinmoin.de/)
+: <ul><li>🍳 Breakfast</li><li>🥪 Lunch</li><li>🍔 Fast Food</li><li>🍺 Beer</li></ul>
 : <address>
 
     [Schnackenburgallee 200<br/>22525 Hamburg](https://maps.app.goo.gl/K2EMqEfuFusAQo5PA)
 
   </address>
 
-[Namaste Hamburg](https://www.namaste-food.de/)
-: <ul><li>🥘 Indian</li></ul>
+![](./images/namaste-hamburg.png)[Namaste Hamburg](https://www.namaste-food.de/)
+: <ul><li>🥪 Lunch</li><li>🍽️ Dinner</li><li>🥘 Indian</li><li>حلال Halal</li><li>🥗 Vegetarian</li><li>🌱 Vegan</li><li>🍺 Beer</li><li>🍷 Wine</li></ul>
 : <address>
 
     [Ottensener Str. 86<br/>22525 Hamburg](https://maps.app.goo.gl/hzFp3iutxSE79hZp8)
 
   </address>
 
-[Picknick Imbiß](https://bistro-picknick.de)
-: <ul><li>🍽️ Bistro</li></ul>
+![](./images/bistro-picknick.png) [Bistro Picknick](https://bistro-picknick.de)
+: Informal all-day snack bar dispensing currywurst, goulash & other unpretentious offerings.
+: <ul><li>🍳 Breakfast</li><li>🥪 Lunch</li><li>🍽️ Dinner</li><li>🌱 Vegan</li><li>🍺 Beer</li><li>🍸 Cocktails</li><li>🍷 Wine</li></ul>
 : <address>
 
     [Hellgrundweg 2<br/>22525 Hamburg](https://maps.app.goo.gl/1WmKrgSNbQLWKvJaA)
@@ -400,86 +393,101 @@ Food options near the arena are fairly limited. These are the closest, but you s
 
 Visit the [Google List](https://maps.app.goo.gl/7hS2okZWvrkhTcZ89) for the most up-to-date list.
 
-#### **€ (€2-20) - [Google List](https://maps.app.goo.gl/7hS2okZWvrkhTcZ89)**
+#### € (€2-20) - [Google List](https://maps.app.goo.gl/7hS2okZWvrkhTcZ89)
 
-[La Casita](https://lacasita-azul.de/)
+![](./images/la-casita.png) [La Casita](https://lacasita-azul.de/)
+: <ul><li>🥪 Lunch</li><li>🍽️ Dinner</li><li>🌮 Mexican</li><li>🥗 Vegetarian</li><li>🌱 Vegan</li><li>🍺 Beer</li><li>🍸 Cocktails</li><li>🍷 Wine</li></ul>
 : <address>
 
     [Neuer Kamp 30<br/>20357 Hamburg](https://maps.app.goo.gl/ePLQYyjMMFHLuerM8)
 
   </address>
 
-[Otto's Burger Ottensen](https://www.ottosburger.com/)
+![](./images/ottos-burger-ottensen.png) [Otto's Burger Ottensen](https://www.ottosburger.com/)
+: <ul><li>🥪 Lunch</li><li>🍽️ Dinner</li><li>🍔 Burgers</li><li>🍺 Beer</li><li>🍸 Cocktails</li><li>🍷 Wine</li></ul>
 : <address>
 
     [Bahrenfelder Str. 175<br/>22765 Hamburg](https://maps.app.goo.gl/iiT9fE7kUhFFzaLHA)
 
   </address>
 
-[Otto's Burger Lange Reihe](https://www.ottosburger.com/)
+![](./images/ottos-burger-lange-reihe.png) [Otto's Burger Lange Reihe](https://www.ottosburger.com/)
+: <ul><li>🥪 Lunch</li><li>🍽️ Dinner</li><li>🍔 Burgers</li><li>🍺 Beer</li><li>🍸 Cocktails</li><li>🍷 Wine</li></ul>
 : <address>
 
     [Lange Reihe 40<br/>20099 Hamburg](https://maps.app.goo.gl/aiVnFtqRYzi5GqfD9)
 
   </address>
 
-[Otto's Burger Grindel](https://www.ottosburger.com/)
+![](./images/ottos-burger-grindel.png) [Otto's Burger Grindel](https://www.ottosburger.com/)
+: <ul><li>🥪 Lunch</li><li>🍽️ Dinner</li><li>🍔 Burgers</li><li>🍺 Beer</li><li>🍸 Cocktails</li><li>🍷 Wine</li></ul>
 : <address>
 
     [Grindelhof 33<br/>20146 Hamburg](https://maps.app.goo.gl/PoU1WupYMakoiifw8)
 
   </address>
 
-[Otto's Burger Schanze](https://www.ottosburger.com/)
+![](./images/ottos-burger-schanze.png) [Otto's Burger Schanze](https://www.ottosburger.com/)
+: <ul><li>🥪 Lunch</li><li>🍽️ Dinner</li><li>🍔 Burgers</li><li>🍺 Beer</li><li>🍸 Cocktails</li><li>🍷 Wine</li></ul>
 : <address>
 
     [Schanzenstraße 58<br/>20357 Hamburg](https://maps.app.goo.gl/UmV1kNdRvfdKjruA6)
 
   </address>
 
-[Maharaja go-go](https://www.maharaja-hamburg.de/maharaja-41/index.php)
+![](./images/maharaja-go-go.png) [Maharaja go-go](https://www.maharaja-hamburg.de/maharaja-41/index.php)
+: <ul><li>🥪 Lunch</li><li>🍽️ Dinner</li><li>🥘 Indian</li><li>🥗 Vegetarian</li><li>🌱 Vegan</li><li>🍺 Beer</li><li>🍷 Wine</li></ul>
 : <address>
 
     [Holstenstraße 77<br/>22767 Hamburg](https://maps.app.goo.gl/CS1t9hC8t79jdKjH7)
 
   </address>
 
-[Balutschistan](https://www.balutschistan-schanze.de/)
+![](./images/balutschistan.png) [Balutschistan](https://www.balutschistan-schanze.de/)
+: <ul><li>🥪 Lunch</li><li>🍽️ Dinner</li><li>🍛 Pakistani</li><li>🍺 Beer</li><li>🍸 Cocktails</li><li>🍷 Wine</li></ul>
 : <address>
 
     [Schulterblatt 88<br/>20357 Hamburg](https://maps.app.goo.gl/jpQSq63CNmDHJXE77)
 
   </address>
 
-[Brücke 10 am Alten Elbtunnel](https://bruecke10.com/)
+![](./images/brucke-10-am-alten-elbtunnel.png)[Brücke 10 am Alten Elbtunnel](https://bruecke10.com/)
+: <ul><li>🥪 Lunch</li><li>🐟 Seafood</li><li>🥗 Vegetarian</li><li>☕ Coffee</li><li>🍺 Beer</li></ul>
 : <address>
 
     [Schanzenweg 12<br/>20457 Hamburg](https://maps.app.goo.gl/XwmD9pP3pMJm2Ct69)
 
   </address>
 
-[Brücke 10](https://bruecke10.com/)
+![](./images/brucke-10.png) [Brücke 10](https://bruecke10.com/)
+: Laid-back restaurant serving seafood sandwiches & beers on a landing stage by the harbor.
+: <ul><li>🥪 Lunch</li><li>🍽️ Dinner</li><li>🐟 Seafood</li><li>🌱 Vegan</li><li>🍺 Beer</li><li>🍷 Wine</li></ul>
 : <address>
 
     [St. Pauli-Landungsbrücken 10<br/>20359 Hamburg](https://maps.app.goo.gl/kWU9yuPpY63eeqmZ7)
 
   </address>
 
-[Taverna Olympisches Feuer (Website may not function)](http://www.olympisches-feuer.de/)
+![](./images/taverna-olympisches-feuer.png) [Taverna Olympisches Feuer](http://www.olympisches-feuer.de/) (Website may not function)
+: <ul><li>🥪 Lunch</li><li>🍽️ Dinner</li><li>🌱 Vegan</li><li>🍺 Beer</li><li>🍸 Cocktails</li><li>🍷 Wine</li></ul>
 : <address>
 
     [Schulterblatt 36<br/>20357 Hamburg](https://maps.app.goo.gl/vVyQ5e2WteWW7ze2A)
 
   </address>
 
-Karo Fisch (No Website)
+![](./images/karo-fisch.png) [Karo Fisch](https://karofisch.website/)
+: Mediterranean seafood delicacies are offered in this compact, unpretentious eatery with a terrace.
+: <ul><li>🥪 Lunch</li><li>🍽️ Dinner</li><li>🥙 Mediterranean</li><li>🐟 Seafood</li><li>حلال Halal</li><li>🌱 Vegan</li><li>🍺 Beer</li><li>🍷 Wine</li></ul>
 : <address>
 
     [Feldstraße 32<br/>20357 Hamburg](https://maps.app.goo.gl/yFhnHhRmBXhopbqA7)
 
   </address>
 
-[Underdocks](https://underdocks.de/)
+![](./images/underdocks.png) [Underdocks](https://underdocks.de/)
+: Convivial locale with outdoor seating serving creative seafood rolls, sandwiches & tacos.
+: <ul><li>🥪 Lunch</li><li>🍽️ Dinner</li><li>🐟 Seafood</li><li>🌮 Tacos</li><li>🥗 Vegetarian</li><li>🌱 Vegan</li><li>🍺 Beer</li><li>🍸 Cocktails</li><li>🍷 Wine</li></ul>
 : <address>
 
     [Neuer Kamp 13<br/>20359 Hamburg](https://maps.app.goo.gl/hKheRuyK8Mhhhsvz9)
@@ -496,21 +504,25 @@ Karo Fisch (No Website)
 
   </address>
 
-[Schweinske Restaurant Bahrenfeld](https://schweinske.de/standorte/bahrenfeld)
+![](./images/schweinske-restaurant-bahrenfeld.png) [Schweinske Restaurant Bahrenfeld](https://schweinske.de/standorte/bahrenfeld)
+: <ul><li>🍳 Breakfast</li><li>🥪 Lunch</li><li>🍽️ Dinner</li><li>🥨 German</li><li>🌱 Vegan</li><li>🍺 Beer</li><li>🍸 Cocktails</li><li>🍷 Wine</li></ul>
 : <address>
 
     [Silcherstraße 1<br/>22761 Hamburg](https://maps.app.goo.gl/WA5mDe2WyN1E3Zcr5)
 
   </address>
 
-[Schweinske Restaurant Eimsbüttel](https://schweinske.de/standorte/eimsbuettel)
+![](./images/schweinske-restaurant-eimsbuttel.png) [Schweinske Restaurant Eimsbüttel](https://schweinske.de/standorte/eimsbuettel)
+: <ul><li>🍳 Breakfast</li><li>🥪 Lunch</li><li>🍽️ Dinner</li><li>🥨 German</li><li>🌱 Vegan</li><li>🍺 Beer</li><li>🍸 Cocktails</li><li>🍷 Wine</li></ul>
 : <address>
 
     [Kieler Str. 284<br/>22525 Hamburg](https://maps.app.goo.gl/cPf9if8LozBbgLzU8)
 
   </address>
 
-Jim Burrito's
+![](./images/jim-burritos.png) [Jim Burrito's](https://www.jimburritos.com/)
+: Compact, casual space offering Mexican specialties, cocktails & a take-out option.
+: <ul><li>🍽️ Dinner</li><li>🌮 Tacos</li><li>🥗 Vegetarian</li><li>🌱 Vegan</li><li>🍺 Beer</li><li>🍸 Cocktails</li></ul>
 : <address>
 
     [Schulterblatt 12<br/>20357 Hamburg](https://maps.app.goo.gl/Gb8EMpGCUP1i116q6)
@@ -1504,7 +1516,137 @@ Opening Hours
 
 ## **Teams/Players**
 
-TBA
+### Direct Invites
+
+[![](./images/teams/team-liquid.png) Team Liquid](https://liquipedia.net/dota2/Team_Liquid)
+: Western Europe
+: 🇸🇪 [miCKe](https://liquipedia.net/dota2/MiCKe) 🏆
+: 🇵🇱 [Nisha](https://liquipedia.net/dota2/Nisha) 🏆
+: 🇨🇿 [SaberLight](https://liquipedia.net/dota2/SabeRLight-)
+: 🇸🇪 [Boxi](https://liquipedia.net/dota2/Boxi) 🏆
+: 🇸🇪 [Insania](https://liquipedia.net/dota2/Insania) 🏆
+
+[![](./images/teams/paravision.png) PARAVISION](https://liquipedia.net/dota2/PARIVISION)
+: Eastern Europe
+: 🇷🇺 [Satanic](<https://liquipedia.net/dota2/Satanic_(Russian_player)>)
+: 🇺🇦 [No[o]ne-](https://liquipedia.net/dota2/Noone)
+: 🇷🇺 [DM](https://liquipedia.net/dota2/DM)
+: 🇷🇺 [9Class](https://liquipedia.net/dota2/9Class)
+: 🇷🇺 [Dukalis](https://liquipedia.net/dota2/Dukalis)
+
+[![](./images/teams/betboom-team.png) BetBoom Team](https://liquipedia.net/dota2/BetBoom_Team)
+: Eastern Europe
+: 🇷🇺 [Pure](<https://liquipedia.net/dota2/Pure_(Russian_player)>)
+: 🇷🇺 [gpk](https://liquipedia.net/dota2/Gpk)
+: 🇲🇩 [MieRo](https://liquipedia.net/dota2/MieRo)
+: 🇷🇺 [Save-](https://liquipedia.net/dota2/Save-)
+: 🇷🇺 [Kataomi`](https://liquipedia.net/dota2/Kataomi)
+
+[![](./images/teams/team-tidebound.png) Team Tidebound](https://liquipedia.net/dota2/Team_Tidebound)
+: China
+: 🇨🇳 [shiro](https://liquipedia.net/dota2/Shiro)
+: 🇲🇾 [NothingToSay](https://liquipedia.net/dota2/NothingToSay)
+: 🇨🇳 [Bach](https://liquipedia.net/dota2/Faith_bian)
+: 🇨🇳 [planet](https://liquipedia.net/dota2/Planet)
+: 🇨🇳 [y`](https://liquipedia.net/dota2/Y%60)
+
+[![](./images/teams/team-spirit.png) Team Spirit](https://liquipedia.net/dota2/Team_Spirit)
+: Eastern Europe
+: 🇺🇦 [Yatoro](https://liquipedia.net/dota2/Yatoro) 🏆🏆
+: 🇷🇺 [Larl](https://liquipedia.net/dota2/Larl) 🏆
+: 🇷🇺 [Collapse](https://liquipedia.net/dota2/Collapse) 🏆🏆
+: 🇷🇺 [rue](https://liquipedia.net/dota2/Rue)
+: 🇷🇺 [Miposhka](https://liquipedia.net/dota2/Miposhka) 🏆🏆
+
+[![](./images/teams/team-falcons.png) Team Falcons](https://liquipedia.net/dota2/Team_Falcons)
+: Western Europe
+: 🇸🇰 [skiter](https://liquipedia.net/dota2/Skiter) 🏆
+: 🇷🇺 [Malr1ne](https://liquipedia.net/dota2/Malr1ne)
+: 🇯🇴 [ATF](https://liquipedia.net/dota2/ATF)
+: 🇩🇰 [Cr1t-](https://liquipedia.net/dota2/Cr1t-)
+: 🇺🇸 [Sneyking](https://liquipedia.net/dota2/Sneyking) 🏆
+
+[![](./images/teams/tundra-esports.png) Tundra Esports](https://liquipedia.net/dota2/Tundra_Esports)
+: Western Europe
+: 🇳🇱 [Crystallis](https://liquipedia.net/dota2/Crystallis)
+: 🇧🇬 [bzm](https://liquipedia.net/dota2/Bzm)
+: 🇮🇱 [33](https://liquipedia.net/dota2/33) 🏆🏆
+: 🇲🇰 [Saksa](https://liquipedia.net/dota2/Saksa) 🏆
+: 🇦🇹 [Tobi](https://liquipedia.net/dota2/Tobi)
+
+[![](./images/teams/yakutou-brothers.png) Yakutou Brothers](https://liquipedia.net/dota2/Yakult_Brothers)
+: China
+: 🇨🇳 [flyfly](https://liquipedia.net/dota2/Flyfly)
+: 🇨🇳 [Emo](https://liquipedia.net/dota2/Emo)
+: 🇨🇳 [Beyond](https://liquipedia.net/dota2/Beyond)
+: 🇨🇳 [BoBoka](https://liquipedia.net/dota2/BoBoKa)
+: 🇲🇾 [Oli](https://liquipedia.net/dota2/Oli)
+
+### Regional Qualifiers
+
+[![](./images/teams/natus-vincere.png) Natus Vincere](https://liquipedia.net/dota2/Natus_Vincere)
+: Western Europe
+: 🇺🇦 [gotthejuice](https://liquipedia.net/dota2/Gotthejuice)
+: 🇺🇦 [Niku](https://liquipedia.net/dota2/Niku)
+: 🇺🇦 [pma](https://liquipedia.net/dota2/Pma)
+: 🇰🇬 [Zayac](https://liquipedia.net/dota2/Zayac)
+: 🇺🇦 [Riddys](https://liquipedia.net/dota2/Riddys)
+
+[![](./images/teams/nigma-galaxy.png) Nigma Galaxy](https://liquipedia.net/dota2/Nigma_Galaxy)
+: Western Europe
+: 🇲🇾 [Ghost](<https://liquipedia.net/dota2/Ghost_(Daniel_Chan)>)
+: 🇵🇰 [Sumail](https://liquipedia.net/dota2/SumaiL) 🏆
+: 🇱🇧 [No!ob](https://liquipedia.net/dota2/No!ob)
+: 🇱🇧 [OmaR](https://liquipedia.net/dota2/OmaR)
+: 🇱🇧 [GH](https://liquipedia.net/dota2/GH)
+
+[![](./images/teams/aurora-gaming.png) Aurora Gaming](https://liquipedia.net/dota2/Aurora_Gaming)
+: Eastern Europe
+: 🇷🇺 [Nightfall](https://liquipedia.net/dota2/Nightfall)
+: 🇷🇺 [kiyotaka](https://liquipedia.net/dota2/Kiyotaka)
+: 🇷🇺 [TORONOTOTOKYO](https://liquipedia.net/dota2/TORONTOTOKYO) 🏆
+: 🇺🇦 [Mira](https://liquipedia.net/dota2/Mira) 🏆🏆
+: 🇧🇾 [panto](https://liquipedia.net/dota2/Panto)
+
+[![](./images/teams/xtreme-gaming.png) Xtreme Gaming](https://liquipedia.net/dota2/Xtreme_Gaming)
+: China
+: 🇨🇳 [Ame](https://liquipedia.net/dota2/Ame)
+: 🇨🇳 [Xm](https://liquipedia.net/dota2/Xm)
+: 🇨🇳 [Xs](https://liquipedia.net/dota2/Xxs)
+: 🇨🇳 [XinQ](https://liquipedia.net/dota2/XinQ)
+: 🇲🇾 [xNova](https://liquipedia.net/dota2/XNova)
+
+[![](./images/teams/team-nemesis.png) Team Nemesis](https://liquipedia.net/dota2/Team_Nemesis)
+: Southeast Asia
+: 🇵🇭 [Akashi](https://liquipedia.net/dota2/Akashi)
+: 🇵🇭 [Mac](https://liquipedia.net/dota2/Mac)
+: 🇵🇭 [Raven](https://liquipedia.net/dota2/Raven)
+: 🇵🇭 [Jing](https://liquipedia.net/dota2/Jing)
+: 🇵🇭 [Erice](https://liquipedia.net/dota2/Erice)
+
+[![](./images/teams/boom-esports.png) BOOM Esports](https://liquipedia.net/dota2/BOOM_Esports)
+: Southeast Asia
+: 🇱🇦 [jaCkky](https://liquipedia.net/dota2/JaCkky)
+: 🇵🇭 [Armel](https://liquipedia.net/dota2/Armel)
+: 🇹🇭 [Jabz](https://liquipedia.net/dota2/Jabz)
+: 🇵🇭 [TIMS](https://liquipedia.net/dota2/TIMS)
+: 🇵🇭 [Jaunuel](https://liquipedia.net/dota2/Jaunuel)
+
+[![](./images/teams/wildcard.png) Wildcard](https://liquipedia.net/dota2/Wildcard)
+: North America
+: 🇺🇸 [Yamsun](https://liquipedia.net/dota2/Yamsun)
+: 🇺🇸 [RCY](https://liquipedia.net/dota2/RCY)
+: 🇺🇸 [Fayde](https://liquipedia.net/dota2/Fayde)
+: 🇺🇦 [Bignum](https://liquipedia.net/dota2/Bignum)
+: 🇺🇸 [Speeed](https://liquipedia.net/dota2/Speeed)
+
+[![](./images/teams/heroic.png) HEROIC](https://liquipedia.net/dota2/HEROIC)
+: South America
+: 🇳🇮 [Yuma](https://liquipedia.net/dota2/Yuma)
+: 🇧🇷 [4nalog](https://liquipedia.net/dota2/4nalog)
+: 🇧🇴 [Wisper](https://liquipedia.net/dota2/Wisper)
+: 🇵🇪 [Scofield](https://liquipedia.net/dota2/Scofield)
+: 🇧🇷 [KJ](https://liquipedia.net/dota2/KJ)
 
 ---
 
@@ -1555,22 +1697,40 @@ Ask your questions on the Reddit post or over on the [Crimson Witnesses Discord 
 
 <style>
   dl {
+    width: 100%;
+    margin: auto 0;
     columns: auto 300px;
     column-fill: balance;
     text-wrap: pretty;
   }
-  dt {
+  dt:has(img) {
     display: grid;
     place-items: center;
     overflow: hidden;
     break-after: avoid-column;
+
+    img {
+      display: block;
+      width: 100%;
+      max-width: 300px !important;
+      max-height: 180px;
+      aspect-ratio: 5 / 3;
+      object-fit: cover;
+    }
   }
-  dt img {
-    width: 100%;
-    max-width: 400px;
-    max-height: 240px;
-    aspect-ratio: 5 / 3;
-    object-fit: cover;
+  dt > a:has(img) {
+    text-align: center;
+    filter: drop-shadow(0px 0px 4.5px rgba(50, 33, 229, 0.5))
+      drop-shadow(0px 0px 1px rgba(50, 33, 229, 0.9));
+
+    img {
+      display: block;
+      width: 100%;
+      max-width: 200px !important;
+      max-height: 200px;
+      aspect-ratio: 1 / 1;
+      object-fit: cover;
+    }
   }
   dl dt:first-child {
     margin-top: 0;
