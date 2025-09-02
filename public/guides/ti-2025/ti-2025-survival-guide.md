@@ -1518,135 +1518,135 @@ Opening Hours
 
 ### Direct Invites
 
-[![](./images/teams/team-liquid.png) Team Liquid](https://liquipedia.net/dota2/Team_Liquid)
+[![](./images/teams/team-liquid/team-liquid.png) Team Liquid](https://liquipedia.net/dota2/Team_Liquid)
 : Western Europe
-: 🇸🇪 [miCKe](https://liquipedia.net/dota2/MiCKe) 🏆
-: 🇵🇱 [Nisha](https://liquipedia.net/dota2/Nisha) 🏆
-: 🇨🇿 [SaberLight](https://liquipedia.net/dota2/SabeRLight-)
-: 🇸🇪 [Boxi](https://liquipedia.net/dota2/Boxi) 🏆
-: 🇸🇪 [Insania](https://liquipedia.net/dota2/Insania) 🏆
+: [![](./images/teams/team-liquid/m1cke.png) 🇸🇪 miCKe](https://liquipedia.net/dota2/MiCKe) 🏆
+: [![](./images/teams/team-liquid/nisha.png) 🇵🇱 Nisha](https://liquipedia.net/dota2/Nisha) 🏆
+: [![](./images/teams/team-liquid/saberlight.png) 🇨🇿 SaberLight](https://liquipedia.net/dota2/SabeRLight-)
+: [![](./images/teams/team-liquid/boxi.png) 🇸🇪 Boxi](https://liquipedia.net/dota2/Boxi) 🏆
+: [![](./images/teams/team-liquid/insania.png) 🇸🇪 Insania](https://liquipedia.net/dota2/Insania) 🏆
 
-[![](./images/teams/paravision.png) PARAVISION](https://liquipedia.net/dota2/PARIVISION)
+[![](./images/teams/paravision/paravision.png) PARAVISION](https://liquipedia.net/dota2/PARIVISION)
 : Eastern Europe
-: 🇷🇺 [Satanic](<https://liquipedia.net/dota2/Satanic_(Russian_player)>)
-: 🇺🇦 [No[o]ne-](https://liquipedia.net/dota2/Noone)
-: 🇷🇺 [DM](https://liquipedia.net/dota2/DM)
-: 🇷🇺 [9Class](https://liquipedia.net/dota2/9Class)
-: 🇷🇺 [Dukalis](https://liquipedia.net/dota2/Dukalis)
+: [![](./images/teams/paravision/satanic.png) 🇷🇺 Satanic](<https://liquipedia.net/dota2/Satanic_(Russian_player)>)
+: [![](./images/teams/paravision/no[o]ne-.png) 🇺🇦 No[o]ne-](https://liquipedia.net/dota2/Noone)
+: [![](./images/teams/paravision/dm.png) 🇷🇺 DM](https://liquipedia.net/dota2/DM)
+: [![](./images/teams/paravision/9class.png) 🇷🇺 9Class](https://liquipedia.net/dota2/9Class)
+: [![](./images/teams/paravision/dukalis.png) 🇷🇺 Dukalis](https://liquipedia.net/dota2/Dukalis)
 
-[![](./images/teams/betboom-team.png) BetBoom Team](https://liquipedia.net/dota2/BetBoom_Team)
+[![](./images/teams/betboom-team/betboom-team.png) BetBoom Team](https://liquipedia.net/dota2/BetBoom_Team)
 : Eastern Europe
-: 🇷🇺 [Pure](<https://liquipedia.net/dota2/Pure_(Russian_player)>)
-: 🇷🇺 [gpk](https://liquipedia.net/dota2/Gpk)
-: 🇲🇩 [MieRo](https://liquipedia.net/dota2/MieRo)
-: 🇷🇺 [Save-](https://liquipedia.net/dota2/Save-)
-: 🇷🇺 [Kataomi`](https://liquipedia.net/dota2/Kataomi)
+: [![](./images/teams/betboom-team/pure.png) 🇷🇺 Pure](<https://liquipedia.net/dota2/Pure_(Russian_player)>)
+: [![](./images/teams/betboom-team/gpk.png) 🇷🇺 gpk](https://liquipedia.net/dota2/Gpk)
+: [![](./images/teams/betboom-team/miero.png) 🇲🇩 MieRo](https://liquipedia.net/dota2/MieRo)
+: [![](./images/teams/betboom-team/save-.png) 🇷🇺 Save-](https://liquipedia.net/dota2/Save-)
+: [![](./images/teams/betboom-team/kataomi`.png) 🇷🇺 Kataomi`](https://liquipedia.net/dota2/Kataomi)
 
-[![](./images/teams/team-tidebound.png) Team Tidebound](https://liquipedia.net/dota2/Team_Tidebound)
+[![](./images/teams/team-tidebound/team-tidebound.png) Team Tidebound](https://liquipedia.net/dota2/Team_Tidebound)
 : China
-: 🇨🇳 [shiro](https://liquipedia.net/dota2/Shiro)
-: 🇲🇾 [NothingToSay](https://liquipedia.net/dota2/NothingToSay)
-: 🇨🇳 [Bach](https://liquipedia.net/dota2/Faith_bian)
-: 🇨🇳 [planet](https://liquipedia.net/dota2/Planet)
-: 🇨🇳 [y`](https://liquipedia.net/dota2/Y%60)
+: [![](./images/teams/team-tidebound/shiro.png) 🇨🇳 shiro](https://liquipedia.net/dota2/Shiro)
+: [![](./images/teams/team-tidebound/nothingtosay.png) 🇲🇾 NothingToSay](https://liquipedia.net/dota2/NothingToSay)
+: [![](./images/teams/team-tidebound/bach.png) 🇨🇳 Bach](https://liquipedia.net/dota2/Faith_bian)
+: [![](./images/teams/team-tidebound/planet.png) 🇨🇳 planet](https://liquipedia.net/dota2/Planet)
+: [![](./images/teams/team-tidebound/y`.png) 🇨🇳 y`](https://liquipedia.net/dota2/Y%60)
 
-[![](./images/teams/team-spirit.png) Team Spirit](https://liquipedia.net/dota2/Team_Spirit)
+[![](./images/teams/team-spirit/team-spirit.png) Team Spirit](https://liquipedia.net/dota2/Team_Spirit)
 : Eastern Europe
-: 🇺🇦 [Yatoro](https://liquipedia.net/dota2/Yatoro) 🏆🏆
-: 🇷🇺 [Larl](https://liquipedia.net/dota2/Larl) 🏆
-: 🇷🇺 [Collapse](https://liquipedia.net/dota2/Collapse) 🏆🏆
-: 🇷🇺 [rue](https://liquipedia.net/dota2/Rue)
-: 🇷🇺 [Miposhka](https://liquipedia.net/dota2/Miposhka) 🏆🏆
+: [![](./images/teams/team-spirit/yatoro.png) 🇺🇦 Yatoro](https://liquipedia.net/dota2/Yatoro) 🏆🏆
+: [![](./images/teams/team-spirit/larl.png) 🇷🇺 Larl](https://liquipedia.net/dota2/Larl) 🏆
+: [![](./images/teams/team-spirit/collapse.png) 🇷🇺 Collapse](https://liquipedia.net/dota2/Collapse) 🏆🏆
+: [![](./images/teams/team-spirit/rue.png) 🇷🇺 rue](https://liquipedia.net/dota2/Rue)
+: [![](./images/teams/team-spirit/miposhka.png) 🇷🇺 Miposhka](https://liquipedia.net/dota2/Miposhka) 🏆🏆
 
-[![](./images/teams/team-falcons.png) Team Falcons](https://liquipedia.net/dota2/Team_Falcons)
+[![](./images/teams/team-falcons/team-falcons.png) Team Falcons](https://liquipedia.net/dota2/Team_Falcons)
 : Western Europe
-: 🇸🇰 [skiter](https://liquipedia.net/dota2/Skiter) 🏆
-: 🇷🇺 [Malr1ne](https://liquipedia.net/dota2/Malr1ne)
-: 🇯🇴 [ATF](https://liquipedia.net/dota2/ATF)
-: 🇩🇰 [Cr1t-](https://liquipedia.net/dota2/Cr1t-)
-: 🇺🇸 [Sneyking](https://liquipedia.net/dota2/Sneyking) 🏆
+: [![](./images/teams/team-falcons/skiter.png) 🇸🇰 skiter](https://liquipedia.net/dota2/Skiter) 🏆
+: [![](./images/teams/team-falcons/malr1ne.png) 🇷🇺 Malr1ne](https://liquipedia.net/dota2/Malr1ne)
+: [![](./images/teams/team-falcons/atf.png) 🇯🇴 ATF](https://liquipedia.net/dota2/ATF)
+: [![](./images/teams/team-falcons/cr1t-.png) 🇩🇰 Cr1t-](https://liquipedia.net/dota2/Cr1t-)
+: [![](./images/teams/team-falcons/sneyking.png) 🇺🇸 Sneyking](https://liquipedia.net/dota2/Sneyking) 🏆
 
-[![](./images/teams/tundra-esports.png) Tundra Esports](https://liquipedia.net/dota2/Tundra_Esports)
+[![](./images/teams/tundra-esports/tundra-esports.png) Tundra Esports](https://liquipedia.net/dota2/Tundra_Esports)
 : Western Europe
-: 🇳🇱 [Crystallis](https://liquipedia.net/dota2/Crystallis)
-: 🇧🇬 [bzm](https://liquipedia.net/dota2/Bzm)
-: 🇮🇱 [33](https://liquipedia.net/dota2/33) 🏆🏆
-: 🇲🇰 [Saksa](https://liquipedia.net/dota2/Saksa) 🏆
-: 🇦🇹 [Tobi](https://liquipedia.net/dota2/Tobi)
+: [![](./images/teams/tundra-esports/crystallis.png) 🇳🇱 Crystallis](https://liquipedia.net/dota2/Crystallis)
+: [![](./images/teams/tundra-esports/bzm.png) 🇧🇬 bzm](https://liquipedia.net/dota2/Bzm)
+: [![](./images/teams/tundra-esports/33.png) 🇮🇱 33](https://liquipedia.net/dota2/33) 🏆🏆
+: [![](./images/teams/tundra-esports/saksa.png) 🇲🇰 Saksa](https://liquipedia.net/dota2/Saksa) 🏆
+: [![](./images/teams/tundra-esports/whitemon.png) 🇦🇹 Tobi](https://liquipedia.net/dota2/Tobi)
 
-[![](./images/teams/yakutou-brothers.png) Yakutou Brothers](https://liquipedia.net/dota2/Yakult_Brothers)
+[![](./images/teams/yakutou-brothers/yakutou-brothers.png) Yakutou Brothers](https://liquipedia.net/dota2/Yakult_Brothers)
 : China
-: 🇨🇳 [flyfly](https://liquipedia.net/dota2/Flyfly)
-: 🇨🇳 [Emo](https://liquipedia.net/dota2/Emo)
-: 🇨🇳 [Beyond](https://liquipedia.net/dota2/Beyond)
-: 🇨🇳 [BoBoka](https://liquipedia.net/dota2/BoBoKa)
-: 🇲🇾 [Oli](https://liquipedia.net/dota2/Oli)
+: [![](./images/teams/yakutou-brothers/flyfly.png) 🇨🇳 flyfly](https://liquipedia.net/dota2/Flyfly)
+: [![](./images/teams/yakutou-brothers/emo.png) 🇨🇳 Emo](https://liquipedia.net/dota2/Emo)
+: [![](./images/teams/yakutou-brothers/beyond.png) 🇨🇳 Beyond](https://liquipedia.net/dota2/Beyond)
+: [![](./images/teams/yakutou-brothers/boboka.png) 🇨🇳 BoBoka](https://liquipedia.net/dota2/BoBoKa)
+: [![](./images/teams/yakutou-brothers/oli.png) 🇲🇾 Oli](https://liquipedia.net/dota2/Oli)
 
 ### Regional Qualifiers
 
-[![](./images/teams/natus-vincere.png) Natus Vincere](https://liquipedia.net/dota2/Natus_Vincere)
+[![](./images/teams/natus-vincere/natus-vincere.png) Natus Vincere](https://liquipedia.net/dota2/Natus_Vincere)
 : Western Europe
-: 🇺🇦 [gotthejuice](https://liquipedia.net/dota2/Gotthejuice)
-: 🇺🇦 [Niku](https://liquipedia.net/dota2/Niku)
-: 🇺🇦 [pma](https://liquipedia.net/dota2/Pma)
-: 🇰🇬 [Zayac](https://liquipedia.net/dota2/Zayac)
-: 🇺🇦 [Riddys](https://liquipedia.net/dota2/Riddys)
+: [![](./images/teams/natus-vincere/gotthejuice.png) 🇺🇦 gotthejuice](https://liquipedia.net/dota2/Gotthejuice)
+: [![](./images/teams/natus-vincere/niku.png) 🇺🇦 Niku](https://liquipedia.net/dota2/Niku)
+: [![](./images/teams/natus-vincere/pma.png) 🇺🇦 pma](https://liquipedia.net/dota2/Pma)
+: [![](./images/teams/natus-vincere/zayac.png) 🇰🇬 Zayac](https://liquipedia.net/dota2/Zayac)
+: [![](./images/teams/natus-vincere/riddys.png) 🇺🇦 Riddys](https://liquipedia.net/dota2/Riddys)
 
-[![](./images/teams/nigma-galaxy.png) Nigma Galaxy](https://liquipedia.net/dota2/Nigma_Galaxy)
+[![](./images/teams/nigma-galaxy/nigma-galaxy.png) Nigma Galaxy](https://liquipedia.net/dota2/Nigma_Galaxy)
 : Western Europe
-: 🇲🇾 [Ghost](<https://liquipedia.net/dota2/Ghost_(Daniel_Chan)>)
-: 🇵🇰 [Sumail](https://liquipedia.net/dota2/SumaiL) 🏆
-: 🇱🇧 [No!ob](https://liquipedia.net/dota2/No!ob)
-: 🇱🇧 [OmaR](https://liquipedia.net/dota2/OmaR)
-: 🇱🇧 [GH](https://liquipedia.net/dota2/GH)
+: [![](./images/teams/nigma-galaxy/ghost.png) 🇲🇾 Ghost](<https://liquipedia.net/dota2/Ghost_(Daniel_Chan)>)
+: [![](./images/teams/nigma-galaxy/sumail.png) 🇵🇰 Sumail](https://liquipedia.net/dota2/SumaiL) 🏆
+: [![](./images/teams/nigma-galaxy/no!ob.png) 🇱🇧 No!ob](https://liquipedia.net/dota2/No!ob)
+: [![](./images/teams/nigma-galaxy/omar.png) 🇱🇧 OmaR](https://liquipedia.net/dota2/OmaR)
+: [![](./images/teams/nigma-galaxy/gh.png) 🇱🇧 GH](https://liquipedia.net/dota2/GH)
 
-[![](./images/teams/aurora-gaming.png) Aurora Gaming](https://liquipedia.net/dota2/Aurora_Gaming)
+[![](./images/teams/aurora-gaming/aurora-gaming.png) Aurora Gaming](https://liquipedia.net/dota2/Aurora_Gaming)
 : Eastern Europe
-: 🇷🇺 [Nightfall](https://liquipedia.net/dota2/Nightfall)
-: 🇷🇺 [kiyotaka](https://liquipedia.net/dota2/Kiyotaka)
-: 🇷🇺 [TORONOTOTOKYO](https://liquipedia.net/dota2/TORONTOTOKYO) 🏆
-: 🇺🇦 [Mira](https://liquipedia.net/dota2/Mira) 🏆🏆
-: 🇧🇾 [panto](https://liquipedia.net/dota2/Panto)
+: [![](./images/teams/aurora-gaming/nightfall.png) 🇷🇺 Nightfall](https://liquipedia.net/dota2/Nightfall)
+: [![](./images/teams/aurora-gaming/kiyotaka.png) 🇷🇺 kiyotaka](https://liquipedia.net/dota2/Kiyotaka)
+: [![](./images/teams/aurora-gaming/torontotokyo.png) 🇷🇺 TORONOTOTOKYO](https://liquipedia.net/dota2/TORONTOTOKYO) 🏆
+: [![](./images/teams/aurora-gaming/mira.png) 🇺🇦 Mira](https://liquipedia.net/dota2/Mira) 🏆🏆
+: [![](./images/teams/aurora-gaming/panto.png) 🇧🇾 panto](https://liquipedia.net/dota2/Panto)
 
-[![](./images/teams/xtreme-gaming.png) Xtreme Gaming](https://liquipedia.net/dota2/Xtreme_Gaming)
+[![](./images/teams/xtreme-gaming/xtreme-gaming.png) Xtreme Gaming](https://liquipedia.net/dota2/Xtreme_Gaming)
 : China
-: 🇨🇳 [Ame](https://liquipedia.net/dota2/Ame)
-: 🇨🇳 [Xm](https://liquipedia.net/dota2/Xm)
-: 🇨🇳 [Xs](https://liquipedia.net/dota2/Xxs)
-: 🇨🇳 [XinQ](https://liquipedia.net/dota2/XinQ)
-: 🇲🇾 [xNova](https://liquipedia.net/dota2/XNova)
+: [![](./images/teams/xtreme-gaming/ame.png) 🇨🇳 Ame](https://liquipedia.net/dota2/Ame)
+: [![](./images/teams/xtreme-gaming/xm.png) 🇨🇳 Xm](https://liquipedia.net/dota2/Xm)
+: [![](./images/teams/xtreme-gaming/xxs.png) 🇨🇳 Xxs](https://liquipedia.net/dota2/Xxs)
+: [![](./images/teams/xtreme-gaming/xinq.png) 🇨🇳 XinQ](https://liquipedia.net/dota2/XinQ)
+: [![](./images/teams/xtreme-gaming/xnova.png) 🇲🇾 xNova](https://liquipedia.net/dota2/XNova)
 
-[![](./images/teams/team-nemesis.png) Team Nemesis](https://liquipedia.net/dota2/Team_Nemesis)
+[![](./images/teams/team-nemesis/team-nemesis.png) Team Nemesis](https://liquipedia.net/dota2/Team_Nemesis)
 : Southeast Asia
-: 🇵🇭 [Akashi](https://liquipedia.net/dota2/Akashi)
-: 🇵🇭 [Mac](https://liquipedia.net/dota2/Mac)
-: 🇵🇭 [Raven](https://liquipedia.net/dota2/Raven)
-: 🇵🇭 [Jing](https://liquipedia.net/dota2/Jing)
-: 🇵🇭 [Erice](https://liquipedia.net/dota2/Erice)
+: [![](./images/teams/team-nemesis/akashi.png) 🇵🇭 Akashi](https://liquipedia.net/dota2/Akashi)
+: [![](./images/teams/team-nemesis/mac.png) 🇵🇭 Mac](https://liquipedia.net/dota2/Mac)
+: [![](./images/teams/team-nemesis/raven.png) 🇵🇭 Raven](https://liquipedia.net/dota2/Raven)
+: [![](./images/teams/team-nemesis/jing.png) 🇵🇭 Jing](https://liquipedia.net/dota2/Jing)
+: [![](./images/teams/team-nemesis/erice.png) 🇵🇭 Erice](https://liquipedia.net/dota2/Erice)
 
-[![](./images/teams/boom-esports.png) BOOM Esports](https://liquipedia.net/dota2/BOOM_Esports)
+[![](./images/teams/boom-esports/boom-esports.png) BOOM Esports](https://liquipedia.net/dota2/BOOM_Esports)
 : Southeast Asia
-: 🇱🇦 [jaCkky](https://liquipedia.net/dota2/JaCkky)
-: 🇵🇭 [Armel](https://liquipedia.net/dota2/Armel)
-: 🇹🇭 [Jabz](https://liquipedia.net/dota2/Jabz)
-: 🇵🇭 [TIMS](https://liquipedia.net/dota2/TIMS)
-: 🇵🇭 [Jaunuel](https://liquipedia.net/dota2/Jaunuel)
+: [![](./images/teams/boom-esports/jackky.png) 🇱🇦 jaCkky](https://liquipedia.net/dota2/JaCkky)
+: [![](./images/teams/boom-esports/armel.png) 🇵🇭 Armel](https://liquipedia.net/dota2/Armel)
+: [![](./images/teams/boom-esports/jabz.png) 🇹🇭 Jabz](https://liquipedia.net/dota2/Jabz)
+: [![](./images/teams/boom-esports/tims.png) 🇵🇭 TIMS](https://liquipedia.net/dota2/TIMS)
+: [![](./images/teams/boom-esports/jaunuel.png) 🇵🇭 Jaunuel](https://liquipedia.net/dota2/Jaunuel)
 
-[![](./images/teams/wildcard.png) Wildcard](https://liquipedia.net/dota2/Wildcard)
+[![](./images/teams/wildcard/wildcard.png) Wildcard](https://liquipedia.net/dota2/Wildcard)
 : North America
-: 🇺🇸 [Yamsun](https://liquipedia.net/dota2/Yamsun)
-: 🇺🇸 [RCY](https://liquipedia.net/dota2/RCY)
-: 🇺🇸 [Fayde](https://liquipedia.net/dota2/Fayde)
-: 🇺🇦 [Bignum](https://liquipedia.net/dota2/Bignum)
-: 🇺🇸 [Speeed](https://liquipedia.net/dota2/Speeed)
+: [![](./images/teams/wildcard/yamsun.png) 🇺🇸 Yamsun](https://liquipedia.net/dota2/Yamsun)
+: [![](./images/teams/wildcard/rcy.png) 🇺🇸 RCY](https://liquipedia.net/dota2/RCY)
+: [![](./images/teams/wildcard/fayde.png) 🇺🇸 Fayde](https://liquipedia.net/dota2/Fayde)
+: [![](./images/teams/wildcard/bignum.png) 🇺🇦 Bignum](https://liquipedia.net/dota2/Bignum)
+: [![](./images/teams/wildcard/speeed.png) 🇺🇸 Speeed](https://liquipedia.net/dota2/Speeed)
 
-[![](./images/teams/heroic.png) HEROIC](https://liquipedia.net/dota2/HEROIC)
+[![](./images/teams/heroic/heroic.png) HEROIC](https://liquipedia.net/dota2/HEROIC)
 : South America
-: 🇳🇮 [Yuma](https://liquipedia.net/dota2/Yuma)
-: 🇧🇷 [4nalog](https://liquipedia.net/dota2/4nalog)
-: 🇧🇴 [Wisper](https://liquipedia.net/dota2/Wisper)
-: 🇵🇪 [Scofield](https://liquipedia.net/dota2/Scofield)
-: 🇧🇷 [KJ](https://liquipedia.net/dota2/KJ)
+: [![](./images/teams/heroic/yuma.png) 🇳🇮 Yuma](https://liquipedia.net/dota2/Yuma)
+: [![](./images/teams/heroic/4nalog.png) 🇧🇷 4nalog](https://liquipedia.net/dota2/4nalog)
+: [![](./images/teams/heroic/wisper.png) 🇧🇴 Wisper](https://liquipedia.net/dota2/Wisper)
+: [![](./images/teams/heroic/scofield.png) 🇵🇪 Scofield](https://liquipedia.net/dota2/Scofield)
+: [![](./images/teams/heroic/kj.png) 🇧🇷 KJ](https://liquipedia.net/dota2/KJ)
 
 ---
 
