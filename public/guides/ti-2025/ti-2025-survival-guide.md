@@ -1676,443 +1676,745 @@ Opening Hours
 
 ### English
 
-[![](./images/talent/english/siractionslacks.png) SirActionSlacks](https://liquipedia.net/dota2/SirActionSlacks)
-: 🇺🇸 Jake Kanner
-: Host
+- [![](./images/talent/english/siractionslacks.png) SirActionSlacks](https://liquipedia.net/dota2/SirActionSlacks)
 
-[![](./images/talent/english/lizzard.png) lizZard](https://liquipedia.net/dota2/LizZard)
-: 🇧🇦 Admir Salkanović
-: Analyst, Caster
+  🇺🇸 Jake Kanner
 
-[![](./images/talent/english/odpixel.png) ODPixel](https://liquipedia.net/dota2/ODPixel)
-: 🇬🇧 Owen Davies
-: Caster
+  Host
 
-[![](./images/talent/english/bkop.png) Bkop](https://liquipedia.net/dota2/Bkop)
-: 🇺🇸 Benjamin Kopilow
-: Caster
+- [![](./images/talent/english/lizzard.png) lizZard](https://liquipedia.net/dota2/LizZard)
 
-[![](./images/talent/english/misery.png) Misery](https://liquipedia.net/dota2/MISERY)
-: 🇩🇰 Rasmus Berth Filipsen
-: Analyst
+  🇧🇦 Admir Salkanović
 
-[![](./images/talent/english/trent.png) trent](https://liquipedia.net/dota2/Trent)
-: 🇨🇦 Trent MacKenzie
-: Caster
+  Analyst, Caster
 
-[![](./images/talent/english/cap.png) Cap](https://liquipedia.net/dota2/Cap)
-: 🇺🇸 Austin Walsh
-: Caster
+- [![](./images/talent/english/odpixel.png) ODPixel](https://liquipedia.net/dota2/ODPixel)
 
-[![](./images/talent/english/seeknstrike.png) SeekNStrike](https://liquipedia.net/dota2/SeekNStrike)
-: 🇺🇸 Richie Garcia
-: Caster
+  🇬🇧 Owen Davies
 
-[![](./images/talent/english/ephey.png) Ephey](https://liquipedia.net/dota2/Ephey)
-: 🇯🇴 Mira Riad (ميرا رياض)
-: Analyst
+  Caster
 
-[![](./images/talent/english/nomad.png) Nomad](https://liquipedia.net/dota2/Nomad)
-: 🇬🇧 Jared Bajina
-: Caster
+- [![](./images/talent/english/bkop.png) Bkop](https://liquipedia.net/dota2/Bkop)
 
-[![](./images/talent/english/svg.png) SVG](https://liquipedia.net/dota2/SVG)
-: 🇺🇸 Avery Silverman
-: Caster
+  🇺🇸 Benjamin Kopilow
 
-[![](./images/talent/english/reya.png) Reya](https://liquipedia.net/dota2/Sheepsticked)
-: 🇬🇧 Alexandra Roberts
-: Analyst
+  Caster
 
-[![](./images/talent/english/winter.png) WinteR](https://liquipedia.net/dota2/WinteR)
-: 🇲🇾 Chan Litt Binn
-: Caster
+- [![](./images/talent/english/misery.png) Misery](https://liquipedia.net/dota2/MISERY)
 
-[![](./images/talent/english/zquixotix.png) ZQuixotix](https://liquipedia.net/dota2/ZQuixotix)
-: 🇺🇸 Zachary Ang
-: Caster
+  🇩🇰 Rasmus Berth Filipsen
 
-[![](./images/talent/english/lyrical.png) Lyrical](https://liquipedia.net/dota2/Lyrical)
-: 🇺🇸 Gabriel Thomas Cruz
-: Caster
+  Analyst
 
-[![](./images/talent/english/gareth.png) Gareth](https://liquipedia.net/dota2/Gareth)
-: 🇬🇧 Gareth Bateson
-: Caster
+- [![](./images/talent/english/trent.png) trent](https://liquipedia.net/dota2/Trent)
 
-[![](./images/talent/english/tsunami.png) tsunami](https://liquipedia.net/dota2/Tsunami)
-: 🇺🇸 Neal Khandheria
-: Host, Analyst
+  🇨🇦 Trent MacKenzie
 
-[![](./images/talent/english/teaguvnor.png) TeaGuvnor](https://liquipedia.net/dota2/TeaGuvnor)
-: 🇬🇧 Robson Merritt
-: Caster, Analyst
+  Caster
 
-[![](./images/talent/english/stormstormer.png) Stormstormer](https://liquipedia.net/dota2/Stormstormer)
-: 🇩🇪 Daniel Schoetzau
-: Analyst
+- [![](./images/talent/english/cap.png) Cap](https://liquipedia.net/dota2/Cap)
 
-[![](./images/talent/english/fly.png) Fly](https://liquipedia.net/dota2/Fly)
-: 🇮🇱 Tal Aizik (טל אייזיק)
-: Analyst
+  🇺🇸 Austin Walsh
 
-[![](./images/talent/english/synderen.png) syndereN](https://liquipedia.net/dota2/SyndereN)
-: 🇩🇰 Troels Lyngholt Nielsen
-: Caster
+  Caster
 
-[![](./images/talent/english/lacoste.png) Lacoste](https://liquipedia.net/dota2/Lacoste)
-: 🇭🇷 Dominik Stipić
-: Analyst
+- [![](./images/talent/english/seeknstrike.png) SeekNStrike](https://liquipedia.net/dota2/SeekNStrike)
 
-[![](./images/talent/english/purge.png) Purge](<https://liquipedia.net/dota2/Purge_(Kevin_Godec)>)
-: 🇺🇸 Kevin Godec
-: Caster, Analyst
+  🇺🇸 Richie Garcia
 
-[![](./images/talent/english/sheever.png) Sheever](https://liquipedia.net/dota2/Sheever)
-: 🇳🇱 Jorien van der Heijden
-: Host
+  Caster
 
-[![](./images/talent/english/khezu.png) KheZu](https://liquipedia.net/dota2/KheZu)
-: 🇩🇪 Maurice Gutmann
-: Analyst
+- [![](./images/talent/english/ephey.png) Ephey](https://liquipedia.net/dota2/Ephey)
 
-[![](./images/talent/english/wagamama.png) Wagamama](https://liquipedia.net/dota2/Wagamama)
-: 🇸🇪 Niklas Högström
-: Caster
+  🇯🇴 Mira Riad
 
-[![](./images/talent/english/f-dog.png) F-Dog](https://liquipedia.net/dota2/Fogged)
-: 🇺🇸 Ioannis Loucas
-: Caster, Analyst
+  ميرا رياض
 
-[![](./images/talent/english/pyrion-flax.png) Pyrion Flax](https://liquipedia.net/dota2/PyrionFlax)
-: 🇬🇧 Ted Forsyth
-: Caster, Analyst
+  Analyst
 
-[![](./images/talent/english/sunsfan.png) SUNSfan](https://liquipedia.net/dota2/SUNSfan)
-: 🇺🇸 Shannon Scotten
-: Caster
+- [![](./images/talent/english/nomad.png) Nomad](https://liquipedia.net/dota2/Nomad)
 
-[![](./images/talent/english/gunnar.png) Gunnar](https://liquipedia.net/dota2/Gunnar)
-: 🇺🇸 Nicolas Lopez
-: Analyst
+  🇬🇧 Jared Bajina
 
-[![](./images/talent/english/johnxfire.png) johnxfire](https://liquipedia.net/dota2/Johnxfire)
-: 🇵🇭 John Nathan Fernandez
-: Caster
+  Caster
 
-[![](./images/talent/english/mlpdota.png) MLPDotA](https://liquipedia.net/dota2/MLPDotA)
-: 🇦🇺 Mike Le Phoenix
-: Caster
+- [![](./images/talent/english/svg.png) SVG](https://liquipedia.net/dota2/SVG)
 
-[![](./images/talent/english/fear.png) Fear](<https://liquipedia.net/dota2/Fear_(Clinton_Loomis)>)
-: 🇺🇸 Clinton Loomis
-: Analyst
+  🇺🇸 Avery Silverman
 
-[![](./images/talent/english/nattea.png) NatTea](https://liquipedia.net/dota2/NatTea)
-: 🇦🇺 Natalie Mahoney
-: Host
+  Caster
 
-[![](./images/talent/english/jenkins.png) Jenkins](https://liquipedia.net/dota2/Jenkins)
-: 🇨🇦 Andrew Jenkins
-: Analyst
+- [![](./images/talent/english/reya.png) Reya](https://liquipedia.net/dota2/Sheepsticked)
+
+  🇬🇧 Alexandra Roberts
+
+  Analyst
+
+- [![](./images/talent/english/winter.png) WinteR](https://liquipedia.net/dota2/WinteR)
+
+  🇲🇾 Chan Litt Binn
+
+  Caster
+
+- [![](./images/talent/english/zquixotix.png) ZQuixotix](https://liquipedia.net/dota2/ZQuixotix)
+
+  🇺🇸 Zachary Ang
+
+  Caster
+
+- [![](./images/talent/english/lyrical.png) Lyrical](https://liquipedia.net/dota2/Lyrical)
+
+  🇺🇸 Gabriel Thomas Cruz
+
+  Caster
+
+- [![](./images/talent/english/gareth.png) Gareth](https://liquipedia.net/dota2/Gareth)
+
+  🇬🇧 Gareth Bateson
+
+  Caster
+
+- [![](./images/talent/english/tsunami.png) tsunami](https://liquipedia.net/dota2/Tsunami)
+
+  🇺🇸 Neal Khandheria
+
+  Host, Analyst
+
+- [![](./images/talent/english/teaguvnor.png) TeaGuvnor](https://liquipedia.net/dota2/TeaGuvnor)
+
+  🇬🇧 Robson Merritt
+
+  Caster, Analyst
+
+- [![](./images/talent/english/stormstormer.png) Stormstormer](https://liquipedia.net/dota2/Stormstormer)
+
+  🇩🇪 Daniel Schoetzau
+
+  Analyst
+
+- [![](./images/talent/english/fly.png) Fly](https://liquipedia.net/dota2/Fly)
+
+  🇮🇱 Tal Aizik
+
+  טל אייזיק
+
+  Analyst
+
+- [![](./images/talent/english/synderen.png) syndereN](https://liquipedia.net/dota2/SyndereN)
+
+  🇩🇰 Troels Lyngholt Nielsen
+
+  Caster
+
+- [![](./images/talent/english/lacoste.png) Lacoste](https://liquipedia.net/dota2/Lacoste)
+
+  🇭🇷 Dominik Stipić
+
+  Analyst
+
+- [![](./images/talent/english/purge.png) Purge](<https://liquipedia.net/dota2/Purge_(Kevin_Godec)>)
+
+  🇺🇸 Kevin Godec
+
+  Caster, Analyst
+
+- [![](./images/talent/english/sheever.png) Sheever](https://liquipedia.net/dota2/Sheever)
+
+  🇳🇱 Jorien van der Heijden
+
+  Host
+
+- [![](./images/talent/english/khezu.png) KheZu](https://liquipedia.net/dota2/KheZu)
+
+  🇩🇪 Maurice Gutmann
+
+  Analyst
+
+- [![](./images/talent/english/wagamama.png) Wagamama](https://liquipedia.net/dota2/Wagamama)
+
+  🇸🇪 Niklas Högström
+
+  Caster
+
+- [![](./images/talent/english/f-dog.png) F-Dog](https://liquipedia.net/dota2/Fogged)
+
+  🇺🇸 Ioannis Loucas
+
+  Caster, Analyst
+
+- [![](./images/talent/english/pyrion-flax.png) Pyrion Flax](https://liquipedia.net/dota2/PyrionFlax)
+
+  🇬🇧 Ted Forsyth
+
+  Caster, Analyst
+
+- [![](./images/talent/english/sunsfan.png) SUNSfan](https://liquipedia.net/dota2/SUNSfan)
+
+  🇺🇸 Shannon Scotten
+
+  Caster
+
+- [![](./images/talent/english/gunnar.png) Gunnar](https://liquipedia.net/dota2/Gunnar)
+
+  🇺🇸 Nicolas Lopez
+
+  Analyst
+
+- [![](./images/talent/english/johnxfire.png) johnxfire](https://liquipedia.net/dota2/Johnxfire)
+
+  🇵🇭 John Nathan Fernandez
+
+  Caster
+
+- [![](./images/talent/english/mlpdota.png) MLPDotA](https://liquipedia.net/dota2/MLPDotA)
+
+  🇦🇺 Mike Le Phoenix
+
+  Caster
+
+- [![](./images/talent/english/fear.png) Fear](<https://liquipedia.net/dota2/Fear_(Clinton_Loomis)>)
+
+  🇺🇸 Clinton Loomis
+
+  Analyst
+
+- [![](./images/talent/english/nattea.png) NatTea](https://liquipedia.net/dota2/NatTea)
+
+  🇦🇺 Natalie Mahoney
+
+  Host
+
+- [![](./images/talent/english/jenkins.png) Jenkins](https://liquipedia.net/dota2/Jenkins)
+
+  🇨🇦 Andrew Jenkins
+
+  Analyst
 
 ### Russian
 
-[![](./images/talent/russian/cloud-fox.png) Cloud Fox](https://liquipedia.net/dota2/Cloud_Fox)
-: 🇷🇺 Victor Kulichevskiy (Виктор Куличевский)
-: Caster, Analyst
+- [![](./images/talent/russian/cloud-fox.png) Cloud Fox](https://liquipedia.net/dota2/Cloud_Fox)
 
-[![](./images/talent//russian/zais.png) Zais](https://liquipedia.net/dota2/Zais)
-: 🇷🇺 Nikita Zakharov (Никита Захаров)
-: Caster
+  🇷🇺 Victor Kulichevskiy
 
-[![](./images/talent/russian/kinda_high.png) kinda_high](https://liquipedia.net/dota2/kinda_high)
-: 🇷🇺 Arkadii Krylov (Аркадий Крылов)
-: Caster
+  Виктор Куличевский
 
-[![](./images/talent/russian/flutterravie.png) flutterravie](https://liquipedia.net/dota2/flutterravie)
-: 🇷🇺 Tosha Bersenev (Антон Берсенёв)
-: Caster
+  Caster, Analyst
 
-[![](./images/talent/russian/4ce.png) 4ce](https://liquipedia.net/dota2/4ce)
-: 🇷🇺 Nikita Kotkov (Никита Котков)
-: Caster
+- [![](./images/talent//russian/zais.png) Zais](https://liquipedia.net/dota2/Zais)
 
-[![](./images/talent/russian/mantis.png) Mantis](https://liquipedia.net/dota2/Mantis)
-: 🇰🇿 Yernar Urazbayev (Ернар Уразбаев)
-: Caster
+  🇷🇺 Nikita Zakharov
 
-[![](./images/talent/russian/santa.png) Santa](https://liquipedia.net/dota2/Santa)
-: 🇷🇺 Alexander Koltan (Александр Колтан)
-: Caster
+  Никита Захаров
 
-[![](./images/talent/russian/vasilisa.png) Vasilisa](https://liquipedia.net/dota2/Vasilisa)
-: 🇷🇺 Vasilisa Chernova (Василиса Чернова)
-: Host
+  Caster
 
-[![](./images/talent/russian/inmate.png) Inmate](https://liquipedia.net/dota2/Inmate)
-: 🇷🇺 Dmitry Filinov (Дмитрий Филинов)
-: Caster, Analyst
+- [![](./images/talent/russian/kinda_high.png) kinda_high](https://liquipedia.net/dota2/kinda_high)
 
-[![](./images/talent/russian/jam.png) JAM](https://liquipedia.net/dota2/JAM)
-: 🇷🇺 Alexander Korotkov (Александр Коротков)
-: Caster
+  🇷🇺 Arkadii Krylov
 
-[![](./images/talent/russian/grayne.png) Grayne](https://liquipedia.net/dota2/Grayne)
-: 🇷🇺 Anton Afanasenko
-: Caster
+  Аркадий Крылов
 
-[![](./images/talent/russian/kawaiisocks.png) KawaiiSocks](https://liquipedia.net/dota2/KawaiiSocks)
-: 🇰🇿 Temirlan Tattybekov (Temirlan Tattybekov)
-: Caster
+  Caster
 
-[![](./images/talent/russian/maelstorm.png) Maelstorm](https://liquipedia.net/dota2/Maelstorm)
-: 🇷🇺 Vladimir Kuzminov (Владимир Кузьминов)
-: Caster
+- [![](./images/talent/russian/flutterravie.png) flutterravie](https://liquipedia.net/dota2/flutterravie)
 
-[![](./images/talent/russian/blackarxangel.png) BLACKARXANGEL](https://liquipedia.net/dota2/BLACKARXANGEL)
-: 🇰🇿 Vladislav Ivachshenko (Владислав Иващенко)
-: Analyst
+  🇷🇺 Tosha Bersenev
 
-[![](./images/talent/russian/starboy.png) STARBOY](https://liquipedia.net/dota2/STARBOY)
-: 🇷🇺 Maxim Fomin (Максим Фомин)
-: Caster
+  Антон Берсенёв
 
-[![](./images/talent/russian/arszeeqq.png) ArsZeeqq](https://liquipedia.net/dota2/ArsZeeqq)
-: 🇷🇺 Arsenii Usov (Арсений Усов)
-: Analyst
+  Caster
 
-[![](./images/talent/russian/eiritel.png) Eiritel](https://liquipedia.net/dota2/Eiritel)
-: 🇷🇺 Dariya Morozova (Дария Морозова)
-: Caster, Analyst
+- [![](./images/talent/russian/4ce.png) 4ce](https://liquipedia.net/dota2/4ce)
 
-[![](./images/talent/russian/adekvat.png) Adekvat](https://liquipedia.net/dota2/Adekvat)
-: 🇷🇺 Rustam Mavliutov (Рустам Мавлютов)
-: Caster
+  🇷🇺 Nikita Kotkov
 
-[![](./images/talent/russian/smile.png) Smile](https://liquipedia.net/dota2/ARS-ART)
-: 🇷🇺 Sergey Revin (Сергей Антонович)
-: Caster, Analyst
+  Никита Котков
 
-[![](./images/talent/russian/lex.png) Lex](https://liquipedia.net/dota2/Lex)
-: 🇧🇾 Alexey Filippov (Алексей Филиппов)
-: Caster
+  Caster
 
-[![](./images/talent/russian/vanskor.png) Vanskor](https://liquipedia.net/dota2/VANSKOR)
-: 🇷🇺 Ivan Skorokhod (Иван Скороход)
-: Analyst
+- [![](./images/talent/russian/mantis.png) Mantis](https://liquipedia.net/dota2/Mantis)
 
-[![](./images/talent/russian/y0nd.png) y0nd](https://liquipedia.net/dota2/Y0nd)
-: 🇷🇺 Gleb Vazhnov (Глеб Важнов)
-: Analyst
+  🇰🇿 Yernar Urazbayev
 
-[![](./images/talent/russian/mortalles.png) Mortalles](https://liquipedia.net/dota2/Mortalles)
-: 🇷🇺 Dmitry Arzhylovsky (Дмитрий Аржиловский)
-: Caster
+  Ернар Уразбаев
 
-[![](./images/talent/russian/fishman.png) Fishman](https://liquipedia.net/dota2/Fishman)
-: 🇧🇾 Dzmitry Palishchuk (Дзмітрый Палішчук)
-: Analyst
+  Caster
 
-[![](./images/talent/russian/autodestruction.png) Autodestruction](https://liquipedia.net/dota2/Autodestruction)
-: 🇷🇺 Daria Medvedeva (Дарья Медведева)
-: Caster
+- [![](./images/talent/russian/santa.png) Santa](https://liquipedia.net/dota2/Santa)
 
-[![](./images/talent/russian/crystalmay.png) CrystalMay](https://liquipedia.net/dota2/CrystalMay)
-: 🇷🇺 Dmitry Korchevinin (Дмитрий Корчевинин)
-: Caster, Analyst
+  🇷🇺 Alexander Koltan
+
+  Александр Колтан
+
+  Caster
+
+- [![](./images/talent/russian/vasilisa.png) Vasilisa](https://liquipedia.net/dota2/Vasilisa)
+
+  🇷🇺 Vasilisa Chernova
+
+  Василиса Чернова
+
+  Host
+
+- [![](./images/talent/russian/inmate.png) Inmate](https://liquipedia.net/dota2/Inmate)
+
+  🇷🇺 Dmitry Filinov
+
+  Дмитрий Филинов
+
+  Caster, Analyst
+
+- [![](./images/talent/russian/jam.png) JAM](https://liquipedia.net/dota2/JAM)
+
+  🇷🇺 Alexander Korotkov
+
+  Александр Коротков
+
+  Caster
+
+- [![](./images/talent/russian/grayne.png) Grayne](https://liquipedia.net/dota2/Grayne)
+
+  🇷🇺 Anton Afanasenko
+
+  Caster
+
+- [![](./images/talent/russian/kawaiisocks.png) KawaiiSocks](https://liquipedia.net/dota2/KawaiiSocks)
+
+  🇰🇿 Temirlan Tattybekov
+
+  Caster
+
+- [![](./images/talent/russian/maelstorm.png) Maelstorm](https://liquipedia.net/dota2/Maelstorm)
+
+  🇷🇺 Vladimir Kuzminov
+
+  Владимир Кузьминов
+
+  Caster
+
+- [![](./images/talent/russian/blackarxangel.png) BLACKARXANGEL](https://liquipedia.net/dota2/BLACKARXANGEL)
+
+  🇰🇿 Vladislav Ivachshenko
+
+  Владислав Иващенко
+
+  Analyst
+
+- [![](./images/talent/russian/starboy.png) STARBOY](https://liquipedia.net/dota2/STARBOY)
+
+  🇷🇺 Maxim Fomin
+
+  Максим Фомин
+
+  Caster
+
+- [![](./images/talent/russian/arszeeqq.png) ArsZeeqq](https://liquipedia.net/dota2/ArsZeeqq)
+
+  🇷🇺 Arsenii Usov
+
+  Арсений Усов
+
+  Analyst
+
+- [![](./images/talent/russian/eiritel.png) Eiritel](https://liquipedia.net/dota2/Eiritel)
+
+  🇷🇺 Dariya Morozova
+
+  Дария Морозова
+
+  Caster, Analyst
+
+- [![](./images/talent/russian/adekvat.png) Adekvat](https://liquipedia.net/dota2/Adekvat)
+
+  🇷🇺 Rustam Mavliutov
+
+  Рустам Мавлютов
+
+  Caster
+
+- [![](./images/talent/russian/smile.png) Smile](https://liquipedia.net/dota2/ARS-ART)
+
+  🇷🇺 Sergey Revin
+
+  Сергей Антонович
+
+  Caster, Analyst
+
+- [![](./images/talent/russian/lex.png) Lex](https://liquipedia.net/dota2/Lex)
+
+  🇧🇾 Alexey Filippov
+
+  Алексей Филиппов
+
+  Caster
+
+- [![](./images/talent/russian/vanskor.png) Vanskor](https://liquipedia.net/dota2/VANSKOR)
+
+  🇷🇺 Ivan Skorokhod
+
+  Иван Скороход
+
+  Analyst
+
+- [![](./images/talent/russian/y0nd.png) y0nd](https://liquipedia.net/dota2/Y0nd)
+
+  🇷🇺 Gleb Vazhnov
+
+  Глеб Важнов
+
+  Analyst
+
+- [![](./images/talent/russian/mortalles.png) Mortalles](https://liquipedia.net/dota2/Mortalles)
+
+  🇷🇺 Dmitry Arzhylovsky
+
+  Дмитрий Аржиловский
+
+  Caster
+
+- [![](./images/talent/russian/fishman.png) Fishman](https://liquipedia.net/dota2/Fishman)
+
+  🇧🇾 Dzmitry Palishchuk
+
+  Дзмітрый Палішчук
+
+  Analyst
+
+- [![](./images/talent/russian/autodestruction.png) Autodestruction](https://liquipedia.net/dota2/Autodestruction)
+
+  🇷🇺 Daria Medvedeva
+
+  Дарья Медведева
+
+  Caster
+
+- [![](./images/talent/russian/crystalmay.png) CrystalMay](https://liquipedia.net/dota2/CrystalMay)
+
+  🇷🇺 Dmitry Korchevinin
+
+  Дмитрий Корчевинин
+
+  Caster, Analyst
 
 ### Chinese
 
-[![](./images/talent/chinese/ams.png) Ams](https://liquipedia.net/dota2/Ams)
-: 🇨🇳 Chen Juan (陈娟)
-: Analyst
+- [![](./images/talent/chinese/ams.png) Ams](https://liquipedia.net/dota2/Ams)
 
-[![](./images/talent/chinese/wind.png) Wind](https://liquipedia.net/dota2/Wind)
-: 🇨🇳 Wang Zhibo
-: Caster
+  🇨🇳 Chen Juan
 
-[![](./images/talent/chinese/cc.png) 璨璨cc](https://liquipedia.net/dota2/%E7%92%A8%E7%92%A8cc)
-: 🇨🇳 Shi Cancan (时璨璨)
-: Caster, Analyst
+  陈娟
 
-[![](./images/talent/chinese/super.png) super](<https://liquipedia.net/dota2/Super_(Su_Peng)>)
-: 🇨🇳 Su Peng (苏鹏)
-: Analyst
+  Analyst
 
-[![](./images/talent/chinese/tokki.png) Tokki](https://liquipedia.net/dota2/XiiTuzi)
-: 🇺🇸 Helen Xu
-: Interviewer / Interpreter
+- [![](./images/talent/chinese/wind.png) Wind](https://liquipedia.net/dota2/Wind)
 
-[![](./images/talent/chinese/monet.png) Monet](https://liquipedia.net/dota2/Monet)
-: 🇨🇳 Du Peng (杜鹏)
-: Analyst
+  🇨🇳 Wang Zhibo
 
-[![](./images/talent/chinese/lanm.png) LaNm](https://liquipedia.net/dota2/LaNm)
-: 🇨🇳 Zhang Zhicheng (张志成)
-: Analyst
+  Caster
 
-[![](./images/talent/chinese/jin.png) Jin](https://liquipedia.net/dota2/Jin)
-: 🇨🇳 Jin Ru
-: Interviewer / Interpreter
+- [![](./images/talent/chinese/cc.png) 璨璨cc](https://liquipedia.net/dota2/%E7%92%A8%E7%92%A8cc)
 
-[![](./images//talent//chinese/yao.png) Yao](https://liquipedia.net/dota2/Yao)
-: 🇨🇳 Yao Zhengzheng (姚铮铮)
-: Analyst
+  🇨🇳 Shi Cancan
 
-[![](./images/talent/chinese/sccc`.png) Sccc`](https://liquipedia.net/dota2/Sccc)
-: 🇨🇳 Song Chun (宋淳)
-: Caster, Analyst
+  时璨璨
 
-[![](./images/talent/chinese/yuno.png) Yuno](https://liquipedia.net/dota2/Yuno)
-: 🇨🇳 Wang Jing (王静)
-: Caster, Analyst
+  Caster, Analyst
 
-[![](./images/talent/chinese/ero.png) Ero](https://liquipedia.net/dota2/Ero)
-: 🇨🇳 Li Yao (李垚)
-: Caster
+- [![](./images/talent/chinese/super.png) super](<https://liquipedia.net/dota2/Super_(Su_Peng)>)
 
-[![](./images/talent/chinese/dy.png) Dy](https://liquipedia.net/dota2/Dy)
-: 🇨🇳 Ding Cong (丁聪)
-: Analyst
+  🇨🇳 Su Peng
 
-[![](./images/talent/chinese/wang-yue.png) 朔月](https://liquipedia.net/dota2/%E6%9C%94%E6%9C%88)
-: 🇨🇳 Wang Yue
-: Caster
+  苏鹏
 
-[![](./images/talent/chinese/freeagain.png) FreeAgain](https://liquipedia.net/dota2/FreeAgain)
-: 🇨🇳 Hao Peng (郝鹏)
-: Caster
+  Analyst
 
-[![](./images/talent/chinese/ori.png) Ori](https://liquipedia.net/dota2/Ori)
-: 🇨🇳 Zeng Jiaoyang (曾焦阳)
-: Analyst
+- [![](./images/talent/chinese/tokki.png) Tokki](https://liquipedia.net/dota2/XiiTuzi)
 
-![](./images/talent/chinese/yun.png) Yun
-: 🇨🇳
-: Caster
+  🇺🇸 Helen Xu
 
-[![](./images/talent/chinese/lavenderaa.png) LavenderAA](<https://liquipedia.net/dota2/AA_(Li_Qiming)>)
-: 🇨🇳 Li Qiming (李启明)
-: Caster
+  Interviewer / Interpreter
 
-[![](./images/talent/chinese/mashall.png) Mashall](https://liquipedia.net/dota2/Mashall)
-: 🇨🇳 Ma Shaowei (马少韦)
-: Caster
+- [![](./images/talent/chinese/monet.png) Monet](https://liquipedia.net/dota2/Monet)
 
-[![](./images/talent/chinese/mad-.png) Mad](https://liquipedia.net/dota2/Mad)
-: 🇨🇳 Cheng Han (程瀚)
-: Caster
+  🇨🇳 Du Peng
 
-[![](./images/talent/chinese/m4.png) M4](https://liquipedia.net/dota2/M4)
-: 🇨🇳 Sun Yabin (孙亚斌)
-: Caster
+  杜鹏
 
-[![](./images/talent/chinese/luna.png) Luna](<https://liquipedia.net/dota2/Luna_(Wang_Miqi)>)
-: 🇨🇳 Wang Miqi
-: Caster
+  Analyst
 
-[![](./images/talent/chinese/bbc.png) BBC](https://liquipedia.net/dota2/BBC)
-: 🇨🇳 Zhang Hongsheng (张宏圣)
-: Host
+- [![](./images/talent/chinese/lanm.png) LaNm](https://liquipedia.net/dota2/LaNm)
+
+  🇨🇳 Zhang Zhicheng
+
+  张志成
+
+  Analyst
+
+- [![](./images/talent/chinese/jin.png) Jin](https://liquipedia.net/dota2/Jin)
+
+  🇨🇳 Jin Ru
+
+  Interviewer / Interpreter
+
+- [![](./images//talent//chinese/yao.png) Yao](https://liquipedia.net/dota2/Yao)
+
+  🇨🇳 Yao Zhengzheng
+
+  姚铮铮
+
+  Analyst
+
+- [![](./images/talent/chinese/sccc`.png) Sccc`](https://liquipedia.net/dota2/Sccc)
+
+  🇨🇳 Song Chun
+
+  宋淳
+
+  Caster, Analyst
+
+- [![](./images/talent/chinese/yuno.png) Yuno](https://liquipedia.net/dota2/Yuno)
+
+  🇨🇳 Wang Jing
+
+  王静
+
+  Caster, Analyst
+
+- [![](./images/talent/chinese/ero.png) Ero](https://liquipedia.net/dota2/Ero)
+
+  🇨🇳 Li Yao
+
+  李垚
+
+  Caster
+
+- [![](./images/talent/chinese/dy.png) Dy](https://liquipedia.net/dota2/Dy)
+
+  🇨🇳 Ding Cong
+
+  丁聪
+
+  Analyst
+
+- [![](./images/talent/chinese/wang-yue.png) 朔月](https://liquipedia.net/dota2/%E6%9C%94%E6%9C%88)
+
+  🇨🇳 Wang Yue
+
+  Caster
+
+- [![](./images/talent/chinese/freeagain.png) FreeAgain](https://liquipedia.net/dota2/FreeAgain)
+
+  🇨🇳 Hao Peng
+
+  郝鹏
+
+  Caster
+
+- [![](./images/talent/chinese/ori.png) Ori](https://liquipedia.net/dota2/Ori)
+
+  🇨🇳 Zeng Jiaoyang
+
+  曾焦阳
+
+  Analyst
+
+- [![](./images/talent/chinese/yun.png) Yun]()
+
+  🇨🇳 Chen Yunfan
+
+  Caster
+
+- [![](./images/talent/chinese/lavenderaa.png) LavenderAA](<https://liquipedia.net/dota2/AA_(Li_Qiming)>)
+
+  🇨🇳 Li Qiming
+
+  李启明
+
+  Caster
+
+- [![](./images/talent/chinese/mashall.png) Mashall](https://liquipedia.net/dota2/Mashall)
+
+  🇨🇳 Ma Shaowei
+
+  马少韦
+
+  Caster
+
+- [![](./images/talent/chinese/mad-.png) Mad](https://liquipedia.net/dota2/Mad)
+
+  🇨🇳 Cheng Han
+
+  程瀚
+
+  Caster
+
+- [![](./images/talent/chinese/m4.png) M4](https://liquipedia.net/dota2/M4)
+
+  🇨🇳 Sun Yabin
+
+  孙亚斌
+
+  Caster
+
+- [![](./images/talent/chinese/luna.png) Luna](<https://liquipedia.net/dota2/Luna_(Wang_Miqi)>)
+
+  🇨🇳 Wang Miqi
+
+  Caster
+
+- [![](./images/talent/chinese/bbc.png) BBC](https://liquipedia.net/dota2/BBC)
+
+  🇨🇳 Zhang Hongsheng
+
+  张宏圣
+
+  Host
 
 ### Spanish
 
-[![](./images/talent/spanish/doncookie.png) DonCookie](https://liquipedia.net/dota2/DonCookie)
-: 🇵🇪 Oscar Idiáquez Martinez
-: Host, Analyst
+- [![](./images/talent/spanish/doncookie.png) DonCookie](https://liquipedia.net/dota2/DonCookie)
 
-[![](./images/talent/spanish/tio-inka.png) Tio Inka](https://liquipedia.net/dota2/Tio_Inka)
-: 🇵🇪 Paul Richard de la Cruz Gomez
-: Caster
+  🇵🇪 Oscar Idiáquez Martinez
 
-[![](./images/talent/spanish/blue.png) Blue](https://liquipedia.net/dota2/Blue)
-: 🇵🇪 Marco Espinoza Oliveros
-: Caster
+  Host, Analyst
 
-[![](./images/talent/spanish/falcostyle.png) FalcoStyle](https://liquipedia.net/dota2/FalcoStyle)
-: 🇵🇪 Huester Esley Alejandro Valenzuela Davila
-: Analyst
+- [![](./images/talent/spanish/tio-inka.png) Tio Inka](https://liquipedia.net/dota2/Tio_Inka)
 
-[![](./images/talent/spanish/cutipo.png) Cutipo](https://liquipedia.net/dota2/Cutipo)
-: 🇵🇪 Frank Williams Galán Cutipa
-: Caster
+  🇵🇪 Paul Richard de la Cruz Gomez
 
-[![](./images/talent/spanish/yolosergio.png) YoloSergio](https://liquipedia.net/dota2/YoloSergio)
-: 🇵🇪 Sergio André Pérez Chávez
-: Caster
+  Caster
 
-[![](./images/talent/spanish/maverick.png) Maverick](https://liquipedia.net/dota2/Maverick)
-: 🇵🇪 Aarón Isai Galvez Tapayuri
-: Caster
+- [![](./images/talent/spanish/blue.png) Blue](https://liquipedia.net/dota2/Blue)
 
-[![](./images/talent/spanish/d1smar.png) D1smar](https://liquipedia.net/dota2/D1smar)
-: 🇵🇪 José Dismar Carhuajulca Levano
-: Analyst
+  🇵🇪 Marco Espinoza Oliveros
 
-[![](./images/talent/spanish/panda.png) Panda](https://liquipedia.net/dota2/Panda)
-: 🇵🇪 Jose Leonardo Padilla Hernandez
-: Analyst
+  Caster
 
-[![](./images/talent/spanish/rethmonster.png) RedMonster](https://liquipedia.net/dota2/RedMonster)
-: 🇵🇪 Jhon Albert Mamani Condori
-: Analyst
+- [![](./images/talent/spanish/falcostyle.png) FalcoStyle](https://liquipedia.net/dota2/FalcoStyle)
 
-[![](./images/talent/spanish/vadare.png) Vadare](https://liquipedia.net/dota2/Vadare)
-: 🇵🇪 Cristhian Andrade Azpur
-: Caster
+  🇵🇪 Huester Esley Alejandro Valenzuela Davila
 
-[![](./images/talent/spanish/study.png) Study](https://liquipedia.net/dota2/StudyCaster)
-: 🇦🇷 Cristopher Carlos Fuentes
-: Caster
+  Analyst
 
-[![](./images/talent/spanish/dorayaki.png) Dorayaki](https://liquipedia.net/dota2/Dorayaki)
-: 🇪🇨 Jhonatan Esteban López Quinga
-: Caster
+- [![](./images/talent/spanish/cutipo.png) Cutipo](https://liquipedia.net/dota2/Cutipo)
 
-[![](./images/talent/spanish/flapjack`.png) Flapjack](https://liquipedia.net/dota2/Flapjack)
-: 🇪🇸 Julián Esnaider Carbajal Ylave
-: Analyst
+  🇵🇪 Frank Williams Galán Cutipa
 
-[![](./images/talent/spanish/caosfenix.png) Caosfenix](https://liquipedia.net/dota2/Caosfenix)
-: 🇵🇪 William Edgardo Morera Guzman
-: Caster
+  Caster
 
-[![](./images/talent/spanish/mr.choco.png) Mr.Choco](https://liquipedia.net/dota2/Mr.Choco)
-: 🇵🇪 Rikardo Mendoza Mattos
-: Caster
+- [![](./images/talent/spanish/yolosergio.png) YoloSergio](https://liquipedia.net/dota2/YoloSergio)
 
-[![](./images/talent/spanish/giulio.png) Giulio](https://liquipedia.net/dota2/Giulio)
-: 🇧🇴 Edgar Julio Nuñez Murillo
-: Host, Caster
+  🇵🇪 Sergio André Pérez Chávez
 
-[![](./images/talent/spanish/avo+.png) AvoPlus](https://liquipedia.net/dota2/Avo%2B)
-: 🇪🇸 Álvaro Sánchez Velasco
-: Caster, Analyst
+  Caster
 
-[![](./images/talent/spanish/axl.png) AxL-](https://liquipedia.net/dota2/AxL-)
-: 🇲🇽 Axel Ramos
-: Caster, Analyst
+- [![](./images/talent/spanish/maverick.png) Maverick](https://liquipedia.net/dota2/Maverick)
 
-[![](./images/talent/spanish/masoku.png) Masoku](https://liquipedia.net/dota2/Masoku)
-: 🇵🇪 Jair Alex Dávila Matallana
-: Analyst
+  🇵🇪 Aarón Isai Galvez Tapayuri
 
-[![](./images/talent/spanish/polaris.png) Polaris](https://liquipedia.net/dota2/Polaris)
-: 🇲🇽 Gabriel García Dávalos
-: Caster
+  Caster
 
-[![](./images/talent/spanish/lucky.png) Lucky](https://liquipedia.net/dota2/Lucky)
-: 🇵🇪 Kevin Nahyr Muñoz Carbajal
-: Caster
+- [![](./images/talent/spanish/d1smar.png) D1smar](https://liquipedia.net/dota2/D1smar)
 
-[![](./images/talent/spanish/patrick.png) Patrick](https://liquipedia.net/dota2/Patrick)
-: 🇵🇪 Andrés Condori Castillo
-: Caster, Analyst
+  🇵🇪 José Dismar Carhuajulca Levano
 
-[![](./images/talent/spanish/dkgamer.png) DKgamer](https://liquipedia.net/dota2/DKgamer)
-: 🇵🇪 David Nina Sulca
-: Caster
+  Analyst
+
+- [![](./images/talent/spanish/panda.png) Panda](https://liquipedia.net/dota2/Panda)
+
+  🇵🇪 Jose Leonardo Padilla Hernandez
+
+  Analyst
+
+- [![](./images/talent/spanish/rethmonster.png) RedMonster](https://liquipedia.net/dota2/RedMonster)
+
+  🇵🇪 Jhon Albert Mamani Condori
+
+  Analyst
+
+- [![](./images/talent/spanish/vadare.png) Vadare](https://liquipedia.net/dota2/Vadare)
+
+  🇵🇪 Cristhian Andrade Azpur
+
+  Caster
+
+- [![](./images/talent/spanish/study.png) Study](https://liquipedia.net/dota2/StudyCaster)
+
+  🇦🇷 Cristopher Carlos Fuentes
+
+  Caster
+
+- [![](./images/talent/spanish/dorayaki.png) Dorayaki](https://liquipedia.net/dota2/Dorayaki)
+
+  🇪🇨 Jhonatan Esteban López Quinga
+
+  Caster
+
+- [![](./images/talent/spanish/flapjack`.png) Flapjack](https://liquipedia.net/dota2/Flapjack)
+
+  🇪🇸 Julián Esnaider Carbajal Ylave
+
+  Analyst
+
+- [![](./images/talent/spanish/caosfenix.png) Caosfenix](https://liquipedia.net/dota2/Caosfenix)
+
+  🇵🇪 William Edgardo Morera Guzman
+
+  Caster
+
+- [![](./images/talent/spanish/mr.choco.png) Mr.Choco](https://liquipedia.net/dota2/Mr.Choco)
+
+  🇵🇪 Rikardo Mendoza Mattos
+
+  Caster
+
+- [![](./images/talent/spanish/giulio.png) Giulio](https://liquipedia.net/dota2/Giulio)
+
+  🇧🇴 Edgar Julio Nuñez Murillo
+
+  Host, Caster
+
+- [![](./images/talent/spanish/avo+.png) AvoPlus](https://liquipedia.net/dota2/Avo%2B)
+
+  🇪🇸 Álvaro Sánchez Velasco
+
+  Caster, Analyst
+
+- [![](./images/talent/spanish/axl.png) AxL-](https://liquipedia.net/dota2/AxL-)
+
+  🇲🇽 Axel Ramos
+
+  Caster, Analyst
+
+- [![](./images/talent/spanish/masoku.png) Masoku](https://liquipedia.net/dota2/Masoku)
+
+  🇵🇪 Jair Alex Dávila Matallana
+
+  Analyst
+
+- [![](./images/talent/spanish/polaris.png) Polaris](https://liquipedia.net/dota2/Polaris)
+
+  🇲🇽 Gabriel García Dávalos
+
+  Caster
+
+- [![](./images/talent/spanish/lucky.png) Lucky](https://liquipedia.net/dota2/Lucky)
+
+  🇵🇪 Kevin Nahyr Muñoz Carbajal
+
+  Caster
+
+- [![](./images/talent/spanish/patrick.png) Patrick](https://liquipedia.net/dota2/Patrick)
+
+  🇵🇪 Andrés Condori Castillo
+
+  Caster, Analyst
+
+- [![](./images/talent/spanish/dkgamer.png) DKgamer](https://liquipedia.net/dota2/DKgamer)
+
+  🇵🇪 David Nina Sulca
+
+  Caster
 
 ---
 
@@ -2194,6 +2496,109 @@ Ask your questions on the Reddit post or over on the [Crimson Witnesses Discord 
   }
   dl dt:first-child {
     margin-top: 0;
+  }
+
+  /* Restaurant Lists */
+  dl:has(ul) {
+    background: green;
+  }
+
+  /* Boardcast Talent Lists */
+  ul:has(a > img) {
+    display: grid;
+    grid-direction: column;
+    grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+    justify-content: space-between;
+    gap: 24px 12px;
+    list-style: none;
+
+    li {
+      position: relative;
+      border-radius: 8px;
+      margin-top: 0px !important;
+        padding-block: 0 12px;
+        padding-inline: 12px;
+      background: rgba(38, 33, 90, 0.45);
+      background-blend-mode: hard-light;
+      box-shadow: 0px 2px 4px rgba(38, 33, 90, 0.5), 0px 6px 12px rgba(38, 33, 90, 0.75), 0px 16px 32px rgba(38, 33, 90, 0.25);
+
+      p { 
+        position: relative;
+        display: flex;
+        flex-direction: column;
+        gap: 8px;
+        margin-block: 0px !important;
+        background: linear-gradient(rgba(255, 255, 255, 0.15)),
+          linear-gradient(#ffffff 0%, #d3b8d7 100%);
+        background-blend-mode: screen, normal;
+        background-clip: text;
+        -webkit-text-fill-color: transparent;
+        font-family: 'Noto Sans';
+        font-style: normal;
+        font-weight: 600;
+        font-size: 14px;
+        line-height: 150%;
+        text-align: center;
+        letter-spacing: 0.02em;
+      }
+
+      /* Portrait Background */
+      &:before {
+        content: " ";
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        border-top-left-radius: 8px;
+        border-top-right-radius: 8px;
+        background: center/cover url("./images/ti-2025-bg.png");
+        aspect-ratio: 1 / 1;
+
+        /* Hover Bugfix */
+        &:hover {
+          border-left: none !important;
+          left: 0 !important;
+        }
+      }
+
+      a {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        margin-inline: -12px;
+        background: linear-gradient(0deg, rgba(255, 255, 255, 0.15), rgba(255, 255, 255, 0.15)), linear-gradient(180deg, #FFFFFF 0%, #D3B8D7 100%);
+        background-blend-mode: screen, normal;
+        background-clip: text;
+        -webkit-text-fill-color: transparent;
+        font-family: 'Gemunu Libre';
+        font-weight: 800;
+        font-size: 20px;
+        line-height: 150%;
+        letter-spacing: 0.04em;
+
+        img {
+          position: relative;
+          display: block;
+          width: 100%;
+          aspect-ratio: 1 / 1;
+          object-fit: cover;
+          clip-path: content-box;
+          filter: drop-shadow(0px 0px 4px rgba(159, 33, 232, 0.45))
+            drop-shadow(0px 0px 12px rgba(159, 33, 232, 0.45))
+            drop-shadow(0px 0px 24px rgba(159, 33, 232, 0.75));
+          transition: filter 0.5s cubic-bezier(0.4, 0, 0.2, 1);
+        }
+
+        &:hover {
+          img {
+            filter: brightness(1.25)
+            drop-shadow(0px 0px 4px rgba(159, 33, 232, 0.45))
+            drop-shadow(0px 0px 12px rgba(159, 33, 232, 0.45))
+            drop-shadow(0px 0px 24px rgba(159, 33, 232, 0.75));
+          }
+        }
+      }
+    }
   }
 
   /* Teams */
@@ -2328,8 +2733,8 @@ Ask your questions on the Reddit post or over on the [Crimson Witnesses Discord 
           background: center/cover url("./images/teams/tundra-esports/bg-tundra-esports.png");
         }
 
-        &.yakutou:before {
-          background: center/cover url("./images/teams/yakutou-brothers/bg-yakutou-brothers.png");
+        &.yakotou:before {
+          background: center/cover url("./images/ti-2025-bg.png"); 
         }
 
         &.navi:before {
