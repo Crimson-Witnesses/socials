@@ -125,7 +125,7 @@ Companies available for use in Hamburg-
 
 ---
 
-## **Venue**
+## Venue
 
 The address of the Barclays Arena is:
 
@@ -135,13 +135,13 @@ The address of the Barclays Arena is:
 
 </address>
 
-### **General Info**
+### General Info
 
 [Barclays Arena](https://www.barclays-arena.de/) (originally known as the Color Line Arena and formerly known as barclaycard arena and O2 World Hamburg) is a multipurpose [arena](https://en.wikipedia.org/wiki/Arena) in [Hamburg](https://en.wikipedia.org/wiki/Hamburg), [Germany](https://en.wikipedia.org/wiki/Germany). It opened in 2002 and can hold up to 16,000 people (13,800 or 12,947 for sporting events). It is located at [Altona Volkspark](https://en.wikipedia.org/wiki/Altona_Volkspark), adjacent to the football stadium [Volksparkstadion](https://en.wikipedia.org/wiki/Volksparkstadion) and the [Volksbank Arena](https://de.wikipedia.org/wiki/Volksbank_Arena) in Hamburg's western [Bahrenfeld](https://en.wikipedia.org/wiki/Bahrenfeld) district.
 
 Since opening in November 2002, the Barclays Arena in Hamburg has hosted over 2,500 events, including concerts with Elton John, Ed Sheeran, Metallica, Adele, Jay-Z, the Global Citizen Festival and Olivia Rodrigo, as well as sporting events such as ESL ONE, European and World Handball Championships and heavyweight boxing matches. Every year, over 1 million visitors flock to the more than 130 events. In 2023, northern Germany's largest multi-purpose arena was ranked 6th in Billboard's global ranking of the most successful arenas, with a capacity of up to 15,000 seats.
 
-### **Map**
+### Map
 
 <center>
 
@@ -149,7 +149,7 @@ Since opening in November 2002, the Barclays Arena in Hamburg has hosted over 2,
 
 </center>
 
-### **Rules and Restrictions**
+### Rules and Restrictions
 
 The venue will not allow Bags larger than 14”x14”x6” or that are hard-sided. So we recommend you pack a small bag that can fit your daily needed items. All bags will be subjected to screening, so leave extra time to get through the scanners.
 
@@ -225,7 +225,7 @@ For almost all events, you can purchase tickets for the VIP parking lots, gray a
 >
 > **As a general rule, the validity of your ticket expires when you leave the arena.**
 
-### **Accessibility**
+### Accessibility
 
 Accessibility tickets are available this year for those who need them. On the AXS website, you’ll find an area for accessibility and companions. PGL (Agent) will require official proof of handicap (International handicap card; please bring this with you to the venue also). If you require a wheelchair accessible space, we recommend you contact the venue directly by following this [Link](https://www.barclays-arena.de/besuch-planen/barrierefreiheit/hidden-disabilities-sunflower).
 
@@ -239,7 +239,7 @@ If you have a service animal, They are allowed into the venue as long as they is
 
 ---
 
-## **Accommodations**
+## Accommodations
 
 Hamburg has a wide range of accommodation options, including hotels, hostels, Air Bnbs, and private hires.
 
@@ -251,7 +251,7 @@ Due to the large variety of available options, we have provided a breakdown of t
 
 </center>
 
-### **City Center – Altstadt & Neu Stadt**
+### City Center – Altstadt & Neu Stadt
 
 Hamburg's Old Town is a hub of culture and activity. Running alongside the Elbe, it not only provides wonderful canalside strolling opportunities but is home to many beautiful and historic buildings.
 
@@ -261,7 +261,7 @@ They all look incredibly well-kept, but in fact, a lot of them had to be painsta
 >
 > This is a pretty good shout for those staying for the first time in Germany/Hamburg as it's reasonably safe and gives a good representation of the city itself. Some of the nicer hotels here can be a bit pricier, but they might be worth it for some!
 
-### **St Georg**
+### St Georg
 
 Northeast of the Altstadt, the St Georg district spans from seedy sex shops around Hamburg’s central station to luxury hotels and penthouse apartments overlooking the Outer Alster lake.
 
@@ -271,7 +271,7 @@ The Hamburg Pride parade kicks off here each year, and the neighborhood remains 
 >
 > If it can be avoided, it is advised not to stay here at all possible. The area is known as being unpleasant, and from reviews of those who have lived in this locality, it is reported that the area can become very unpleasant and unsafe at night, especially for those traveling alone, in pairs, or in small groups. Having said that, for those with a smaller budget, there are some great options here at a very, very reasonable price! This area will almost certainly offer the cheapest rates on accommodation!
 
-### **St Paulis**
+### St Paulis
 
 Say hello to one of Europe's largest party districts!. The best pubs and clubs are here! The lively Reeperbahn sits in the middle, while surrounding it lies a swathe of fast food joints, nightlife, live music bars, and places to hang out. It’s loud, proud, and many a tourist head here for a good time! .
 
@@ -281,7 +281,7 @@ Head a bit further out, and you'll uncover a network of affordable bars down nar
 >
 > This is a great place to stay for those wanting to be where there is plenty to do during the day and night while staying in Hamburg for the event. Staying here also offers a great central location with easy access to the rest of the city and easy links to public transport. This is a great place to stay for those coming in groups or looking for more to do at night after the event ends. Many of the more attractive accommodation options will go early here due to its popularity amongst tourists, so book early!
 
-### **Hafencity**
+### Hafencity
 
 South of Hamburg Altstadt, 1 km (under a mile) away from it, Hafencity is one of the most modern areas in town. Known as Europe’s largest regeneration project, the neighborhood has seen many transformations in the last few years. Hafencity’s port area was completely rebuilt and has the largest warehouse district in the world, with canals running through the area and footbridges connecting the separate buildings.
 
@@ -291,7 +291,7 @@ This place is super unique, so of course, it was named a UNESCO World Heritage S
 >
 > This is a good place to stay if you want somewhere a bit quieter away from the crowds with plenty still to see and access to the city. Hotel and accommodation options here are not as widely available as some of the other areas mentioned here and can be quite pricey, but the area does present itself as a very unique location to stay.
 
-### **SternSchanze**
+### SternSchanze
 
 Once the beating heart of Hamburg counter-culture, the Sternschanze—also known as the Sternschanze or simply the “Schanze”—is known as the hipster or alternative area of the city offering a lot to see for visitors to the area.
 
@@ -301,7 +301,7 @@ The Schanze remains one of the most engaging neighborhoods in Hamburg, with eleg
 >
 > This area offers some cool and reasonably priced accommodation options for those visiting for the event. There is a range of private hire accommodations, hotels and hostels here and the area might be perfect for those wanting to stay in an area with lots of character, things to do but all while staying for a reasonable price.
 
-### **Dammtor**
+### Dammtor
 
 Dammtor is located to the North of the City Center, 3.3 km (2 miles) away from the Hamburg Townhall. If you’re traveling for business or luxury or want to make your trip as convenient as possible, consider this area!
 
@@ -312,7 +312,7 @@ The downside of staying here is that there are no notable attractions. But you�
 >
 > Accommodation options here are a bit more expensive than some of the other areas of the city, but this might suit those willing to spend a bit more while staying the city or for those that value a good night's sleep. This area, from previous experience, offers easy access to public transport to friends that also may be staying in other areas for the event!
 
-### **Altona Altstadt**
+### Altona Altstadt
 
 Altona-Altstadt is located some 3 km (1.8 miles) from the City Center. If you’re traveling on a budget and want to find an affordable hotel, this district is one of the best places to stay in the city! Its relaxed, urban, and leafy vibe makes it suitable for both families and couples or those looking for a quieter area.
 
@@ -324,9 +324,9 @@ The district is also situated on the Elbe River, which means you’ll have some 
 
 ---
 
-## **Cuisine and Refreshment**
+## Cuisine and Refreshment
 
-### **At the Venue**
+### At the Venue
 
 Barclays Arena’s concourses boast a total of 17 fast food outlets offering a huge selection of international fast food specialties. Look forward to pizza, bratwurst, burgers, or wraps as well as numerous sweet and savory snacks from popcorn to ice cream to nachos. Of course, you can also quench your thirst at all our fast food outlets.
 
@@ -344,11 +344,11 @@ A small menu awaits you in our self-service restaurant with 180 seats. All dishe
 
 It is generally prohibited to bring any food and drink into the Barclays Arena. Exceptions apply to guests who must bring food and drink into the arena due to illness upon presentation of a medical certificate or appropriate identification. Catering for babies and small children is also excluded from the ban.
 
-### **Near the Venue**
+### Near the Venue
 
 Food options near the arena are fairly limited. These are the closest, but you should expect a trip to them to take an hour or more between walking and eating. Many more options are available within the locality but would require either public transport, a taxi, or a car share with others at the event.
 
-![](./images/grill-pavillion.png) [Grill-Pavillion](https://pommeskoenig.jimdoweb.com/)
+[![](./images/grill-pavillion.png) Grill-Pavillion](https://pommeskoenig.jimdoweb.com/)
 : <ul><li>🍳 Breakfast</li><li>🥪 Lunch</li><li>🍽️ Dinner</li><li>🍔 Fast Food</li><li>🥗 Vegetarian</li><li>🌱 Vegan</li><li>🍺 Beer</li></ul>
 : <address>
 
@@ -356,7 +356,7 @@ Food options near the arena are fairly limited. These are the closest, but you s
 
   </address>
 
-![](./images/fruhstucksladen.png) [Frühstücksladen](https://www.fruehstuecksladen-eidelstedt.de/)
+[![](./images/fruhstucksladen.png) Frühstücksladen](https://www.fruehstuecksladen-eidelstedt.de/)
 : <ul><li>🍳 Breakfast</li><li>🥪 Lunch</li><li>☕ Coffee</li></ul>
 : <address>
 
@@ -364,7 +364,7 @@ Food options near the arena are fairly limited. These are the closest, but you s
 
   </address>
 
-![](./images/das-moin-moin.png) [Das Moin Moin](https://www.dasmoinmoin.de/)
+[![](./images/das-moin-moin.png) Das Moin Moin](https://www.dasmoinmoin.de/)
 : <ul><li>🍳 Breakfast</li><li>🥪 Lunch</li><li>🍔 Fast Food</li><li>🍺 Beer</li></ul>
 : <address>
 
@@ -372,7 +372,7 @@ Food options near the arena are fairly limited. These are the closest, but you s
 
   </address>
 
-![](./images/namaste-hamburg.png)[Namaste Hamburg](https://www.namaste-food.de/)
+[![](./images/namaste-hamburg.png) Namaste Hamburg](https://www.namaste-food.de/)
 : <ul><li>🥪 Lunch</li><li>🍽️ Dinner</li><li>🥘 Indian</li><li>حلال Halal</li><li>🥗 Vegetarian</li><li>🌱 Vegan</li><li>🍺 Beer</li><li>🍷 Wine</li></ul>
 : <address>
 
@@ -380,7 +380,7 @@ Food options near the arena are fairly limited. These are the closest, but you s
 
   </address>
 
-![](./images/bistro-picknick.png) [Bistro Picknick](https://bistro-picknick.de)
+[![](./images/bistro-picknick.png) Bistro Picknick](https://bistro-picknick.de)
 : Informal all-day snack bar dispensing currywurst, goulash & other unpretentious offerings.
 : <ul><li>🍳 Breakfast</li><li>🥪 Lunch</li><li>🍽️ Dinner</li><li>🌱 Vegan</li><li>🍺 Beer</li><li>🍸 Cocktails</li><li>🍷 Wine</li></ul>
 : <address>
@@ -389,13 +389,13 @@ Food options near the arena are fairly limited. These are the closest, but you s
 
   </address>
 
-### **Hamburg Restaurants**
+### Hamburg Restaurants
 
 Visit the [Google List](https://maps.app.goo.gl/7hS2okZWvrkhTcZ89) for the most up-to-date list.
 
 #### € (€2-20) - [Google List](https://maps.app.goo.gl/7hS2okZWvrkhTcZ89)
 
-![](./images/la-casita.png) [La Casita](https://lacasita-azul.de/)
+[![](./images/la-casita.png) La Casita](https://lacasita-azul.de/)
 : <ul><li>🥪 Lunch</li><li>🍽️ Dinner</li><li>🌮 Mexican</li><li>🥗 Vegetarian</li><li>🌱 Vegan</li><li>🍺 Beer</li><li>🍸 Cocktails</li><li>🍷 Wine</li></ul>
 : <address>
 
@@ -403,7 +403,7 @@ Visit the [Google List](https://maps.app.goo.gl/7hS2okZWvrkhTcZ89) for the most 
 
   </address>
 
-![](./images/ottos-burger-ottensen.png) [Otto's Burger Ottensen](https://www.ottosburger.com/)
+[![](./images/ottos-burger-ottensen.png) Otto's Burger Ottensen](https://www.ottosburger.com/)
 : <ul><li>🥪 Lunch</li><li>🍽️ Dinner</li><li>🍔 Burgers</li><li>🍺 Beer</li><li>🍸 Cocktails</li><li>🍷 Wine</li></ul>
 : <address>
 
@@ -411,7 +411,7 @@ Visit the [Google List](https://maps.app.goo.gl/7hS2okZWvrkhTcZ89) for the most 
 
   </address>
 
-![](./images/ottos-burger-lange-reihe.png) [Otto's Burger Lange Reihe](https://www.ottosburger.com/)
+[![](./images/ottos-burger-lange-reihe.png) Otto's Burger Lange Reihe](https://www.ottosburger.com/)
 : <ul><li>🥪 Lunch</li><li>🍽️ Dinner</li><li>🍔 Burgers</li><li>🍺 Beer</li><li>🍸 Cocktails</li><li>🍷 Wine</li></ul>
 : <address>
 
@@ -419,7 +419,7 @@ Visit the [Google List](https://maps.app.goo.gl/7hS2okZWvrkhTcZ89) for the most 
 
   </address>
 
-![](./images/ottos-burger-grindel.png) [Otto's Burger Grindel](https://www.ottosburger.com/)
+[![](./images/ottos-burger-grindel.png) Otto's Burger Grindel](https://www.ottosburger.com/)
 : <ul><li>🥪 Lunch</li><li>🍽️ Dinner</li><li>🍔 Burgers</li><li>🍺 Beer</li><li>🍸 Cocktails</li><li>🍷 Wine</li></ul>
 : <address>
 
@@ -427,7 +427,7 @@ Visit the [Google List](https://maps.app.goo.gl/7hS2okZWvrkhTcZ89) for the most 
 
   </address>
 
-![](./images/ottos-burger-schanze.png) [Otto's Burger Schanze](https://www.ottosburger.com/)
+[![](./images/ottos-burger-schanze.png) Otto's Burger Schanze](https://www.ottosburger.com/)
 : <ul><li>🥪 Lunch</li><li>🍽️ Dinner</li><li>🍔 Burgers</li><li>🍺 Beer</li><li>🍸 Cocktails</li><li>🍷 Wine</li></ul>
 : <address>
 
@@ -435,7 +435,7 @@ Visit the [Google List](https://maps.app.goo.gl/7hS2okZWvrkhTcZ89) for the most 
 
   </address>
 
-![](./images/maharaja-go-go.png) [Maharaja go-go](https://www.maharaja-hamburg.de/maharaja-41/index.php)
+[![](./images/maharaja-go-go.png) Maharaja go-go](https://www.maharaja-hamburg.de/maharaja-41/index.php)
 : <ul><li>🥪 Lunch</li><li>🍽️ Dinner</li><li>🥘 Indian</li><li>🥗 Vegetarian</li><li>🌱 Vegan</li><li>🍺 Beer</li><li>🍷 Wine</li></ul>
 : <address>
 
@@ -443,7 +443,7 @@ Visit the [Google List](https://maps.app.goo.gl/7hS2okZWvrkhTcZ89) for the most 
 
   </address>
 
-![](./images/balutschistan.png) [Balutschistan](https://www.balutschistan-schanze.de/)
+[![](./images/balutschistan.png) Balutschistan](https://www.balutschistan-schanze.de/)
 : <ul><li>🥪 Lunch</li><li>🍽️ Dinner</li><li>🍛 Pakistani</li><li>🍺 Beer</li><li>🍸 Cocktails</li><li>🍷 Wine</li></ul>
 : <address>
 
@@ -451,7 +451,7 @@ Visit the [Google List](https://maps.app.goo.gl/7hS2okZWvrkhTcZ89) for the most 
 
   </address>
 
-![](./images/brucke-10-am-alten-elbtunnel.png)[Brücke 10 am Alten Elbtunnel](https://bruecke10.com/)
+[![](./images/brucke-10-am-alten-elbtunnel.png) Brücke 10 am Alten Elbtunnel](https://bruecke10.com/)
 : <ul><li>🥪 Lunch</li><li>🐟 Seafood</li><li>🥗 Vegetarian</li><li>☕ Coffee</li><li>🍺 Beer</li></ul>
 : <address>
 
@@ -459,7 +459,7 @@ Visit the [Google List](https://maps.app.goo.gl/7hS2okZWvrkhTcZ89) for the most 
 
   </address>
 
-![](./images/brucke-10.png) [Brücke 10](https://bruecke10.com/)
+[![](./images/brucke-10.png) Brücke 10](https://bruecke10.com/)
 : Laid-back restaurant serving seafood sandwiches & beers on a landing stage by the harbor.
 : <ul><li>🥪 Lunch</li><li>🍽️ Dinner</li><li>🐟 Seafood</li><li>🌱 Vegan</li><li>🍺 Beer</li><li>🍷 Wine</li></ul>
 : <address>
@@ -468,7 +468,7 @@ Visit the [Google List](https://maps.app.goo.gl/7hS2okZWvrkhTcZ89) for the most 
 
   </address>
 
-![](./images/taverna-olympisches-feuer.png) [Taverna Olympisches Feuer](http://www.olympisches-feuer.de/) (Website may not function)
+[![](./images/taverna-olympisches-feuer.png) Taverna Olympisches Feuer](http://www.olympisches-feuer.de/) (Website may not function)
 : <ul><li>🥪 Lunch</li><li>🍽️ Dinner</li><li>🌱 Vegan</li><li>🍺 Beer</li><li>🍸 Cocktails</li><li>🍷 Wine</li></ul>
 : <address>
 
@@ -476,7 +476,7 @@ Visit the [Google List](https://maps.app.goo.gl/7hS2okZWvrkhTcZ89) for the most 
 
   </address>
 
-![](./images/karo-fisch.png) [Karo Fisch](https://karofisch.website/)
+[![](./images/karo-fisch.png) Karo Fisch](https://karofisch.website/)
 : Mediterranean seafood delicacies are offered in this compact, unpretentious eatery with a terrace.
 : <ul><li>🥪 Lunch</li><li>🍽️ Dinner</li><li>🥙 Mediterranean</li><li>🐟 Seafood</li><li>حلال Halal</li><li>🌱 Vegan</li><li>🍺 Beer</li><li>🍷 Wine</li></ul>
 : <address>
@@ -485,7 +485,7 @@ Visit the [Google List](https://maps.app.goo.gl/7hS2okZWvrkhTcZ89) for the most 
 
   </address>
 
-![](./images/underdocks.png) [Underdocks](https://underdocks.de/)
+[![](./images/underdocks.png) Underdocks](https://underdocks.de/)
 : Convivial locale with outdoor seating serving creative seafood rolls, sandwiches & tacos.
 : <ul><li>🥪 Lunch</li><li>🍽️ Dinner</li><li>🐟 Seafood</li><li>🌮 Tacos</li><li>🥗 Vegetarian</li><li>🌱 Vegan</li><li>🍺 Beer</li><li>🍸 Cocktails</li><li>🍷 Wine</li></ul>
 : <address>
@@ -504,7 +504,7 @@ Visit the [Google List](https://maps.app.goo.gl/7hS2okZWvrkhTcZ89) for the most 
 
   </address>
 
-![](./images/schweinske-restaurant-bahrenfeld.png) [Schweinske Restaurant Bahrenfeld](https://schweinske.de/standorte/bahrenfeld)
+[![](./images/schweinske-restaurant-bahrenfeld.png) Schweinske Restaurant Bahrenfeld](https://schweinske.de/standorte/bahrenfeld)
 : <ul><li>🍳 Breakfast</li><li>🥪 Lunch</li><li>🍽️ Dinner</li><li>🥨 German</li><li>🌱 Vegan</li><li>🍺 Beer</li><li>🍸 Cocktails</li><li>🍷 Wine</li></ul>
 : <address>
 
@@ -512,7 +512,7 @@ Visit the [Google List](https://maps.app.goo.gl/7hS2okZWvrkhTcZ89) for the most 
 
   </address>
 
-![](./images/schweinske-restaurant-eimsbuttel.png) [Schweinske Restaurant Eimsbüttel](https://schweinske.de/standorte/eimsbuettel)
+[![](./images/schweinske-restaurant-eimsbuttel.png) Schweinske Restaurant Eimsbüttel](https://schweinske.de/standorte/eimsbuettel)
 : <ul><li>🍳 Breakfast</li><li>🥪 Lunch</li><li>🍽️ Dinner</li><li>🥨 German</li><li>🌱 Vegan</li><li>🍺 Beer</li><li>🍸 Cocktails</li><li>🍷 Wine</li></ul>
 : <address>
 
@@ -520,7 +520,7 @@ Visit the [Google List](https://maps.app.goo.gl/7hS2okZWvrkhTcZ89) for the most 
 
   </address>
 
-![](./images/jim-burritos.png) [Jim Burrito's](https://www.jimburritos.com/)
+[![](./images/jim-burritos.png) Jim Burrito's](https://www.jimburritos.com/)
 : Compact, casual space offering Mexican specialties, cocktails & a take-out option.
 : <ul><li>🍽️ Dinner</li><li>🌮 Tacos</li><li>🥗 Vegetarian</li><li>🌱 Vegan</li><li>🍺 Beer</li><li>🍸 Cocktails</li></ul>
 : <address>
@@ -1161,30 +1161,35 @@ LOKMAM KÖZ
 
   </address>
 
-The Madison Restaurant
+[![](./images/the-madison-restaurant.png) The Madison Restaurant](the-madison-restaurant)
+: Trendy hotel restaurant offering all-day Italian- & Asian-inspired dining, plus a breakfast buffet.
+: <ul><li>🥪 Lunch</li><li>🍽 Dinner</li><li>🍝 Italian</li><li>🥗 Vegetarian</li><li>🍺 Beer</li><li>🍸 Cocktails</li><li>🍷 Wine</li></ul>
 : <address>
 
     [Schaarsteinweg 4<br/>20459 Hamburg](https://maps.app.goo.gl/7VgoSneWSBmufYK26)
 
   </address>
 
-L'Amira Steindamm
+[![](./images/l'amira-steindamm.png) L'Amira Steindamm](https://lamira-steindamm.de/)
+: <ul><li>🍳 Breakfast</li><li>🥪 Lunch</li><li>🍽 Dinner</li><li>🧆 Lebanese</li><li>حلال Halal</li><li>🥗 Vegetarian</li><li>🌱 Vegan</li></ul>
 : <address>
 
     [Steindamm 58<br/>20099 Hamburg](https://maps.app.goo.gl/E27T7LLYv3LrxY4c8)
 
   </address>
 
-Restaurant Charmant
+[![](./images/restaurant-charmant.png) Restaurant Charmant](https://www.restaurant-charmant.de/)
+: Pasta dishes, pizzas, roast meats & schnitzels in tranquil, low-lit surroundings.
+: <ul><li>🥪 Lunch</li><li>🍽 Dinner</li><li>🥨 German</li><li>🍝 Pasta</li><li>🥗 Vegetarian</li><li>🍺 Beer</li><li>🍸 Cocktails</li><li>🍷 Wine</li></ul>
 : <address>
 
     [Basselweg 102<br/>22527 Hamburg](https://maps.app.goo.gl/HEgwuFwk1z8qQnyy9)
 
   </address>
 
-#### **€€€ (€40-70) - [Google List](https://maps.app.goo.gl/Ydk34ZMjkxBuH9Vs8)**
+#### €€€ (€40-70) - [Google List](https://maps.app.goo.gl/Ydk34ZMjkxBuH9Vs8)
 
-![](./images/kofookoo.png) [Kofookoo](https://sushigrillbar.kofookoo.de/)
+[![](./images/kofookoo.png) Kofookoo](https://sushigrillbar.kofookoo.de/)
 : <ul><li>🥪 Lunch</li><li>🍽 Dinner</li><li>🍱 Japanese</li><li>🍣 Sushi</li><li>حلال Halal</li><li>🥗 Vegetarian</li><li>🌱 Vegan</li><li>🍺 Beer</li><li>🍸 Cocktails</li><li>🍷 Wine</li></ul>
 : <address>
 
@@ -1192,7 +1197,7 @@ Restaurant Charmant
 
   </address>
 
-![](./images/tschebull-restaurant.png) [Tschebull Restaurant|Beisl|Bar](https://www.tschebull.de/de/)
+[![](./images/tschebull-restaurant.png) Tschebull Restaurant|Beisl|Bar](https://www.tschebull.de/de/)
 : Classic Austrian-style tapas & meat dishes, plus a long wine list, in a formal dining room.
 : <ul><li>🥪 Lunch</li><li>🍽 Dinner</li><li>🥧 Austrian</li><li>🥩 Meat</li><li>🌱 Vegan</li><li>🍺 Beer</li><li>🍸 Cocktails</li><li>🍷 Wine</li></ul>
 : <address>
@@ -1201,7 +1206,7 @@ Restaurant Charmant
 
   </address>
 
-![](./images/deichgraf-restaurant.png) [Deichgraf Restaurant](https://speisekartenweb.de/restaurants/hamburg/deichgraf-restaurant-30023?utm_source=google_profile&utm_medium=google_profile&utm_campaign=admin)
+[![](./images/deichgraf-restaurant.png) Deichgraf Restaurant](https://speisekartenweb.de/restaurants/hamburg/deichgraf-restaurant-30023?utm_source=google_profile&utm_medium=google_profile&utm_campaign=admin)
 : Salted meat labskaus & other northern specialities in a posh dining room or on a sidewalk terrace.
 : <ul><li>📅 Reservation Required</li><li>🥪 Lunch</li><li>🍽 Dinner</li><li>🥨 German</li><li>🥩 Meat</li><li>🌱 Vegan</li><li>🍺 Beer</li><li>🍷 Wine</li></ul>
 : <address>
@@ -1210,7 +1215,7 @@ Restaurant Charmant
 
   </address>
 
-![](./images/restaurant-cox.png) [Restaurant Cox](https://www.restaurant-cox.de/cox.html)
+[![](./images/restaurant-cox.png) Restaurant Cox](https://www.restaurant-cox.de/cox.html)
 : Longstanding, rustic-chic tavern offering game dishes like wild boar & an extensive wine selection.
 : <ul><li>🥪 Lunch</li><li>🍽 Dinner</li><li>🥩 Meat</li><li>🥗 Vegetarian</li><li>🌱 Vegan</li><li>🍺 Beer</li><li>🍸 Cocktails</li><li>🍷 Wine</li></ul>
 : <address>
@@ -1219,7 +1224,7 @@ Restaurant Charmant
 
   </address>
 
-![](./images/fischereihafen-restaurant.png) [Fischereihafen Restaurant](https://www.fischereihafenrestaurant.de/en/)
+[![](./images/fischereihafen-restaurant.png) Fischereihafen Restaurant](https://www.fischereihafenrestaurant.de/en/)
 : Lively, long-running place for oysters, caviar & grilled seafood, with views of the harbor.
 : <ul><li>📅 Reservation Required</li><li>🥪 Lunch</li><li>🍽 Dinner</li><li>🐟 Seafood</li><li>🦪 Oysters</li><li>🍺 Beer</li><li>🍸 Cocktails</li><li>🍷 Wine</li></ul>
 : <address>
@@ -1228,7 +1233,7 @@ Restaurant Charmant
 
   </address>
 
-![](./images/das-dorf.png) [Das Dorf](https://restaurant-dorf.de/eng/)
+[![](./images/das-dorf.png) Das Dorf](https://restaurant-dorf.de/eng/)
 : Informal eatery serving local staples including schnitzel, meat plates & desserts, plus draft beer.
 : <ul><li>🍽 Dinner</li><li>🥨 German</li><li>🍺 Beer</li><li>🍸 Cocktails</li><li>🍷 Wine</li></ul>
 : <address>
@@ -1237,7 +1242,7 @@ Restaurant Charmant
 
   </address>
 
-![](./images/neni.png) [NENI](https://nenifood.com/restaurants/hamburg)
+[![](./images/neni.png) NENI](https://nenifood.com/restaurants/hamburg)
 : Upmarket Middle Eastern classics, served in an airy, industrial-chic space with kelim rugs.
 : <ul><li>🍳 Breakfast</li><li>🥪 Lunch</li><li>🍽 Dinner</li><li>🧆 Middle Eastern</li><li>حلال Halal</li><li>🥗 Vegetarian</li><li>🌱 Vegan</li><li>🍺 Beer</li><li>🍸 Cocktails</li><li>🍷 Wine</li></ul>
 : <address>
@@ -1246,7 +1251,7 @@ Restaurant Charmant
 
   </address>
 
-![](./images/petit-bonheur.png) [Petit Bonheur](https://www.petitbonheur-restaurant.de/)
+[![](./images/petit-bonheur.png) Petit Bonheur](https://www.petitbonheur-restaurant.de/)
 : Romantic restaurant with red walls & eclectic artwork, serving classic French dishes & wines.
 : <ul><li>🥪 Lunch</li><li>🍽 Dinner</li><li>🥖 French</li><li>🍺 Beer</li><li>🍸 Cocktails</li><li>🍷 Wine</li></ul>
 : <address>
@@ -1255,7 +1260,7 @@ Restaurant Charmant
 
   </address>
 
-![](./images/philipps-restaurant.png) [philipps Restaurant](https://www.philipps-restaurant.de/)
+[![](./images/philipps-restaurant.png) philipps Restaurant](https://www.philipps-restaurant.de/)
 : Modern space with a rustic-chic vibe for an international menu of pasta, schnitzels & steak tartare.
 : <ul><li>🥪 Lunch</li><li>🍽 Dinner</li><li>🥨 German</li><li>🍝 Pasta</li><li>🥩 Steak</li><li>🍺 Beer</li><li>🍸 Cocktails</li><li>🍷 Wine</li></ul>
 : <address>
@@ -1264,7 +1269,7 @@ Restaurant Charmant
 
   </address>
 
-![](./images/restaurant-casa-di-roma.png) [Restaurant Casa di Roma](https://casadiroma.de/)
+[![](./images/restaurant-casa-di-roma.png) Restaurant Casa di Roma](https://casadiroma.de/)
 : Creatively presented antipasti, pasta & mains, plus a robust wine list, at a stylish trattoria.
 : <ul><li>🥪 Lunch</li><li>🍽 Dinner</li><li>🍝 Italian</li><li>🥙 Mediterranean</li><li>🍺 Beer</li><li>🍸 Cocktails</li><li>🍷 Wine</li></ul>
 : <address>
@@ -1273,7 +1278,7 @@ Restaurant Charmant
 
   </address>
 
-![](./images/patio-restaurant-weinbar.png)[ PATIO Restaurant Weinbar](https://patio.hamburg/)
+[![](./images/patio-restaurant-weinbar.png) PATIO Restaurant Weinbar](https://patio.hamburg/)
 : Contemporary Mediterranean cuisine, tapas & wine in a stylishly designed space with dark accents.
 : <ul><li>🍳 Breakfast</li><li>🥑 Brunch</li><li>🥪 Lunch</li><li>🍽 Dinner</li><li>🥙 Mediterranean</li><li>🍺 Beer</li><li>🍸 Cocktails</li><li>🍷 Wine</li></ul>
 : <address>
@@ -1282,7 +1287,7 @@ Restaurant Charmant
 
   </address>
 
-![](./images/restaurant-freudenhaus-st-paulim.png) [Restaurant Freudenhaus St. Paulim](https://www.stpauli-freudenhaus.de/restaurant/)
+[![](./images/restaurant-freudenhaus-st-paulim.png) Restaurant Freudenhaus St. Paulim](https://www.stpauli-freudenhaus.de/restaurant/)
 : Robust northern German meat & fish dishes in a cozy, elaborately decorated bar/restaurant.
 : <ul><li>📅 Reservation Required</li><li>🍽 Dinner</li><li>🥨 German</li><li>🐟 Seafood</li></ul>
 : <address>
@@ -1291,9 +1296,9 @@ Restaurant Charmant
 
   </address>
 
-#### **€€€€ (€100+) - [Google List](https://maps.app.goo.gl/EbM1JYgna85GGrKGA)**
+#### €€€€ (€100+) - [Google List](https://maps.app.goo.gl/EbM1JYgna85GGrKGA)
 
-![](./images/the-table.png) [The Table](https://the-table-hamburg.de/)
+[![](./images/the-table.png) The Table](https://the-table-hamburg.de/)
 : Elevated global cuisine around a single table snaking around a stylish room with an open kitchen.
 : <ul><li>📅 Reservation Required</li><li>👨‍🍳 Fine Dining</li><li>🍽 Dinner</li><li>🍸 Cocktails</li><li>🍷 Wine</li></ul>
 : <address>
@@ -1302,7 +1307,7 @@ Restaurant Charmant
 
   </address>
 
-![](./images/petit-amour.png) [Petit Amour](https://petitamour-hh.com/)
+[![](./images/petit-amour.png) Petit Amour](https://petitamour-hh.com/)
 : Urbane choice with understated decor & a terrace specializing in imaginative French cuisine.
 : <ul><li>📅 Reservation Required</li><li>👨‍🍳 Fine Dining</li><li>🍽 Dinner</li><li>🥖 French</li><li>🍷 Wine</li></ul>
 : <address>
@@ -1311,7 +1316,7 @@ Restaurant Charmant
 
   </address>
 
-![](./images/haerlin-restaurant.png) [Haerlin Restaurant](https://hvj.de/en/restaurant-haerlin.html)
+[![](./images/haerlin-restaurant.png) Haerlin Restaurant](https://hvj.de/en/restaurant-haerlin.html)
 : Sophisticated plates of seasonally inspired cuisine, plus wine, offered in refined pastel surrounds.
 : <ul><li>⭐ Michelin Starred</li><li>📅 Reservation Required</li><li>👨‍🍳 Fine Dining</li><li>🍽 Dinner</li><li>🍸 Cocktails</li><li>🍷 Wine</li></ul>
 : <address>
@@ -1320,7 +1325,7 @@ Restaurant Charmant
 
   </address>
 
-![](./images/lakeside.png) [Lakeside](https://www.thefontenay.com/en/restaurants-bar/lakeside-restaurant)
+[![](./images/lakeside.png) Lakeside](https://www.thefontenay.com/en/restaurants-bar/lakeside-restaurant)
 : <ul><li>⭐ Michelin Starred</li><li>📅 Reservation Required</li><li>👨‍🍳 Fine Dining</li><li>🍽 Dinner</li><li>🍸 Cocktails</li><li>🍷 Wine</li></ul>
 : <address>
 
@@ -1328,7 +1333,7 @@ Restaurant Charmant
 
   </address>
 
-![](./images/100-200-kitchen.png)[100/200 Kitchen](https://www.100200.kitchen/restaurant/)
+[![](./images/100-200-kitchen.png) 100/200 Kitchen](https://www.100200.kitchen/restaurant/)
 : A changing seasonal menu with elegant plate presentations & wine in a funky warehouse setting.
 : <ul><li>⭐ Michelin Starred</li><li>📅 Reservation Required</li><li>👨‍🍳 Fine Dining</li><li>🥪 Lunch</li><li>🍽 Dinner</li><li>🍷 Wine</li></ul>
 : <address>
@@ -1337,7 +1342,7 @@ Restaurant Charmant
 
   </address>
 
-![](./images/the-lisbeth.png) [The Lisbeth](https://www.cantinepapalisbeth.de/)
+[![](./images/the-lisbeth.png) The Lisbeth](https://www.cantinepapalisbeth.de/)
 : Industrial-chic eatery with a sidewalk terrace featuring fish rolls, pasta & other seafood dishes.
 : <ul><li>👨‍🍳 Fine Dining</li><li>🍽 Dinner</li><li>🐟 Seafood</li><li>🍝 Pasta</li><li>🍷 Wine</li></ul>
 : <address>
@@ -1346,7 +1351,7 @@ Restaurant Charmant
 
   </address>
 
-![](./images/le-petit-chef.png) [Le Petit Chef](https://lepetitchef.com/Hamburg)
+[![](./images/le-petit-chef.png) Le Petit Chef](https://lepetitchef.com/Hamburg)
 : <ul><li>👨‍🍳 Fine Dining</li><li>🎭 Dinner Show</li><li>🥪 Lunch</li><li>🍽 Dinner</li><li>🍷 Wine</li></ul>
 : <address>
 
@@ -1354,7 +1359,7 @@ Restaurant Charmant
 
   </address>
 
-![](./images/criss-studio.png) [Criss Studio Polish-Jamaican](https://www.criss.studio/)
+[![](./images/criss-studio.png) Criss Studio Polish-Jamaican](https://www.criss.studio/)
 : <ul><li>📅 Reservation Required</li><li>👨‍🍳 Fine Dining</li><li>🍽 Dinner</li><li>🥟 Polish</li><li>🍗 Jamaican</li><li>🍷 Wine</li></ul>
 : <address>
 
@@ -1362,7 +1367,7 @@ Restaurant Charmant
 
   </address>
 
-![](./images/restaurant-zeik.png) [Restaurant Zeik](https://zeik.de/)
+[![](./images/restaurant-zeik.png) Restaurant Zeik](https://zeik.de/)
 : Elevated regional tasting menus with seasonal ingredients & optional wine pairings plus a terrace.
 : <ul><li>⭐ Michelin Starred</li><li>📅 Reservation Required</li><li>👨‍🍳 Fine Dining</li><li>🍽 Dinner</li><li>🍷 Wine</li></ul>
 : <address>
@@ -1371,7 +1376,7 @@ Restaurant Charmant
 
   </address>
 
-![](./images/meatery-restaurant-and-bar.png) [[m]eatery restaurant & botanist bar](https://www.meatery.de/restaurants-bar/meatery-hamburg/)
+[![](./images/meatery-restaurant-and-bar.png) [m]eatery restaurant & botanist bar](https://www.meatery.de/restaurants-bar/meatery-hamburg/)
 : <ul><li>📅 Reservation Required</li><li>👨‍🍳 Fine Dining</li><li>🍽 Dinner</li><li>🥩 Steakhouse</li><li>🍸 Cocktails</li></ul>
 : <address>
 
@@ -1379,7 +1384,7 @@ Restaurant Charmant
 
   </address>
 
-![](./images/restaurant-atlantic-grill-and-health.png) [Restaurant Atlantic Grill & Health](https://brhhh.com/atlantic-hamburg/taste/)
+[![](./images/restaurant-atlantic-grill-and-health.png) Restaurant Atlantic Grill & Health](https://brhhh.com/atlantic-hamburg/taste/)
 : Posh, wood-paneled eatery serving locally sourced seafood entrees & market-fresh salads, plus wine.
 : <ul><li>📅 Reservation Required</li><li>👨‍🍳 Fine Dining</li><li>🥪 Lunch</li><li>🍽 Dinner</li><li>🐟 Seafood</li><li>🍷 Wine</li></ul>
 : <address>
@@ -1388,7 +1393,7 @@ Restaurant Charmant
 
   </address>
 
-![](./images/salt-and-silver.png) [Salt & Silver](https://saltandsilver.de/restaurants/hamburg)
+[![](./images/salt-and-silver.png) Salt & Silver](https://saltandsilver.de/restaurants/hamburg)
 : Hip stop for creative tasting menus with Mexican & Peruvian dishes, plus a terrace for harbor views.
 : <ul><li>📅 Reservation Required</li><li>👨‍🍳 Fine Dining</li><li>🍽 Dinner</li><li>🌮 Mexican</li><li>🥘 Peruvian</li><li>🍷 Wine</li></ul>
 : <address>
@@ -1397,7 +1402,7 @@ Restaurant Charmant
 
   </address>
 
-### **Bars/Taverns/Taphouses**
+### Bars/Taverns/Taphouses
 
 [**Night Light**](https://nightlight-hamburg.de)  
 A heavy metal/rock bar in the Reeperbahn district of Hamburg
@@ -1409,11 +1414,11 @@ Address
 
   </address>
 
-### **Breweries**
+### Breweries
 
 ---
 
-## **Points of Interest/Side Events**
+## Points of Interest/Side Events
 
 ### [Minatur Wunderland](https://youtu.be/R669l5CA1YA)
 
@@ -1514,143 +1519,160 @@ Opening Hours
 
 ---
 
-## **Teams/Players**
+## Teams/Players
 
 ### Direct Invites
 
-[![](./images/teams/team-liquid/team-liquid.png) Team Liquid](https://liquipedia.net/dota2/Team_Liquid)
+[![Team Liquid](./images/teams/team-liquid/team-liquid.png)](https://liquipedia.net/dota2/Team_Liquid)
+: [Team Liquid](https://liquipedia.net/dota2/Team_Liquid)
 : Western Europe
-: [![](./images/teams/team-liquid/m1cke.png) 🇸🇪 miCKe](https://liquipedia.net/dota2/MiCKe) 🏆
-: [![](./images/teams/team-liquid/nisha.png) 🇵🇱 Nisha](https://liquipedia.net/dota2/Nisha) 🏆
-: [![](./images/teams/team-liquid/saberlight.png) 🇨🇿 SaberLight](https://liquipedia.net/dota2/SabeRLight-)
-: [![](./images/teams/team-liquid/boxi.png) 🇸🇪 Boxi](https://liquipedia.net/dota2/Boxi) 🏆
-: [![](./images/teams/team-liquid/insania.png) 🇸🇪 Insania](https://liquipedia.net/dota2/Insania) 🏆
+: <span class="liquid core">[![](./images/teams/team-liquid/m1cke.png) 🏆 miCKe](https://liquipedia.net/dota2/MiCKe) 🇸🇪 Michael Vu</span>
+: <span class="liquid mid">[![](./images/teams/team-liquid/nisha.png) 🏆 Nisha](https://liquipedia.net/dota2/Nisha) 🇵🇱 Michał Jankowski</span>
+: <span class="liquid core">[![](./images/teams/team-liquid/saberlight.png) SaberLight](https://liquipedia.net/dota2/SabeRLight-) 🇨🇿 Jonáš Volek</span>
+: <span class="liquid support">[![](./images/teams/team-liquid/boxi.png) 🏆 Boxi](https://liquipedia.net/dota2/Boxi) 🇸🇪 Samuel Svahn</span>
+: <span class="liquid support">[![](./images/teams/team-liquid/insania.png) 🏆 Insania](https://liquipedia.net/dota2/Insania) 🇸🇪 Aydin Sarkohi</span>
 
-[![](./images/teams/paravision/paravision.png) PARAVISION](https://liquipedia.net/dota2/PARIVISION)
+[![PARAVISION](./images/teams/paravision/paravision.png)](https://liquipedia.net/dota2/PARIVISION)
+: [PARAVISION](https://liquipedia.net/dota2/PARIVISION)
 : Eastern Europe
-: [![](./images/teams/paravision/satanic.png) 🇷🇺 Satanic](<https://liquipedia.net/dota2/Satanic_(Russian_player)>)
-: [![](./images/teams/paravision/no[o]ne-.png) 🇺🇦 No[o]ne-](https://liquipedia.net/dota2/Noone)
-: [![](./images/teams/paravision/dm.png) 🇷🇺 DM](https://liquipedia.net/dota2/DM)
-: [![](./images/teams/paravision/9class.png) 🇷🇺 9Class](https://liquipedia.net/dota2/9Class)
-: [![](./images/teams/paravision/dukalis.png) 🇷🇺 Dukalis](https://liquipedia.net/dota2/Dukalis)
+: <span class="paravision core">[![](./images/teams/paravision/satanic.png) Satanic](<https://liquipedia.net/dota2/Satanic_(Russian_player)>) 🇷🇺 Alan Gallyamov<br/>(Алан Галлямов)</span>
+: <span class="paravision mid">[![](./images/teams/paravision/no[o]ne-.png) No[o]ne-](https://liquipedia.net/dota2/Noone) 🇺🇦 Volodymyr Minenko<br/>(Володимир Міненко)</span>
+: <span class="paravision core">[![](./images/teams/paravision/dm.png) DM](https://liquipedia.net/dota2/DM) 🇷🇺 Dmitry Dorokhin<br/>(Дмитрий Дорохин)</span>
+: <span class="paravision support">[![](./images/teams/paravision/9class.png) 9Class](https://liquipedia.net/dota2/9Class) 🇷🇺 Edgar Naltakian<br/>(Эдгар Налтакян)</span>
+: <span class="paravision support">[![](./images/teams/paravision/dukalis.png) Dukalis](https://liquipedia.net/dota2/Dukalis) 🇷🇺 Andrey Kuropatkin<br/>(Андрей Куропаткин)</span>
 
-[![](./images/teams/betboom-team/betboom-team.png) BetBoom Team](https://liquipedia.net/dota2/BetBoom_Team)
+[![BetBoom Team](./images/teams/betboom-team/betboom-team.png)](https://liquipedia.net/dota2/BetBoom_Team)
+: [BetBoom Team](https://liquipedia.net/dota2/BetBoom_Team)
 : Eastern Europe
-: [![](./images/teams/betboom-team/pure.png) 🇷🇺 Pure](<https://liquipedia.net/dota2/Pure_(Russian_player)>)
-: [![](./images/teams/betboom-team/gpk.png) 🇷🇺 gpk](https://liquipedia.net/dota2/Gpk)
-: [![](./images/teams/betboom-team/miero.png) 🇲🇩 MieRo](https://liquipedia.net/dota2/MieRo)
-: [![](./images/teams/betboom-team/save-.png) 🇷🇺 Save-](https://liquipedia.net/dota2/Save-)
-: [![](./images/teams/betboom-team/kataomi`.png) 🇷🇺 Kataomi`](https://liquipedia.net/dota2/Kataomi)
+: <span class="betboom core">[![](./images/teams/betboom-team/pure.png) Pure](<https://liquipedia.net/dota2/Pure_(Russian_player)>) 🇷🇺 Ivan Moskalenko<br/>(Иван Москаленко)</span>
+: <span class="betboom mid">[![](./images/teams/betboom-team/gpk.png) gpk](https://liquipedia.net/dota2/Gpk) 🇷🇺 Danil Skutin<br/>(Данил Скутин)</span>
+: <span class="betboom core">[![](./images/teams/betboom-team/miero.png) MieRo](https://liquipedia.net/dota2/MieRo) 🇷🇺 Matvey Vasyunin<br/>(Матвей Васюнин)</span>
+: <span class="betboom support">[![](./images/teams/betboom-team/save-.png) Save-](https://liquipedia.net/dota2/Save-) 🇲🇩 Vitalie Melnic<br/>(Виталий Мельник)</span>
+: <span class="betboom support">[![](./images/teams/betboom-team/kataomi`.png) Kataomi`](https://liquipedia.net/dota2/Kataomi) 🇷🇺 Vladislav Semenov<br/>(Владислав Семёнов)</span>
 
-[![](./images/teams/team-tidebound/team-tidebound.png) Team Tidebound](https://liquipedia.net/dota2/Team_Tidebound)
+[![Team Tidebound](./images/teams/team-tidebound/team-tidebound.png)](https://liquipedia.net/dota2/Team_Tidebound)
+: [Team Tidebound](https://liquipedia.net/dota2/Team_Tidebound)
 : China
-: [![](./images/teams/team-tidebound/shiro.png) 🇨🇳 shiro](https://liquipedia.net/dota2/Shiro)
-: [![](./images/teams/team-tidebound/nothingtosay.png) 🇲🇾 NothingToSay](https://liquipedia.net/dota2/NothingToSay)
-: [![](./images/teams/team-tidebound/bach.png) 🇨🇳 Bach](https://liquipedia.net/dota2/Faith_bian)
-: [![](./images/teams/team-tidebound/planet.png) 🇨🇳 planet](https://liquipedia.net/dota2/Planet)
-: [![](./images/teams/team-tidebound/y`.png) 🇨🇳 y`](https://liquipedia.net/dota2/Y%60)
+: <span class="tidebound core">[![](./images/teams/team-tidebound/shiro.png) shiro](https://liquipedia.net/dota2/Shiro) 🇨🇳 Guo Xuanang<br/>(郭轩昂)</span>
+: <span class="tidebound mid">[![](./images/teams/team-tidebound/nothingtosay.png) NothingToSay](https://liquipedia.net/dota2/NothingToSay) 🇲🇾 Cheng Jin Xiang<br/>(庄进祥)</span>
+: <span class="tidebound core">[![](./images/teams/team-tidebound/bach.png) 🏆 Bach](https://liquipedia.net/dota2/Faith_bian) 🇨🇳 Zhang Ruida<br/>(张睿达)</span>
+: <span class="tidebound support">[![](./images/teams/team-tidebound/planet.png) planet](https://liquipedia.net/dota2/Planet) 🇨🇳 Lin Hao<br/>(林灏)</span>
+: <span class="tidebound support">[![](./images/teams/team-tidebound/y`.png) 🏆 y`](https://liquipedia.net/dota2/Y%60) 🇨🇳 Zhang Yiping<br/>(张懿萍)</span>
 
-[![](./images/teams/team-spirit/team-spirit.png) Team Spirit](https://liquipedia.net/dota2/Team_Spirit)
+[![Team Spirit](./images/teams/team-spirit/team-spirit.png)](https://liquipedia.net/dota2/Team_Spirit)
+: [Team Spirit](https://liquipedia.net/dota2/Team_Spirit)
 : Eastern Europe
-: [![](./images/teams/team-spirit/yatoro.png) 🇺🇦 Yatoro](https://liquipedia.net/dota2/Yatoro) 🏆🏆
-: [![](./images/teams/team-spirit/larl.png) 🇷🇺 Larl](https://liquipedia.net/dota2/Larl) 🏆
-: [![](./images/teams/team-spirit/collapse.png) 🇷🇺 Collapse](https://liquipedia.net/dota2/Collapse) 🏆🏆
-: [![](./images/teams/team-spirit/rue.png) 🇷🇺 rue](https://liquipedia.net/dota2/Rue)
-: [![](./images/teams/team-spirit/miposhka.png) 🇷🇺 Miposhka](https://liquipedia.net/dota2/Miposhka) 🏆🏆
+: <span class="spirit core">[![](./images/teams/team-spirit/yatoro.png) 🏆🏆 Yatoro](https://liquipedia.net/dota2/Yatoro) 🇺🇦 Illya Mulyarchuk<br/>(Ілля Мулярчук)</span>
+: <span class="spirit mid">[![](./images/teams/team-spirit/larl.png) 🏆 Larl](https://liquipedia.net/dota2/Larl) 🇷🇺 Denis Sigitov<br/>(Денис Сигитов)</span>
+: <span class="spirit core">[![](./images/teams/team-spirit/collapse.png) 🏆🏆 Collapse](https://liquipedia.net/dota2/Collapse) 🇷🇺 Magomed Khalilov<br/>(Магомед Халилов)</span>
+: <span class="spirit support">[![](./images/teams/team-spirit/rue.png) rue](https://liquipedia.net/dota2/Rue) 🇷🇺 Aleksandr Filin<br/>(Александр Филин)</span>
+: <span class="spirit support">[![](./images/teams/team-spirit/miposhka.png) 🏆🏆 Miposhka](https://liquipedia.net/dota2/Miposhka) 🇷🇺 Yaroslav Naidenov<br/>(Ярослав Найдёнов)</span>
 
-[![](./images/teams/team-falcons/team-falcons.png) Team Falcons](https://liquipedia.net/dota2/Team_Falcons)
+[![Team Falcons](./images/teams/team-falcons/team-falcons.png)](https://liquipedia.net/dota2/Team_Falcons)
+: [Team Falcons](https://liquipedia.net/dota2/Team_Falcons)
 : Western Europe
-: [![](./images/teams/team-falcons/skiter.png) 🇸🇰 skiter](https://liquipedia.net/dota2/Skiter) 🏆
-: [![](./images/teams/team-falcons/malr1ne.png) 🇷🇺 Malr1ne](https://liquipedia.net/dota2/Malr1ne)
-: [![](./images/teams/team-falcons/atf.png) 🇯🇴 ATF](https://liquipedia.net/dota2/ATF)
-: [![](./images/teams/team-falcons/cr1t-.png) 🇩🇰 Cr1t-](https://liquipedia.net/dota2/Cr1t-)
-: [![](./images/teams/team-falcons/sneyking.png) 🇺🇸 Sneyking](https://liquipedia.net/dota2/Sneyking) 🏆
+: <span class="falcons core">[![](./images/teams/team-falcons/skiter.png) 🏆 skiter](https://liquipedia.net/dota2/Skiter) 🇸🇰 Oliver Lepko</span>
+: <span class="falcons mid">[![](./images/teams/team-falcons/malr1ne.png) Malr1ne](https://liquipedia.net/dota2/Malr1ne) 🇷🇺 Stanislav Potorak<br/>(Станислав Поторак)</span>
+: <span class="falcons core">[![](./images/teams/team-falcons/atf.png) ATF](https://liquipedia.net/dota2/ATF) 🇯🇴 Ammar Al-Assaf<br/>(عمار موسى العساف)</span>
+: <span class="falcons support">[![](./images/teams/team-falcons/cr1t-.png) Cr1t-](https://liquipedia.net/dota2/Cr1t-) 🇩🇰 Andreas Franck Nielsen</span>
+: <span class="falcons support">[![](./images/teams/team-falcons/sneyking.png) 🏆 Sneyking](https://liquipedia.net/dota2/Sneyking) 🇺🇸 Wu Jingjun<br/>(伍敬俊)</span>
 
-[![](./images/teams/tundra-esports/tundra-esports.png) Tundra Esports](https://liquipedia.net/dota2/Tundra_Esports)
+[![Tundra Esports](./images/teams/tundra-esports/tundra-esports.png)](https://liquipedia.net/dota2/Tundra_Esports)
+: [Tundra Esports](https://liquipedia.net/dota2/Tundra_Esports)
 : Western Europe
-: [![](./images/teams/tundra-esports/crystallis.png) 🇳🇱 Crystallis](https://liquipedia.net/dota2/Crystallis)
-: [![](./images/teams/tundra-esports/bzm.png) 🇧🇬 bzm](https://liquipedia.net/dota2/Bzm)
-: [![](./images/teams/tundra-esports/33.png) 🇮🇱 33](https://liquipedia.net/dota2/33) 🏆🏆
-: [![](./images/teams/tundra-esports/saksa.png) 🇲🇰 Saksa](https://liquipedia.net/dota2/Saksa) 🏆
-: [![](./images/teams/tundra-esports/whitemon.png) 🇦🇹 Tobi](https://liquipedia.net/dota2/Tobi)
+: <span class="tundra core">[![](./images/teams/tundra-esports/crystallis.png) Crystallis](https://liquipedia.net/dota2/Crystallis) 🇳🇱 Remco Arets</span>
+: <span class="tundra mid">[![](./images/teams/tundra-esports/bzm.png) bzm](https://liquipedia.net/dota2/Bzm) 🇧🇬 Bozhidar Bogdanov<br/>(Божидар Богданов)</span>
+: <span class="tundra core">[![](./images/teams/tundra-esports/33.png) 🏆🏆 33](https://liquipedia.net/dota2/33) 🇮🇱 Neta Shapira<br/>(נטע שפירא)</span>
+: <span class="tundra support">[![](./images/teams/tundra-esports/saksa.png) 🏆 Saksa](https://liquipedia.net/dota2/Saksa) 🇲🇰 Martin Sazdov<br/>(Мартин Саздов)</span>
+: <span class="tundra support">[![](./images/teams/tundra-esports/whitemon.png) Tobi](https://liquipedia.net/dota2/Tobi) 🇦🇹 Tobias Buchner</span>
 
-[![](./images/teams/yakutou-brothers/yakutou-brothers.png) Yakutou Brothers](https://liquipedia.net/dota2/Yakult_Brothers)
+[![Yakutou Brothers](./images/teams/yakutou-brothers/yakutou-brothers.png)](https://liquipedia.net/dota2/Yakult_Brothers)
+: [Yakutou Brothers](https://liquipedia.net/dota2/Yakult_Brothers)
 : China
-: [![](./images/teams/yakutou-brothers/flyfly.png) 🇨🇳 flyfly](https://liquipedia.net/dota2/Flyfly)
-: [![](./images/teams/yakutou-brothers/emo.png) 🇨🇳 Emo](https://liquipedia.net/dota2/Emo)
-: [![](./images/teams/yakutou-brothers/beyond.png) 🇨🇳 Beyond](https://liquipedia.net/dota2/Beyond)
-: [![](./images/teams/yakutou-brothers/boboka.png) 🇨🇳 BoBoka](https://liquipedia.net/dota2/BoBoKa)
-: [![](./images/teams/yakutou-brothers/oli.png) 🇲🇾 Oli](https://liquipedia.net/dota2/Oli)
+: <span class="yakotou core">[![](./images/teams/yakutou-brothers/flyfly.png) flyfly](https://liquipedia.net/dota2/Flyfly) 🇨🇳 Jin Zhiyi<br/>(金志意)</span>
+: <span class="yakotou mid">[![](./images/teams/yakutou-brothers/emo.png) Emo](https://liquipedia.net/dota2/Emo) 🇨🇳 Zhou Yi<br/>(周一)</span>
+: <span class="yakotou core">[![](./images/teams/yakutou-brothers/beyond.png) Beyond](https://liquipedia.net/dota2/Beyond) 🇨🇳 Xiang Zhenghong<br/>(向正红)</span>
+: <span class="yakotou support">[![](./images/teams/yakutou-brothers/boboka.png) BoBoka](https://liquipedia.net/dota2/BoBoKa) 🇨🇳 Ye Zhibiao<br/>(叶智标)</span>
+: <span class="yakotou support">[![](./images/teams/yakutou-brothers/oli.png) Oli](https://liquipedia.net/dota2/Oli) 🇲🇾 Chan Chon Kien<br/>(陈重建)</span>
 
 ### Regional Qualifiers
 
-[![](./images/teams/natus-vincere/natus-vincere.png) Natus Vincere](https://liquipedia.net/dota2/Natus_Vincere)
+[![Natus Vincere](./images/teams/natus-vincere/natus-vincere.png)](https://liquipedia.net/dota2/Natus_Vincere)
+: [Natus Vincere](https://liquipedia.net/dota2/Natus_Vincere)
 : Western Europe
-: [![](./images/teams/natus-vincere/gotthejuice.png) 🇺🇦 gotthejuice](https://liquipedia.net/dota2/Gotthejuice)
-: [![](./images/teams/natus-vincere/niku.png) 🇺🇦 Niku](https://liquipedia.net/dota2/Niku)
-: [![](./images/teams/natus-vincere/pma.png) 🇺🇦 pma](https://liquipedia.net/dota2/Pma)
-: [![](./images/teams/natus-vincere/zayac.png) 🇰🇬 Zayac](https://liquipedia.net/dota2/Zayac)
-: [![](./images/teams/natus-vincere/riddys.png) 🇺🇦 Riddys](https://liquipedia.net/dota2/Riddys)
+: <span class="navi core">[![](./images/teams/natus-vincere/gotthejuice.png) gotthejuice](https://liquipedia.net/dota2/Gotthejuice) 🇺🇦 Taras Linnikov<br/>(Тарас Лінніков)</span>
+: <span class="navi mid">[![](./images/teams/natus-vincere/niku.png) Niku](https://liquipedia.net/dota2/Niku) 🇺🇦 Artem Bachkur<br/>(Артем Бачкур)</span>
+: <span class="navi core">[![](./images/teams/natus-vincere/pma.png) pma](https://liquipedia.net/dota2/Pma) 🇺🇦 Yurii Prots<br/>(Юрій Проц)</span>
+: <span class="navi support">[![](./images/teams/natus-vincere/zayac.png) Zayac](https://liquipedia.net/dota2/Zayac) 🇰🇬 Baqyt Emiljanov<br/>(Бакыт Эмилжанов)</span>
+: <span class="navi support">[![](./images/teams/natus-vincere/riddys.png) Riddys](https://liquipedia.net/dota2/Riddys) 🇺🇦 Stanislav Mitroshkyn<br/>(Станіслав Мітрошкін)</span>
 
-[![](./images/teams/nigma-galaxy/nigma-galaxy.png) Nigma Galaxy](https://liquipedia.net/dota2/Nigma_Galaxy)
+[![Nigma Galaxy](./images/teams/nigma-galaxy/nigma-galaxy.png)](https://liquipedia.net/dota2/Nigma_Galaxy)
+: [Nigma Galaxy](https://liquipedia.net/dota2/Nigma_Galaxy)
 : Western Europe
-: [![](./images/teams/nigma-galaxy/ghost.png) 🇲🇾 Ghost](<https://liquipedia.net/dota2/Ghost_(Daniel_Chan)>)
-: [![](./images/teams/nigma-galaxy/sumail.png) 🇵🇰 Sumail](https://liquipedia.net/dota2/SumaiL) 🏆
-: [![](./images/teams/nigma-galaxy/no!ob.png) 🇱🇧 No!ob](https://liquipedia.net/dota2/No!ob)
-: [![](./images/teams/nigma-galaxy/omar.png) 🇱🇧 OmaR](https://liquipedia.net/dota2/OmaR)
-: [![](./images/teams/nigma-galaxy/gh.png) 🇱🇧 GH](https://liquipedia.net/dota2/GH)
+: <span class="nigma core">[![](./images/teams/nigma-galaxy/ghost.png) Ghost](<https://liquipedia.net/dota2/Ghost_(Daniel_Chan)>) 🇲🇾 Daniel Chan Kok Hong<br/>(陈国康)</span>
+: <span class="nigma mid">[![](./images/teams/nigma-galaxy/sumail.png) 🏆 Sumail](https://liquipedia.net/dota2/SumaiL) 🇵🇰 Syed Sumail Hassan<br/>(سید سمائل حسن)</span>
+: <span class="nigma core">[![](./images/teams/nigma-galaxy/no!ob.png) No!ob](https://liquipedia.net/dota2/No!ob) 🇱🇧 Tony Assaf</span>
+: <span class="nigma support">[![](./images/teams/nigma-galaxy/omar.png) OmaR](https://liquipedia.net/dota2/OmaR) 🇱🇧 Omar Moughrabi</span>
+: <span class="nigma support">[![](./images/teams/nigma-galaxy/gh.png) GH](https://liquipedia.net/dota2/GH) 🇱🇧 Maroun Merhej<br/>(مارون مرهج)</span>
 
-[![](./images/teams/aurora-gaming/aurora-gaming.png) Aurora Gaming](https://liquipedia.net/dota2/Aurora_Gaming)
+[![Aurora Gaming](./images/teams/aurora-gaming/aurora-gaming.png)](https://liquipedia.net/dota2/Aurora_Gaming)
+: [Aurora Gaming](https://liquipedia.net/dota2/Aurora_Gaming)
 : Eastern Europe
-: [![](./images/teams/aurora-gaming/nightfall.png) 🇷🇺 Nightfall](https://liquipedia.net/dota2/Nightfall)
-: [![](./images/teams/aurora-gaming/kiyotaka.png) 🇷🇺 kiyotaka](https://liquipedia.net/dota2/Kiyotaka)
-: [![](./images/teams/aurora-gaming/torontotokyo.png) 🇷🇺 TORONOTOTOKYO](https://liquipedia.net/dota2/TORONTOTOKYO) 🏆
-: [![](./images/teams/aurora-gaming/mira.png) 🇺🇦 Mira](https://liquipedia.net/dota2/Mira) 🏆🏆
-: [![](./images/teams/aurora-gaming/panto.png) 🇧🇾 panto](https://liquipedia.net/dota2/Panto)
+: <span class="aurora core">[![](./images/teams/aurora-gaming/nightfall.png) Nightfall](https://liquipedia.net/dota2/Nightfall) 🇷🇺 Egor Grigorenko<br/>(Егор Григоренко)</span>
+: <span class="aurora mid">[![](./images/teams/aurora-gaming/kiyotaka.png) kiyotaka](https://liquipedia.net/dota2/Kiyotaka) 🇷🇺 Gleb Zyryanov<br/>(Глеб Зырянов)</span>
+: <span class="aurora core">[![](./images/teams/aurora-gaming/torontotokyo.png) 🏆 TORONOTOTOKYO](https://liquipedia.net/dota2/TORONTOTOKYO) 🇷🇺 Alexander Khertek<br/>(Александр Хертек)</span>
+: <span class="aurora support">[![](./images/teams/aurora-gaming/mira.png) 🏆🏆 Mira](https://liquipedia.net/dota2/Mira) 🇺🇦 Myroslav Kolpakov<br/>(Мирослав Колпаков)</span>
+: <span class="aurora support">[![](./images/teams/aurora-gaming/panto.png) panto](https://liquipedia.net/dota2/Panto) 🇧🇾 Nikita Balaganin<br/>(Никита Балаганин)</span>
 
-[![](./images/teams/xtreme-gaming/xtreme-gaming.png) Xtreme Gaming](https://liquipedia.net/dota2/Xtreme_Gaming)
+[![Xtreme Gaming](./images/teams/xtreme-gaming/xtreme-gaming.png)](https://liquipedia.net/dota2/Xtreme_Gaming)
+: [Xtreme Gaming](https://liquipedia.net/dota2/Xtreme_Gaming)
 : China
-: [![](./images/teams/xtreme-gaming/ame.png) 🇨🇳 Ame](https://liquipedia.net/dota2/Ame)
-: [![](./images/teams/xtreme-gaming/xm.png) 🇨🇳 Xm](https://liquipedia.net/dota2/Xm)
-: [![](./images/teams/xtreme-gaming/xxs.png) 🇨🇳 Xxs](https://liquipedia.net/dota2/Xxs)
-: [![](./images/teams/xtreme-gaming/xinq.png) 🇨🇳 XinQ](https://liquipedia.net/dota2/XinQ)
-: [![](./images/teams/xtreme-gaming/xnova.png) 🇲🇾 xNova](https://liquipedia.net/dota2/XNova)
+: <span class="xtreme core">[![](./images/teams/xtreme-gaming/ame.png) Ame](https://liquipedia.net/dota2/Ame) 🇨🇳 Wang Chunyu<br/>(王淳煜
+)</span>
+: <span class="xtreme mid">[![](./images/teams/xtreme-gaming/xm.png) Xm](https://liquipedia.net/dota2/Xm) 🇨🇳 Guo Hongcheng<br/>(郭鸿铖)</span>
+: <span class="xtreme core">[![](./images/teams/xtreme-gaming/xxs.png) Xxs](https://liquipedia.net/dota2/Xxs) 🇨🇳 Lin Jing<br/>(林靖)</span>
+: <span class="xtreme support">[![](./images/teams/xtreme-gaming/xinq.png) XinQ](https://liquipedia.net/dota2/XinQ) 🇨🇳 Zhao Zixing<br/>(赵子星)</span>
+: <span class="xtreme support">[![](./images/teams/xtreme-gaming/xnova.png) xNova](https://liquipedia.net/dota2/XNova) 🇲🇾 Yap Jian Wei<br/>(叶建暐)</span>
 
-[![](./images/teams/team-nemesis/team-nemesis.png) Team Nemesis](https://liquipedia.net/dota2/Team_Nemesis)
+[![Team Nemesis](./images/teams/team-nemesis/team-nemesis.png)](https://liquipedia.net/dota2/Team_Nemesis)
+: [Team Nemesis](https://liquipedia.net/dota2/Team_Nemesis)
 : Southeast Asia
-: [![](./images/teams/team-nemesis/akashi.png) 🇵🇭 Akashi](https://liquipedia.net/dota2/Akashi)
-: [![](./images/teams/team-nemesis/mac.png) 🇵🇭 Mac](https://liquipedia.net/dota2/Mac)
-: [![](./images/teams/team-nemesis/raven.png) 🇵🇭 Raven](https://liquipedia.net/dota2/Raven)
-: [![](./images/teams/team-nemesis/jing.png) 🇵🇭 Jing](https://liquipedia.net/dota2/Jing)
-: [![](./images/teams/team-nemesis/erice.png) 🇵🇭 Erice](https://liquipedia.net/dota2/Erice)
+: <span class="nemesis core">[![](./images/teams/team-nemesis/akashi.png) Akashi](https://liquipedia.net/dota2/Akashi) 🇵🇭 Eljohn Canonigo Andales</span>
+: <span class="nemesis mid">[![](./images/teams/team-nemesis/mac.png) Mac](https://liquipedia.net/dota2/Mac) 🇵🇭 Mc Nicholson Montano Villanueva</span>
+: <span class="nemesis core">[![](./images/teams/team-nemesis/raven.png) Raven](https://liquipedia.net/dota2/Raven) 🇵🇭 Marc Polo Luis Fausto</span>
+: <span class="nemesis support">[![](./images/teams/team-nemesis/jing.png) Jing](https://liquipedia.net/dota2/Jing) 🇵🇭 John Rey Yee Duyan</span>
+: <span class="nemesis support">[![](./images/teams/team-nemesis/erice.png) Erice](https://liquipedia.net/dota2/Erice) 🇵🇭 James Erice Manalo Guerra</span>
 
-[![](./images/teams/boom-esports/boom-esports.png) BOOM Esports](https://liquipedia.net/dota2/BOOM_Esports)
+[![BOOM Esports](./images/teams/boom-esports/boom-esports.png)](https://liquipedia.net/dota2/BOOM_Esports)
+: [BOOM Esports](https://liquipedia.net/dota2/BOOM_Esports)
 : Southeast Asia
-: [![](./images/teams/boom-esports/jackky.png) 🇱🇦 jaCkky](https://liquipedia.net/dota2/JaCkky)
-: [![](./images/teams/boom-esports/armel.png) 🇵🇭 Armel](https://liquipedia.net/dota2/Armel)
-: [![](./images/teams/boom-esports/jabz.png) 🇹🇭 Jabz](https://liquipedia.net/dota2/Jabz)
-: [![](./images/teams/boom-esports/tims.png) 🇵🇭 TIMS](https://liquipedia.net/dota2/TIMS)
-: [![](./images/teams/boom-esports/jaunuel.png) 🇵🇭 Jaunuel](https://liquipedia.net/dota2/Jaunuel)
+: <span class="boom core">[![](./images/teams/boom-esports/jackky.png) jaCkky](https://liquipedia.net/dota2/JaCkky) 🇱🇦 Souliya Khoomphetsavong<br/>(ສຸລິຍາ ຂຸມເພັດຊະວົງ)</span>
+: <span class="boom mid">[![](./images/teams/boom-esports/armel.png) Armel](https://liquipedia.net/dota2/Armel) 🇵🇭 Armel Paul Luna Tabios</span>
+: <span class="boom core">[![](./images/teams/boom-esports/jabz.png) Jabz](https://liquipedia.net/dota2/Jabz) 🇹🇭 Anucha Jirawong<br/>(อนุชา จิระวงศ์)</span>
+: <span class="boom support">[![](./images/teams/boom-esports/tims.png) TIMS](https://liquipedia.net/dota2/TIMS) 🇵🇭 Timothy John Randrup</span>
+: <span class="boom support">[![](./images/teams/boom-esports/jaunuel.png) Jaunuel](https://liquipedia.net/dota2/Jaunuel) 🇵🇭 Jaunuel Arcilla</span>
 
-[![](./images/teams/wildcard/wildcard.png) Wildcard](https://liquipedia.net/dota2/Wildcard)
+[![Wildcard](./images/teams/wildcard/wildcard.png)](https://liquipedia.net/dota2/Wildcard)
+: [Wildcard](https://liquipedia.net/dota2/Wildcard)
 : North America
-: [![](./images/teams/wildcard/yamsun.png) 🇺🇸 Yamsun](https://liquipedia.net/dota2/Yamsun)
-: [![](./images/teams/wildcard/rcy.png) 🇺🇸 RCY](https://liquipedia.net/dota2/RCY)
-: [![](./images/teams/wildcard/fayde.png) 🇺🇸 Fayde](https://liquipedia.net/dota2/Fayde)
-: [![](./images/teams/wildcard/bignum.png) 🇺🇦 Bignum](https://liquipedia.net/dota2/Bignum)
-: [![](./images/teams/wildcard/speeed.png) 🇺🇸 Speeed](https://liquipedia.net/dota2/Speeed)
+: <span class="wildcard core">[![](./images/teams/wildcard/yamsun.png) Yamsun](https://liquipedia.net/dota2/Yamsun) 🇺🇸 Luke Wang</span>
+: <span class="wildcard mid">[![](./images/teams/wildcard/rcy.png) RCY](https://liquipedia.net/dota2/RCY) 🇺🇸 Francis Fundemera</span>
+: <span class="wildcard core">[![](./images/teams/wildcard/fayde.png) Fayde](https://liquipedia.net/dota2/Fayde) 🇺🇸 Victor Zuev</span>
+: <span class="wildcard support">[![](./images/teams/wildcard/bignum.png) Bignum](https://liquipedia.net/dota2/Bignum) 🇺🇦 Danil Shekhovtsov<br/>(Данило Шеховцов)</span>
+: <span class="wildcard support">[![](./images/teams/wildcard/speeed.png) Speeed](https://liquipedia.net/dota2/Speeed) 🇺🇸 Paul Bocchicchio</span>
 
-[![](./images/teams/heroic/heroic.png) HEROIC](https://liquipedia.net/dota2/HEROIC)
+[![HEROIC](./images/teams/heroic/heroic.png)](https://liquipedia.net/dota2/HEROIC)
+: [HEROIC](https://liquipedia.net/dota2/HEROIC)
 : South America
-: [![](./images/teams/heroic/yuma.png) 🇳🇮 Yuma](https://liquipedia.net/dota2/Yuma)
-: [![](./images/teams/heroic/4nalog.png) 🇧🇷 4nalog](https://liquipedia.net/dota2/4nalog)
-: [![](./images/teams/heroic/wisper.png) 🇧🇴 Wisper](https://liquipedia.net/dota2/Wisper)
-: [![](./images/teams/heroic/scofield.png) 🇵🇪 Scofield](https://liquipedia.net/dota2/Scofield)
-: [![](./images/teams/heroic/kj.png) 🇧🇷 KJ](https://liquipedia.net/dota2/KJ)
+: <span class="heroic core">[![](./images/teams/heroic/yuma.png) Yuma](https://liquipedia.net/dota2/Yuma) 🇳🇮 Yuma Benjamin Langlet</span>
+: <span class="heroic mid">[![](./images/teams/heroic/4nalog.png) 4nalog](https://liquipedia.net/dota2/4nalog) 🇧🇷 João Gabriel Giannini Santos</span>
+: <span class="heroic core">[![](./images/teams/heroic/wisper.png) Wisper](https://liquipedia.net/dota2/Wisper) 🇧🇴 Adrián Céspedes Dobles</span>
+: <span class="heroic support">[![](./images/teams/heroic/scofield.png) Scofield](https://liquipedia.net/dota2/Scofield) 🇵🇪 Elvis De la Cruz Peña</span>
+: <span class="heroic support">[![](./images/teams/heroic/kj.png) KJ](https://liquipedia.net/dota2/KJ) 🇧🇷 Matheus Santos Jungles Diniz</span>
 
 ---
 
-## **Talent**
+## Talent
 
 ### English
 
@@ -2094,36 +2116,36 @@ Opening Hours
 
 ---
 
-## **Format/Schedule**
+## Format/Schedule
 
 TBA
 
 ---
 
-## **Safety**
+## Safety
 
-### **Emergency Service Numbers**
+### Emergency Service Numbers
 
 112 -Fire and medical services  
 110 - Police emergencies
 
-### **Non-Emergency Police Number**
+### Non-Emergency Police Number
 
 (040) 428652510
 
 ---
 
-## **FAQ**
+## FAQ
 
 Ask your questions on the Reddit post or over on the [Crimson Witnesses Discord server](https://discord.gg/crimsonwitnesses) | [Alternative Link](https://discord.gg/B23tZvF)
 
 ---
 
-## **Acknowledgments**
+## Acknowledgments
 
 ---
 
-## **References**
+## References
 
 > [https://www.barclays-arena.de](https://www.barclays-arena.de)  
 > [https://misstourist.com/where-to-stay-in-hamburg-germany/](https://misstourist.com/where-to-stay-in-hamburg-germany/) (ref)  
@@ -2173,6 +2195,178 @@ Ask your questions on the Reddit post or over on the [Crimson Witnesses Discord 
   dl dt:first-child {
     margin-top: 0;
   }
+
+  /* Teams */
+  dl:has(span:is(.core, .support, .mid)) {
+    display: grid;
+    grid-template-columns: repeat(6, minmax(150px, 1fr));
+    column-gap: 12px;
+
+    dt {
+      grid-row: span 3;
+      margin-top: 24px;
+      align-items: start;
+    }
+
+    /* Name & Region */
+    dd:nth-of-type(7n + 1), dd:nth-of-type(7n + 2) {
+      grid-column: span 5;
+      padding: 0;
+    }
+
+    /* Team Name */
+    dd:nth-of-type(7n+1) {
+      height: min-content;
+      margin-top: 24px;
+      margin-bottom: 0px;
+      font-size: xx-large;
+      font-weight: 700;
+    }
+
+    /* Region */
+    dd:nth-of-type(7n+2) {
+      height: min-content;
+      font-weight: 700;
+    }
+
+    /* Players */
+    dd:has(span:is(.core, .support, .mid)) {
+      display: flex;
+      gap: 12px;
+      justify-content: center;
+      height: 100%;
+      padding: 0px;
+      margin-bottom: 0px;
+
+      span {
+        position: relative;
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+        border-radius: 8px;
+        padding-block: 0 12px;
+        padding-inline: 12px;
+        background-color: rgba(50, 33, 229, 0.15);
+        box-sizing: border-box;
+        font-size: small;
+        text-align: center;
+        text-wrap: pretty;
+        box-shadow: 0px 1px 4px rgba(12, 0, 40, 0.75),
+          0px 4px 8px rgba(12, 0, 40, 0.45),
+          0px 8px 16px rgba(12, 0, 40, 0.25);
+
+        &:before {
+          content: " ";
+          position: absolute;
+          top: 0;
+          left: 0;
+          width: 100%;
+          border-top-left-radius: 8px;
+          border-top-right-radius: 8px;
+          aspect-ratio: 1 / 1;
+        }
+
+        a {
+          display: flex;
+          flex-direction: column;
+          gap: 8px;
+          font-size: normal;
+          font-weight: 600;
+          margin-inline: -12px;
+          margin-bottom: 8px;
+
+          img {
+            position: relative;
+            display: block;
+            width: 100%;
+            aspect-ratio: 1 / 1;
+            object-fit: cover;
+            clip-path: content-box;
+            filter: drop-shadow(0px 0px 4px rgba(159, 33, 232, 0.45))
+              drop-shadow(0px 0px 12px rgba(159, 33, 232, 0.45))
+              drop-shadow(0px 0px 24px rgba(159, 33, 232, 0.75));
+            transition: filter 0.5s cubic-bezier(0.4, 0, 0.2, 1);
+          }
+
+          &:hover {
+            img {
+              filter: brightness(1.25)
+              drop-shadow(0px 0px 4px rgba(159, 33, 232, 0.45))
+              drop-shadow(0px 0px 12px rgba(159, 33, 232, 0.45))
+              drop-shadow(0px 0px 24px rgba(159, 33, 232, 0.75));
+            }
+          }
+        }
+
+        /* Team Backgrounds */
+
+        &.liquid:before {
+          background: center/cover url("./images/teams/team-liquid/bg-team-liquid.png");
+        }
+
+        &.paravision:before {
+          background: center/cover url("./images/teams/paravision/bg-paravision.png");
+        }
+
+        &.betboom:before {
+          background: center/cover url("./images/teams/betboom-team/bg-betboom-team.png");
+        }
+
+        &.tidebound:before {
+          background: center/cover url("./images/teams/team-tidebound/bg-team-tidebound.png");
+        }
+
+        &.spirit:before {
+          background: center/cover url("./images/teams/team-spirit/bg-team-spirit.png");
+        }
+
+        &.falcons:before {
+          background: center/cover url("./images/teams/team-falcons/bg-team-falcons.png");
+        }
+
+        &.tundra:before {
+          background: center/cover url("./images/teams/tundra-esports/bg-tundra-esports.png");
+        }
+
+        &.yakutou:before {
+          background: center/cover url("./images/teams/yakutou-brothers/bg-yakutou-brothers.png");
+        }
+
+        &.navi:before {
+          background: center/cover url("./images/teams/natus-vincere/bg-natus-vincere.png");
+        }
+
+        &.nigma:before {
+          background: center/cover url("./images/teams/nigma-galaxy/bg-nigma-galaxy.png");
+        }
+
+        &.aurora:before {
+          background: center/cover url("./images/teams/aurora-gaming/bg-aurora-gaming.png");
+        }
+
+        &.xtreme:before {
+          background: center/cover url("./images/teams/xtreme-gaming/bg-xtreme-gaming.png");
+        }
+
+        &.nemesis:before {
+          background: center/cover url("./images/teams/team-nemesis/bg-team-nemesis.png");
+        }
+
+        &.boom:before {
+          background: center/cover url("./images/teams/boom-esports/bg-boom-esports.png");
+        }
+
+        &.wildcard:before {
+          background: center/cover url("./images/teams/wildcard/bg-wildcard.png");
+        }
+
+        &.heroic:before {
+          background: center/cover url("./images/teams/heroic/bg-heroic.png");
+        }
+      }
+    }
+  }
+  
   dl dd > ul {
     display: flex;
     flex-wrap: wrap;
