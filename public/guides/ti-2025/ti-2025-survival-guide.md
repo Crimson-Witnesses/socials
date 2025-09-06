@@ -348,7 +348,7 @@ It is generally prohibited to bring any food and drink into the Barclays Arena. 
 
 Food options near the arena are fairly limited. These are the closest, but you should expect a trip to them to take an hour or more between walking and eating. Many more options are available within the locality but would require either public transport, a taxi, or a car share with others at the event.
 
-[![](./images/grill-pavillion.png) Grill-Pavillion](https://pommeskoenig.jimdoweb.com/)
+[![](./images/grill-pavillion.png) _Grill-Pavillion_](https://pommeskoenig.jimdoweb.com/)
 : <ul><li>🍳 Breakfast</li><li>🥪 Lunch</li><li>🍽️ Dinner</li><li>🍔 Fast Food</li><li>🥗 Vegetarian</li><li>🌱 Vegan</li><li>🍺 Beer</li></ul>
 : <address>
 
@@ -356,7 +356,7 @@ Food options near the arena are fairly limited. These are the closest, but you s
 
   </address>
 
-[![](./images/fruhstucksladen.png) Frühstücksladen](https://www.fruehstuecksladen-eidelstedt.de/)
+[![](./images/fruhstucksladen.png) _Frühstücksladen_](https://www.fruehstuecksladen-eidelstedt.de/)
 : <ul><li>🍳 Breakfast</li><li>🥪 Lunch</li><li>☕ Coffee</li></ul>
 : <address>
 
@@ -364,7 +364,7 @@ Food options near the arena are fairly limited. These are the closest, but you s
 
   </address>
 
-[![](./images/das-moin-moin.png) Das Moin Moin](https://www.dasmoinmoin.de/)
+[![](./images/das-moin-moin.png) _Das Moin Moin_](https://www.dasmoinmoin.de/)
 : <ul><li>🍳 Breakfast</li><li>🥪 Lunch</li><li>🍔 Fast Food</li><li>🍺 Beer</li></ul>
 : <address>
 
@@ -372,7 +372,7 @@ Food options near the arena are fairly limited. These are the closest, but you s
 
   </address>
 
-[![](./images/namaste-hamburg.png) Namaste Hamburg](https://www.namaste-food.de/)
+[![](./images/namaste-hamburg.png) _Namaste Hamburg_](https://www.namaste-food.de/)
 : <ul><li>🥪 Lunch</li><li>🍽️ Dinner</li><li>🥘 Indian</li><li>حلال Halal</li><li>🥗 Vegetarian</li><li>🌱 Vegan</li><li>🍺 Beer</li><li>🍷 Wine</li></ul>
 : <address>
 
@@ -380,7 +380,7 @@ Food options near the arena are fairly limited. These are the closest, but you s
 
   </address>
 
-[![](./images/bistro-picknick.png) Bistro Picknick](https://bistro-picknick.de)
+[![](./images/bistro-picknick.png) _Bistro Picknick_](https://bistro-picknick.de)
 : Informal all-day snack bar dispensing currywurst, goulash & other unpretentious offerings.
 : <ul><li>🍳 Breakfast</li><li>🥪 Lunch</li><li>🍽️ Dinner</li><li>🌱 Vegan</li><li>🍺 Beer</li><li>🍸 Cocktails</li><li>🍷 Wine</li></ul>
 : <address>
@@ -393,9 +393,11 @@ Food options near the arena are fairly limited. These are the closest, but you s
 
 Visit the [Google List](https://maps.app.goo.gl/7hS2okZWvrkhTcZ89) for the most up-to-date list.
 
-#### € (€2-20) - [Google List](https://maps.app.goo.gl/7hS2okZWvrkhTcZ89)
+#### € (€2-20)
 
-[![](./images/la-casita.png) La Casita](https://lacasita-azul.de/)
+[Google List](https://maps.app.goo.gl/7hS2okZWvrkhTcZ89)
+
+[![](./images/la-casita.png) _La Casita_](https://lacasita-azul.de/)
 : <ul><li>🥪 Lunch</li><li>🍽️ Dinner</li><li>🌮 Mexican</li><li>🥗 Vegetarian</li><li>🌱 Vegan</li><li>🍺 Beer</li><li>🍸 Cocktails</li><li>🍷 Wine</li></ul>
 : <address>
 
@@ -403,7 +405,7 @@ Visit the [Google List](https://maps.app.goo.gl/7hS2okZWvrkhTcZ89) for the most 
 
   </address>
 
-[![](./images/ottos-burger-ottensen.png) Otto's Burger Ottensen](https://www.ottosburger.com/)
+[![](./images/ottos-burger-ottensen.png) _Otto's Burger Ottensen_](https://www.ottosburger.com/)
 : <ul><li>🥪 Lunch</li><li>🍽️ Dinner</li><li>🍔 Burgers</li><li>🍺 Beer</li><li>🍸 Cocktails</li><li>🍷 Wine</li></ul>
 : <address>
 
@@ -411,7 +413,7 @@ Visit the [Google List](https://maps.app.goo.gl/7hS2okZWvrkhTcZ89) for the most 
 
   </address>
 
-[![](./images/ottos-burger-lange-reihe.png) Otto's Burger Lange Reihe](https://www.ottosburger.com/)
+[![](./images/ottos-burger-lange-reihe.png) _Otto's Burger Lange Reihe_](https://www.ottosburger.com/)
 : <ul><li>🥪 Lunch</li><li>🍽️ Dinner</li><li>🍔 Burgers</li><li>🍺 Beer</li><li>🍸 Cocktails</li><li>🍷 Wine</li></ul>
 : <address>
 
@@ -419,7 +421,7 @@ Visit the [Google List](https://maps.app.goo.gl/7hS2okZWvrkhTcZ89) for the most 
 
   </address>
 
-[![](./images/ottos-burger-grindel.png) Otto's Burger Grindel](https://www.ottosburger.com/)
+[![](./images/ottos-burger-grindel.png) _Otto's Burger Grindel_](https://www.ottosburger.com/)
 : <ul><li>🥪 Lunch</li><li>🍽️ Dinner</li><li>🍔 Burgers</li><li>🍺 Beer</li><li>🍸 Cocktails</li><li>🍷 Wine</li></ul>
 : <address>
 
@@ -427,7 +429,7 @@ Visit the [Google List](https://maps.app.goo.gl/7hS2okZWvrkhTcZ89) for the most 
 
   </address>
 
-[![](./images/ottos-burger-schanze.png) Otto's Burger Schanze](https://www.ottosburger.com/)
+[![](./images/ottos-burger-schanze.png) _Otto's Burger Schanze_](https://www.ottosburger.com/)
 : <ul><li>🥪 Lunch</li><li>🍽️ Dinner</li><li>🍔 Burgers</li><li>🍺 Beer</li><li>🍸 Cocktails</li><li>🍷 Wine</li></ul>
 : <address>
 
@@ -435,7 +437,7 @@ Visit the [Google List](https://maps.app.goo.gl/7hS2okZWvrkhTcZ89) for the most 
 
   </address>
 
-[![](./images/maharaja-go-go.png) Maharaja go-go](https://www.maharaja-hamburg.de/maharaja-41/index.php)
+[![](./images/maharaja-go-go.png) _Maharaja go-go_](https://www.maharaja-hamburg.de/maharaja-41/index.php)
 : <ul><li>🥪 Lunch</li><li>🍽️ Dinner</li><li>🥘 Indian</li><li>🥗 Vegetarian</li><li>🌱 Vegan</li><li>🍺 Beer</li><li>🍷 Wine</li></ul>
 : <address>
 
@@ -443,7 +445,7 @@ Visit the [Google List](https://maps.app.goo.gl/7hS2okZWvrkhTcZ89) for the most 
 
   </address>
 
-[![](./images/balutschistan.png) Balutschistan](https://www.balutschistan-schanze.de/)
+[![](./images/balutschistan.png) _Balutschistan_](https://www.balutschistan-schanze.de/)
 : <ul><li>🥪 Lunch</li><li>🍽️ Dinner</li><li>🍛 Pakistani</li><li>🍺 Beer</li><li>🍸 Cocktails</li><li>🍷 Wine</li></ul>
 : <address>
 
@@ -451,7 +453,7 @@ Visit the [Google List](https://maps.app.goo.gl/7hS2okZWvrkhTcZ89) for the most 
 
   </address>
 
-[![](./images/brucke-10-am-alten-elbtunnel.png) Brücke 10 am Alten Elbtunnel](https://bruecke10.com/)
+[![](./images/brucke-10-am-alten-elbtunnel.png) _Brücke 10 am Alten Elbtunnel_](https://bruecke10.com/)
 : <ul><li>🥪 Lunch</li><li>🐟 Seafood</li><li>🥗 Vegetarian</li><li>☕ Coffee</li><li>🍺 Beer</li></ul>
 : <address>
 
@@ -459,7 +461,7 @@ Visit the [Google List](https://maps.app.goo.gl/7hS2okZWvrkhTcZ89) for the most 
 
   </address>
 
-[![](./images/brucke-10.png) Brücke 10](https://bruecke10.com/)
+[![](./images/brucke-10.png) _Brücke 10_](https://bruecke10.com/)
 : Laid-back restaurant serving seafood sandwiches & beers on a landing stage by the harbor.
 : <ul><li>🥪 Lunch</li><li>🍽️ Dinner</li><li>🐟 Seafood</li><li>🌱 Vegan</li><li>🍺 Beer</li><li>🍷 Wine</li></ul>
 : <address>
@@ -468,7 +470,7 @@ Visit the [Google List](https://maps.app.goo.gl/7hS2okZWvrkhTcZ89) for the most 
 
   </address>
 
-[![](./images/taverna-olympisches-feuer.png) Taverna Olympisches Feuer](http://www.olympisches-feuer.de/) (Website may not function)
+[![](./images/taverna-olympisches-feuer.png) _Taverna Olympisches Feuer_](http://www.olympisches-feuer.de/) (Website may not function)
 : <ul><li>🥪 Lunch</li><li>🍽️ Dinner</li><li>🌱 Vegan</li><li>🍺 Beer</li><li>🍸 Cocktails</li><li>🍷 Wine</li></ul>
 : <address>
 
@@ -476,7 +478,7 @@ Visit the [Google List](https://maps.app.goo.gl/7hS2okZWvrkhTcZ89) for the most 
 
   </address>
 
-[![](./images/karo-fisch.png) Karo Fisch](https://karofisch.website/)
+[![](./images/karo-fisch.png) _Karo Fisch_](https://karofisch.website/)
 : Mediterranean seafood delicacies are offered in this compact, unpretentious eatery with a terrace.
 : <ul><li>🥪 Lunch</li><li>🍽️ Dinner</li><li>🥙 Mediterranean</li><li>🐟 Seafood</li><li>حلال Halal</li><li>🌱 Vegan</li><li>🍺 Beer</li><li>🍷 Wine</li></ul>
 : <address>
@@ -485,7 +487,7 @@ Visit the [Google List](https://maps.app.goo.gl/7hS2okZWvrkhTcZ89) for the most 
 
   </address>
 
-[![](./images/underdocks.png) Underdocks](https://underdocks.de/)
+[![](./images/underdocks.png) _Underdocks_](https://underdocks.de/)
 : Convivial locale with outdoor seating serving creative seafood rolls, sandwiches & tacos.
 : <ul><li>🥪 Lunch</li><li>🍽️ Dinner</li><li>🐟 Seafood</li><li>🌮 Tacos</li><li>🥗 Vegetarian</li><li>🌱 Vegan</li><li>🍺 Beer</li><li>🍸 Cocktails</li><li>🍷 Wine</li></ul>
 : <address>
@@ -504,7 +506,7 @@ Visit the [Google List](https://maps.app.goo.gl/7hS2okZWvrkhTcZ89) for the most 
 
   </address>
 
-[![](./images/schweinske-restaurant-bahrenfeld.png) Schweinske Restaurant Bahrenfeld](https://schweinske.de/standorte/bahrenfeld)
+[![](./images/schweinske-restaurant-bahrenfeld.png) _Schweinske Restaurant Bahrenfeld_](https://schweinske.de/standorte/bahrenfeld)
 : <ul><li>🍳 Breakfast</li><li>🥪 Lunch</li><li>🍽️ Dinner</li><li>🥨 German</li><li>🌱 Vegan</li><li>🍺 Beer</li><li>🍸 Cocktails</li><li>🍷 Wine</li></ul>
 : <address>
 
@@ -512,7 +514,7 @@ Visit the [Google List](https://maps.app.goo.gl/7hS2okZWvrkhTcZ89) for the most 
 
   </address>
 
-[![](./images/schweinske-restaurant-eimsbuttel.png) Schweinske Restaurant Eimsbüttel](https://schweinske.de/standorte/eimsbuettel)
+[![](./images/schweinske-restaurant-eimsbuttel.png) _Schweinske Restaurant Eimsbüttel_](https://schweinske.de/standorte/eimsbuettel)
 : <ul><li>🍳 Breakfast</li><li>🥪 Lunch</li><li>🍽️ Dinner</li><li>🥨 German</li><li>🌱 Vegan</li><li>🍺 Beer</li><li>🍸 Cocktails</li><li>🍷 Wine</li></ul>
 : <address>
 
@@ -520,7 +522,7 @@ Visit the [Google List](https://maps.app.goo.gl/7hS2okZWvrkhTcZ89) for the most 
 
   </address>
 
-[![](./images/jim-burritos.png) Jim Burrito's](https://www.jimburritos.com/)
+[![](./images/jim-burritos.png) _Jim Burrito's_](https://www.jimburritos.com/)
 : Compact, casual space offering Mexican specialties, cocktails & a take-out option.
 : <ul><li>🍽️ Dinner</li><li>🌮 Tacos</li><li>🥗 Vegetarian</li><li>🌱 Vegan</li><li>🍺 Beer</li><li>🍸 Cocktails</li></ul>
 : <address>
@@ -851,7 +853,9 @@ Wloka‘s
 
   </address>
 
-#### **€€ (€20-40) - [Google List](https://maps.app.goo.gl/YkuBzCRrxP4f9f6r7)**
+#### \*\*€€ (€20-40)
+
+[Google List](https://maps.app.goo.gl/YkuBzCRrxP4f9f6r7)\*\*
 
 Hatari Pfälzer Stube
 : <address>
@@ -1161,7 +1165,7 @@ LOKMAM KÖZ
 
   </address>
 
-[![](./images/the-madison-restaurant.png) The Madison Restaurant](the-madison-restaurant)
+[![](./images/the-madison-restaurant.png) _The Madison Restaurant_](the-madison-restaurant)
 : Trendy hotel restaurant offering all-day Italian- & Asian-inspired dining, plus a breakfast buffet.
 : <ul><li>🥪 Lunch</li><li>🍽 Dinner</li><li>🍝 Italian</li><li>🥗 Vegetarian</li><li>🍺 Beer</li><li>🍸 Cocktails</li><li>🍷 Wine</li></ul>
 : <address>
@@ -1170,7 +1174,7 @@ LOKMAM KÖZ
 
   </address>
 
-[![](./images/l'amira-steindamm.png) L'Amira Steindamm](https://lamira-steindamm.de/)
+[![](./images/l'amira-steindamm.png) _L'Amira Steindamm_](https://lamira-steindamm.de/)
 : <ul><li>🍳 Breakfast</li><li>🥪 Lunch</li><li>🍽 Dinner</li><li>🧆 Lebanese</li><li>حلال Halal</li><li>🥗 Vegetarian</li><li>🌱 Vegan</li></ul>
 : <address>
 
@@ -1178,7 +1182,7 @@ LOKMAM KÖZ
 
   </address>
 
-[![](./images/restaurant-charmant.png) Restaurant Charmant](https://www.restaurant-charmant.de/)
+[![](./images/restaurant-charmant.png) _Restaurant Charmant_](https://www.restaurant-charmant.de/)
 : Pasta dishes, pizzas, roast meats & schnitzels in tranquil, low-lit surroundings.
 : <ul><li>🥪 Lunch</li><li>🍽 Dinner</li><li>🥨 German</li><li>🍝 Pasta</li><li>🥗 Vegetarian</li><li>🍺 Beer</li><li>🍸 Cocktails</li><li>🍷 Wine</li></ul>
 : <address>
@@ -1187,9 +1191,11 @@ LOKMAM KÖZ
 
   </address>
 
-#### €€€ (€40-70) - [Google List](https://maps.app.goo.gl/Ydk34ZMjkxBuH9Vs8)
+#### €€€ (€40-70)
 
-[![](./images/kofookoo.png) Kofookoo](https://sushigrillbar.kofookoo.de/)
+[Google List](https://maps.app.goo.gl/Ydk34ZMjkxBuH9Vs8)
+
+[![](./images/kofookoo.png) _Kofookoo_](https://sushigrillbar.kofookoo.de/)
 : <ul><li>🥪 Lunch</li><li>🍽 Dinner</li><li>🍱 Japanese</li><li>🍣 Sushi</li><li>حلال Halal</li><li>🥗 Vegetarian</li><li>🌱 Vegan</li><li>🍺 Beer</li><li>🍸 Cocktails</li><li>🍷 Wine</li></ul>
 : <address>
 
@@ -1197,7 +1203,7 @@ LOKMAM KÖZ
 
   </address>
 
-[![](./images/tschebull-restaurant.png) Tschebull Restaurant|Beisl|Bar](https://www.tschebull.de/de/)
+[![](./images/tschebull-restaurant.png) _Tschebull Restaurant|Beisl|Bar_](https://www.tschebull.de/de/)
 : Classic Austrian-style tapas & meat dishes, plus a long wine list, in a formal dining room.
 : <ul><li>🥪 Lunch</li><li>🍽 Dinner</li><li>🥧 Austrian</li><li>🥩 Meat</li><li>🌱 Vegan</li><li>🍺 Beer</li><li>🍸 Cocktails</li><li>🍷 Wine</li></ul>
 : <address>
@@ -1206,7 +1212,7 @@ LOKMAM KÖZ
 
   </address>
 
-[![](./images/deichgraf-restaurant.png) Deichgraf Restaurant](https://speisekartenweb.de/restaurants/hamburg/deichgraf-restaurant-30023?utm_source=google_profile&utm_medium=google_profile&utm_campaign=admin)
+[![](./images/deichgraf-restaurant.png) _Deichgraf Restaurant_](https://speisekartenweb.de/restaurants/hamburg/deichgraf-restaurant-30023?utm_source=google_profile&utm_medium=google_profile&utm_campaign=admin)
 : Salted meat labskaus & other northern specialities in a posh dining room or on a sidewalk terrace.
 : <ul><li>📅 Reservation Required</li><li>🥪 Lunch</li><li>🍽 Dinner</li><li>🥨 German</li><li>🥩 Meat</li><li>🌱 Vegan</li><li>🍺 Beer</li><li>🍷 Wine</li></ul>
 : <address>
@@ -1215,7 +1221,7 @@ LOKMAM KÖZ
 
   </address>
 
-[![](./images/restaurant-cox.png) Restaurant Cox](https://www.restaurant-cox.de/cox.html)
+[![](./images/restaurant-cox.png) _Restaurant Cox_](https://www.restaurant-cox.de/cox.html)
 : Longstanding, rustic-chic tavern offering game dishes like wild boar & an extensive wine selection.
 : <ul><li>🥪 Lunch</li><li>🍽 Dinner</li><li>🥩 Meat</li><li>🥗 Vegetarian</li><li>🌱 Vegan</li><li>🍺 Beer</li><li>🍸 Cocktails</li><li>🍷 Wine</li></ul>
 : <address>
@@ -1224,7 +1230,7 @@ LOKMAM KÖZ
 
   </address>
 
-[![](./images/fischereihafen-restaurant.png) Fischereihafen Restaurant](https://www.fischereihafenrestaurant.de/en/)
+[![](./images/fischereihafen-restaurant.png) _Fischereihafen Restaurant_](https://www.fischereihafenrestaurant.de/en/)
 : Lively, long-running place for oysters, caviar & grilled seafood, with views of the harbor.
 : <ul><li>📅 Reservation Required</li><li>🥪 Lunch</li><li>🍽 Dinner</li><li>🐟 Seafood</li><li>🦪 Oysters</li><li>🍺 Beer</li><li>🍸 Cocktails</li><li>🍷 Wine</li></ul>
 : <address>
@@ -1233,7 +1239,7 @@ LOKMAM KÖZ
 
   </address>
 
-[![](./images/das-dorf.png) Das Dorf](https://restaurant-dorf.de/eng/)
+[![](./images/das-dorf.png) _Das Dorf_](https://restaurant-dorf.de/eng/)
 : Informal eatery serving local staples including schnitzel, meat plates & desserts, plus draft beer.
 : <ul><li>🍽 Dinner</li><li>🥨 German</li><li>🍺 Beer</li><li>🍸 Cocktails</li><li>🍷 Wine</li></ul>
 : <address>
@@ -1242,7 +1248,7 @@ LOKMAM KÖZ
 
   </address>
 
-[![](./images/neni.png) NENI](https://nenifood.com/restaurants/hamburg)
+[![](./images/neni.png) _NENI_](https://nenifood.com/restaurants/hamburg)
 : Upmarket Middle Eastern classics, served in an airy, industrial-chic space with kelim rugs.
 : <ul><li>🍳 Breakfast</li><li>🥪 Lunch</li><li>🍽 Dinner</li><li>🧆 Middle Eastern</li><li>حلال Halal</li><li>🥗 Vegetarian</li><li>🌱 Vegan</li><li>🍺 Beer</li><li>🍸 Cocktails</li><li>🍷 Wine</li></ul>
 : <address>
@@ -1251,7 +1257,7 @@ LOKMAM KÖZ
 
   </address>
 
-[![](./images/petit-bonheur.png) Petit Bonheur](https://www.petitbonheur-restaurant.de/)
+[![](./images/petit-bonheur.png) _Petit Bonheur_](https://www.petitbonheur-restaurant.de/)
 : Romantic restaurant with red walls & eclectic artwork, serving classic French dishes & wines.
 : <ul><li>🥪 Lunch</li><li>🍽 Dinner</li><li>🥖 French</li><li>🍺 Beer</li><li>🍸 Cocktails</li><li>🍷 Wine</li></ul>
 : <address>
@@ -1260,7 +1266,7 @@ LOKMAM KÖZ
 
   </address>
 
-[![](./images/philipps-restaurant.png) philipps Restaurant](https://www.philipps-restaurant.de/)
+[![](./images/philipps-restaurant.png) _philipps Restaurant_](https://www.philipps-restaurant.de/)
 : Modern space with a rustic-chic vibe for an international menu of pasta, schnitzels & steak tartare.
 : <ul><li>🥪 Lunch</li><li>🍽 Dinner</li><li>🥨 German</li><li>🍝 Pasta</li><li>🥩 Steak</li><li>🍺 Beer</li><li>🍸 Cocktails</li><li>🍷 Wine</li></ul>
 : <address>
@@ -1269,7 +1275,7 @@ LOKMAM KÖZ
 
   </address>
 
-[![](./images/restaurant-casa-di-roma.png) Restaurant Casa di Roma](https://casadiroma.de/)
+[![](./images/restaurant-casa-di-roma.png) _Restaurant Casa di Roma_](https://casadiroma.de/)
 : Creatively presented antipasti, pasta & mains, plus a robust wine list, at a stylish trattoria.
 : <ul><li>🥪 Lunch</li><li>🍽 Dinner</li><li>🍝 Italian</li><li>🥙 Mediterranean</li><li>🍺 Beer</li><li>🍸 Cocktails</li><li>🍷 Wine</li></ul>
 : <address>
@@ -1278,7 +1284,7 @@ LOKMAM KÖZ
 
   </address>
 
-[![](./images/patio-restaurant-weinbar.png) PATIO Restaurant Weinbar](https://patio.hamburg/)
+[![](./images/patio-restaurant-weinbar.png) _PATIO Restaurant Weinbar_](https://patio.hamburg/)
 : Contemporary Mediterranean cuisine, tapas & wine in a stylishly designed space with dark accents.
 : <ul><li>🍳 Breakfast</li><li>🥑 Brunch</li><li>🥪 Lunch</li><li>🍽 Dinner</li><li>🥙 Mediterranean</li><li>🍺 Beer</li><li>🍸 Cocktails</li><li>🍷 Wine</li></ul>
 : <address>
@@ -1287,7 +1293,7 @@ LOKMAM KÖZ
 
   </address>
 
-[![](./images/restaurant-freudenhaus-st-paulim.png) Restaurant Freudenhaus St. Paulim](https://www.stpauli-freudenhaus.de/restaurant/)
+[![](./images/restaurant-freudenhaus-st-paulim.png) _Restaurant Freudenhaus St. Paulim_](https://www.stpauli-freudenhaus.de/restaurant/)
 : Robust northern German meat & fish dishes in a cozy, elaborately decorated bar/restaurant.
 : <ul><li>📅 Reservation Required</li><li>🍽 Dinner</li><li>🥨 German</li><li>🐟 Seafood</li></ul>
 : <address>
@@ -1296,9 +1302,11 @@ LOKMAM KÖZ
 
   </address>
 
-#### €€€€ (€100+) - [Google List](https://maps.app.goo.gl/EbM1JYgna85GGrKGA)
+#### €€€€ (€100+)
 
-[![](./images/the-table.png) The Table](https://the-table-hamburg.de/)
+[Google List](https://maps.app.goo.gl/EbM1JYgna85GGrKGA)
+
+[![](./images/the-table.png) _The Table_](https://the-table-hamburg.de/)
 : Elevated global cuisine around a single table snaking around a stylish room with an open kitchen.
 : <ul><li>📅 Reservation Required</li><li>👨‍🍳 Fine Dining</li><li>🍽 Dinner</li><li>🍸 Cocktails</li><li>🍷 Wine</li></ul>
 : <address>
@@ -1307,7 +1315,7 @@ LOKMAM KÖZ
 
   </address>
 
-[![](./images/petit-amour.png) Petit Amour](https://petitamour-hh.com/)
+[![](./images/petit-amour.png) _Petit Amour_](https://petitamour-hh.com/)
 : Urbane choice with understated decor & a terrace specializing in imaginative French cuisine.
 : <ul><li>📅 Reservation Required</li><li>👨‍🍳 Fine Dining</li><li>🍽 Dinner</li><li>🥖 French</li><li>🍷 Wine</li></ul>
 : <address>
@@ -1316,7 +1324,7 @@ LOKMAM KÖZ
 
   </address>
 
-[![](./images/haerlin-restaurant.png) Haerlin Restaurant](https://hvj.de/en/restaurant-haerlin.html)
+[![](./images/haerlin-restaurant.png) _Haerlin Restaurant_](https://hvj.de/en/restaurant-haerlin.html)
 : Sophisticated plates of seasonally inspired cuisine, plus wine, offered in refined pastel surrounds.
 : <ul><li>⭐ Michelin Starred</li><li>📅 Reservation Required</li><li>👨‍🍳 Fine Dining</li><li>🍽 Dinner</li><li>🍸 Cocktails</li><li>🍷 Wine</li></ul>
 : <address>
@@ -1325,7 +1333,7 @@ LOKMAM KÖZ
 
   </address>
 
-[![](./images/lakeside.png) Lakeside](https://www.thefontenay.com/en/restaurants-bar/lakeside-restaurant)
+[![](./images/lakeside.png) _Lakeside_](https://www.thefontenay.com/en/restaurants-bar/lakeside-restaurant)
 : <ul><li>⭐ Michelin Starred</li><li>📅 Reservation Required</li><li>👨‍🍳 Fine Dining</li><li>🍽 Dinner</li><li>🍸 Cocktails</li><li>🍷 Wine</li></ul>
 : <address>
 
@@ -1333,7 +1341,7 @@ LOKMAM KÖZ
 
   </address>
 
-[![](./images/100-200-kitchen.png) 100/200 Kitchen](https://www.100200.kitchen/restaurant/)
+[![](./images/100-200-kitchen.png) _100/200 Kitchen_](https://www.100200.kitchen/restaurant/)
 : A changing seasonal menu with elegant plate presentations & wine in a funky warehouse setting.
 : <ul><li>⭐ Michelin Starred</li><li>📅 Reservation Required</li><li>👨‍🍳 Fine Dining</li><li>🥪 Lunch</li><li>🍽 Dinner</li><li>🍷 Wine</li></ul>
 : <address>
@@ -1342,7 +1350,7 @@ LOKMAM KÖZ
 
   </address>
 
-[![](./images/the-lisbeth.png) The Lisbeth](https://www.cantinepapalisbeth.de/)
+[![](./images/the-lisbeth.png) _The Lisbeth_](https://www.cantinepapalisbeth.de/)
 : Industrial-chic eatery with a sidewalk terrace featuring fish rolls, pasta & other seafood dishes.
 : <ul><li>👨‍🍳 Fine Dining</li><li>🍽 Dinner</li><li>🐟 Seafood</li><li>🍝 Pasta</li><li>🍷 Wine</li></ul>
 : <address>
@@ -1351,7 +1359,7 @@ LOKMAM KÖZ
 
   </address>
 
-[![](./images/le-petit-chef.png) Le Petit Chef](https://lepetitchef.com/Hamburg)
+[![](./images/le-petit-chef.png) _Le Petit Chef_](https://lepetitchef.com/Hamburg)
 : <ul><li>👨‍🍳 Fine Dining</li><li>🎭 Dinner Show</li><li>🥪 Lunch</li><li>🍽 Dinner</li><li>🍷 Wine</li></ul>
 : <address>
 
@@ -1359,7 +1367,7 @@ LOKMAM KÖZ
 
   </address>
 
-[![](./images/criss-studio.png) Criss Studio Polish-Jamaican](https://www.criss.studio/)
+[![](./images/criss-studio.png) _Criss Studio Polish-Jamaican_](https://www.criss.studio/)
 : <ul><li>📅 Reservation Required</li><li>👨‍🍳 Fine Dining</li><li>🍽 Dinner</li><li>🥟 Polish</li><li>🍗 Jamaican</li><li>🍷 Wine</li></ul>
 : <address>
 
@@ -1367,7 +1375,7 @@ LOKMAM KÖZ
 
   </address>
 
-[![](./images/restaurant-zeik.png) Restaurant Zeik](https://zeik.de/)
+[![](./images/restaurant-zeik.png) _Restaurant Zeik_](https://zeik.de/)
 : Elevated regional tasting menus with seasonal ingredients & optional wine pairings plus a terrace.
 : <ul><li>⭐ Michelin Starred</li><li>📅 Reservation Required</li><li>👨‍🍳 Fine Dining</li><li>🍽 Dinner</li><li>🍷 Wine</li></ul>
 : <address>
@@ -1376,7 +1384,7 @@ LOKMAM KÖZ
 
   </address>
 
-[![](./images/meatery-restaurant-and-bar.png) [m]eatery restaurant & botanist bar](https://www.meatery.de/restaurants-bar/meatery-hamburg/)
+[![](./images/meatery-restaurant-and-bar.png) _[m]eatery restaurant & botanist bar_](https://www.meatery.de/restaurants-bar/meatery-hamburg/)
 : <ul><li>📅 Reservation Required</li><li>👨‍🍳 Fine Dining</li><li>🍽 Dinner</li><li>🥩 Steakhouse</li><li>🍸 Cocktails</li></ul>
 : <address>
 
@@ -1384,7 +1392,7 @@ LOKMAM KÖZ
 
   </address>
 
-[![](./images/restaurant-atlantic-grill-and-health.png) Restaurant Atlantic Grill & Health](https://brhhh.com/atlantic-hamburg/taste/)
+[![](./images/restaurant-atlantic-grill-and-health.png) _Restaurant Atlantic Grill & Health_](https://brhhh.com/atlantic-hamburg/taste/)
 : Posh, wood-paneled eatery serving locally sourced seafood entrees & market-fresh salads, plus wine.
 : <ul><li>📅 Reservation Required</li><li>👨‍🍳 Fine Dining</li><li>🥪 Lunch</li><li>🍽 Dinner</li><li>🐟 Seafood</li><li>🍷 Wine</li></ul>
 : <address>
@@ -1393,7 +1401,7 @@ LOKMAM KÖZ
 
   </address>
 
-[![](./images/salt-and-silver.png) Salt & Silver](https://saltandsilver.de/restaurants/hamburg)
+[![](./images/salt-and-silver.png) _Salt & Silver_](https://saltandsilver.de/restaurants/hamburg)
 : Hip stop for creative tasting menus with Mexican & Peruvian dishes, plus a terrace for harbor views.
 : <ul><li>📅 Reservation Required</li><li>👨‍🍳 Fine Dining</li><li>🍽 Dinner</li><li>🌮 Mexican</li><li>🥘 Peruvian</li><li>🍷 Wine</li></ul>
 : <address>
@@ -2458,6 +2466,147 @@ Ask your questions on the Reddit post or over on the [Crimson Witnesses Discord 
 > [https://www.dialogue-se.com/what-we-do/dialogue-in-the-dark/](https://www.dialogue-se.com/what-we-do/dialogue-in-the-dark/)
 
 <style>
+  :root {
+    --text-gradient: linear-gradient(0deg, rgba(255, 255, 255, 0.15), rgba(255, 255, 255, 0.15)), linear-gradient(180deg, #FFFFFF 0%, #D3B8D7 100%);
+    --link-gradient: linear-gradient(0deg, rgba(38, 33, 90, 0.25), rgba(38, 33, 90, 0.25)), linear-gradient(180deg, #FFFFFF 0%, #D3B8D7 100%);
+  }
+
+  .github-markdown-body {
+    background: fixed center / cover url("../../bg.png");
+    padding-top: 64px !important;
+    color: #fcecfe;
+    font-family: 'Noto Sans', sans-serif;
+  }
+
+  .github-markdown-content {
+    display: flex;
+    flex-direction: column;
+    max-width: 1200px;
+    padding: 24px 24px 64px;
+    border-radius: 24px;
+    background: rgba(38, 33, 90, 0.25);
+    background-blend-mode: hard-light;
+    backdro-filter: blur(8px);
+    filter: drop-shadow(0px 2px 4px rgba(38, 33, 90, 0.5))
+      drop-shadow(0px 6px 12px rgba(38, 33, 90, 0.75))
+      drop-shadow(0px 16px 32px rgba(38, 33, 90, 0.25));
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    border-bottom: none !important;
+    background: var(--text-gradient);
+    background-blend-mode: screen, normal;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-family: 'Gemunu Libre', sans-serif;
+  }
+
+  h1 {
+    font-weight: 400;
+    font-size: 48px;
+    line-height: 140%;
+    letter-spacing: 0.04em;
+  }
+
+  h2 {
+    font-weight: 500;
+    font-size: 40px;
+    line-height: 140%;
+    letter-spacing: 0.06em;
+  }
+
+  h3 {
+    font-weight: 600;
+    font-size: 36px;
+    line-height: 130%;
+    letter-spacing: 0.06em;
+  }
+
+  h4 {
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 130%;
+    letter-spacing: 0.08em;
+  }
+
+  h5 {
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 120%;
+    letter-spacing: 0.08em;
+  }
+
+  h6 {
+    font-weight: 800;
+    font-size: 16px;
+    line-height: 120%;
+    letter-spacing: 0.12em;
+  }
+
+  p, dt, li {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 150%;
+    letter-spacing: 0.02em;
+  }
+
+  blockquote {
+    position: relative;
+    padding: 20px 24px;
+    border-left: none !important;
+    border-radius: 12px;
+    background: rgba(38, 33, 90, 0.25) !important;
+    background-blend-mode: color-burn;
+    backdrop-filter: blur(4px);
+
+    p {
+      font-style: italic;
+      font-weight: 300;
+      font-size: 18px;
+      line-height: 150%;
+      text-align: center;
+      letter-spacing: 0.02em;
+      background: linear-gradient(0deg, rgba(255, 255, 255, 0.15), rgba(255, 255, 255, 0.15)),
+        linear-gradient(180deg, #FFFFFF 0%, #D3B8D7 100%);
+      -webkit-text-fill-color: transparent;
+      background-blend-mode: screen, normal;
+      background-clip: text;
+    }
+
+    &:after {
+      position: absolute;
+      content: "";
+      top: 0;
+      left: 0;
+      bottom: 0;
+      right: 0;
+      border-radius: 12px;
+      mix-blend-mode: multiply;
+      box-shadow: inset 0px 2px 8px rgba(40, 34, 105, 0.3),
+        inset 0px 1px 3px rgba(40, 34, 105, 0.25),
+        inset 0px 1px 8px rgba(40, 34, 105, 0.15),
+        inset 0px -1px 8px rgba(40, 34, 105, 0.15),
+        inset 0px -1px 3px rgba(40, 34, 105, 0.7),
+        inset 0px -2px 8px rgba(40, 34, 105, 0.3);
+    }
+  }
+
+  a {
+    background: linear-gradient(0deg, rgba(38, 33, 90, 0.5), rgba(38, 33, 90, 0.5)), linear-gradient(180deg, #FFFFFF 0%, #D3B8D7 100%);
+    background-blend-mode: color-burn, normal;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    
+    &:hover {
+      text-decoration: underline;
+    }
+  }
+
+  p {
+    margin-block: 12px 32px !important;
+  }
+  
   dl {
     width: 100%;
     margin: auto 0;
@@ -2480,33 +2629,176 @@ Ask your questions on the Reddit post or over on the [Crimson Witnesses Discord 
       object-fit: cover;
     }
   }
-  dt > a:has(img) {
-    text-align: center;
-    filter: drop-shadow(0px 0px 4.5px rgba(50, 33, 229, 0.5))
-      drop-shadow(0px 0px 1px rgba(50, 33, 229, 0.9));
-
-    img {
-      display: block;
-      width: 100%;
-      max-width: 200px !important;
-      max-height: 200px;
-      aspect-ratio: 1 / 1;
-      object-fit: cover;
-    }
-  }
   dl dt:first-child {
     margin-top: 0;
   }
 
   /* Restaurant Lists */
   dl:has(ul) {
-    background: green;
+    width: 100%;
+    margin: auto 0;
+    columns: auto 300px;
+    column-fill: balance;
+    font-family: 'Noto Sans', sans-serif; 
+    font-weight: 400;
+    line-height: 130%;
+    text-wrap: pretty;
+
+    dt, dd {
+      width: 100%;
+      max-width: 300px;
+    }
+
+    /* Photo + Name */
+    dt a:has(img) {
+      position: relative;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      row-gap: 12px;
+      padding-bottom: 8px;
+      width: 100%;
+
+      img {
+        display: block;
+        width: 100%;
+        aspect-ratio: 3 / 2;
+        object-fit: cover;
+        border-radius: 8px;
+      }
+
+      &:before {
+        position: absolute;
+        content: "";
+        top: -20px;
+        left: 0;
+        width: 100%;
+        aspect-ratio: 3 / 2;
+        border-radius: 8px;
+        mix-blend-mode: multiply;
+        box-shadow: 0px 2px 4px rgba(72, 64, 182, 0.35),
+          0px 2px 8px rgba(72, 64, 182, 0.25),
+          0px 4px 16px rgba(72, 64, 182, 0.15);
+      }
+
+      /* Name */
+      em {
+        position: relative;
+        background: var(--text-gradient);
+        background-blend-mode: lighten, normal;
+        background-clip: text;
+        -webkit-text-fill-color: transparent;
+        font-size: 24px;
+        font-style: normal;
+        letter-spacing: 0.04em;
+        text-align: center;
+        filter: drop-shadow(0px 0px 2px rgba(159, 33, 232, 0.75))
+          drop-shadow(0px 0px 4px rgba(159, 33, 232, 0.55))
+          drop-shadow(0px 0px 8px rgba(159, 33, 232, 0.45));
+      }
+    }
+
+    /* Description */
+    dd:not(:has(ul, address)) {
+      padding-inline: 0px !important;
+
+      p {
+        background: var(--text-gradient);
+        background-blend-mode: screen, normal;
+        background-clip: text;
+        -webkit-text-fill-color: transparent;
+        font-size: 18px;
+      }
+    }
+
+    /* Tags */
+    dd:has(ul) {
+      padding: 8px 0px !important;
+
+      ul {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 4px;
+
+        li {
+          position: relative;
+          display: flex;
+          justify-content: center;
+          align-items: center;
+          padding-block: 4px;
+          padding-inline: 6px 8px;
+          border-radius: 12px;
+          background: rgba(159, 33, 232, 0.45);
+          background-blend-mode: lighten;
+          -webkit-text-fill-color: unset;
+          color: #FFFFFF;
+          font-size: 12px;
+          line-height: 16px;
+          letter-spacing: 0.02em;
+          backdrop-filter: blur(4px);
+
+          &:before {
+            position: absolute;
+            content: "";
+            top: 0;
+            left: 0;
+            bottom: 0;
+            right: 0;
+            border-radius: 12px;
+            mix-blend-mode: multiply;
+            box-shadow: 0px 1px 2px rgba(72, 64, 182, 0.35),
+              0px 2px 4px rgba(72, 64, 182, 0.25),
+              0px 4px 12px rgba(72, 64, 182, 0.15);
+          }
+        }
+      }
+    }
+
+    /* Address */
+    dd:has(address) {
+      position: relative;
+      padding-block: 4px 8px !important;
+      padding-inline: 0 !important;
+
+      address {
+        position: relative;
+        padding-inline: 44px 0 !important;
+        filter: drop-shadow(0px 0px 2px rgba(159, 33, 232, 0.75))
+          drop-shadow(0px 0px 4px rgba(159, 33, 232, 0.55))
+          drop-shadow(0px 0px 8px rgba(159, 33, 232, 0.45));
+
+        &:before {
+          position: absolute;
+          content: " ";
+          left: 0;
+          width: 44px;
+          height: 100%;
+          background: var(--link-gradient);
+          background-blend-mode: color-burn, normal;
+          mask: no-repeat center / 20px 20px url(./images/icons/location.svg);
+          mix-blend-mode: hard-light;
+        }
+
+        p {
+          margin: 0 !important;
+        }
+
+        a {
+          position: relative;
+          background: var(--link-gradient);
+          background-blend-mode: color-burn, normal;
+          background-clip: text;
+          -webkit-text-fill-color: transparent;
+          font-size: 18px;
+          letter-spacing: 0.04em;
+        }
+      }
+    }
   }
 
   /* Boardcast Talent Lists */
   ul:has(a > img) {
     display: grid;
-    grid-direction: column;
     grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
     justify-content: space-between;
     gap: 24px 12px;
@@ -2516,8 +2808,8 @@ Ask your questions on the Reddit post or over on the [Crimson Witnesses Discord 
       position: relative;
       border-radius: 8px;
       margin-top: 0px !important;
-        padding-block: 0 12px;
-        padding-inline: 12px;
+      padding-block: 0 12px;
+      padding-inline: 12px;
       background: rgba(38, 33, 90, 0.45);
       background-blend-mode: hard-light;
       box-shadow: 0px 2px 4px rgba(38, 33, 90, 0.5), 0px 6px 12px rgba(38, 33, 90, 0.75), 0px 16px 32px rgba(38, 33, 90, 0.25);
@@ -2566,7 +2858,7 @@ Ask your questions on the Reddit post or over on the [Crimson Witnesses Discord 
         flex-direction: column;
         align-items: center;
         margin-inline: -12px;
-        background: linear-gradient(0deg, rgba(255, 255, 255, 0.15), rgba(255, 255, 255, 0.15)), linear-gradient(180deg, #FFFFFF 0%, #D3B8D7 100%);
+        background: var(--text-gradient);
         background-blend-mode: screen, normal;
         background-clip: text;
         -webkit-text-fill-color: transparent;
@@ -2611,6 +2903,13 @@ Ask your questions on the Reddit post or over on the [Crimson Witnesses Discord 
       grid-row: span 3;
       margin-top: 24px;
       align-items: start;
+
+      img {
+        display: block;
+        width: 100%;
+        aspect-ratio: 1 / 1;
+        object-fit: cover;
+      }
     }
 
     /* Name & Region */
@@ -2626,12 +2925,23 @@ Ask your questions on the Reddit post or over on the [Crimson Witnesses Discord 
       margin-bottom: 0px;
       font-size: xx-large;
       font-weight: 700;
+
+      a {
+        background: var(--text-gradient);
+        background-blend-mode: screen, normal;
+        background-clip: text;
+        -webkit-text-fill-color: transparent;
+      }
     }
 
     /* Region */
     dd:nth-of-type(7n+2) {
       height: min-content;
       font-weight: 700;
+      background: var(--text-gradient);
+      background-blend-mode: screen, normal;
+      background-clip: text;
+      -webkit-text-fill-color: transparent;
     }
 
     /* Players */
