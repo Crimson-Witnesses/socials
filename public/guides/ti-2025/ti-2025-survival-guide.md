@@ -190,11 +190,9 @@ You can access the interior via **entrance E3**.
 **Entrance E4** is the entrance for guests of the Platinum Restaurant. This is also where you will usually find the organizer's guest list and the press accreditations.
 
 > [!Note] Food:
->
 > In the 17 fast food outlets spread across the lower and upper tiers, you will not only find arena classics such as currywurst and pizza but also vegetarian and vegan dishes.
 
 > [!Note] Drinks:
->
 > At 5 bars, they offer a wide range of non-alcoholic drinks, as well as beer, wine & spirits.
 >
 > It is generally not permitted to take drinks into the arena.
@@ -220,7 +218,6 @@ As the entrances and exits to most parking lots (especially BLUE, RED, BROWN, an
 For almost all events, you can purchase tickets for the VIP parking lots, gray and blue, which are located directly at the Barclays Arena. The parking tickets can usually be booked two months before the event via the respective event page.
 
 > [!Warning] IMPORTANT INFO!!
->
 > **Re-entry is only possible on special request. Please speak to our security staff on site. They will issue so-called "re-entry tickets" that will allow you to re-enter the arena.**
 >
 > **As a general rule, the validity of your ticket expires when you leave the arena.**
@@ -258,7 +255,6 @@ Hamburg's Old Town is a hub of culture and activity. Running alongside the Elbe,
 They all look incredibly well-kept, but in fact, a lot of them had to be painstakingly rebuilt after the bombing during World War II. That doesn't detract any from the experience though.
 
 > [!Tip]
->
 > This is a pretty good shout for those staying for the first time in Germany/Hamburg as it's reasonably safe and gives a good representation of the city itself. Some of the nicer hotels here can be a bit pricier, but they might be worth it for some!
 
 ### St Georg
@@ -268,17 +264,15 @@ Northeast of the Altstadt, the St Georg district spans from seedy sex shops arou
 The Hamburg Pride parade kicks off here each year, and the neighborhood remains the most vibrant LGBTQ quarter in town, centered around the hundreds of buzzing bars and cafés along the Lange Reihe. St Georg is also a thriving multi-ethnic community with many Turkish, Indian, Iranian, and Afghan eateries and minimarkets along the Steindamm and around Hansaplatz Square.
 
 > [!Tip]
->
 > If it can be avoided, it is advised not to stay here at all possible. The area is known as being unpleasant, and from reviews of those who have lived in this locality, it is reported that the area can become very unpleasant and unsafe at night, especially for those traveling alone, in pairs, or in small groups. Having said that, for those with a smaller budget, there are some great options here at a very, very reasonable price! This area will almost certainly offer the cheapest rates on accommodation!
 
 ### St Paulis
 
-Say hello to one of Europe's largest party districts!. The best pubs and clubs are here! The lively Reeperbahn sits in the middle, while surrounding it lies a swathe of fast food joints, nightlife, live music bars, and places to hang out. It’s loud, proud, and many a tourist head here for a good time! .
+Say hello to one of Europe's largest party districts!. The best pubs and clubs are here! The lively Reeperbahn sits in the pos2dle, while surrounding it lies a swathe of fast food joints, nightlife, live music bars, and places to hang out. It’s loud, proud, and many a tourist head here for a good time! .
 
 Head a bit further out, and you'll uncover a network of affordable bars down narrow alleys, including Große Freiheit, where the Beatles famously found their feet!
 
 > [!Tip]
->
 > This is a great place to stay for those wanting to be where there is plenty to do during the day and night while staying in Hamburg for the event. Staying here also offers a great central location with easy access to the rest of the city and easy links to public transport. This is a great place to stay for those coming in groups or looking for more to do at night after the event ends. Many of the more attractive accommodation options will go early here due to its popularity amongst tourists, so book early!
 
 ### Hafencity
@@ -288,7 +282,6 @@ South of Hamburg Altstadt, 1 km (under a mile) away from it, Hafencity is one of
 This place is super unique, so of course, it was named a UNESCO World Heritage Site. 
 
 > [!Tip]
->
 > This is a good place to stay if you want somewhere a bit quieter away from the crowds with plenty still to see and access to the city. Hotel and accommodation options here are not as widely available as some of the other areas mentioned here and can be quite pricey, but the area does present itself as a very unique location to stay.
 
 ### SternSchanze
@@ -298,7 +291,6 @@ Once the beating heart of Hamburg counter-culture, the Sternschanze—also known
 The Schanze remains one of the most engaging neighborhoods in Hamburg, with elegant buildings and a number of great bars, cafes, clubs, record stores, antique shops, and independent boutiques.
 
 > [!Tip]
->
 > This area offers some cool and reasonably priced accommodation options for those visiting for the event. There is a range of private hire accommodations, hotels and hostels here and the area might be perfect for those wanting to stay in an area with lots of character, things to do but all while staying for a reasonable price.
 
 ### Dammtor
@@ -309,7 +301,6 @@ Dammtor is also where a big train station is located, so you can stay in the are
 The downside of staying here is that there are no notable attractions. But you’re a quick 7-minute U-Han ride away from the City Center and will have a peaceful sleep at night!
 
 > [!Tip]
->
 > Accommodation options here are a bit more expensive than some of the other areas of the city, but this might suit those willing to spend a bit more while staying the city or for those that value a good night's sleep. This area, from previous experience, offers easy access to public transport to friends that also may be staying in other areas for the event!
 
 ### Altona Altstadt
@@ -319,7 +310,6 @@ Altona-Altstadt is located some 3 km (1.8 miles) from the City Center. If you’
 The district is also situated on the Elbe River, which means you’ll have some pretty awesome views, maybe even from your hotel room! 
 
 > [!Tip]
->
 > This area might be useful for those that are booking accommodation a lot closer in time to the event. With this area being a little further from the cities, prices on accommodation can be very reasonable and will more than likely be rooms available here a lot closer to the time of the event!
 
 ---
@@ -797,7 +787,7 @@ O-Ren Ishii
 
   </address>
 
-Comida Taqueria Mexicana
+Copos2a Taqueria Mexicana
 : <address>
 
     [Gerhart-Hauptmann-Platz 48<br/>20095 Hamburg](https://maps.app.goo.gl/mn8QMhVVCZJtVf9K6)
@@ -853,9 +843,9 @@ Wloka‘s
 
   </address>
 
-#### \*\*€€ (€20-40)
+#### €€ (€20-40)
 
-[Google List](https://maps.app.goo.gl/YkuBzCRrxP4f9f6r7)\*\*
+[Google List](https://maps.app.goo.gl/YkuBzCRrxP4f9f6r7)
 
 Hatari Pfälzer Stube
 : <address>
@@ -1249,8 +1239,8 @@ LOKMAM KÖZ
   </address>
 
 [![](./images/neni.png) _NENI_](https://nenifood.com/restaurants/hamburg)
-: Upmarket Middle Eastern classics, served in an airy, industrial-chic space with kelim rugs.
-: <ul><li>🍳 Breakfast</li><li>🥪 Lunch</li><li>🍽 Dinner</li><li>🧆 Middle Eastern</li><li>حلال Halal</li><li>🥗 Vegetarian</li><li>🌱 Vegan</li><li>🍺 Beer</li><li>🍸 Cocktails</li><li>🍷 Wine</li></ul>
+: Upmarket pos2dle Eastern classics, served in an airy, industrial-chic space with kelim rugs.
+: <ul><li>🍳 Breakfast</li><li>🥪 Lunch</li><li>🍽 Dinner</li><li>🧆 pos2dle Eastern</li><li>حلال Halal</li><li>🥗 Vegetarian</li><li>🌱 Vegan</li><li>🍺 Beer</li><li>🍸 Cocktails</li><li>🍷 Wine</li></ul>
 : <address>
 
     [Osakaallee 12<br/>20457 Hamburg](https://maps.app.goo.gl/aF8ML79sfSbw82m76)
@@ -1534,149 +1524,149 @@ Opening Hours
 [![Team Liquid](./images/teams/team-liquid/team-liquid.png)](https://liquipedia.net/dota2/Team_Liquid)
 : [Team Liquid](https://liquipedia.net/dota2/Team_Liquid)
 : Western Europe
-: <span class="liquid core">[![](./images/teams/team-liquid/m1cke.png) 🏆 miCKe](https://liquipedia.net/dota2/MiCKe) 🇸🇪 Michael Vu</span>
-: <span class="liquid mid">[![](./images/teams/team-liquid/nisha.png) 🏆 Nisha](https://liquipedia.net/dota2/Nisha) 🇵🇱 Michał Jankowski</span>
-: <span class="liquid core">[![](./images/teams/team-liquid/saberlight.png) SaberLight](https://liquipedia.net/dota2/SabeRLight-) 🇨🇿 Jonáš Volek</span>
-: <span class="liquid support">[![](./images/teams/team-liquid/boxi.png) 🏆 Boxi](https://liquipedia.net/dota2/Boxi) 🇸🇪 Samuel Svahn</span>
-: <span class="liquid support">[![](./images/teams/team-liquid/insania.png) 🏆 Insania](https://liquipedia.net/dota2/Insania) 🇸🇪 Aydin Sarkohi</span>
+: <span class="liquid pos1">[![](./images/teams/team-liquid/m1cke.png) 🏆 <em>miCKe</em>](https://liquipedia.net/dota2/MiCKe) 🇸🇪 Michael Vu</span>
+: <span class="liquid pos2">[![](./images/teams/team-liquid/nisha.png) 🏆 <em>Nisha</em>](https://liquipedia.net/dota2/Nisha) 🇵🇱 Michał Jankowski</span>
+: <span class="liquid pos3">[![](./images/teams/team-liquid/saberlight.png) <em>SaberLight</em>](https://liquipedia.net/dota2/SabeRLight-) 🇨🇿 Jonáš Volek</span>
+: <span class="liquid pos4">[![](./images/teams/team-liquid/boxi.png) 🏆 <em>Boxi</em>](https://liquipedia.net/dota2/Boxi) 🇸🇪 Samuel Svahn</span>
+: <span class="liquid pos5">[![](./images/teams/team-liquid/insania.png) 🏆 <em>Insania</em>](https://liquipedia.net/dota2/Insania) 🇸🇪 Aydin Sarkohi</span>
 
 [![PARAVISION](./images/teams/paravision/paravision.png)](https://liquipedia.net/dota2/PARIVISION)
 : [PARAVISION](https://liquipedia.net/dota2/PARIVISION)
 : Eastern Europe
-: <span class="paravision core">[![](./images/teams/paravision/satanic.png) Satanic](<https://liquipedia.net/dota2/Satanic_(Russian_player)>) 🇷🇺 Alan Gallyamov<br/>(Алан Галлямов)</span>
-: <span class="paravision mid">[![](./images/teams/paravision/no[o]ne-.png) No[o]ne-](https://liquipedia.net/dota2/Noone) 🇺🇦 Volodymyr Minenko<br/>(Володимир Міненко)</span>
-: <span class="paravision core">[![](./images/teams/paravision/dm.png) DM](https://liquipedia.net/dota2/DM) 🇷🇺 Dmitry Dorokhin<br/>(Дмитрий Дорохин)</span>
-: <span class="paravision support">[![](./images/teams/paravision/9class.png) 9Class](https://liquipedia.net/dota2/9Class) 🇷🇺 Edgar Naltakian<br/>(Эдгар Налтакян)</span>
-: <span class="paravision support">[![](./images/teams/paravision/dukalis.png) Dukalis](https://liquipedia.net/dota2/Dukalis) 🇷🇺 Andrey Kuropatkin<br/>(Андрей Куропаткин)</span>
+: <span class="paravision pos1">[![](./images/teams/paravision/satanic.png) <em>Satanic</em>](<https://liquipedia.net/dota2/Satanic_(Russian_player)%3E>) 🇷🇺 Alan Gallyamov<br/>(Алан Галлямов)</span>
+: <span class="paravision pos2">[![](./images/teams/paravision/no[o]ne-.png) <em>No[o]ne-</em>](https://liquipedia.net/dota2/Noone) 🇺🇦 Volodymyr Minenko<br/>(Володимир Міненко)</span>
+: <span class="paravision pos3">[![](./images/teams/paravision/dm.png) <em>DM</em>](https://liquipedia.net/dota2/DM) 🇷🇺 Dmitry Dorokhin<br/>(Дмитрий Дорохин)</span>
+: <span class="paravision pos4">[![](./images/teams/paravision/9class.png) <em>9Class</em>](https://liquipedia.net/dota2/9Class) 🇷🇺 Edgar Naltakian<br/>(Эдгар Налтакян)</span>
+: <span class="paravision pos5">[![](./images/teams/paravision/dukalis.png) <em>Dukalis</em>](https://liquipedia.net/dota2/Dukalis) 🇷🇺 Andrey Kuropatkin<br/>(Андрей Куропаткин)</span>
 
 [![BetBoom Team](./images/teams/betboom-team/betboom-team.png)](https://liquipedia.net/dota2/BetBoom_Team)
 : [BetBoom Team](https://liquipedia.net/dota2/BetBoom_Team)
 : Eastern Europe
-: <span class="betboom core">[![](./images/teams/betboom-team/pure.png) Pure](<https://liquipedia.net/dota2/Pure_(Russian_player)>) 🇷🇺 Ivan Moskalenko<br/>(Иван Москаленко)</span>
-: <span class="betboom mid">[![](./images/teams/betboom-team/gpk.png) gpk](https://liquipedia.net/dota2/Gpk) 🇷🇺 Danil Skutin<br/>(Данил Скутин)</span>
-: <span class="betboom core">[![](./images/teams/betboom-team/miero.png) MieRo](https://liquipedia.net/dota2/MieRo) 🇷🇺 Matvey Vasyunin<br/>(Матвей Васюнин)</span>
-: <span class="betboom support">[![](./images/teams/betboom-team/save-.png) Save-](https://liquipedia.net/dota2/Save-) 🇲🇩 Vitalie Melnic<br/>(Виталий Мельник)</span>
-: <span class="betboom support">[![](./images/teams/betboom-team/kataomi`.png) Kataomi`](https://liquipedia.net/dota2/Kataomi) 🇷🇺 Vladislav Semenov<br/>(Владислав Семёнов)</span>
+: <span class="betboom pos1">[![](./images/teams/betboom-team/pure.png) <em>Pure</em>](<https://liquipedia.net/dota2/Pure_(Russian_player)%3E>) 🇷🇺 Ivan Moskalenko<br/>(Иван Москаленко)</span>
+: <span class="betboom pos2">[![](./images/teams/betboom-team/gpk.png) <em>gpk</em>](https://liquipedia.net/dota2/Gpk) 🇷🇺 Danil Skutin<br/>(Данил Скутин)</span>
+: <span class="betboom pos3">[![](./images/teams/betboom-team/miero.png) <em>MieRo</em>](https://liquipedia.net/dota2/MieRo) 🇷🇺 Matvey Vasyunin<br/>(Матвей Васюнин)</span>
+: <span class="betboom pos4">[![](./images/teams/betboom-team/save-.png) <em>Save-</em>](https://liquipedia.net/dota2/Save-) 🇲🇩 Vitalie Melnic<br/>(Виталий Мельник)</span>
+: <span class="betboom pos5">[![](./images/teams/betboom-team/kataomi`.png) <em>Kataomi`</em>](https://liquipedia.net/dota2/Kataomi) 🇷🇺 Vladislav Semenov<br/>(Владислав Семёнов)</span>
 
 [![Team Tidebound](./images/teams/team-tidebound/team-tidebound.png)](https://liquipedia.net/dota2/Team_Tidebound)
 : [Team Tidebound](https://liquipedia.net/dota2/Team_Tidebound)
 : China
-: <span class="tidebound core">[![](./images/teams/team-tidebound/shiro.png) shiro](https://liquipedia.net/dota2/Shiro) 🇨🇳 Guo Xuanang<br/>(郭轩昂)</span>
-: <span class="tidebound mid">[![](./images/teams/team-tidebound/nothingtosay.png) NothingToSay](https://liquipedia.net/dota2/NothingToSay) 🇲🇾 Cheng Jin Xiang<br/>(庄进祥)</span>
-: <span class="tidebound core">[![](./images/teams/team-tidebound/bach.png) 🏆 Bach](https://liquipedia.net/dota2/Faith_bian) 🇨🇳 Zhang Ruida<br/>(张睿达)</span>
-: <span class="tidebound support">[![](./images/teams/team-tidebound/planet.png) planet](https://liquipedia.net/dota2/Planet) 🇨🇳 Lin Hao<br/>(林灏)</span>
-: <span class="tidebound support">[![](./images/teams/team-tidebound/y`.png) 🏆 y`](https://liquipedia.net/dota2/Y%60) 🇨🇳 Zhang Yiping<br/>(张懿萍)</span>
+: <span class="tidebound pos1">[![](./images/teams/team-tidebound/shiro.png) <em>shiro</em>](https://liquipedia.net/dota2/Shiro) 🇨🇳 Guo Xuanang<br/>(郭轩昂)</span>
+: <span class="tidebound pos2">[![](./images/teams/team-tidebound/nothingtosay.png) <em>NothingToSay</em>](https://liquipedia.net/dota2/NothingToSay) 🇲🇾 Cheng Jin Xiang<br/>(庄进祥)</span>
+: <span class="tidebound pos3">[![](./images/teams/team-tidebound/bach.png) 🏆 <em>Bach</em>](https://liquipedia.net/dota2/Faith_bian) 🇨🇳 Zhang Ruida<br/>(张睿达)</span>
+: <span class="tidebound pos4">[![](./images/teams/team-tidebound/planet.png) <em>planet</em>](https://liquipedia.net/dota2/Planet) 🇨🇳 Lin Hao<br/>(林灏)</span>
+: <span class="tidebound pos5">[![](./images/teams/team-tidebound/y`.png) 🏆 <em>y`</em>](https://liquipedia.net/dota2/Y%60) 🇨🇳 Zhang Yiping<br/>(张懿萍)</span>
 
 [![Team Spirit](./images/teams/team-spirit/team-spirit.png)](https://liquipedia.net/dota2/Team_Spirit)
 : [Team Spirit](https://liquipedia.net/dota2/Team_Spirit)
 : Eastern Europe
-: <span class="spirit core">[![](./images/teams/team-spirit/yatoro.png) 🏆🏆 Yatoro](https://liquipedia.net/dota2/Yatoro) 🇺🇦 Illya Mulyarchuk<br/>(Ілля Мулярчук)</span>
-: <span class="spirit mid">[![](./images/teams/team-spirit/larl.png) 🏆 Larl](https://liquipedia.net/dota2/Larl) 🇷🇺 Denis Sigitov<br/>(Денис Сигитов)</span>
-: <span class="spirit core">[![](./images/teams/team-spirit/collapse.png) 🏆🏆 Collapse](https://liquipedia.net/dota2/Collapse) 🇷🇺 Magomed Khalilov<br/>(Магомед Халилов)</span>
-: <span class="spirit support">[![](./images/teams/team-spirit/rue.png) rue](https://liquipedia.net/dota2/Rue) 🇷🇺 Aleksandr Filin<br/>(Александр Филин)</span>
-: <span class="spirit support">[![](./images/teams/team-spirit/miposhka.png) 🏆🏆 Miposhka](https://liquipedia.net/dota2/Miposhka) 🇷🇺 Yaroslav Naidenov<br/>(Ярослав Найдёнов)</span>
+: <span class="spirit pos1">[![](./images/teams/team-spirit/yatoro.png) 🏆🏆 <em>Yatoro</em>](https://liquipedia.net/dota2/Yatoro) 🇺🇦 Illya Mulyarchuk<br/>(Ілля Мулярчук)</span>
+: <span class="spirit pos2">[![](./images/teams/team-spirit/larl.png) 🏆 <em>Larl</em>](https://liquipedia.net/dota2/Larl) 🇷🇺 Denis Sigitov<br/>(Денис Сигитов)</span>
+: <span class="spirit pos3">[![](./images/teams/team-spirit/collapse.png) 🏆🏆 <em>Collapse</em>](https://liquipedia.net/dota2/Collapse) 🇷🇺 Magomed Khalilov<br/>(Магомед Халилов)</span>
+: <span class="spirit pos4">[![](./images/teams/team-spirit/rue.png) <em>rue</em>](https://liquipedia.net/dota2/Rue) 🇷🇺 Aleksandr Filin<br/>(Александр Филин)</span>
+: <span class="spirit pos5">[![](./images/teams/team-spirit/miposhka.png) 🏆🏆 <em>Miposhka</em>](https://liquipedia.net/dota2/Miposhka) 🇷🇺 Yaroslav Naidenov<br/>(Ярослав Найдёнов)</span>
 
 [![Team Falcons](./images/teams/team-falcons/team-falcons.png)](https://liquipedia.net/dota2/Team_Falcons)
 : [Team Falcons](https://liquipedia.net/dota2/Team_Falcons)
 : Western Europe
-: <span class="falcons core">[![](./images/teams/team-falcons/skiter.png) 🏆 skiter](https://liquipedia.net/dota2/Skiter) 🇸🇰 Oliver Lepko</span>
-: <span class="falcons mid">[![](./images/teams/team-falcons/malr1ne.png) Malr1ne](https://liquipedia.net/dota2/Malr1ne) 🇷🇺 Stanislav Potorak<br/>(Станислав Поторак)</span>
-: <span class="falcons core">[![](./images/teams/team-falcons/atf.png) ATF](https://liquipedia.net/dota2/ATF) 🇯🇴 Ammar Al-Assaf<br/>(عمار موسى العساف)</span>
-: <span class="falcons support">[![](./images/teams/team-falcons/cr1t-.png) Cr1t-](https://liquipedia.net/dota2/Cr1t-) 🇩🇰 Andreas Franck Nielsen</span>
-: <span class="falcons support">[![](./images/teams/team-falcons/sneyking.png) 🏆 Sneyking](https://liquipedia.net/dota2/Sneyking) 🇺🇸 Wu Jingjun<br/>(伍敬俊)</span>
+: <span class="falcons pos1">[![](./images/teams/team-falcons/skiter.png) 🏆 <em>skiter</em>](https://liquipedia.net/dota2/Skiter) 🇸🇰 Oliver Lepko</span>
+: <span class="falcons pos2">[![](./images/teams/team-falcons/malr1ne.png) <em>Malr1ne</em>](https://liquipedia.net/dota2/Malr1ne) 🇷🇺 Stanislav Potorak<br/>(Станислав Поторак)</span>
+: <span class="falcons pos3">[![](./images/teams/team-falcons/atf.png) <em>ATF</em>](https://liquipedia.net/dota2/ATF) 🇯🇴 Ammar Al-Assaf<br/>(عمار موسى العساف)</span>
+: <span class="falcons pos4">[![](./images/teams/team-falcons/cr1t-.png) <em>Cr1t-</em>](https://liquipedia.net/dota2/Cr1t-) 🇩🇰 Andreas Franck Nielsen</span>
+: <span class="falcons pos5">[![](./images/teams/team-falcons/sneyking.png) 🏆 <em>Sneyking</em>](https://liquipedia.net/dota2/Sneyking) 🇺🇸 Wu Jingjun<br/>(伍敬俊)</span>
 
 [![Tundra Esports](./images/teams/tundra-esports/tundra-esports.png)](https://liquipedia.net/dota2/Tundra_Esports)
 : [Tundra Esports](https://liquipedia.net/dota2/Tundra_Esports)
 : Western Europe
-: <span class="tundra core">[![](./images/teams/tundra-esports/crystallis.png) Crystallis](https://liquipedia.net/dota2/Crystallis) 🇳🇱 Remco Arets</span>
-: <span class="tundra mid">[![](./images/teams/tundra-esports/bzm.png) bzm](https://liquipedia.net/dota2/Bzm) 🇧🇬 Bozhidar Bogdanov<br/>(Божидар Богданов)</span>
-: <span class="tundra core">[![](./images/teams/tundra-esports/33.png) 🏆🏆 33](https://liquipedia.net/dota2/33) 🇮🇱 Neta Shapira<br/>(נטע שפירא)</span>
-: <span class="tundra support">[![](./images/teams/tundra-esports/saksa.png) 🏆 Saksa](https://liquipedia.net/dota2/Saksa) 🇲🇰 Martin Sazdov<br/>(Мартин Саздов)</span>
-: <span class="tundra support">[![](./images/teams/tundra-esports/whitemon.png) Tobi](https://liquipedia.net/dota2/Tobi) 🇦🇹 Tobias Buchner</span>
+: <span class="tundra pos1">[![](./images/teams/tundra-esports/crystallis.png) <em>Crystallis</em>](https://liquipedia.net/dota2/Crystallis) 🇳🇱 Remco Arets</span>
+: <span class="tundra pos2">[![](./images/teams/tundra-esports/bzm.png) <em>bzm</em>](https://liquipedia.net/dota2/Bzm) 🇧🇬 Bozhidar Bogdanov<br/>(Божидар Богданов)</span>
+: <span class="tundra pos3">[![](./images/teams/tundra-esports/33.png) 🏆🏆 <em>33</em>](https://liquipedia.net/dota2/33) 🇮🇱 Neta Shapira<br/>(נטע שפירא)</span>
+: <span class="tundra pos4">[![](./images/teams/tundra-esports/saksa.png) 🏆 <em>Saksa</em>](https://liquipedia.net/dota2/Saksa) 🇲🇰 Martin Sazdov<br/>(Мартин Саздов)</span>
+: <span class="tundra pos5">[![](./images/teams/tundra-esports/whitemon.png) <em>Tobi</em>](https://liquipedia.net/dota2/Tobi) 🇦🇹 Tobias Buchner</span>
 
 [![Yakutou Brothers](./images/teams/yakutou-brothers/yakutou-brothers.png)](https://liquipedia.net/dota2/Yakult_Brothers)
 : [Yakutou Brothers](https://liquipedia.net/dota2/Yakult_Brothers)
 : China
-: <span class="yakotou core">[![](./images/teams/yakutou-brothers/flyfly.png) flyfly](https://liquipedia.net/dota2/Flyfly) 🇨🇳 Jin Zhiyi<br/>(金志意)</span>
-: <span class="yakotou mid">[![](./images/teams/yakutou-brothers/emo.png) Emo](https://liquipedia.net/dota2/Emo) 🇨🇳 Zhou Yi<br/>(周一)</span>
-: <span class="yakotou core">[![](./images/teams/yakutou-brothers/beyond.png) Beyond](https://liquipedia.net/dota2/Beyond) 🇨🇳 Xiang Zhenghong<br/>(向正红)</span>
-: <span class="yakotou support">[![](./images/teams/yakutou-brothers/boboka.png) BoBoka](https://liquipedia.net/dota2/BoBoKa) 🇨🇳 Ye Zhibiao<br/>(叶智标)</span>
-: <span class="yakotou support">[![](./images/teams/yakutou-brothers/oli.png) Oli](https://liquipedia.net/dota2/Oli) 🇲🇾 Chan Chon Kien<br/>(陈重建)</span>
+: <span class="yakotou pos1">[![](./images/teams/yakutou-brothers/flyfly.png) <em>flyfly</em>](https://liquipedia.net/dota2/Flyfly) 🇨🇳 Jin Zhiyi<br/>(金志意)</span>
+: <span class="yakotou pos2">[![](./images/teams/yakutou-brothers/emo.png) <em>Emo</em>](https://liquipedia.net/dota2/Emo) 🇨🇳 Zhou Yi<br/>(周一)</span>
+: <span class="yakotou pos3">[![](./images/teams/yakutou-brothers/beyond.png) <em>Beyond</em>](https://liquipedia.net/dota2/Beyond) 🇨🇳 Xiang Zhenghong<br/>(向正红)</span>
+: <span class="yakotou pos4">[![](./images/teams/yakutou-brothers/boboka.png) <em>BoBoka</em>](https://liquipedia.net/dota2/BoBoKa) 🇨🇳 Ye Zhibiao<br/>(叶智标)</span>
+: <span class="yakotou pos5">[![](./images/teams/yakutou-brothers/oli.png) <em>Oli</em>](https://liquipedia.net/dota2/Oli) 🇲🇾 Chan Chon Kien<br/>(陈重建)</span>
 
 ### Regional Qualifiers
 
 [![Natus Vincere](./images/teams/natus-vincere/natus-vincere.png)](https://liquipedia.net/dota2/Natus_Vincere)
 : [Natus Vincere](https://liquipedia.net/dota2/Natus_Vincere)
 : Western Europe
-: <span class="navi core">[![](./images/teams/natus-vincere/gotthejuice.png) gotthejuice](https://liquipedia.net/dota2/Gotthejuice) 🇺🇦 Taras Linnikov<br/>(Тарас Лінніков)</span>
-: <span class="navi mid">[![](./images/teams/natus-vincere/niku.png) Niku](https://liquipedia.net/dota2/Niku) 🇺🇦 Artem Bachkur<br/>(Артем Бачкур)</span>
-: <span class="navi core">[![](./images/teams/natus-vincere/pma.png) pma](https://liquipedia.net/dota2/Pma) 🇺🇦 Yurii Prots<br/>(Юрій Проц)</span>
-: <span class="navi support">[![](./images/teams/natus-vincere/zayac.png) Zayac](https://liquipedia.net/dota2/Zayac) 🇰🇬 Baqyt Emiljanov<br/>(Бакыт Эмилжанов)</span>
-: <span class="navi support">[![](./images/teams/natus-vincere/riddys.png) Riddys](https://liquipedia.net/dota2/Riddys) 🇺🇦 Stanislav Mitroshkyn<br/>(Станіслав Мітрошкін)</span>
+: <span class="navi pos1">[![](./images/teams/natus-vincere/gotthejuice.png) <em>gotthejuice</em>](https://liquipedia.net/dota2/Gotthejuice) 🇺🇦 Taras Linnikov<br/>(Тарас Лінніков)</span>
+: <span class="navi pos2">[![](./images/teams/natus-vincere/niku.png) <em>Niku</em>](https://liquipedia.net/dota2/Niku) 🇺🇦 Artem Bachkur<br/>(Артем Бачкур)</span>
+: <span class="navi pos3">[![](./images/teams/natus-vincere/pma.png) <em>pma</em>](https://liquipedia.net/dota2/Pma) 🇺🇦 Yurii Prots<br/>(Юрій Проц)</span>
+: <span class="navi pos4">[![](./images/teams/natus-vincere/zayac.png) <em>Zayac</em>](https://liquipedia.net/dota2/Zayac) 🇰🇬 Baqyt Emiljanov<br/>(Бакыт Эмилжанов)</span>
+: <span class="navi pos5">[![](./images/teams/natus-vincere/riddys.png) <em>Riddys</em>](https://liquipedia.net/dota2/Riddys) 🇺🇦 Stanislav Mitroshkyn<br/>(Станіслав Мітрошкін)</span>
 
 [![Nigma Galaxy](./images/teams/nigma-galaxy/nigma-galaxy.png)](https://liquipedia.net/dota2/Nigma_Galaxy)
 : [Nigma Galaxy](https://liquipedia.net/dota2/Nigma_Galaxy)
 : Western Europe
-: <span class="nigma core">[![](./images/teams/nigma-galaxy/ghost.png) Ghost](<https://liquipedia.net/dota2/Ghost_(Daniel_Chan)>) 🇲🇾 Daniel Chan Kok Hong<br/>(陈国康)</span>
-: <span class="nigma mid">[![](./images/teams/nigma-galaxy/sumail.png) 🏆 Sumail](https://liquipedia.net/dota2/SumaiL) 🇵🇰 Syed Sumail Hassan<br/>(سید سمائل حسن)</span>
-: <span class="nigma core">[![](./images/teams/nigma-galaxy/no!ob.png) No!ob](https://liquipedia.net/dota2/No!ob) 🇱🇧 Tony Assaf</span>
-: <span class="nigma support">[![](./images/teams/nigma-galaxy/omar.png) OmaR](https://liquipedia.net/dota2/OmaR) 🇱🇧 Omar Moughrabi</span>
-: <span class="nigma support">[![](./images/teams/nigma-galaxy/gh.png) GH](https://liquipedia.net/dota2/GH) 🇱🇧 Maroun Merhej<br/>(مارون مرهج)</span>
+: <span class="nigma pos1">[![](./images/teams/nigma-galaxy/ghost.png) <em>Ghost</em>](<https://liquipedia.net/dota2/Ghost_(Daniel_Chan)%3E>) 🇲🇾 Daniel Chan Kok Hong<br/>(陈国康)</span>
+: <span class="nigma pos2">[![](./images/teams/nigma-galaxy/sumail.png) 🏆 <em>Sumail</em>](https://liquipedia.net/dota2/SumaiL) 🇵🇰 Syed Sumail Hassan<br/>(سید سمائل حسن)</span>
+: <span class="nigma pos3">[![](./images/teams/nigma-galaxy/no!ob.png) <em>No!ob</em>](https://liquipedia.net/dota2/No!ob) 🇱🇧 Tony Assaf</span>
+: <span class="nigma pos4">[![](./images/teams/nigma-galaxy/omar.png) <em>OmaR</em>](https://liquipedia.net/dota2/OmaR) 🇱🇧 Omar Moughrabi</span>
+: <span class="nigma pos5">[![](./images/teams/nigma-galaxy/gh.png) <em>GH</em>](https://liquipedia.net/dota2/GH) 🇱🇧 Maroun Merhej<br/>(مارون مرهج)</span>
 
 [![Aurora Gaming](./images/teams/aurora-gaming/aurora-gaming.png)](https://liquipedia.net/dota2/Aurora_Gaming)
 : [Aurora Gaming](https://liquipedia.net/dota2/Aurora_Gaming)
 : Eastern Europe
-: <span class="aurora core">[![](./images/teams/aurora-gaming/nightfall.png) Nightfall](https://liquipedia.net/dota2/Nightfall) 🇷🇺 Egor Grigorenko<br/>(Егор Григоренко)</span>
-: <span class="aurora mid">[![](./images/teams/aurora-gaming/kiyotaka.png) kiyotaka](https://liquipedia.net/dota2/Kiyotaka) 🇷🇺 Gleb Zyryanov<br/>(Глеб Зырянов)</span>
-: <span class="aurora core">[![](./images/teams/aurora-gaming/torontotokyo.png) 🏆 TORONOTOTOKYO](https://liquipedia.net/dota2/TORONTOTOKYO) 🇷🇺 Alexander Khertek<br/>(Александр Хертек)</span>
-: <span class="aurora support">[![](./images/teams/aurora-gaming/mira.png) 🏆🏆 Mira](https://liquipedia.net/dota2/Mira) 🇺🇦 Myroslav Kolpakov<br/>(Мирослав Колпаков)</span>
-: <span class="aurora support">[![](./images/teams/aurora-gaming/panto.png) panto](https://liquipedia.net/dota2/Panto) 🇧🇾 Nikita Balaganin<br/>(Никита Балаганин)</span>
+: <span class="aurora pos1">[![](./images/teams/aurora-gaming/nightfall.png) <em>Nightfall</em>](https://liquipedia.net/dota2/Nightfall) 🇷🇺 Egor Grigorenko<br/>(Егор Григоренко)</span>
+: <span class="aurora pos2">[![](./images/teams/aurora-gaming/kiyotaka.png) <em>kiyotaka</em>](https://liquipedia.net/dota2/Kiyotaka) 🇷🇺 Gleb Zyryanov<br/>(Глеб Зырянов)</span>
+: <span class="aurora pos3">[![](./images/teams/aurora-gaming/torontotokyo.png) 🏆 <em>TORONOTOTOKYO</em>](https://liquipedia.net/dota2/TORONTOTOKYO) 🇷🇺 Alexander Khertek<br/>(Александр Хертек)</span>
+: <span class="aurora pos4">[![](./images/teams/aurora-gaming/mira.png) 🏆🏆 <em>Mira</em>](https://liquipedia.net/dota2/Mira) 🇺🇦 Myroslav Kolpakov<br/>(Мирослав Колпаков)</span>
+: <span class="aurora pos5">[![](./images/teams/aurora-gaming/panto.png) <em>panto</em>](https://liquipedia.net/dota2/Panto) 🇧🇾 Nikita Balaganin<br/>(Никита Балаганин)</span>
 
 [![Xtreme Gaming](./images/teams/xtreme-gaming/xtreme-gaming.png)](https://liquipedia.net/dota2/Xtreme_Gaming)
 : [Xtreme Gaming](https://liquipedia.net/dota2/Xtreme_Gaming)
 : China
-: <span class="xtreme core">[![](./images/teams/xtreme-gaming/ame.png) Ame](https://liquipedia.net/dota2/Ame) 🇨🇳 Wang Chunyu<br/>(王淳煜
+: <span class="xtreme pos1">[![](./images/teams/xtreme-gaming/ame.png) <em>Ame</em>](https://liquipedia.net/dota2/Ame) 🇨🇳 Wang Chunyu<br/>(王淳煜
 )</span>
-: <span class="xtreme mid">[![](./images/teams/xtreme-gaming/xm.png) Xm](https://liquipedia.net/dota2/Xm) 🇨🇳 Guo Hongcheng<br/>(郭鸿铖)</span>
-: <span class="xtreme core">[![](./images/teams/xtreme-gaming/xxs.png) Xxs](https://liquipedia.net/dota2/Xxs) 🇨🇳 Lin Jing<br/>(林靖)</span>
-: <span class="xtreme support">[![](./images/teams/xtreme-gaming/xinq.png) XinQ](https://liquipedia.net/dota2/XinQ) 🇨🇳 Zhao Zixing<br/>(赵子星)</span>
-: <span class="xtreme support">[![](./images/teams/xtreme-gaming/xnova.png) xNova](https://liquipedia.net/dota2/XNova) 🇲🇾 Yap Jian Wei<br/>(叶建暐)</span>
+: <span class="xtreme pos2">[![](./images/teams/xtreme-gaming/xm.png) <em>Xm</em>](https://liquipedia.net/dota2/Xm) 🇨🇳 Guo Hongcheng<br/>(郭鸿铖)</span>
+: <span class="xtreme pos3">[![](./images/teams/xtreme-gaming/xxs.png) <em>Xxs</em>](https://liquipedia.net/dota2/Xxs) 🇨🇳 Lin Jing<br/>(林靖)</span>
+: <span class="xtreme pos4">[![](./images/teams/xtreme-gaming/xinq.png) <em>XinQ</em>](https://liquipedia.net/dota2/XinQ) 🇨🇳 Zhao Zixing<br/>(赵子星)</span>
+: <span class="xtreme pos5">[![](./images/teams/xtreme-gaming/xnova.png) <em>xNova</em>](https://liquipedia.net/dota2/XNova) 🇲🇾 Yap Jian Wei<br/>(叶建暐)</span>
 
 [![Team Nemesis](./images/teams/team-nemesis/team-nemesis.png)](https://liquipedia.net/dota2/Team_Nemesis)
 : [Team Nemesis](https://liquipedia.net/dota2/Team_Nemesis)
 : Southeast Asia
-: <span class="nemesis core">[![](./images/teams/team-nemesis/akashi.png) Akashi](https://liquipedia.net/dota2/Akashi) 🇵🇭 Eljohn Canonigo Andales</span>
-: <span class="nemesis mid">[![](./images/teams/team-nemesis/mac.png) Mac](https://liquipedia.net/dota2/Mac) 🇵🇭 Mc Nicholson Montano Villanueva</span>
-: <span class="nemesis core">[![](./images/teams/team-nemesis/raven.png) Raven](https://liquipedia.net/dota2/Raven) 🇵🇭 Marc Polo Luis Fausto</span>
-: <span class="nemesis support">[![](./images/teams/team-nemesis/jing.png) Jing](https://liquipedia.net/dota2/Jing) 🇵🇭 John Rey Yee Duyan</span>
-: <span class="nemesis support">[![](./images/teams/team-nemesis/erice.png) Erice](https://liquipedia.net/dota2/Erice) 🇵🇭 James Erice Manalo Guerra</span>
+: <span class="nemesis pos1">[![](./images/teams/team-nemesis/akashi.png) <em>Akashi</em>](https://liquipedia.net/dota2/Akashi) 🇵🇭 Eljohn Canonigo Andales</span>
+: <span class="nemesis pos2">[![](./images/teams/team-nemesis/mac.png) <em>Mac</em>](https://liquipedia.net/dota2/Mac) 🇵🇭 Mc Nicholson Montano Villanueva</span>
+: <span class="nemesis pos3">[![](./images/teams/team-nemesis/raven.png) <em>Raven</em>](https://liquipedia.net/dota2/Raven) 🇵🇭 Marc Polo Luis Fausto</span>
+: <span class="nemesis pos4">[![](./images/teams/team-nemesis/jing.png) <em>Jing</em>](https://liquipedia.net/dota2/Jing) 🇵🇭 John Rey Yee Duyan</span>
+: <span class="nemesis pos5">[![](./images/teams/team-nemesis/erice.png) <em>Erice</em>](https://liquipedia.net/dota2/Erice) 🇵🇭 James Erice Manalo Guerra</span>
 
 [![BOOM Esports](./images/teams/boom-esports/boom-esports.png)](https://liquipedia.net/dota2/BOOM_Esports)
 : [BOOM Esports](https://liquipedia.net/dota2/BOOM_Esports)
 : Southeast Asia
-: <span class="boom core">[![](./images/teams/boom-esports/jackky.png) jaCkky](https://liquipedia.net/dota2/JaCkky) 🇱🇦 Souliya Khoomphetsavong<br/>(ສຸລິຍາ ຂຸມເພັດຊະວົງ)</span>
-: <span class="boom mid">[![](./images/teams/boom-esports/armel.png) Armel](https://liquipedia.net/dota2/Armel) 🇵🇭 Armel Paul Luna Tabios</span>
-: <span class="boom core">[![](./images/teams/boom-esports/jabz.png) Jabz](https://liquipedia.net/dota2/Jabz) 🇹🇭 Anucha Jirawong<br/>(อนุชา จิระวงศ์)</span>
-: <span class="boom support">[![](./images/teams/boom-esports/tims.png) TIMS](https://liquipedia.net/dota2/TIMS) 🇵🇭 Timothy John Randrup</span>
-: <span class="boom support">[![](./images/teams/boom-esports/jaunuel.png) Jaunuel](https://liquipedia.net/dota2/Jaunuel) 🇵🇭 Jaunuel Arcilla</span>
+: <span class="boom pos1">[![](./images/teams/boom-esports/jackky.png) <em>jaCkky</em>](https://liquipedia.net/dota2/JaCkky) 🇱🇦 Souliya Khoomphetsavong<br/>(ສຸລິຍາ ຂຸມເພັດຊະວົງ)</span>
+: <span class="boom pos2">[![](./images/teams/boom-esports/armel.png) <em>Armel</em>](https://liquipedia.net/dota2/Armel) 🇵🇭 Armel Paul Luna Tabios</span>
+: <span class="boom pos3">[![](./images/teams/boom-esports/jabz.png) <em>Jabz</em>](https://liquipedia.net/dota2/Jabz) 🇹🇭 Anucha Jirawong<br/>(อนุชา จิระวงศ์)</span>
+: <span class="boom pos4">[![](./images/teams/boom-esports/tims.png) <em>TIMS</em>](https://liquipedia.net/dota2/TIMS) 🇵🇭 Timothy John Randrup</span>
+: <span class="boom pos5">[![](./images/teams/boom-esports/jaunuel.png) <em>Jaunuel</em>](https://liquipedia.net/dota2/Jaunuel) 🇵🇭 Jaunuel Arcilla</span>
 
 [![Wildcard](./images/teams/wildcard/wildcard.png)](https://liquipedia.net/dota2/Wildcard)
 : [Wildcard](https://liquipedia.net/dota2/Wildcard)
 : North America
-: <span class="wildcard core">[![](./images/teams/wildcard/yamsun.png) Yamsun](https://liquipedia.net/dota2/Yamsun) 🇺🇸 Luke Wang</span>
-: <span class="wildcard mid">[![](./images/teams/wildcard/rcy.png) RCY](https://liquipedia.net/dota2/RCY) 🇺🇸 Francis Fundemera</span>
-: <span class="wildcard core">[![](./images/teams/wildcard/fayde.png) Fayde](https://liquipedia.net/dota2/Fayde) 🇺🇸 Victor Zuev</span>
-: <span class="wildcard support">[![](./images/teams/wildcard/bignum.png) Bignum](https://liquipedia.net/dota2/Bignum) 🇺🇦 Danil Shekhovtsov<br/>(Данило Шеховцов)</span>
-: <span class="wildcard support">[![](./images/teams/wildcard/speeed.png) Speeed](https://liquipedia.net/dota2/Speeed) 🇺🇸 Paul Bocchicchio</span>
+: <span class="wildcard pos1">[![](./images/teams/wildcard/yamsun.png) <em>Yamsun</em>](https://liquipedia.net/dota2/Yamsun) 🇺🇸 Luke Wang</span>
+: <span class="wildcard pos2">[![](./images/teams/wildcard/rcy.png) <em>RCY</em>](https://liquipedia.net/dota2/RCY) 🇺🇸 Francis Fundemera</span>
+: <span class="wildcard pos3">[![](./images/teams/wildcard/fayde.png) <em>Fayde</em>](https://liquipedia.net/dota2/Fayde) 🇺🇸 Victor Zuev</span>
+: <span class="wildcard pos4">[![](./images/teams/wildcard/bignum.png) <em>Bignum</em>](https://liquipedia.net/dota2/Bignum) 🇺🇦 Danil Shekhovtsov<br/>(Данило Шеховцов)</span>
+: <span class="wildcard pos5">[![](./images/teams/wildcard/speeed.png) <em>Speeed</em>](https://liquipedia.net/dota2/Speeed) 🇺🇸 Paul Bocchicchio</span>
 
 [![HEROIC](./images/teams/heroic/heroic.png)](https://liquipedia.net/dota2/HEROIC)
 : [HEROIC](https://liquipedia.net/dota2/HEROIC)
 : South America
-: <span class="heroic core">[![](./images/teams/heroic/yuma.png) Yuma](https://liquipedia.net/dota2/Yuma) 🇳🇮 Yuma Benjamin Langlet</span>
-: <span class="heroic mid">[![](./images/teams/heroic/4nalog.png) 4nalog](https://liquipedia.net/dota2/4nalog) 🇧🇷 João Gabriel Giannini Santos</span>
-: <span class="heroic core">[![](./images/teams/heroic/wisper.png) Wisper](https://liquipedia.net/dota2/Wisper) 🇧🇴 Adrián Céspedes Dobles</span>
-: <span class="heroic support">[![](./images/teams/heroic/scofield.png) Scofield](https://liquipedia.net/dota2/Scofield) 🇵🇪 Elvis De la Cruz Peña</span>
-: <span class="heroic support">[![](./images/teams/heroic/kj.png) KJ](https://liquipedia.net/dota2/KJ) 🇧🇷 Matheus Santos Jungles Diniz</span>
+: <span class="heroic pos1">[![](./images/teams/heroic/yuma.png) <em>Yuma</em>](https://liquipedia.net/dota2/Yuma) 🇳🇮 Yuma Benjamin Langlet</span>
+: <span class="heroic pos2">[![](./images/teams/heroic/4nalog.png) <em>4nalog</em>](https://liquipedia.net/dota2/4nalog) 🇧🇷 João Gabriel Giannini Santos</span>
+: <span class="heroic pos3">[![](./images/teams/heroic/wisper.png) <em>Wisper</em>](https://liquipedia.net/dota2/Wisper) 🇧🇴 Adrián Céspedes Dobles</span>
+: <span class="heroic pos4">[![](./images/teams/heroic/scofield.png) <em>Scofield</em>](https://liquipedia.net/dota2/Scofield) 🇵🇪 Elvis De la Cruz Peña</span>
+: <span class="heroic pos5">[![](./images/teams/heroic/kj.png) <em>KJ</em>](https://liquipedia.net/dota2/KJ) 🇧🇷 Matheus Santos Jungles Diniz</span>
 
 ---
 
@@ -1684,55 +1674,55 @@ Opening Hours
 
 ### English
 
-- [![](./images/talent/english/siractionslacks.png) SirActionSlacks](https://liquipedia.net/dota2/SirActionSlacks)
+- [![](./images/talent/english/siractionslacks.png) _SirActionSlacks_](https://liquipedia.net/dota2/SirActionSlacks)
 
   🇺🇸 Jake Kanner
 
   Host
 
-- [![](./images/talent/english/lizzard.png) lizZard](https://liquipedia.net/dota2/LizZard)
+- [![](./images/talent/english/lizzard.png) _lizZard_](https://liquipedia.net/dota2/LizZard)
 
   🇧🇦 Admir Salkanović
 
   Analyst, Caster
 
-- [![](./images/talent/english/odpixel.png) ODPixel](https://liquipedia.net/dota2/ODPixel)
+- [![](./images/talent/english/odpixel.png) _ODPixel_](https://liquipedia.net/dota2/ODPixel)
 
   🇬🇧 Owen Davies
 
   Caster
 
-- [![](./images/talent/english/bkop.png) Bkop](https://liquipedia.net/dota2/Bkop)
+- [![](./images/talent/english/bkop.png) _Bkop_](https://liquipedia.net/dota2/Bkop)
 
   🇺🇸 Benjamin Kopilow
 
   Caster
 
-- [![](./images/talent/english/misery.png) Misery](https://liquipedia.net/dota2/MISERY)
+- [![](./images/talent/english/misery.png) _Misery_](https://liquipedia.net/dota2/MISERY)
 
   🇩🇰 Rasmus Berth Filipsen
 
   Analyst
 
-- [![](./images/talent/english/trent.png) trent](https://liquipedia.net/dota2/Trent)
+- [![](./images/talent/english/trent.png) _trent_](https://liquipedia.net/dota2/Trent)
 
   🇨🇦 Trent MacKenzie
 
   Caster
 
-- [![](./images/talent/english/cap.png) Cap](https://liquipedia.net/dota2/Cap)
+- [![](./images/talent/english/cap.png) _Cap_](https://liquipedia.net/dota2/Cap)
 
   🇺🇸 Austin Walsh
 
   Caster
 
-- [![](./images/talent/english/seeknstrike.png) SeekNStrike](https://liquipedia.net/dota2/SeekNStrike)
+- [![](./images/talent/english/seeknstrike.png) _SeekNStrike_](https://liquipedia.net/dota2/SeekNStrike)
 
   🇺🇸 Richie Garcia
 
   Caster
 
-- [![](./images/talent/english/ephey.png) Ephey](https://liquipedia.net/dota2/Ephey)
+- [![](./images/talent/english/ephey.png) _Ephey_](https://liquipedia.net/dota2/Ephey)
 
   🇯🇴 Mira Riad
 
@@ -1740,67 +1730,67 @@ Opening Hours
 
   Analyst
 
-- [![](./images/talent/english/nomad.png) Nomad](https://liquipedia.net/dota2/Nomad)
+- [![](./images/talent/english/nomad.png) _Nomad_](https://liquipedia.net/dota2/Nomad)
 
   🇬🇧 Jared Bajina
 
   Caster
 
-- [![](./images/talent/english/svg.png) SVG](https://liquipedia.net/dota2/SVG)
+- [![](./images/talent/english/svg.png) _SVG_](https://liquipedia.net/dota2/SVG)
 
   🇺🇸 Avery Silverman
 
   Caster
 
-- [![](./images/talent/english/reya.png) Reya](https://liquipedia.net/dota2/Sheepsticked)
+- [![](./images/talent/english/reya.png) _Reya_](https://liquipedia.net/dota2/Sheepsticked)
 
   🇬🇧 Alexandra Roberts
 
   Analyst
 
-- [![](./images/talent/english/winter.png) WinteR](https://liquipedia.net/dota2/WinteR)
+- [![](./images/talent/english/winter.png) _WinteR_](https://liquipedia.net/dota2/WinteR)
 
   🇲🇾 Chan Litt Binn
 
   Caster
 
-- [![](./images/talent/english/zquixotix.png) ZQuixotix](https://liquipedia.net/dota2/ZQuixotix)
+- [![](./images/talent/english/zquixotix.png) _ZQuixotix_](https://liquipedia.net/dota2/ZQuixotix)
 
   🇺🇸 Zachary Ang
 
   Caster
 
-- [![](./images/talent/english/lyrical.png) Lyrical](https://liquipedia.net/dota2/Lyrical)
+- [![](./images/talent/english/lyrical.png) _Lyrical_](https://liquipedia.net/dota2/Lyrical)
 
   🇺🇸 Gabriel Thomas Cruz
 
   Caster
 
-- [![](./images/talent/english/gareth.png) Gareth](https://liquipedia.net/dota2/Gareth)
+- [![](./images/talent/english/gareth.png) _Gareth_](https://liquipedia.net/dota2/Gareth)
 
   🇬🇧 Gareth Bateson
 
   Caster
 
-- [![](./images/talent/english/tsunami.png) tsunami](https://liquipedia.net/dota2/Tsunami)
+- [![](./images/talent/english/tsunami.png) _tsunami_](https://liquipedia.net/dota2/Tsunami)
 
   🇺🇸 Neal Khandheria
 
   Host, Analyst
 
-- [![](./images/talent/english/teaguvnor.png) TeaGuvnor](https://liquipedia.net/dota2/TeaGuvnor)
+- [![](./images/talent/english/teaguvnor.png) _TeaGuvnor_](https://liquipedia.net/dota2/TeaGuvnor)
 
   🇬🇧 Robson Merritt
 
   Caster, Analyst
 
-- [![](./images/talent/english/stormstormer.png) Stormstormer](https://liquipedia.net/dota2/Stormstormer)
+- [![](./images/talent/english/stormstormer.png) _Stormstormer_](https://liquipedia.net/dota2/Stormstormer)
 
   🇩🇪 Daniel Schoetzau
 
   Analyst
 
-- [![](./images/talent/english/fly.png) Fly](https://liquipedia.net/dota2/Fly)
+- [![](./images/talent/english/fly.png) _Fly_](https://liquipedia.net/dota2/Fly)
 
   🇮🇱 Tal Aizik
 
@@ -1808,91 +1798,91 @@ Opening Hours
 
   Analyst
 
-- [![](./images/talent/english/synderen.png) syndereN](https://liquipedia.net/dota2/SyndereN)
+- [![](./images/talent/english/synderen.png) _syndereN_](https://liquipedia.net/dota2/SyndereN)
 
   🇩🇰 Troels Lyngholt Nielsen
 
   Caster
 
-- [![](./images/talent/english/lacoste.png) Lacoste](https://liquipedia.net/dota2/Lacoste)
+- [![](./images/talent/english/lacoste.png) _Lacoste_](https://liquipedia.net/dota2/Lacoste)
 
   🇭🇷 Dominik Stipić
 
   Analyst
 
-- [![](./images/talent/english/purge.png) Purge](<https://liquipedia.net/dota2/Purge_(Kevin_Godec)>)
+- [![](./images/talent/english/purge.png) \_Purge](<https://liquipedia.net/dota2/Purge_(Kevin_Godec)>)
 
   🇺🇸 Kevin Godec
 
   Caster, Analyst
 
-- [![](./images/talent/english/sheever.png) Sheever](https://liquipedia.net/dota2/Sheever)
+- [![](./images/talent/english/sheever.png) _Sheever_](https://liquipedia.net/dota2/Sheever)
 
   🇳🇱 Jorien van der Heijden
 
   Host
 
-- [![](./images/talent/english/khezu.png) KheZu](https://liquipedia.net/dota2/KheZu)
+- [![](./images/talent/english/khezu.png) _KheZu_](https://liquipedia.net/dota2/KheZu)
 
   🇩🇪 Maurice Gutmann
 
   Analyst
 
-- [![](./images/talent/english/wagamama.png) Wagamama](https://liquipedia.net/dota2/Wagamama)
+- [![](./images/talent/english/wagamama.png) _Wagamama_](https://liquipedia.net/dota2/Wagamama)
 
   🇸🇪 Niklas Högström
 
   Caster
 
-- [![](./images/talent/english/f-dog.png) F-Dog](https://liquipedia.net/dota2/Fogged)
+- [![](./images/talent/english/f-dog.png) _F-Dog_](https://liquipedia.net/dota2/Fogged)
 
   🇺🇸 Ioannis Loucas
 
   Caster, Analyst
 
-- [![](./images/talent/english/pyrion-flax.png) Pyrion Flax](https://liquipedia.net/dota2/PyrionFlax)
+- [![](./images/talent/english/pyrion-flax.png) _Pyrion Flax_](https://liquipedia.net/dota2/PyrionFlax)
 
   🇬🇧 Ted Forsyth
 
   Caster, Analyst
 
-- [![](./images/talent/english/sunsfan.png) SUNSfan](https://liquipedia.net/dota2/SUNSfan)
+- [![](./images/talent/english/sunsfan.png) _SUNSfan_](https://liquipedia.net/dota2/SUNSfan)
 
   🇺🇸 Shannon Scotten
 
   Caster
 
-- [![](./images/talent/english/gunnar.png) Gunnar](https://liquipedia.net/dota2/Gunnar)
+- [![](./images/talent/english/gunnar.png) _Gunnar_](https://liquipedia.net/dota2/Gunnar)
 
   🇺🇸 Nicolas Lopez
 
   Analyst
 
-- [![](./images/talent/english/johnxfire.png) johnxfire](https://liquipedia.net/dota2/Johnxfire)
+- [![](./images/talent/english/johnxfire.png) _johnxfire_](https://liquipedia.net/dota2/Johnxfire)
 
   🇵🇭 John Nathan Fernandez
 
   Caster
 
-- [![](./images/talent/english/mlpdota.png) MLPDotA](https://liquipedia.net/dota2/MLPDotA)
+- [![](./images/talent/english/mlpdota.png) _MLPDotA_](https://liquipedia.net/dota2/MLPDotA)
 
   🇦🇺 Mike Le Phoenix
 
   Caster
 
-- [![](./images/talent/english/fear.png) Fear](<https://liquipedia.net/dota2/Fear_(Clinton_Loomis)>)
+- [![](./images/talent/english/fear.png) \_Fear](<https://liquipedia.net/dota2/Fear_(Clinton_Loomis)>)
 
   🇺🇸 Clinton Loomis
 
   Analyst
 
-- [![](./images/talent/english/nattea.png) NatTea](https://liquipedia.net/dota2/NatTea)
+- [![](./images/talent/english/nattea.png) _NatTea_](https://liquipedia.net/dota2/NatTea)
 
   🇦🇺 Natalie Mahoney
 
   Host
 
-- [![](./images/talent/english/jenkins.png) Jenkins](https://liquipedia.net/dota2/Jenkins)
+- [![](./images/talent/english/jenkins.png) _Jenkins_](https://liquipedia.net/dota2/Jenkins)
 
   🇨🇦 Andrew Jenkins
 
@@ -1900,7 +1890,7 @@ Opening Hours
 
 ### Russian
 
-- [![](./images/talent/russian/cloud-fox.png) Cloud Fox](https://liquipedia.net/dota2/Cloud_Fox)
+- [![](./images/talent/russian/cloud-fox.png) _Cloud Fox_](https://liquipedia.net/dota2/Cloud_Fox)
 
   🇷🇺 Victor Kulichevskiy
 
@@ -1908,7 +1898,7 @@ Opening Hours
 
   Caster, Analyst
 
-- [![](./images/talent//russian/zais.png) Zais](https://liquipedia.net/dota2/Zais)
+- [![](./images/talent//russian/zais.png) _Zais_](https://liquipedia.net/dota2/Zais)
 
   🇷🇺 Nikita Zakharov
 
@@ -1916,7 +1906,7 @@ Opening Hours
 
   Caster
 
-- [![](./images/talent/russian/kinda_high.png) kinda_high](https://liquipedia.net/dota2/kinda_high)
+- [![](./images/talent/russian/kinda_high.png) _kinda_high_](https://liquipedia.net/dota2/kinda_high)
 
   🇷🇺 Arkadii Krylov
 
@@ -1924,7 +1914,7 @@ Opening Hours
 
   Caster
 
-- [![](./images/talent/russian/flutterravie.png) flutterravie](https://liquipedia.net/dota2/flutterravie)
+- [![](./images/talent/russian/flutterravie.png) _flutterravie_](https://liquipedia.net/dota2/flutterravie)
 
   🇷🇺 Tosha Bersenev
 
@@ -1932,7 +1922,7 @@ Opening Hours
 
   Caster
 
-- [![](./images/talent/russian/4ce.png) 4ce](https://liquipedia.net/dota2/4ce)
+- [![](./images/talent/russian/4ce.png) _4ce_](https://liquipedia.net/dota2/4ce)
 
   🇷🇺 Nikita Kotkov
 
@@ -1940,7 +1930,7 @@ Opening Hours
 
   Caster
 
-- [![](./images/talent/russian/mantis.png) Mantis](https://liquipedia.net/dota2/Mantis)
+- [![](./images/talent/russian/mantis.png) _Mantis_](https://liquipedia.net/dota2/Mantis)
 
   🇰🇿 Yernar Urazbayev
 
@@ -1948,7 +1938,7 @@ Opening Hours
 
   Caster
 
-- [![](./images/talent/russian/santa.png) Santa](https://liquipedia.net/dota2/Santa)
+- [![](./images/talent/russian/santa.png) _Santa_](https://liquipedia.net/dota2/Santa)
 
   🇷🇺 Alexander Koltan
 
@@ -1956,7 +1946,7 @@ Opening Hours
 
   Caster
 
-- [![](./images/talent/russian/vasilisa.png) Vasilisa](https://liquipedia.net/dota2/Vasilisa)
+- [![](./images/talent/russian/vasilisa.png) _Vasilisa_](https://liquipedia.net/dota2/Vasilisa)
 
   🇷🇺 Vasilisa Chernova
 
@@ -1964,7 +1954,7 @@ Opening Hours
 
   Host
 
-- [![](./images/talent/russian/inmate.png) Inmate](https://liquipedia.net/dota2/Inmate)
+- [![](./images/talent/russian/inmate.png) _Inmate_](https://liquipedia.net/dota2/Inmate)
 
   🇷🇺 Dmitry Filinov
 
@@ -1972,7 +1962,7 @@ Opening Hours
 
   Caster, Analyst
 
-- [![](./images/talent/russian/jam.png) JAM](https://liquipedia.net/dota2/JAM)
+- [![](./images/talent/russian/jam.png) _JAM_](https://liquipedia.net/dota2/JAM)
 
   🇷🇺 Alexander Korotkov
 
@@ -1980,19 +1970,19 @@ Opening Hours
 
   Caster
 
-- [![](./images/talent/russian/grayne.png) Grayne](https://liquipedia.net/dota2/Grayne)
+- [![](./images/talent/russian/grayne.png) _Grayne_](https://liquipedia.net/dota2/Grayne)
 
   🇷🇺 Anton Afanasenko
 
   Caster
 
-- [![](./images/talent/russian/kawaiisocks.png) KawaiiSocks](https://liquipedia.net/dota2/KawaiiSocks)
+- [![](./images/talent/russian/kawaiisocks.png) _KawaiiSocks_](https://liquipedia.net/dota2/KawaiiSocks)
 
   🇰🇿 Temirlan Tattybekov
 
   Caster
 
-- [![](./images/talent/russian/maelstorm.png) Maelstorm](https://liquipedia.net/dota2/Maelstorm)
+- [![](./images/talent/russian/maelstorm.png) _Maelstorm_](https://liquipedia.net/dota2/Maelstorm)
 
   🇷🇺 Vladimir Kuzminov
 
@@ -2000,7 +1990,7 @@ Opening Hours
 
   Caster
 
-- [![](./images/talent/russian/blackarxangel.png) BLACKARXANGEL](https://liquipedia.net/dota2/BLACKARXANGEL)
+- [![](./images/talent/russian/blackarxangel.png) _BLACKARXANGEL_](https://liquipedia.net/dota2/BLACKARXANGEL)
 
   🇰🇿 Vladislav Ivachshenko
 
@@ -2008,7 +1998,7 @@ Opening Hours
 
   Analyst
 
-- [![](./images/talent/russian/starboy.png) STARBOY](https://liquipedia.net/dota2/STARBOY)
+- [![](./images/talent/russian/starboy.png) _STARBOY_](https://liquipedia.net/dota2/STARBOY)
 
   🇷🇺 Maxim Fomin
 
@@ -2016,7 +2006,7 @@ Opening Hours
 
   Caster
 
-- [![](./images/talent/russian/arszeeqq.png) ArsZeeqq](https://liquipedia.net/dota2/ArsZeeqq)
+- [![](./images/talent/russian/arszeeqq.png) _ArsZeeqq_](https://liquipedia.net/dota2/ArsZeeqq)
 
   🇷🇺 Arsenii Usov
 
@@ -2024,7 +2014,7 @@ Opening Hours
 
   Analyst
 
-- [![](./images/talent/russian/eiritel.png) Eiritel](https://liquipedia.net/dota2/Eiritel)
+- [![](./images/talent/russian/eiritel.png) _Eiritel_](https://liquipedia.net/dota2/Eiritel)
 
   🇷🇺 Dariya Morozova
 
@@ -2032,7 +2022,7 @@ Opening Hours
 
   Caster, Analyst
 
-- [![](./images/talent/russian/adekvat.png) Adekvat](https://liquipedia.net/dota2/Adekvat)
+- [![](./images/talent/russian/adekvat.png) _Adekvat_](https://liquipedia.net/dota2/Adekvat)
 
   🇷🇺 Rustam Mavliutov
 
@@ -2040,7 +2030,7 @@ Opening Hours
 
   Caster
 
-- [![](./images/talent/russian/smile.png) Smile](https://liquipedia.net/dota2/ARS-ART)
+- [![](./images/talent/russian/smile.png) _Smile_](https://liquipedia.net/dota2/ARS-ART)
 
   🇷🇺 Sergey Revin
 
@@ -2048,7 +2038,7 @@ Opening Hours
 
   Caster, Analyst
 
-- [![](./images/talent/russian/lex.png) Lex](https://liquipedia.net/dota2/Lex)
+- [![](./images/talent/russian/lex.png) _Lex_](https://liquipedia.net/dota2/Lex)
 
   🇧🇾 Alexey Filippov
 
@@ -2056,7 +2046,7 @@ Opening Hours
 
   Caster
 
-- [![](./images/talent/russian/vanskor.png) Vanskor](https://liquipedia.net/dota2/VANSKOR)
+- [![](./images/talent/russian/vanskor.png) _Vanskor_](https://liquipedia.net/dota2/VANSKOR)
 
   🇷🇺 Ivan Skorokhod
 
@@ -2064,7 +2054,7 @@ Opening Hours
 
   Analyst
 
-- [![](./images/talent/russian/y0nd.png) y0nd](https://liquipedia.net/dota2/Y0nd)
+- [![](./images/talent/russian/y0nd.png) _y0nd_](https://liquipedia.net/dota2/Y0nd)
 
   🇷🇺 Gleb Vazhnov
 
@@ -2072,7 +2062,7 @@ Opening Hours
 
   Analyst
 
-- [![](./images/talent/russian/mortalles.png) Mortalles](https://liquipedia.net/dota2/Mortalles)
+- [![](./images/talent/russian/mortalles.png) _Mortalles_](https://liquipedia.net/dota2/Mortalles)
 
   🇷🇺 Dmitry Arzhylovsky
 
@@ -2080,7 +2070,7 @@ Opening Hours
 
   Caster
 
-- [![](./images/talent/russian/fishman.png) Fishman](https://liquipedia.net/dota2/Fishman)
+- [![](./images/talent/russian/fishman.png) _Fishman_](https://liquipedia.net/dota2/Fishman)
 
   🇧🇾 Dzmitry Palishchuk
 
@@ -2088,7 +2078,7 @@ Opening Hours
 
   Analyst
 
-- [![](./images/talent/russian/autodestruction.png) Autodestruction](https://liquipedia.net/dota2/Autodestruction)
+- [![](./images/talent/russian/autodestruction.png) _Autodestruction_](https://liquipedia.net/dota2/Autodestruction)
 
   🇷🇺 Daria Medvedeva
 
@@ -2096,7 +2086,7 @@ Opening Hours
 
   Caster
 
-- [![](./images/talent/russian/crystalmay.png) CrystalMay](https://liquipedia.net/dota2/CrystalMay)
+- [![](./images/talent/russian/crystalmay.png) _CrystalMay_](https://liquipedia.net/dota2/CrystalMay)
 
   🇷🇺 Dmitry Korchevinin
 
@@ -2106,7 +2096,7 @@ Opening Hours
 
 ### Chinese
 
-- [![](./images/talent/chinese/ams.png) Ams](https://liquipedia.net/dota2/Ams)
+- [![](./images/talent/chinese/ams.png) _Ams_](https://liquipedia.net/dota2/Ams)
 
   🇨🇳 Chen Juan
 
@@ -2114,13 +2104,13 @@ Opening Hours
 
   Analyst
 
-- [![](./images/talent/chinese/wind.png) Wind](https://liquipedia.net/dota2/Wind)
+- [![](./images/talent/chinese/wind.png) _Wind_](https://liquipedia.net/dota2/Wind)
 
   🇨🇳 Wang Zhibo
 
   Caster
 
-- [![](./images/talent/chinese/cc.png) 璨璨cc](https://liquipedia.net/dota2/%E7%92%A8%E7%92%A8cc)
+- [![](./images/talent/chinese/cc.png) _璨璨cc_](https://liquipedia.net/dota2/%E7%92%A8%E7%92%A8cc)
 
   🇨🇳 Shi Cancan
 
@@ -2128,7 +2118,7 @@ Opening Hours
 
   Caster, Analyst
 
-- [![](./images/talent/chinese/super.png) super](<https://liquipedia.net/dota2/Super_(Su_Peng)>)
+- [![](./images/talent/chinese/super.png) \_super](<https://liquipedia.net/dota2/Super_(Su_Peng)>)
 
   🇨🇳 Su Peng
 
@@ -2136,13 +2126,13 @@ Opening Hours
 
   Analyst
 
-- [![](./images/talent/chinese/tokki.png) Tokki](https://liquipedia.net/dota2/XiiTuzi)
+- [![](./images/talent/chinese/tokki.png) _Tokki_](https://liquipedia.net/dota2/XiiTuzi)
 
   🇺🇸 Helen Xu
 
   Interviewer / Interpreter
 
-- [![](./images/talent/chinese/monet.png) Monet](https://liquipedia.net/dota2/Monet)
+- [![](./images/talent/chinese/monet.png) _Monet_](https://liquipedia.net/dota2/Monet)
 
   🇨🇳 Du Peng
 
@@ -2150,7 +2140,7 @@ Opening Hours
 
   Analyst
 
-- [![](./images/talent/chinese/lanm.png) LaNm](https://liquipedia.net/dota2/LaNm)
+- [![](./images/talent/chinese/lanm.png) _LaNm_](https://liquipedia.net/dota2/LaNm)
 
   🇨🇳 Zhang Zhicheng
 
@@ -2158,13 +2148,13 @@ Opening Hours
 
   Analyst
 
-- [![](./images/talent/chinese/jin.png) Jin](https://liquipedia.net/dota2/Jin)
+- [![](./images/talent/chinese/jin.png) _Jin_](https://liquipedia.net/dota2/Jin)
 
   🇨🇳 Jin Ru
 
   Interviewer / Interpreter
 
-- [![](./images//talent//chinese/yao.png) Yao](https://liquipedia.net/dota2/Yao)
+- [![](./images//talent//chinese/yao.png) _Yao_](https://liquipedia.net/dota2/Yao)
 
   🇨🇳 Yao Zhengzheng
 
@@ -2172,7 +2162,7 @@ Opening Hours
 
   Analyst
 
-- [![](./images/talent/chinese/sccc`.png) Sccc`](https://liquipedia.net/dota2/Sccc)
+- [![](./images/talent/chinese/sccc`.png) _Sccc`_](https://liquipedia.net/dota2/Sccc)
 
   🇨🇳 Song Chun
 
@@ -2180,7 +2170,7 @@ Opening Hours
 
   Caster, Analyst
 
-- [![](./images/talent/chinese/yuno.png) Yuno](https://liquipedia.net/dota2/Yuno)
+- [![](./images/talent/chinese/yuno.png) _Yuno_](https://liquipedia.net/dota2/Yuno)
 
   🇨🇳 Wang Jing
 
@@ -2188,7 +2178,7 @@ Opening Hours
 
   Caster, Analyst
 
-- [![](./images/talent/chinese/ero.png) Ero](https://liquipedia.net/dota2/Ero)
+- [![](./images/talent/chinese/ero.png) _Ero_](https://liquipedia.net/dota2/Ero)
 
   🇨🇳 Li Yao
 
@@ -2196,7 +2186,7 @@ Opening Hours
 
   Caster
 
-- [![](./images/talent/chinese/dy.png) Dy](https://liquipedia.net/dota2/Dy)
+- [![](./images/talent/chinese/dy.png) _Dy_](https://liquipedia.net/dota2/Dy)
 
   🇨🇳 Ding Cong
 
@@ -2204,13 +2194,13 @@ Opening Hours
 
   Analyst
 
-- [![](./images/talent/chinese/wang-yue.png) 朔月](https://liquipedia.net/dota2/%E6%9C%94%E6%9C%88)
+- [![](./images/talent/chinese/wang-yue.png) _朔月_](https://liquipedia.net/dota2/%E6%9C%94%E6%9C%88)
 
   🇨🇳 Wang Yue
 
   Caster
 
-- [![](./images/talent/chinese/freeagain.png) FreeAgain](https://liquipedia.net/dota2/FreeAgain)
+- [![](./images/talent/chinese/freeagain.png) _FreeAgain_](https://liquipedia.net/dota2/FreeAgain)
 
   🇨🇳 Hao Peng
 
@@ -2218,7 +2208,7 @@ Opening Hours
 
   Caster
 
-- [![](./images/talent/chinese/ori.png) Ori](https://liquipedia.net/dota2/Ori)
+- [![](./images/talent/chinese/ori.png) _Ori_](https://liquipedia.net/dota2/Ori)
 
   🇨🇳 Zeng Jiaoyang
 
@@ -2226,13 +2216,13 @@ Opening Hours
 
   Analyst
 
-- [![](./images/talent/chinese/yun.png) Yun]()
+- [![](./images/talent/chinese/yun.png) \_Yun]()
 
   🇨🇳 Chen Yunfan
 
   Caster
 
-- [![](./images/talent/chinese/lavenderaa.png) LavenderAA](<https://liquipedia.net/dota2/AA_(Li_Qiming)>)
+- [![](./images/talent/chinese/lavenderaa.png) \_LavenderAA](<https://liquipedia.net/dota2/AA_(Li_Qiming)>)
 
   🇨🇳 Li Qiming
 
@@ -2240,7 +2230,7 @@ Opening Hours
 
   Caster
 
-- [![](./images/talent/chinese/mashall.png) Mashall](https://liquipedia.net/dota2/Mashall)
+- [![](./images/talent/chinese/mashall.png) _Mashall_](https://liquipedia.net/dota2/Mashall)
 
   🇨🇳 Ma Shaowei
 
@@ -2248,7 +2238,7 @@ Opening Hours
 
   Caster
 
-- [![](./images/talent/chinese/mad-.png) Mad](https://liquipedia.net/dota2/Mad)
+- [![](./images/talent/chinese/mad-.png) _Mad_](https://liquipedia.net/dota2/Mad)
 
   🇨🇳 Cheng Han
 
@@ -2256,7 +2246,7 @@ Opening Hours
 
   Caster
 
-- [![](./images/talent/chinese/m4.png) M4](https://liquipedia.net/dota2/M4)
+- [![](./images/talent/chinese/m4.png) _M4_](https://liquipedia.net/dota2/M4)
 
   🇨🇳 Sun Yabin
 
@@ -2264,13 +2254,13 @@ Opening Hours
 
   Caster
 
-- [![](./images/talent/chinese/luna.png) Luna](<https://liquipedia.net/dota2/Luna_(Wang_Miqi)>)
+- [![](./images/talent/chinese/luna.png) \_Luna](<https://liquipedia.net/dota2/Luna_(Wang_Miqi)>)
 
   🇨🇳 Wang Miqi
 
   Caster
 
-- [![](./images/talent/chinese/bbc.png) BBC](https://liquipedia.net/dota2/BBC)
+- [![](./images/talent/chinese/bbc.png) _BBC_](https://liquipedia.net/dota2/BBC)
 
   🇨🇳 Zhang Hongsheng
 
@@ -2280,145 +2270,145 @@ Opening Hours
 
 ### Spanish
 
-- [![](./images/talent/spanish/doncookie.png) DonCookie](https://liquipedia.net/dota2/DonCookie)
+- [![](./images/talent/spanish/doncookie.png) _DonCookie_](https://liquipedia.net/dota2/DonCookie)
 
   🇵🇪 Oscar Idiáquez Martinez
 
   Host, Analyst
 
-- [![](./images/talent/spanish/tio-inka.png) Tio Inka](https://liquipedia.net/dota2/Tio_Inka)
+- [![](./images/talent/spanish/tio-inka.png) _Tio Inka_](https://liquipedia.net/dota2/Tio_Inka)
 
   🇵🇪 Paul Richard de la Cruz Gomez
 
   Caster
 
-- [![](./images/talent/spanish/blue.png) Blue](https://liquipedia.net/dota2/Blue)
+- [![](./images/talent/spanish/blue.png) _Blue_](https://liquipedia.net/dota2/Blue)
 
   🇵🇪 Marco Espinoza Oliveros
 
   Caster
 
-- [![](./images/talent/spanish/falcostyle.png) FalcoStyle](https://liquipedia.net/dota2/FalcoStyle)
+- [![](./images/talent/spanish/falcostyle.png) _FalcoStyle_](https://liquipedia.net/dota2/FalcoStyle)
 
   🇵🇪 Huester Esley Alejandro Valenzuela Davila
 
   Analyst
 
-- [![](./images/talent/spanish/cutipo.png) Cutipo](https://liquipedia.net/dota2/Cutipo)
+- [![](./images/talent/spanish/cutipo.png) _Cutipo_](https://liquipedia.net/dota2/Cutipo)
 
   🇵🇪 Frank Williams Galán Cutipa
 
   Caster
 
-- [![](./images/talent/spanish/yolosergio.png) YoloSergio](https://liquipedia.net/dota2/YoloSergio)
+- [![](./images/talent/spanish/yolosergio.png) _YoloSergio_](https://liquipedia.net/dota2/YoloSergio)
 
   🇵🇪 Sergio André Pérez Chávez
 
   Caster
 
-- [![](./images/talent/spanish/maverick.png) Maverick](https://liquipedia.net/dota2/Maverick)
+- [![](./images/talent/spanish/maverick.png) _Maverick_](https://liquipedia.net/dota2/Maverick)
 
   🇵🇪 Aarón Isai Galvez Tapayuri
 
   Caster
 
-- [![](./images/talent/spanish/d1smar.png) D1smar](https://liquipedia.net/dota2/D1smar)
+- [![](./images/talent/spanish/d1smar.png) _D1smar_](https://liquipedia.net/dota2/D1smar)
 
   🇵🇪 José Dismar Carhuajulca Levano
 
   Analyst
 
-- [![](./images/talent/spanish/panda.png) Panda](https://liquipedia.net/dota2/Panda)
+- [![](./images/talent/spanish/panda.png) _Panda_](https://liquipedia.net/dota2/Panda)
 
   🇵🇪 Jose Leonardo Padilla Hernandez
 
   Analyst
 
-- [![](./images/talent/spanish/rethmonster.png) RedMonster](https://liquipedia.net/dota2/RedMonster)
+- [![](./images/talent/spanish/rethmonster.png) _RedMonster_](https://liquipedia.net/dota2/RedMonster)
 
   🇵🇪 Jhon Albert Mamani Condori
 
   Analyst
 
-- [![](./images/talent/spanish/vadare.png) Vadare](https://liquipedia.net/dota2/Vadare)
+- [![](./images/talent/spanish/vadare.png) _Vadare_](https://liquipedia.net/dota2/Vadare)
 
   🇵🇪 Cristhian Andrade Azpur
 
   Caster
 
-- [![](./images/talent/spanish/study.png) Study](https://liquipedia.net/dota2/StudyCaster)
+- [![](./images/talent/spanish/study.png) _Study_](https://liquipedia.net/dota2/StudyCaster)
 
   🇦🇷 Cristopher Carlos Fuentes
 
   Caster
 
-- [![](./images/talent/spanish/dorayaki.png) Dorayaki](https://liquipedia.net/dota2/Dorayaki)
+- [![](./images/talent/spanish/dorayaki.png) _Dorayaki_](https://liquipedia.net/dota2/Dorayaki)
 
   🇪🇨 Jhonatan Esteban López Quinga
 
   Caster
 
-- [![](./images/talent/spanish/flapjack`.png) Flapjack](https://liquipedia.net/dota2/Flapjack)
+- [![](./images/talent/spanish/flapjack`.png) _Flapjack_](https://liquipedia.net/dota2/Flapjack)
 
   🇪🇸 Julián Esnaider Carbajal Ylave
 
   Analyst
 
-- [![](./images/talent/spanish/caosfenix.png) Caosfenix](https://liquipedia.net/dota2/Caosfenix)
+- [![](./images/talent/spanish/caosfenix.png) _Caosfenix_](https://liquipedia.net/dota2/Caosfenix)
 
   🇵🇪 William Edgardo Morera Guzman
 
   Caster
 
-- [![](./images/talent/spanish/mr.choco.png) Mr.Choco](https://liquipedia.net/dota2/Mr.Choco)
+- [![](./images/talent/spanish/mr.choco.png) _Mr.Choco_](https://liquipedia.net/dota2/Mr.Choco)
 
   🇵🇪 Rikardo Mendoza Mattos
 
   Caster
 
-- [![](./images/talent/spanish/giulio.png) Giulio](https://liquipedia.net/dota2/Giulio)
+- [![](./images/talent/spanish/giulio.png) _Giulio_](https://liquipedia.net/dota2/Giulio)
 
   🇧🇴 Edgar Julio Nuñez Murillo
 
   Host, Caster
 
-- [![](./images/talent/spanish/avo+.png) AvoPlus](https://liquipedia.net/dota2/Avo%2B)
+- [![](./images/talent/spanish/avo+.png) _AvoPlus_](https://liquipedia.net/dota2/Avo%2B)
 
   🇪🇸 Álvaro Sánchez Velasco
 
   Caster, Analyst
 
-- [![](./images/talent/spanish/axl.png) AxL-](https://liquipedia.net/dota2/AxL-)
+- [![](./images/talent/spanish/axl.png) _AxL-_](https://liquipedia.net/dota2/AxL-)
 
   🇲🇽 Axel Ramos
 
   Caster, Analyst
 
-- [![](./images/talent/spanish/masoku.png) Masoku](https://liquipedia.net/dota2/Masoku)
+- [![](./images/talent/spanish/masoku.png) _Masoku_](https://liquipedia.net/dota2/Masoku)
 
   🇵🇪 Jair Alex Dávila Matallana
 
   Analyst
 
-- [![](./images/talent/spanish/polaris.png) Polaris](https://liquipedia.net/dota2/Polaris)
+- [![](./images/talent/spanish/polaris.png) _Polaris_](https://liquipedia.net/dota2/Polaris)
 
   🇲🇽 Gabriel García Dávalos
 
   Caster
 
-- [![](./images/talent/spanish/lucky.png) Lucky](https://liquipedia.net/dota2/Lucky)
+- [![](./images/talent/spanish/lucky.png) _Lucky_](https://liquipedia.net/dota2/Lucky)
 
   🇵🇪 Kevin Nahyr Muñoz Carbajal
 
   Caster
 
-- [![](./images/talent/spanish/patrick.png) Patrick](https://liquipedia.net/dota2/Patrick)
+- [![](./images/talent/spanish/patrick.png) _Patrick_](https://liquipedia.net/dota2/Patrick)
 
   🇵🇪 Andrés Condori Castillo
 
   Caster, Analyst
 
-- [![](./images/talent/spanish/dkgamer.png) DKgamer](https://liquipedia.net/dota2/DKgamer)
+- [![](./images/talent/spanish/dkgamer.png) _DKgamer_](https://liquipedia.net/dota2/DKgamer)
 
   🇵🇪 David Nina Sulca
 
@@ -2469,15 +2459,62 @@ Ask your questions on the Reddit post or over on the [Crimson Witnesses Discord 
   :root {
     --text-gradient: linear-gradient(0deg, rgba(255, 255, 255, 0.15), rgba(255, 255, 255, 0.15)), linear-gradient(180deg, #FFFFFF 0%, #D3B8D7 100%);
     --link-gradient: linear-gradient(0deg, rgba(38, 33, 90, 0.25), rgba(38, 33, 90, 0.25)), linear-gradient(180deg, #FFFFFF 0%, #D3B8D7 100%);
+    --family-display: "Gemunu Libre", sans-serif;
+    --family-body: "Noto Sans", sans-serif;
+    --font-base: 14px;
+    --scale: 1.125;
+
+    --fs-50: calc(var(--fs-75) / var(--scale));
+    --fs-75: calc(var(--fs-100) / var(--scale));
+    --fs-100: var(--font-base);
+    --fs-200: calc(var(--fs-100) * var(--scale));
+    --fs-300: calc(var(--fs-200) * var(--scale));
+    --fs-400: calc(var(--fs-300) * var(--scale));
+    --fs-500: calc(var(--fs-400) * var(--scale));
+    --fs-600: calc(var(--fs-500) * var(--scale));
+    --fs-700: calc(var(--fs-600) * var(--scale));
+    --fs-800: calc(var(--fs-700) * var(--scale));
+    --fs-900: calc(var(--fs-800) * var(--scale));
+    --fs-950: calc(var(--fs-900) * var(--scale));
+    --fs-975: calc(var(--fs-950) * var(--scale));
+
+    /* Header Font Sizes */
+    --hu: var(--fs-975); /* h1 */
+    --hh: var(--fs-900); /* h2 */
+    --hl: var(--fs-700); /* h3 */
+    --hm: var(--fs-500); /* h4 */
+    --hs: var(--fs-400); /* h5 */
+    --ht: var(--fs-200); /* h6 */
+
+    /* Body Font Sizes */
+    --bu: var(--fs-500);
+    --bh: var(--fs-400);
+    --bl: var(--fs-300);
+    --bm: var(--fs-200);
+    --bs: var(--fs-100);
+    --bt: var(--fs-75);
+
+    /* Label Font Sizes */
+    --ll: var(--fs-200);
+    --lm: var(--fs-100);
+    --ls: var(--fs-75);
+    --lt: var(--fs-50);
+
+    /* Default Font Sizes */
+    --fs-heading: var(--hu);
+    --fs-body: var(--bs);
+    --fs-label: var(--ls);
   }
 
+  /* VSCode Preview Only */
   .github-markdown-body {
     background: fixed center / cover url("../../bg.png");
     padding-top: 64px !important;
     color: #fcecfe;
-    font-family: 'Noto Sans', sans-serif;
+    font: 400 var(--fs-body) / 1.3 var(--family-body);
   }
 
+  /* VSCode Preview Only */
   .github-markdown-content {
     display: flex;
     flex-direction: column;
@@ -2492,83 +2529,110 @@ Ask your questions on the Reddit post or over on the [Crimson Witnesses Discord 
       drop-shadow(0px 16px 32px rgba(38, 33, 90, 0.25));
   }
 
+  hr {
+    align-self: center;
+    width: calc(100% - 24px);
+    height: 2px;
+    margin-block: calc(var(--fs-body) / 1.125) calc(var(--fs-body) * 0.25) !important;
+    border-radius: 2px;
+    background: linear-gradient(180deg, rgba(255, 255, 255, 0.5) 0%, rgba(211, 184, 215, 0.5) 100%) !important;
+    mix-blend-mode: soft-light;
+  }
+
   h1, h2, h3, h4, h5, h6 {
     border-bottom: none !important;
     background: var(--text-gradient);
-    background-blend-mode: screen, normal;
+    background-blend-mode: lighten, normal;
     background-clip: text;
     -webkit-text-fill-color: transparent;
-    font-family: 'Gemunu Libre', sans-serif;
-  }
+    font: 400 var(--fs-heading) / 1.3 var(--family-display) !important;
+    padding: 0px !important;
+    margin-block: calc(var(--fs-heading) / 1.125) calc(var(--fs-heading) * 0.25) !important;
+    text-wrap: pretty;
 
-  h1 {
-    font-weight: 400;
-    font-size: 48px;
-    line-height: 140%;
-    letter-spacing: 0.04em;
+    a {
+      color: var(--color-text);
+      text-decoration: none;
+
+      &:hover {
+        text-decoration: underline;
+      }
+
+      &:visited {
+        color: initial;
+      }
+    }
   }
 
   h2 {
-    font-weight: 500;
-    font-size: 40px;
-    line-height: 140%;
+    --fs-heading: var(--hh);
+    font-weight: 500 !important;
     letter-spacing: 0.06em;
   }
 
   h3 {
-    font-weight: 600;
-    font-size: 36px;
-    line-height: 130%;
+    --fs-heading: var(--hl);
+    font-weight: 600 !important;
     letter-spacing: 0.06em;
   }
 
   h4 {
-    font-weight: 700;
-    font-size: 26px;
-    line-height: 130%;
+    --fs-heading: var(--hm);
+    font-weight: 700 !important;
     letter-spacing: 0.08em;
   }
 
   h5 {
-    font-weight: 700;
-    font-size: 20px;
-    line-height: 120%;
+    --fs-heading: var(--hs);
+    font-weight: 700 !important;
     letter-spacing: 0.08em;
   }
 
   h6 {
-    font-weight: 800;
-    font-size: 16px;
-    line-height: 120%;
+    --fs-heading: var(--ht);
+    font-weight: 800 !important;
     letter-spacing: 0.12em;
   }
 
-  p, dt, li {
-    font-style: normal;
-    font-weight: 400;
-    font-size: 16px;
-    line-height: 150%;
+  p,
+  ul,
+  ol,
+  dl,
+  dt,
+  details,
+  blockquote {
+    margin-block: calc(var(--fs-body) / 1.125) calc(var(--fs-body) * 0.25) !important;
     letter-spacing: 0.02em;
+    text-wrap: pretty;
+  }
+
+  p {
+    font: 400 var(--fs-body) / 1.3 var(--family-body);
+  }
+
+  a {
+    color: oklch(76.51% 0.204 328.58) !important;
+    
+    &:hover {
+      text-decoration: underline;
+    }
   }
 
   blockquote {
     position: relative;
-    padding: 20px 24px;
+    padding: 20px 24px !important;
     border-left: none !important;
     border-radius: 12px;
-    background: rgba(38, 33, 90, 0.25) !important;
+    background: rgba(38, 33, 90, 0.30) !important;
     background-blend-mode: color-burn;
     backdrop-filter: blur(4px);
 
     p {
       font-style: italic;
       font-weight: 300;
-      font-size: 18px;
-      line-height: 150%;
+      font-size: var(--bm);
       text-align: center;
-      letter-spacing: 0.02em;
-      background: linear-gradient(0deg, rgba(255, 255, 255, 0.15), rgba(255, 255, 255, 0.15)),
-        linear-gradient(180deg, #FFFFFF 0%, #D3B8D7 100%);
+      background: var(--text-gradient);
       -webkit-text-fill-color: transparent;
       background-blend-mode: screen, normal;
       background-clip: text;
@@ -2592,19 +2656,98 @@ Ask your questions on the Reddit post or over on the [Crimson Witnesses Discord 
     }
   }
 
-  a {
-    background: linear-gradient(0deg, rgba(38, 33, 90, 0.5), rgba(38, 33, 90, 0.5)), linear-gradient(180deg, #FFFFFF 0%, #D3B8D7 100%);
-    background-blend-mode: color-burn, normal;
-    background-clip: text;
-    -webkit-text-fill-color: transparent;
-    
-    &:hover {
-      text-decoration: underline;
+  .markdown-alert {
+    --shadow-color: #282269;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    margin-block: calc(var(--fs-body) / 1.125) calc(var(--fs-body) * 0.25) !important;
+    padding: 12px 16px;
+    border-radius: 8px;
+    background: 
+      linear-gradient(90deg,
+        color-mix(in oklch, var(--accent-color), transparent 65%) 0%,
+        color-mix(in oklch, var(--accent-color), transparent 90%) 25%,
+        color-mix(in oklch, var(--accent-color), transparent 98%) 65%
+      ),
+      linear-gradient(color-mix(in oklch, var(--shadow-color), transparent 40%));
+    background-blend-mode: color-dodge, color-burn;
+    border-left: 5px solid color-mix(in oklch, var(--accent-color), transparent 30%) !important;
+    &:before {
+      content: '';
+      position: absolute;
+      top: 0;
+      left: 0;
+      right: 0;
+      bottom: 0;
+      border-top: 3px solid transparent !important;
+      border-bottom: 3px solid transparent !important;
+      border-left: 0;
+      border-right: 0;
+      border-image: linear-gradient(90deg,
+          color-mix(in oklch, var(--accent-color), transparent 70%) 0%,
+          color-mix(in oklch, var(--accent-color), transparent 100%) 75%
+        );
+      border-image-slice: 1 0 1 0;
     }
-  }
+    &:after {
+      content: '';
+      position: absolute;
+      top: 0;
+      left: 0;
+      right: 0;
+      bottom: 0;
+      border-radius: 8px;
+      mix-blend-mode: hard-light;
+      box-shadow:
+        inset 0px 2px 8px color-mix(in oklch, var(--accent-color), transparent 80%),
+        inset 0px 1px 3px color-mix(in oklch, var(--accent-color), transparent 85%),
+        inset 0px 1px 8px color-mix(in oklch, var(--accent-color), transparent 95%),
+        inset 0px -1px 8px color-mix(in oklch, var(--accent-color), transparent 95%),
+        inset 0px -1px 3px color-mix(in oklch, var(--accent-color), transparent 50%),
+        inset 0px -2px 8px color-mix(in oklch, var(--accent-color), transparent 80%);
+    }
+    backdrop-filter: blur(4px);
 
-  p {
-    margin-block: 12px 32px !important;
+    .markdown-alert-title {
+      font: normal 500 var(--hs) / 1.5 var(--family-display);
+      letter-spacing: 0.04em;
+      text-transform: uppercase;
+      background:
+        linear-gradient(0deg, rgba(255, 255, 255, 0.15), rgba(255, 255, 255, 0.15)),
+        linear-gradient(180deg, #FFFFFF 0%, #D3B8D7 100%);
+      background-blend-mode: lighten, normal;
+      background-clip: text;
+      -webkit-text-fill-color: transparent;
+      filter:
+        drop-shadow(0px 0px 2px color-mix(in oklch, var(--accent-color), transparent 25%))
+        drop-shadow(0px 0px 4px color-mix(in oklch, var(--accent-color), transparent 45%))
+        drop-shadow(0px 0px 8px color-mix(in oklch, var(--accent-color), transparent 65%));
+      
+      svg {
+        fill: #fff;
+      }
+    }
+
+    &.markdown-alert-note {
+      --accent-color: oklch(64.26% 0.186 250.77);
+    }
+
+    &.markdown-alert-important {
+      --accent-color: oklch(66.53% 0.21 300.72);
+    }
+
+    &.markdown-alert-tip {
+      --accent-color: oklch(62.62% 0.12 172.98);
+    }
+
+    &.markdown-alert-warning {
+      --accent-color: oklch(66.77% 0.156 60.11);
+    }
+
+    &.markdown-alert-caution {
+      --accent-color: oklch(67.01% 0.217 22.5);
+    }
   }
   
   dl {
@@ -2613,7 +2756,20 @@ Ask your questions on the Reddit post or over on the [Crimson Witnesses Discord 
     columns: auto 300px;
     column-fill: balance;
     text-wrap: pretty;
+
+    dt:first-child {
+      margin-top: 0 !important;
+    }
+
+    dt, dd, address {
+      break-inside: avoid-column;
+    }
+
+    dd:not(:last-child) {
+      break-before: avoid-column;
+    }
   }
+
   dt:has(img) {
     display: grid;
     place-items: center;
@@ -2629,24 +2785,42 @@ Ask your questions on the Reddit post or over on the [Crimson Witnesses Discord 
       object-fit: cover;
     }
   }
-  dl dt:first-child {
-    margin-top: 0;
+  
+  dl dd > ul {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 2px 4px;
+    margin: 0;
+    padding: 0;
+    margin-bottom: 0 !important;
+    padding-left: 0 !important;
+    list-style: none;
+    
+    li {
+      display: inline-flex;
+      margin: 0 !important;
+      padding-block: 2px;
+      padding-inline: 8px 12px;
+      border-radius: 24px;
+      background-color: #C5F3FF;
+      font-size: small;
+      text-wrap: nowrap;
+      break-inside: avoid;
+    }
   }
 
   /* Restaurant Lists */
   dl:has(ul) {
+    justify-items: center;
     width: 100%;
     margin: auto 0;
     columns: auto 300px;
     column-fill: balance;
-    font-family: 'Noto Sans', sans-serif; 
-    font-weight: 400;
-    line-height: 130%;
-    text-wrap: pretty;
 
     dt, dd {
       width: 100%;
       max-width: 300px;
+      padding-inline: 0px !important;
     }
 
     /* Photo + Name */
@@ -2656,7 +2830,6 @@ Ask your questions on the Reddit post or over on the [Crimson Witnesses Discord 
       flex-direction: column;
       align-items: center;
       row-gap: 12px;
-      padding-bottom: 8px;
       width: 100%;
 
       img {
@@ -2681,6 +2854,15 @@ Ask your questions on the Reddit post or over on the [Crimson Witnesses Discord 
           0px 4px 16px rgba(72, 64, 182, 0.15);
       }
 
+      &:hover {
+        img {
+          filter: brightness(1.25)
+          drop-shadow(0px 0px 2px rgba(159, 33, 232, 0.45))
+          drop-shadow(0px 0px 4px rgba(159, 33, 232, 0.45))
+          drop-shadow(0px 0px 8px rgba(159, 33, 232, 0.75));
+        }
+      }
+
       /* Name */
       em {
         position: relative;
@@ -2688,8 +2870,7 @@ Ask your questions on the Reddit post or over on the [Crimson Witnesses Discord 
         background-blend-mode: lighten, normal;
         background-clip: text;
         -webkit-text-fill-color: transparent;
-        font-size: 24px;
-        font-style: normal;
+        font: normal 800 var(--hm) / 1.5 var(--family-display);
         letter-spacing: 0.04em;
         text-align: center;
         filter: drop-shadow(0px 0px 2px rgba(159, 33, 232, 0.75))
@@ -2700,25 +2881,18 @@ Ask your questions on the Reddit post or over on the [Crimson Witnesses Discord 
 
     /* Description */
     dd:not(:has(ul, address)) {
-      padding-inline: 0px !important;
-
       p {
-        background: var(--text-gradient);
-        background-blend-mode: screen, normal;
-        background-clip: text;
-        -webkit-text-fill-color: transparent;
-        font-size: 18px;
+        font-size: var(--bm);
       }
     }
 
     /* Tags */
     dd:has(ul) {
-      padding: 8px 0px !important;
-
       ul {
         display: flex;
         flex-wrap: wrap;
         gap: 4px;
+        margin-top: 0 !important;
 
         li {
           position: relative;
@@ -2731,11 +2905,12 @@ Ask your questions on the Reddit post or over on the [Crimson Witnesses Discord 
           background: rgba(159, 33, 232, 0.45);
           background-blend-mode: lighten;
           -webkit-text-fill-color: unset;
-          color: #FFFFFF;
-          font-size: 12px;
-          line-height: 16px;
-          letter-spacing: 0.02em;
+          font-size: var(--lt);
           backdrop-filter: blur(4px);
+          box-shadow: inset -0.25px -0.75px 1.25px rgba(146, 75, 186, 0.75),
+            inset 1.25px 0.75px 1px rgba(146, 75, 186, 0.75),
+            inset -0.25px 0.5px 2px rgba(56, 15, 78, 0.5),
+            inset 0.25px 0.25px 4px rgba(56, 15, 78, 0.25);
 
           &:before {
             position: absolute;
@@ -2757,8 +2932,11 @@ Ask your questions on the Reddit post or over on the [Crimson Witnesses Discord 
     /* Address */
     dd:has(address) {
       position: relative;
-      padding-block: 4px 8px !important;
-      padding-inline: 0 !important;
+
+      /* Last address of maybe multiple, last in whole list */
+      &:has(+ dt), &:last-child {
+        margin-bottom: 24px !important;
+      }
 
       address {
         position: relative;
@@ -2781,16 +2959,7 @@ Ask your questions on the Reddit post or over on the [Crimson Witnesses Discord 
 
         p {
           margin: 0 !important;
-        }
-
-        a {
-          position: relative;
-          background: var(--link-gradient);
-          background-blend-mode: color-burn, normal;
-          background-clip: text;
-          -webkit-text-fill-color: transparent;
-          font-size: 18px;
-          letter-spacing: 0.04em;
+          font-size: var(--bm);
         }
       }
     }
@@ -2802,6 +2971,7 @@ Ask your questions on the Reddit post or over on the [Crimson Witnesses Discord 
     grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
     justify-content: space-between;
     gap: 24px 12px;
+    padding: 0 !important;
     list-style: none;
 
     li {
@@ -2812,61 +2982,16 @@ Ask your questions on the Reddit post or over on the [Crimson Witnesses Discord 
       padding-inline: 12px;
       background: rgba(38, 33, 90, 0.45);
       background-blend-mode: hard-light;
-      box-shadow: 0px 2px 4px rgba(38, 33, 90, 0.5), 0px 6px 12px rgba(38, 33, 90, 0.75), 0px 16px 32px rgba(38, 33, 90, 0.25);
-
-      p { 
-        position: relative;
-        display: flex;
-        flex-direction: column;
-        gap: 8px;
-        margin-block: 0px !important;
-        background: linear-gradient(rgba(255, 255, 255, 0.15)),
-          linear-gradient(#ffffff 0%, #d3b8d7 100%);
-        background-blend-mode: screen, normal;
-        background-clip: text;
-        -webkit-text-fill-color: transparent;
-        font-family: 'Noto Sans';
-        font-style: normal;
-        font-weight: 600;
-        font-size: 14px;
-        line-height: 150%;
-        text-align: center;
-        letter-spacing: 0.02em;
-      }
-
-      /* Portrait Background */
-      &:before {
-        content: " ";
-        position: absolute;
-        top: 0;
-        left: 0;
-        width: 100%;
-        border-top-left-radius: 8px;
-        border-top-right-radius: 8px;
-        background: center/cover url("./images/ti-2025-bg.png");
-        aspect-ratio: 1 / 1;
-
-        /* Hover Bugfix */
-        &:hover {
-          border-left: none !important;
-          left: 0 !important;
-        }
-      }
+      box-shadow: 0px 1px 4px rgba(12, 0, 40, 0.75),
+        0px 4px 8px rgba(12, 0, 40, 0.45),
+        0px 8px 16px rgba(12, 0, 40, 0.25);
 
       a {
         display: flex;
         flex-direction: column;
         align-items: center;
+        gap: 8px;
         margin-inline: -12px;
-        background: var(--text-gradient);
-        background-blend-mode: screen, normal;
-        background-clip: text;
-        -webkit-text-fill-color: transparent;
-        font-family: 'Gemunu Libre';
-        font-weight: 800;
-        font-size: 20px;
-        line-height: 150%;
-        letter-spacing: 0.04em;
 
         img {
           position: relative;
@@ -2884,46 +3009,110 @@ Ask your questions on the Reddit post or over on the [Crimson Witnesses Discord 
         &:hover {
           img {
             filter: brightness(1.25)
-            drop-shadow(0px 0px 4px rgba(159, 33, 232, 0.45))
-            drop-shadow(0px 0px 12px rgba(159, 33, 232, 0.45))
-            drop-shadow(0px 0px 24px rgba(159, 33, 232, 0.75));
+              drop-shadow(0px 0px 4px rgba(159, 33, 232, 0.45))
+              drop-shadow(0px 0px 12px rgba(159, 33, 232, 0.45))
+              drop-shadow(0px 0px 24px rgba(159, 33, 232, 0.75));
           }
         }
+
+        /* Name */
+        em {
+          background: var(--text-gradient);
+          background-blend-mode: lighten, normal;
+          background-clip: text;
+          -webkit-text-fill-color: transparent;
+          font: normal 800 var(--hs) / 1.5 var(--family-display);
+          filter: drop-shadow(0px 0px 2px rgba(159, 33, 232, 0.75))
+            drop-shadow(0px 0px 4px rgba(159, 33, 232, 0.55))
+            drop-shadow(0px 0px 8px rgba(159, 33, 232, 0.45));
+        }
+      }
+
+      p { 
+        position: relative;
+        display: flex;
+        flex-direction: column;
+        gap: 8px;
+        margin-block: 0px !important;
+        background: linear-gradient(rgba(255, 255, 255, 0.15)),
+          linear-gradient(#ffffff 0%, #d3b8d7 100%);
+        background-blend-mode: screen, normal;
+        background-clip: text;
+        -webkit-text-fill-color: transparent;
+        font-weight: 600;
+        font-size: var(--bt);
+        text-align: center;
+      }
+
+      /* Portrait Background */
+      &:before {
+        content: " ";
+        position: absolute;
+        top: 0;
+        left: 0 !important;
+        bottom: 0;
+        right: 0;
+        width: 100% !important;
+        border-top-left-radius: 8px;
+        border-top-right-radius: 8px;
+        background: center/cover url("./images/ti-2025-bg.png");
+        aspect-ratio: 1 / 1;
+        
+        /* VSCode Preview Overrides */
+        border-left: unset !important;
+        height: unset !important;
       }
     }
   }
 
   /* Teams */
-  dl:has(span:is(.core, .support, .mid)) {
+  dl:has(span:is(.pos1, .pos2, .pos3, .pos4, .pos5)) {
     display: grid;
     grid-template-columns: repeat(6, minmax(150px, 1fr));
+    grid-auto-flow: dense;
     column-gap: 12px;
 
+    @media screen and (max-width: 1024px) {
+      grid-template-columns: repeat(3, minmax(150px, 1fr));
+      column-gap: 8px;
+    }
+
+    @media screen and (max-width: 522px) {
+      grid-template-columns: repeat(2, minmax(150px, 1fr));
+      column-gap: 6px;
+    }
+
     dt {
-      grid-row: span 3;
-      margin-top: 24px;
-      align-items: start;
+      grid-column: 1;
+      display: flex;
+      justify-content: center;
+      width: 100%;
+      margin: 0 !important;
+      padding-inline: 12px;
+      box-sizing: border-box;
 
       img {
         display: block;
-        width: 100%;
+        width: 100;
         aspect-ratio: 1 / 1;
         object-fit: cover;
+        justify-self: center;
       }
     }
 
     /* Name & Region */
     dd:nth-of-type(7n + 1), dd:nth-of-type(7n + 2) {
-      grid-column: span 5;
+      grid-column: 1;
+      box-sizing: border-box;
+      height: 1lh;
       padding: 0;
+      margin: 0;
+      text-align: center;
     }
 
     /* Team Name */
     dd:nth-of-type(7n+1) {
-      height: min-content;
-      margin-top: 24px;
-      margin-bottom: 0px;
-      font-size: xx-large;
+      font-size: var(--bl);
       font-weight: 700;
 
       a {
@@ -2936,7 +3125,7 @@ Ask your questions on the Reddit post or over on the [Crimson Witnesses Discord 
 
     /* Region */
     dd:nth-of-type(7n+2) {
-      height: min-content;
+      font-size: var(--bs);
       font-weight: 700;
       background: var(--text-gradient);
       background-blend-mode: screen, normal;
@@ -2945,13 +3134,13 @@ Ask your questions on the Reddit post or over on the [Crimson Witnesses Discord 
     }
 
     /* Players */
-    dd:has(span:is(.core, .support, .mid)) {
+    dd:has(span:is(.pos1, .pos2, .pos3, .pos4, .pos5)) {
+      grid-row: span 3;
       display: flex;
       gap: 12px;
       justify-content: center;
       height: 100%;
       padding: 0px;
-      margin-bottom: 0px;
 
       span {
         position: relative;
@@ -2959,11 +3148,12 @@ Ask your questions on the Reddit post or over on the [Crimson Witnesses Discord 
         flex-direction: column;
         width: 100%;
         border-radius: 8px;
+        margin-bottom: 24px;
         padding-block: 0 12px;
         padding-inline: 12px;
         background-color: rgba(50, 33, 229, 0.15);
         box-sizing: border-box;
-        font-size: small;
+        font-size: var(--bt);
         text-align: center;
         text-wrap: pretty;
         box-shadow: 0px 1px 4px rgba(12, 0, 40, 0.75),
@@ -2971,7 +3161,7 @@ Ask your questions on the Reddit post or over on the [Crimson Witnesses Discord 
           0px 8px 16px rgba(12, 0, 40, 0.25);
 
         &:before {
-          content: " ";
+          content: "";
           position: absolute;
           top: 0;
           left: 0;
@@ -2981,19 +3171,52 @@ Ask your questions on the Reddit post or over on the [Crimson Witnesses Discord 
           aspect-ratio: 1 / 1;
         }
 
+        &:after {
+          position: absolute;
+          content: "";
+          top: 8px;
+          right: 8px;
+          width: 32px;
+          height: 32px;
+          pointer-events: none;
+          filter: opacity(0.85)
+            drop-shadow(0px 0px 8px rgba(159, 33, 232, 0.25))
+            drop-shadow(0px 0px 4px rgba(159, 33, 232, 0.5))
+            drop-shadow(0px 0px 2px rgba(159, 33, 232, 0.9));
+        }
+
+        &.pos1:after {
+          background: no-repeat center / 32px 32px url("./images/icons/safelane.svg");
+        }
+
+        &.pos2:after {
+          background: no-repeat center / 32px 32px url("./images/icons/midlane.svg");
+        }
+
+        &.pos3:after {
+          background: no-repeat center / 32px 32px url("./images/icons/offlane.svg");
+        }
+
+        &.pos4:after {
+          background: no-repeat center / 32px 32px url("./images/icons/soft-support.svg");
+        }
+
+        &.pos5:after {
+          background: no-repeat center / 32px 32px url("./images/icons/hard-support.svg");
+        }
+
         a {
-          display: flex;
-          flex-direction: column;
-          gap: 8px;
-          font-size: normal;
-          font-weight: 600;
+          position: relative;
           margin-inline: -12px;
           margin-bottom: 8px;
+          font-size: var(--bs);
+          text-align: center;
 
           img {
             position: relative;
             display: block;
             width: 100%;
+            margin-bottom: 8px;
             aspect-ratio: 1 / 1;
             object-fit: cover;
             clip-path: content-box;
@@ -3010,6 +3233,18 @@ Ask your questions on the Reddit post or over on the [Crimson Witnesses Discord 
               drop-shadow(0px 0px 12px rgba(159, 33, 232, 0.45))
               drop-shadow(0px 0px 24px rgba(159, 33, 232, 0.75));
             }
+          }
+
+          /* Name */
+          em {
+            background: var(--text-gradient);
+            background-blend-mode: lighten, normal;
+            background-clip: text;
+            -webkit-text-fill-color: transparent;
+            font: normal 800 var(--ht) / 1.5 var(--family-display);
+            filter: drop-shadow(0px 0px 2px rgba(159, 33, 232, 0.75))
+              drop-shadow(0px 0px 4px rgba(159, 33, 232, 0.55))
+              drop-shadow(0px 0px 8px rgba(159, 33, 232, 0.45));
           }
         }
 
@@ -3080,33 +3315,5 @@ Ask your questions on the Reddit post or over on the [Crimson Witnesses Discord 
         }
       }
     }
-  }
-  
-  dl dd > ul {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 2px 4px;
-    margin: 0;
-    padding: 0;
-    margin-bottom: 0 !important;
-    padding-left: 0 !important;
-    list-style: none;
-  }
-  dd > ul li {
-    display: inline-flex;
-    margin: 0 !important;
-    padding-block: 2px;
-    padding-inline: 8px 12px;
-    border-radius: 24px;
-    background-color: #C5F3FF;
-    font-size: small;
-    text-wrap: nowrap;
-    break-inside: avoid;
-  }
-  dt, dd, address {
-    break-inside: avoid-column;
-  }
-  dd:not(:last-child) {
-    break-before: avoid-column;
   }
 </style>
