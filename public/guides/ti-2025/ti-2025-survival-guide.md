@@ -2619,6 +2619,7 @@ Ask your questions on the Reddit post or over on the [Crimson Witnesses Discord 
   }
 
   blockquote {
+    --shadow-color: #282269;
     position: relative;
     padding: 20px 24px !important;
     border-left: none !important;
@@ -2647,12 +2648,19 @@ Ask your questions on the Reddit post or over on the [Crimson Witnesses Discord 
       right: 0;
       border-radius: 12px;
       mix-blend-mode: multiply;
-      box-shadow: inset 0px 2px 8px rgba(40, 34, 105, 0.3),
-        inset 0px 1px 3px rgba(40, 34, 105, 0.25),
-        inset 0px 1px 8px rgba(40, 34, 105, 0.15),
-        inset 0px -1px 8px rgba(40, 34, 105, 0.15),
-        inset 0px -1px 3px rgba(40, 34, 105, 0.7),
-        inset 0px -2px 8px rgba(40, 34, 105, 0.3);
+      box-shadow:
+        inset 0px 2px 8px
+          oklch(from var(--shadow-color) l c h / 25%),
+        inset 0px 1px 8px
+          oklch(from var(--shadow-color) l c h / 35%),
+        inset 0px 1px 3px
+          oklch(from var(--shadow-color) l c h / 45%),
+        inset 0px -1px 3px
+          oklch(from var(--shadow-color) l c h / 45%),
+        inset 0px -1px 8px
+          oklch(from var(--shadow-color) l c h / 35%),
+        inset 0px -2px 8px
+          oklch(from var(--shadow-color) l c h / 25%);
     }
   }
 
@@ -2666,14 +2674,14 @@ Ask your questions on the Reddit post or over on the [Crimson Witnesses Discord 
     border-radius: 8px;
     background: 
       linear-gradient(90deg,
-        color-mix(in oklch, var(--accent-color), transparent 65%) 0%,
-        color-mix(in oklch, var(--accent-color), transparent 90%) 25%,
-        color-mix(in oklch, var(--accent-color), transparent 98%) 65%
+        oklch(from var(--accent-color) l c h / 45%) 0%,
+        oklch(from var(--accent-color) l c h / 10%) 25%,
+        oklch(from var(--accent-color) l c h / 5%) 65%
       ),
-      linear-gradient(color-mix(in oklch, var(--shadow-color), transparent 40%));
-    background-blend-mode: color-dodge, color-burn;
-    border-left: 5px solid color-mix(in oklch, var(--accent-color), transparent 30%) !important;
-    &:before {
+      linear-gradient(oklch(from var(--shadow-color) l c h / 60%));
+    background-blend-mode: hard-light, color-burn;
+    border-left: 5px solid oklch(from var(--accent-color) l c h / 95%) !important;
+    &:after {
       content: '';
       position: absolute;
       top: 0;
@@ -2685,12 +2693,12 @@ Ask your questions on the Reddit post or over on the [Crimson Witnesses Discord 
       border-left: 0;
       border-right: 0;
       border-image: linear-gradient(90deg,
-          color-mix(in oklch, var(--accent-color), transparent 70%) 0%,
-          color-mix(in oklch, var(--accent-color), transparent 100%) 75%
+          oklch(from var(--accent-color) l c h / 70%) 0%,
+          oklch(from var(--accent-color) l c h / 0%) 75%
         );
       border-image-slice: 1 0 1 0;
     }
-    &:after {
+    &:before {
       content: '';
       position: absolute;
       top: 0;
@@ -2698,14 +2706,20 @@ Ask your questions on the Reddit post or over on the [Crimson Witnesses Discord 
       right: 0;
       bottom: 0;
       border-radius: 8px;
-      mix-blend-mode: hard-light;
+      mix-blend-mode: multiply;
       box-shadow:
-        inset 0px 2px 8px color-mix(in oklch, var(--accent-color), transparent 80%),
-        inset 0px 1px 3px color-mix(in oklch, var(--accent-color), transparent 85%),
-        inset 0px 1px 8px color-mix(in oklch, var(--accent-color), transparent 95%),
-        inset 0px -1px 8px color-mix(in oklch, var(--accent-color), transparent 95%),
-        inset 0px -1px 3px color-mix(in oklch, var(--accent-color), transparent 50%),
-        inset 0px -2px 8px color-mix(in oklch, var(--accent-color), transparent 80%);
+        inset 0px 2px 8px
+          oklch(from var(--accent-color) calc(l * 0.85) calc(c * 1.25) h / 25%),
+        inset 0px 1px 8px
+          oklch(from var(--accent-color) calc(l * 0.85) calc(c * 1.25) h / 35%),
+        inset 0px 1px 3px
+          oklch(from var(--accent-color) calc(l * 0.85) calc(c * 1.25) h / 45%),
+        inset 0px -1px 3px
+          oklch(from var(--accent-color) calc(l * 0.85) calc(c * 1.25) h / 45%),
+        inset 0px -1px 8px
+          oklch(from var(--accent-color) calc(l * 0.85) calc(c * 1.25) h / 35%),
+        inset 0px -2px 8px
+          oklch(from var(--accent-color) calc(l * 0.85) calc(c * 1.25) h / 25%);
     }
     backdrop-filter: blur(4px);
 
@@ -2720,9 +2734,15 @@ Ask your questions on the Reddit post or over on the [Crimson Witnesses Discord 
       background-clip: text;
       -webkit-text-fill-color: transparent;
       filter:
-        drop-shadow(0px 0px 2px color-mix(in oklch, var(--accent-color), transparent 25%))
-        drop-shadow(0px 0px 4px color-mix(in oklch, var(--accent-color), transparent 45%))
-        drop-shadow(0px 0px 8px color-mix(in oklch, var(--accent-color), transparent 65%));
+        drop-shadow(0px 0px 2px
+          oklch(from var(--accent-color) l c h / 75%)
+        )
+        drop-shadow(0px 0px 4px
+          oklch(from var(--accent-color) l c h / 65%)
+        )
+        drop-shadow(0px 0px 8px
+          oklch(from var(--accent-color) l c h / 45%)
+        );
       
       svg {
         fill: #fff;
@@ -2811,6 +2831,7 @@ Ask your questions on the Reddit post or over on the [Crimson Witnesses Discord 
 
   /* Restaurant Lists */
   dl:has(ul) {
+    --accent-color: #9F21E8;
     justify-items: center;
     width: 100%;
     margin: auto 0;
@@ -2856,10 +2877,17 @@ Ask your questions on the Reddit post or over on the [Crimson Witnesses Discord 
 
       &:hover {
         img {
-          filter: brightness(1.25)
-          drop-shadow(0px 0px 2px rgba(159, 33, 232, 0.45))
-          drop-shadow(0px 0px 4px rgba(159, 33, 232, 0.45))
-          drop-shadow(0px 0px 8px rgba(159, 33, 232, 0.75));
+          filter:
+            brightness(1.25)
+            drop-shadow(0px 0px 2px
+              oklch(from var(--accent-color) l c h / 75%)
+            )
+            drop-shadow(0px 0px 4px
+              oklch(from var(--accent-color) l c h / 65%)
+            )
+            drop-shadow(0px 0px 8px
+              oklch(from var(--accent-color) l c h / 45%)
+            );
         }
       }
 
@@ -2873,9 +2901,16 @@ Ask your questions on the Reddit post or over on the [Crimson Witnesses Discord 
         font: normal 800 var(--hm) / 1.5 var(--family-display);
         letter-spacing: 0.04em;
         text-align: center;
-        filter: drop-shadow(0px 0px 2px rgba(159, 33, 232, 0.75))
-          drop-shadow(0px 0px 4px rgba(159, 33, 232, 0.55))
-          drop-shadow(0px 0px 8px rgba(159, 33, 232, 0.45));
+        filter:
+          drop-shadow(0px 0px 2px
+            oklch(from var(--accent-color) l c h / 75%)
+          )
+          drop-shadow(0px 0px 4px
+            oklch(from var(--accent-color) l c h / 65%)
+          )
+          drop-shadow(0px 0px 8px
+            oklch(from var(--accent-color) l c h / 45%)
+          );
       }
     }
 
@@ -2902,13 +2937,16 @@ Ask your questions on the Reddit post or over on the [Crimson Witnesses Discord 
           padding-block: 4px;
           padding-inline: 6px 8px;
           border-radius: 12px;
-          background: rgba(159, 33, 232, 0.45);
+          background: oklch(from var(--accent-color) l c h / 45%);
           background-blend-mode: lighten;
           -webkit-text-fill-color: unset;
           font-size: var(--lt);
           backdrop-filter: blur(4px);
-          box-shadow: inset -0.25px -0.75px 1.25px rgba(146, 75, 186, 0.75),
-            inset 1.25px 0.75px 1px rgba(146, 75, 186, 0.75),
+          box-shadow:
+            inset -0.25px -0.75px 1.25px
+              oklch(from var(--accent-color) l c h / 75%),
+            inset 1.25px 0.75px 1px
+              oklch(from var(--accent-color) l c h / 75%),
             inset -0.25px 0.5px 2px rgba(56, 15, 78, 0.5),
             inset 0.25px 0.25px 4px rgba(56, 15, 78, 0.25);
 
@@ -2941,9 +2979,16 @@ Ask your questions on the Reddit post or over on the [Crimson Witnesses Discord 
       address {
         position: relative;
         padding-inline: 44px 0 !important;
-        filter: drop-shadow(0px 0px 2px rgba(159, 33, 232, 0.75))
-          drop-shadow(0px 0px 4px rgba(159, 33, 232, 0.55))
-          drop-shadow(0px 0px 8px rgba(159, 33, 232, 0.45));
+        filter:
+          drop-shadow(0px 0px 2px
+            oklch(from var(--accent-color) l c h / 75%)
+          )
+          drop-shadow(0px 0px 4px
+            oklch(from var(--accent-color) l c h / 65%)
+          )
+          drop-shadow(0px 0px 8px
+            oklch(from var(--accent-color) l c h / 45%)
+          );
 
         &:before {
           position: absolute;
@@ -2961,106 +3006,6 @@ Ask your questions on the Reddit post or over on the [Crimson Witnesses Discord 
           margin: 0 !important;
           font-size: var(--bm);
         }
-      }
-    }
-  }
-
-  /* Boardcast Talent Lists */
-  ul:has(a > img) {
-    display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
-    justify-content: space-between;
-    gap: 24px 12px;
-    padding: 0 !important;
-    list-style: none;
-
-    li {
-      position: relative;
-      border-radius: 8px;
-      margin-top: 0px !important;
-      padding-block: 0 12px;
-      padding-inline: 12px;
-      background: rgba(38, 33, 90, 0.45);
-      background-blend-mode: hard-light;
-      box-shadow: 0px 1px 4px rgba(12, 0, 40, 0.75),
-        0px 4px 8px rgba(12, 0, 40, 0.45),
-        0px 8px 16px rgba(12, 0, 40, 0.25);
-
-      a {
-        display: flex;
-        flex-direction: column;
-        align-items: center;
-        gap: 8px;
-        margin-inline: -12px;
-
-        img {
-          position: relative;
-          display: block;
-          width: 100%;
-          aspect-ratio: 1 / 1;
-          object-fit: cover;
-          clip-path: content-box;
-          filter: drop-shadow(0px 0px 4px rgba(159, 33, 232, 0.45))
-            drop-shadow(0px 0px 12px rgba(159, 33, 232, 0.45))
-            drop-shadow(0px 0px 24px rgba(159, 33, 232, 0.75));
-          transition: filter 0.5s cubic-bezier(0.4, 0, 0.2, 1);
-        }
-
-        &:hover {
-          img {
-            filter: brightness(1.25)
-              drop-shadow(0px 0px 4px rgba(159, 33, 232, 0.45))
-              drop-shadow(0px 0px 12px rgba(159, 33, 232, 0.45))
-              drop-shadow(0px 0px 24px rgba(159, 33, 232, 0.75));
-          }
-        }
-
-        /* Name */
-        em {
-          background: var(--text-gradient);
-          background-blend-mode: lighten, normal;
-          background-clip: text;
-          -webkit-text-fill-color: transparent;
-          font: normal 800 var(--hs) / 1.5 var(--family-display);
-          filter: drop-shadow(0px 0px 2px rgba(159, 33, 232, 0.75))
-            drop-shadow(0px 0px 4px rgba(159, 33, 232, 0.55))
-            drop-shadow(0px 0px 8px rgba(159, 33, 232, 0.45));
-        }
-      }
-
-      p { 
-        position: relative;
-        display: flex;
-        flex-direction: column;
-        gap: 8px;
-        margin-block: 0px !important;
-        background: linear-gradient(rgba(255, 255, 255, 0.15)),
-          linear-gradient(#ffffff 0%, #d3b8d7 100%);
-        background-blend-mode: screen, normal;
-        background-clip: text;
-        -webkit-text-fill-color: transparent;
-        font-weight: 600;
-        font-size: var(--bt);
-        text-align: center;
-      }
-
-      /* Portrait Background */
-      &:before {
-        content: " ";
-        position: absolute;
-        top: 0;
-        left: 0 !important;
-        bottom: 0;
-        right: 0;
-        width: 100% !important;
-        border-top-left-radius: 8px;
-        border-top-right-radius: 8px;
-        background: center/cover url("./images/bg-ti-2025.webp");
-        aspect-ratio: 1 / 1;
-        
-        /* VSCode Preview Overrides */
-        border-left: unset !important;
-        height: unset !important;
       }
     }
   }
@@ -3097,6 +3042,16 @@ Ask your questions on the Reddit post or over on the [Crimson Witnesses Discord 
         aspect-ratio: 1 / 1;
         object-fit: cover;
         justify-self: center;
+        filter:
+          drop-shadow(0px 0px 4px
+            oklch(from var(--accent-color) l c h / 45%)
+          )
+          drop-shadow(0px 0px 12px
+            oklch(from var(--accent-color) l c h / 45%)
+          )
+          drop-shadow(0px 0px 24px
+            oklch(from var(--accent-color) l c h / 75%)
+          );
       }
     }
 
@@ -3151,14 +3106,32 @@ Ask your questions on the Reddit post or over on the [Crimson Witnesses Discord 
         margin-bottom: 24px;
         padding-block: 0 12px;
         padding-inline: 12px;
-        background-color: rgba(50, 33, 229, 0.15);
+        background-color: oklch(
+          from var(--accent-color)
+          calc(l * 0.85) calc(c * 1.25) h / 15%
+        );
         box-sizing: border-box;
         font-size: var(--bt);
         text-align: center;
         text-wrap: pretty;
-        box-shadow: 0px 1px 4px rgba(12, 0, 40, 0.75),
-          0px 4px 8px rgba(12, 0, 40, 0.45),
-          0px 8px 16px rgba(12, 0, 40, 0.25);
+        box-shadow:
+          /* drop shadow */
+          0px 1px 4px oklch(from var(--accent-color) calc(l * 0.15) calc(c * 1.25) h / 75%),
+          0px 4px 8px oklch(from var(--accent-color) calc(l * 0.20) calc(c * 1.5) h / 45%),
+          0px 8px 16px oklch(from var(--accent-color) calc(l * 0.25) calc(c * 1.75) h / 25%),
+          /* inner glow */
+          inset 0px 2px 8px
+            oklch(from var(--accent-color) calc(l * 0.85) calc(c * 1.25) h / 25%),
+          inset 0px 1px 8px
+            oklch(from var(--accent-color) calc(l * 0.85) calc(c * 1.25) h / 35%),
+          inset 0px 1px 3px
+            oklch(from var(--accent-color) calc(l * 0.85) calc(c * 1.25) h / 45%),
+          inset 0px -1px 3px
+            oklch(from var(--accent-color) calc(l * 0.85) calc(c * 1.25) h / 45%),
+          inset 0px -1px 8px
+            oklch(from var(--accent-color) calc(l * 0.85) calc(c * 1.25) h / 35%),
+          inset 0px -2px 8px
+            oklch(from var(--accent-color) calc(l * 0.85) calc(c * 1.25) h / 25%);
 
         &:before {
           content: "";
@@ -3168,6 +3141,7 @@ Ask your questions on the Reddit post or over on the [Crimson Witnesses Discord 
           width: 100%;
           border-top-left-radius: 8px;
           border-top-right-radius: 8px;
+          background: var(--background);
           aspect-ratio: 1 / 1;
         }
 
@@ -3180,9 +3154,15 @@ Ask your questions on the Reddit post or over on the [Crimson Witnesses Discord 
           height: 32px;
           pointer-events: none;
           filter: opacity(0.85)
-            drop-shadow(0px 0px 8px rgba(159, 33, 232, 0.25))
-            drop-shadow(0px 0px 4px rgba(159, 33, 232, 0.5))
-            drop-shadow(0px 0px 2px rgba(159, 33, 232, 0.9));
+            drop-shadow(0px 0px 2px
+              oklch(from var(--accent-color) l c h / 90%)
+            )
+            drop-shadow(0px 0px 4px
+              oklch(from var(--accent-color) l c h / 50%)
+            )
+            drop-shadow(0px 0px 8px
+              oklch(from var(--accent-color) l c h / 25%)
+            );
         }
 
         &.pos1:after {
@@ -3220,18 +3200,33 @@ Ask your questions on the Reddit post or over on the [Crimson Witnesses Discord 
             aspect-ratio: 1 / 1;
             object-fit: cover;
             clip-path: content-box;
-            filter: drop-shadow(0px 0px 4px rgba(159, 33, 232, 0.45))
-              drop-shadow(0px 0px 12px rgba(159, 33, 232, 0.45))
-              drop-shadow(0px 0px 24px rgba(159, 33, 232, 0.75));
+            filter:
+              drop-shadow(0px 0px 4px
+                oklch(from var(--accent-color) l c h / 45%)
+              )
+              drop-shadow(0px 0px 12px
+                oklch(from var(--accent-color) l c h / 45%)
+              )
+              drop-shadow(0px 0px 24px
+                oklch(from var(--accent-color) l c h / 75%)
+              );
             transition: filter 0.5s cubic-bezier(0.4, 0, 0.2, 1);
           }
 
           &:hover {
             img {
-              filter: brightness(1.25)
-              drop-shadow(0px 0px 4px rgba(159, 33, 232, 0.45))
-              drop-shadow(0px 0px 12px rgba(159, 33, 232, 0.45))
-              drop-shadow(0px 0px 24px rgba(159, 33, 232, 0.75));
+              filter:
+                contrast(1.15)
+                brightness(1.05)
+                drop-shadow(0px 0px 4px
+                  oklch(from var(--accent-color) l c h / 45%)
+                )
+                drop-shadow(0px 0px 12px 
+                  oklch(from var(--accent-color) l c h / 45%)
+                )
+                drop-shadow(0px 0px 24px 
+                  oklch(from var(--accent-color) l c h / 75%)
+                );
             }
           }
 
@@ -3242,77 +3237,225 @@ Ask your questions on the Reddit post or over on the [Crimson Witnesses Discord 
             background-clip: text;
             -webkit-text-fill-color: transparent;
             font: normal 800 var(--ht) / 1.5 var(--family-display);
-            filter: drop-shadow(0px 0px 2px rgba(159, 33, 232, 0.75))
-              drop-shadow(0px 0px 4px rgba(159, 33, 232, 0.55))
-              drop-shadow(0px 0px 8px rgba(159, 33, 232, 0.45));
+            filter:
+              drop-shadow(0px 0px 2px
+                oklch(from var(--accent-color) l c h / 75%)
+              )
+              drop-shadow(0px 0px 4px
+                oklch(from var(--accent-color) l c h / 65%)
+              )
+              drop-shadow(0px 0px 8px
+                oklch(from var(--accent-color) l c h / 45%)
+              );
           }
         }
 
         /* Team Backgrounds */
-
-        &.liquid:before {
-          background: center/cover url("./images/teams/team-liquid/bg-team-liquid.webp");
+        &.liquid {
+          --accent-color: oklch(53.6% 0.166 253.21);
+          --background: center/cover url("./images/teams/team-liquid/bg-team-liquid.webp");
         }
 
-        &.paravision:before {
-          background: center/cover url("./images/teams/paravision/bg-paravision.webp");
+        &.paravision {
+          --accent-color: oklch(81.09% 0.138 164.5);
+          --background: center/cover url("./images/teams/paravision/bg-paravision.webp");
         }
 
-        &.betboom:before {
-          background: center/cover url("./images/teams/betboom-team/bg-betboom-team.webp");
+        &.betboom {
+          --accent-color: oklch(75.61% 0.146 21.61);
+          --background: center/cover url("./images/teams/betboom-team/bg-betboom-team.webp");
         }
 
-        &.tidebound:before {
-          background: center/cover url("./images/teams/team-tidebound/bg-team-tidebound.webp");
+        &.tidebound {
+          --accent-color: oklch(82.41% 0.096 243.21);
+          --background: center/cover url("./images/teams/team-tidebound/bg-team-tidebound.webp");
         }
 
-        &.spirit:before {
-          background: center/cover url("./images/teams/team-spirit/bg-team-spirit.webp");
+        &.spirit {
+          --accent-color: oklch(66.53% 0.21 300.72);
+          --background: center/cover url("./images/teams/team-spirit/bg-team-spirit.webp");
         }
 
-        &.falcons:before {
-          background: center/cover url("./images/teams/team-falcons/bg-team-falcons.webp");
+        &.falcons {
+          --accent-color: oklch(73.43% 0.195 136.47);
+          --background: center/cover url("./images/teams/team-falcons/bg-team-falcons.webp");
         }
 
-        &.tundra:before {
-          background: center/cover url("./images/teams/tundra-esports/bg-tundra-esports.webp");
+        &.tundra {
+          --accent-color: oklch(70.91% 0.184 302.3);
+          --background: center/cover url("./images/teams/tundra-esports/bg-tundra-esports.webp");
         }
 
-        &.yakotou:before {
-          background: center/cover url("./images/bg-ti-2025.webp"); 
+        &.yakotou {
+          --accent-color: oklch(73.66% 0.165 11.43);
+          --background: center/cover url("./images/bg-ti-2025.webp"); 
         }
 
-        &.navi:before {
-          background: center/cover url("./images/teams/natus-vincere/bg-natus-vincere.webp");
+        &.navi {
+          --accent-color: oklch(92.35% 0.168 100.65);
+          --background: center/cover url("./images/teams/natus-vincere/bg-natus-vincere.webp");
         }
 
-        &.nigma:before {
-          background: center/cover url("./images/teams/nigma-galaxy/bg-nigma-galaxy.webp");
+        &.nigma {
+          --accent-color: oklch(55.93% 0.218 297.18);
+          --background: center/cover url("./images/teams/nigma-galaxy/bg-nigma-galaxy.webp");
         }
 
-        &.aurora:before {
-          background: center/cover url("./images/teams/aurora-gaming/bg-aurora-gaming.webp");
+        &.aurora {
+          --accent-color: oklch(81.24% 0.152 164.49);
+          --background: center/cover url("./images/teams/aurora-gaming/bg-aurora-gaming.webp");
         }
 
-        &.xtreme:before {
-          background: center/cover url("./images/teams/xtreme-gaming/bg-xtreme-gaming.webp");
+        &.xtreme {
+          --accent-color: oklch(75.68% 0.155 304.26);
+          --background: center/cover url("./images/teams/xtreme-gaming/bg-xtreme-gaming.webp");
         }
 
-        &.nemesis:before {
-          background: center/cover url("./images/teams/team-nemesis/bg-team-nemesis.webp");
+        &.nemesis {
+          --accent-color: oklch(55.93% 0.218 297.18);
+          --background: center/cover url("./images/teams/team-nemesis/bg-team-nemesis.webp");
         }
 
-        &.boom:before {
-          background: center/cover url("./images/teams/boom-esports/bg-boom-esports.webp");
+        &.boom {
+          --accent-color: oklch(54.36% 0.219 21.84);
+          --background: center/cover url("./images/teams/boom-esports/bg-boom-esports.webp");
         }
 
-        &.wildcard:before { 
-          background: center/cover url("./images/teams/wildcard/bg-wildcard.webp");
+        &.wildcard { 
+          --accent-color: oklch(84.04% 0.112 222.24);
+          --background: center/cover url("./images/teams/wildcard/bg-wildcard.webp");
         }
 
-        &.heroic:before { 
-          background: center/cover url("./images/teams/heroic/bg-heroic.webp");
+        &.heroic { 
+          --accent-color: oklch(67.01% 0.217 22.5);
+          --background: center/cover url("./images/teams/heroic/bg-heroic.webp");
         }
+      }
+    }
+  }
+
+  /* Boardcast Talent Lists */
+  ul:has(a > img) {
+    --accent-color: #9F21E8;
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+    justify-content: space-between;
+    gap: 24px 12px;
+    padding: 0 !important;
+    list-style: none;
+
+    li {
+      position: relative;
+      border-radius: 8px;
+      margin-top: 0px !important;
+      padding-block: 0 12px;
+      padding-inline: 12px;
+      background: rgba(38, 33, 90, 0.45);
+      background-blend-mode: hard-light;
+      box-shadow: 0px 1px 4px rgba(12, 0, 40, 0.75),
+        0px 4px 8px rgba(12, 0, 40, 0.45),
+        0px 8px 16px rgba(12, 0, 40, 0.25);
+
+      a {
+        position: relative;
+        margin-inline: -12px;
+        margin-bottom: 8px;
+        font-size: var(--bs);
+        text-align: center;
+
+        img {
+          position: relative;
+          display: block;
+          width: 100%;
+          border-radius: 8px;
+          aspect-ratio: 1 / 1;
+          object-fit: cover;
+          clip-path: border-box;
+          filter:
+            drop-shadow(0px 0px 4px
+              oklch(from var(--accent-color) l c h / 55%)
+            )
+            drop-shadow(0px 0px 12px
+              oklch(from var(--accent-color) l c h / 65%)
+            )
+            drop-shadow(0px 0px 24px
+              oklch(from var(--accent-color) l c h / 75%)
+            );
+          transition: filter 0.5s cubic-bezier(0.4, 0, 0.2, 1);
+        }
+
+        &:hover {
+          img {
+            filter:
+              contrast(1.15)
+              brightness(1.05)
+              drop-shadow(0px 0px 4px
+                oklch(from var(--accent-color) l c h / 55%)
+              )
+              drop-shadow(0px 0px 12px
+                oklch(from var(--accent-color) l c h / 65%)
+              )
+              drop-shadow(0px 0px 24px
+                oklch(from var(--accent-color) l c h / 75%)
+              );
+          }
+          text-decoration: underline;
+        }
+
+        /* Name */
+        em {
+          background: var(--text-gradient);
+          background-blend-mode: lighten, normal;
+          background-clip: text;
+          -webkit-text-fill-color: transparent;
+          font: normal 800 var(--hs) / 1.5 var(--family-display);
+          filter:
+            drop-shadow(0px 0px 2px
+              oklch(from var(--accent-color) l c h / 55%)
+            )
+            drop-shadow(0px 0px 4px
+              oklch(from var(--accent-color) l c h / 65%)
+            )
+            drop-shadow(0px 0px 8px
+              oklch(from var(--accent-color) l c h / 75%)
+            );
+        }
+      }
+
+      p { 
+        position: relative;
+        display: flex;
+        flex-direction: column;
+        gap: 8px;
+        margin-block: 0px !important;
+        background:
+          linear-gradient(rgba(255, 255, 255, 0.15)),
+          linear-gradient(#ffffff 0%, #d3b8d7 100%);
+        background-blend-mode: screen, normal;
+        background-clip: text;
+        -webkit-text-fill-color: transparent;
+        font-weight: 600;
+        font-size: var(--bt);
+        text-align: center;
+      }
+
+      /* Portrait Background */
+      &:before {
+        content: " ";
+        position: absolute;
+        top: 0;
+        left: 0 !important;
+        bottom: 0;
+        right: 0;
+        width: 100% !important;
+        border-top-left-radius: 8px;
+        border-top-right-radius: 8px;
+        background: center/cover url("./images/bg-ti-2025.webp");
+        aspect-ratio: 1 / 1;
+        
+        /* VSCode Preview Overrides */
+        border-left: unset !important;
+        height: unset !important;
       }
     }
   }
