@@ -1674,55 +1674,55 @@ Opening Hours
 
 ### English
 
-- [![](./images/talent/english/siractionslacks.png) _SirActionSlacks_](https://liquipedia.net/dota2/SirActionSlacks)
+- [![](./images/talent/english/siractionslacks.webp) _SirActionSlacks_](https://liquipedia.net/dota2/SirActionSlacks)
 
   🇺🇸 Jake Kanner
 
   Host
 
-- [![](./images/talent/english/lizzard.png) _lizZard_](https://liquipedia.net/dota2/LizZard)
+- [![](./images/talent/english/lizzard.webp) _lizZard_](https://liquipedia.net/dota2/LizZard)
 
   🇧🇦 Admir Salkanović
 
   Analyst, Caster
 
-- [![](./images/talent/english/odpixel.png) _ODPixel_](https://liquipedia.net/dota2/ODPixel)
+- [![](./images/talent/english/odpixel.webp) _ODPixel_](https://liquipedia.net/dota2/ODPixel)
 
   🇬🇧 Owen Davies
 
   Caster
 
-- [![](./images/talent/english/bkop.png) _Bkop_](https://liquipedia.net/dota2/Bkop)
+- [![](./images/talent/english/bkop.webp) _Bkop_](https://liquipedia.net/dota2/Bkop)
 
   🇺🇸 Benjamin Kopilow
 
   Caster
 
-- [![](./images/talent/english/misery.png) _Misery_](https://liquipedia.net/dota2/MISERY)
+- [![](./images/talent/english/misery.webp) _Misery_](https://liquipedia.net/dota2/MISERY)
 
   🇩🇰 Rasmus Berth Filipsen
 
   Analyst
 
-- [![](./images/talent/english/trent.png) _trent_](https://liquipedia.net/dota2/Trent)
+- [![](./images/talent/english/trent.webp) _trent_](https://liquipedia.net/dota2/Trent)
 
   🇨🇦 Trent MacKenzie
 
   Caster
 
-- [![](./images/talent/english/cap.png) _Cap_](https://liquipedia.net/dota2/Cap)
+- [![](./images/talent/english/cap.webp) _Cap_](https://liquipedia.net/dota2/Cap)
 
   🇺🇸 Austin Walsh
 
   Caster
 
-- [![](./images/talent/english/seeknstrike.png) _SeekNStrike_](https://liquipedia.net/dota2/SeekNStrike)
+- [![](./images/talent/english/seeknstrike.webp) _SeekNStrike_](https://liquipedia.net/dota2/SeekNStrike)
 
   🇺🇸 Richie Garcia
 
   Caster
 
-- [![](./images/talent/english/ephey.png) _Ephey_](https://liquipedia.net/dota2/Ephey)
+- [![](./images/talent/english/ephey.webp) _Ephey_](https://liquipedia.net/dota2/Ephey)
 
   🇯🇴 Mira Riad
 
@@ -1730,67 +1730,67 @@ Opening Hours
 
   Analyst
 
-- [![](./images/talent/english/nomad.png) _Nomad_](https://liquipedia.net/dota2/Nomad)
+- [![](./images/talent/english/nomad.webp) _Nomad_](https://liquipedia.net/dota2/Nomad)
 
   🇬🇧 Jared Bajina
 
   Caster
 
-- [![](./images/talent/english/svg.png) _SVG_](https://liquipedia.net/dota2/SVG)
+- [![](./images/talent/english/svg.webp) _SVG_](https://liquipedia.net/dota2/SVG)
 
   🇺🇸 Avery Silverman
 
   Caster
 
-- [![](./images/talent/english/reya.png) _Reya_](https://liquipedia.net/dota2/Sheepsticked)
+- [![](./images/talent/english/reya.webp) _Reya_](https://liquipedia.net/dota2/Sheepsticked)
 
   🇬🇧 Alexandra Roberts
 
   Analyst
 
-- [![](./images/talent/english/winter.png) _WinteR_](https://liquipedia.net/dota2/WinteR)
+- [![](./images/talent/english/winter.webp) _WinteR_](https://liquipedia.net/dota2/WinteR)
 
   🇲🇾 Chan Litt Binn
 
   Caster
 
-- [![](./images/talent/english/zquixotix.png) _ZQuixotix_](https://liquipedia.net/dota2/ZQuixotix)
+- [![](./images/talent/english/zquixotix.webp) _ZQuixotix_](https://liquipedia.net/dota2/ZQuixotix)
 
   🇺🇸 Zachary Ang
 
   Caster
 
-- [![](./images/talent/english/lyrical.png) _Lyrical_](https://liquipedia.net/dota2/Lyrical)
+- [![](./images/talent/english/lyrical.webp) _Lyrical_](https://liquipedia.net/dota2/Lyrical)
 
   🇺🇸 Gabriel Thomas Cruz
 
   Caster
 
-- [![](./images/talent/english/gareth.png) _Gareth_](https://liquipedia.net/dota2/Gareth)
+- [![](./images/talent/english/gareth.webp) _Gareth_](https://liquipedia.net/dota2/Gareth)
 
   🇬🇧 Gareth Bateson
 
   Caster
 
-- [![](./images/talent/english/tsunami.png) _tsunami_](https://liquipedia.net/dota2/Tsunami)
+- [![](./images/talent/english/tsunami.webp) _tsunami_](https://liquipedia.net/dota2/Tsunami)
 
   🇺🇸 Neal Khandheria
 
   Host, Analyst
 
-- [![](./images/talent/english/teaguvnor.png) _TeaGuvnor_](https://liquipedia.net/dota2/TeaGuvnor)
+- [![](./images/talent/english/teaguvnor.webp) _TeaGuvnor_](https://liquipedia.net/dota2/TeaGuvnor)
 
   🇬🇧 Robson Merritt
 
   Caster, Analyst
 
-- [![](./images/talent/english/stormstormer.png) _Stormstormer_](https://liquipedia.net/dota2/Stormstormer)
+- [![](./images/talent/english/stormstormer.webp) _Stormstormer_](https://liquipedia.net/dota2/Stormstormer)
 
   🇩🇪 Daniel Schoetzau
 
   Analyst
 
-- [![](./images/talent/english/fly.png) _Fly_](https://liquipedia.net/dota2/Fly)
+- [![](./images/talent/english/fly.webp) _Fly_](https://liquipedia.net/dota2/Fly)
 
   🇮🇱 Tal Aizik
 
@@ -1798,91 +1798,91 @@ Opening Hours
 
   Analyst
 
-- [![](./images/talent/english/synderen.png) _syndereN_](https://liquipedia.net/dota2/SyndereN)
+- [![](./images/talent/english/synderen.webp) _syndereN_](https://liquipedia.net/dota2/SyndereN)
 
   🇩🇰 Troels Lyngholt Nielsen
 
   Caster
 
-- [![](./images/talent/english/lacoste.png) _Lacoste_](https://liquipedia.net/dota2/Lacoste)
+- [![](./images/talent/english/lacoste.webp) _Lacoste_](https://liquipedia.net/dota2/Lacoste)
 
   🇭🇷 Dominik Stipić
 
   Analyst
 
-- [![](./images/talent/english/purge.png) \_Purge](<https://liquipedia.net/dota2/Purge_(Kevin_Godec)>)
+- [![](./images/talent/english/purge.webp) \_Purge](<https://liquipedia.net/dota2/Purge_(Kevin_Godec)>)
 
   🇺🇸 Kevin Godec
 
   Caster, Analyst
 
-- [![](./images/talent/english/sheever.png) _Sheever_](https://liquipedia.net/dota2/Sheever)
+- [![](./images/talent/english/sheever.webp) _Sheever_](https://liquipedia.net/dota2/Sheever)
 
   🇳🇱 Jorien van der Heijden
 
   Host
 
-- [![](./images/talent/english/khezu.png) _KheZu_](https://liquipedia.net/dota2/KheZu)
+- [![](./images/talent/english/khezu.webp) _KheZu_](https://liquipedia.net/dota2/KheZu)
 
   🇩🇪 Maurice Gutmann
 
   Analyst
 
-- [![](./images/talent/english/wagamama.png) _Wagamama_](https://liquipedia.net/dota2/Wagamama)
+- [![](./images/talent/english/wagamama.webp) _Wagamama_](https://liquipedia.net/dota2/Wagamama)
 
   🇸🇪 Niklas Högström
 
   Caster
 
-- [![](./images/talent/english/f-dog.png) _F-Dog_](https://liquipedia.net/dota2/Fogged)
+- [![](./images/talent/english/f-dog.webp) _F-Dog_](https://liquipedia.net/dota2/Fogged)
 
   🇺🇸 Ioannis Loucas
 
   Caster, Analyst
 
-- [![](./images/talent/english/pyrion-flax.png) _Pyrion Flax_](https://liquipedia.net/dota2/PyrionFlax)
+- [![](./images/talent/english/pyrion-flax.webp) _Pyrion Flax_](https://liquipedia.net/dota2/PyrionFlax)
 
   🇬🇧 Ted Forsyth
 
   Caster, Analyst
 
-- [![](./images/talent/english/sunsfan.png) _SUNSfan_](https://liquipedia.net/dota2/SUNSfan)
+- [![](./images/talent/english/sunsfan.webp) _SUNSfan_](https://liquipedia.net/dota2/SUNSfan)
 
   🇺🇸 Shannon Scotten
 
   Caster
 
-- [![](./images/talent/english/gunnar.png) _Gunnar_](https://liquipedia.net/dota2/Gunnar)
+- [![](./images/talent/english/gunnar.webp) _Gunnar_](https://liquipedia.net/dota2/Gunnar)
 
   🇺🇸 Nicolas Lopez
 
   Analyst
 
-- [![](./images/talent/english/johnxfire.png) _johnxfire_](https://liquipedia.net/dota2/Johnxfire)
+- [![](./images/talent/english/johnxfire.webp) _johnxfire_](https://liquipedia.net/dota2/Johnxfire)
 
   🇵🇭 John Nathan Fernandez
 
   Caster
 
-- [![](./images/talent/english/mlpdota.png) _MLPDotA_](https://liquipedia.net/dota2/MLPDotA)
+- [![](./images/talent/english/mlpdota.webp) _MLPDotA_](https://liquipedia.net/dota2/MLPDotA)
 
   🇦🇺 Mike Le Phoenix
 
   Caster
 
-- [![](./images/talent/english/fear.png) \_Fear](<https://liquipedia.net/dota2/Fear_(Clinton_Loomis)>)
+- [![](./images/talent/english/fear.webp) \_Fear](<https://liquipedia.net/dota2/Fear_(Clinton_Loomis)>)
 
   🇺🇸 Clinton Loomis
 
   Analyst
 
-- [![](./images/talent/english/nattea.png) _NatTea_](https://liquipedia.net/dota2/NatTea)
+- [![](./images/talent/english/nattea.webp) _NatTea_](https://liquipedia.net/dota2/NatTea)
 
   🇦🇺 Natalie Mahoney
 
   Host
 
-- [![](./images/talent/english/jenkins.png) _Jenkins_](https://liquipedia.net/dota2/Jenkins)
+- [![](./images/talent/english/jenkins.webp) _Jenkins_](https://liquipedia.net/dota2/Jenkins)
 
   🇨🇦 Andrew Jenkins
 
@@ -1890,7 +1890,7 @@ Opening Hours
 
 ### Russian
 
-- [![](./images/talent/russian/cloud-fox.png) _Cloud Fox_](https://liquipedia.net/dota2/Cloud_Fox)
+- [![](./images/talent/russian/cloud-fox.webp) _Cloud Fox_](https://liquipedia.net/dota2/Cloud_Fox)
 
   🇷🇺 Victor Kulichevskiy
 
@@ -1898,7 +1898,7 @@ Opening Hours
 
   Caster, Analyst
 
-- [![](./images/talent//russian/zais.png) _Zais_](https://liquipedia.net/dota2/Zais)
+- [![](./images/talent//russian/zais.webp) _Zais_](https://liquipedia.net/dota2/Zais)
 
   🇷🇺 Nikita Zakharov
 
@@ -1906,7 +1906,7 @@ Opening Hours
 
   Caster
 
-- [![](./images/talent/russian/kinda_high.png) _kinda_high_](https://liquipedia.net/dota2/kinda_high)
+- [![](./images/talent/russian/kinda_high.webp) _kinda_high_](https://liquipedia.net/dota2/kinda_high)
 
   🇷🇺 Arkadii Krylov
 
@@ -1914,7 +1914,7 @@ Opening Hours
 
   Caster
 
-- [![](./images/talent/russian/flutterravie.png) _flutterravie_](https://liquipedia.net/dota2/flutterravie)
+- [![](./images/talent/russian/flutterravie.webp) _flutterravie_](https://liquipedia.net/dota2/flutterravie)
 
   🇷🇺 Tosha Bersenev
 
@@ -1922,7 +1922,7 @@ Opening Hours
 
   Caster
 
-- [![](./images/talent/russian/4ce.png) _4ce_](https://liquipedia.net/dota2/4ce)
+- [![](./images/talent/russian/4ce.webp) _4ce_](https://liquipedia.net/dota2/4ce)
 
   🇷🇺 Nikita Kotkov
 
@@ -1930,7 +1930,7 @@ Opening Hours
 
   Caster
 
-- [![](./images/talent/russian/mantis.png) _Mantis_](https://liquipedia.net/dota2/Mantis)
+- [![](./images/talent/russian/mantis.webp) _Mantis_](https://liquipedia.net/dota2/Mantis)
 
   🇰🇿 Yernar Urazbayev
 
@@ -1938,7 +1938,7 @@ Opening Hours
 
   Caster
 
-- [![](./images/talent/russian/santa.png) _Santa_](https://liquipedia.net/dota2/Santa)
+- [![](./images/talent/russian/santa.webp) _Santa_](https://liquipedia.net/dota2/Santa)
 
   🇷🇺 Alexander Koltan
 
@@ -1946,7 +1946,7 @@ Opening Hours
 
   Caster
 
-- [![](./images/talent/russian/vasilisa.png) _Vasilisa_](https://liquipedia.net/dota2/Vasilisa)
+- [![](./images/talent/russian/vasilisa.webp) _Vasilisa_](https://liquipedia.net/dota2/Vasilisa)
 
   🇷🇺 Vasilisa Chernova
 
@@ -1954,7 +1954,7 @@ Opening Hours
 
   Host
 
-- [![](./images/talent/russian/inmate.png) _Inmate_](https://liquipedia.net/dota2/Inmate)
+- [![](./images/talent/russian/inmate.webp) _Inmate_](https://liquipedia.net/dota2/Inmate)
 
   🇷🇺 Dmitry Filinov
 
@@ -1962,7 +1962,7 @@ Opening Hours
 
   Caster, Analyst
 
-- [![](./images/talent/russian/jam.png) _JAM_](https://liquipedia.net/dota2/JAM)
+- [![](./images/talent/russian/jam.webp) _JAM_](https://liquipedia.net/dota2/JAM)
 
   🇷🇺 Alexander Korotkov
 
@@ -1970,19 +1970,19 @@ Opening Hours
 
   Caster
 
-- [![](./images/talent/russian/grayne.png) _Grayne_](https://liquipedia.net/dota2/Grayne)
+- [![](./images/talent/russian/grayne.webp) _Grayne_](https://liquipedia.net/dota2/Grayne)
 
   🇷🇺 Anton Afanasenko
 
   Caster
 
-- [![](./images/talent/russian/kawaiisocks.png) _KawaiiSocks_](https://liquipedia.net/dota2/KawaiiSocks)
+- [![](./images/talent/russian/kawaiisocks.webp) _KawaiiSocks_](https://liquipedia.net/dota2/KawaiiSocks)
 
   🇰🇿 Temirlan Tattybekov
 
   Caster
 
-- [![](./images/talent/russian/maelstorm.png) _Maelstorm_](https://liquipedia.net/dota2/Maelstorm)
+- [![](./images/talent/russian/maelstorm.webp) _Maelstorm_](https://liquipedia.net/dota2/Maelstorm)
 
   🇷🇺 Vladimir Kuzminov
 
@@ -1990,7 +1990,7 @@ Opening Hours
 
   Caster
 
-- [![](./images/talent/russian/blackarxangel.png) _BLACKARXANGEL_](https://liquipedia.net/dota2/BLACKARXANGEL)
+- [![](./images/talent/russian/blackarxangel.webp) _BLACKARXANGEL_](https://liquipedia.net/dota2/BLACKARXANGEL)
 
   🇰🇿 Vladislav Ivachshenko
 
@@ -1998,7 +1998,7 @@ Opening Hours
 
   Analyst
 
-- [![](./images/talent/russian/starboy.png) _STARBOY_](https://liquipedia.net/dota2/STARBOY)
+- [![](./images/talent/russian/starboy.webp) _STARBOY_](https://liquipedia.net/dota2/STARBOY)
 
   🇷🇺 Maxim Fomin
 
@@ -2006,7 +2006,7 @@ Opening Hours
 
   Caster
 
-- [![](./images/talent/russian/arszeeqq.png) _ArsZeeqq_](https://liquipedia.net/dota2/ArsZeeqq)
+- [![](./images/talent/russian/arszeeqq.webp) _ArsZeeqq_](https://liquipedia.net/dota2/ArsZeeqq)
 
   🇷🇺 Arsenii Usov
 
@@ -2014,7 +2014,7 @@ Opening Hours
 
   Analyst
 
-- [![](./images/talent/russian/eiritel.png) _Eiritel_](https://liquipedia.net/dota2/Eiritel)
+- [![](./images/talent/russian/eiritel.webp) _Eiritel_](https://liquipedia.net/dota2/Eiritel)
 
   🇷🇺 Dariya Morozova
 
@@ -2022,7 +2022,7 @@ Opening Hours
 
   Caster, Analyst
 
-- [![](./images/talent/russian/adekvat.png) _Adekvat_](https://liquipedia.net/dota2/Adekvat)
+- [![](./images/talent/russian/adekvat.webp) _Adekvat_](https://liquipedia.net/dota2/Adekvat)
 
   🇷🇺 Rustam Mavliutov
 
@@ -2030,7 +2030,7 @@ Opening Hours
 
   Caster
 
-- [![](./images/talent/russian/smile.png) _Smile_](https://liquipedia.net/dota2/ARS-ART)
+- [![](./images/talent/russian/smile.webp) _Smile_](https://liquipedia.net/dota2/ARS-ART)
 
   🇷🇺 Sergey Revin
 
@@ -2038,7 +2038,7 @@ Opening Hours
 
   Caster, Analyst
 
-- [![](./images/talent/russian/lex.png) _Lex_](https://liquipedia.net/dota2/Lex)
+- [![](./images/talent/russian/lex.webp) _Lex_](https://liquipedia.net/dota2/Lex)
 
   🇧🇾 Alexey Filippov
 
@@ -2046,7 +2046,7 @@ Opening Hours
 
   Caster
 
-- [![](./images/talent/russian/vanskor.png) _Vanskor_](https://liquipedia.net/dota2/VANSKOR)
+- [![](./images/talent/russian/vanskor.webp) _Vanskor_](https://liquipedia.net/dota2/VANSKOR)
 
   🇷🇺 Ivan Skorokhod
 
@@ -2054,7 +2054,7 @@ Opening Hours
 
   Analyst
 
-- [![](./images/talent/russian/y0nd.png) _y0nd_](https://liquipedia.net/dota2/Y0nd)
+- [![](./images/talent/russian/y0nd.webp) _y0nd_](https://liquipedia.net/dota2/Y0nd)
 
   🇷🇺 Gleb Vazhnov
 
@@ -2062,7 +2062,7 @@ Opening Hours
 
   Analyst
 
-- [![](./images/talent/russian/mortalles.png) _Mortalles_](https://liquipedia.net/dota2/Mortalles)
+- [![](./images/talent/russian/mortalles.webp) _Mortalles_](https://liquipedia.net/dota2/Mortalles)
 
   🇷🇺 Dmitry Arzhylovsky
 
@@ -2070,7 +2070,7 @@ Opening Hours
 
   Caster
 
-- [![](./images/talent/russian/fishman.png) _Fishman_](https://liquipedia.net/dota2/Fishman)
+- [![](./images/talent/russian/fishman.webp) _Fishman_](https://liquipedia.net/dota2/Fishman)
 
   🇧🇾 Dzmitry Palishchuk
 
@@ -2078,7 +2078,7 @@ Opening Hours
 
   Analyst
 
-- [![](./images/talent/russian/autodestruction.png) _Autodestruction_](https://liquipedia.net/dota2/Autodestruction)
+- [![](./images/talent/russian/autodestruction.webp) _Autodestruction_](https://liquipedia.net/dota2/Autodestruction)
 
   🇷🇺 Daria Medvedeva
 
@@ -2086,7 +2086,7 @@ Opening Hours
 
   Caster
 
-- [![](./images/talent/russian/crystalmay.png) _CrystalMay_](https://liquipedia.net/dota2/CrystalMay)
+- [![](./images/talent/russian/crystalmay.webp) _CrystalMay_](https://liquipedia.net/dota2/CrystalMay)
 
   🇷🇺 Dmitry Korchevinin
 
@@ -2096,7 +2096,7 @@ Opening Hours
 
 ### Chinese
 
-- [![](./images/talent/chinese/ams.png) _Ams_](https://liquipedia.net/dota2/Ams)
+- [![](./images/talent/chinese/ams.webp) _Ams_](https://liquipedia.net/dota2/Ams)
 
   🇨🇳 Chen Juan
 
@@ -2104,13 +2104,13 @@ Opening Hours
 
   Analyst
 
-- [![](./images/talent/chinese/wind.png) _Wind_](https://liquipedia.net/dota2/Wind)
+- [![](./images/talent/chinese/wind.webp) _Wind_](https://liquipedia.net/dota2/Wind)
 
   🇨🇳 Wang Zhibo
 
   Caster
 
-- [![](./images/talent/chinese/cc.png) _璨璨cc_](https://liquipedia.net/dota2/%E7%92%A8%E7%92%A8cc)
+- [![](./images/talent/chinese/cc.webp) _璨璨cc_](https://liquipedia.net/dota2/%E7%92%A8%E7%92%A8cc)
 
   🇨🇳 Shi Cancan
 
@@ -2118,7 +2118,7 @@ Opening Hours
 
   Caster, Analyst
 
-- [![](./images/talent/chinese/super.png) \_super](<https://liquipedia.net/dota2/Super_(Su_Peng)>)
+- [![](./images/talent/chinese/super.webp) \_super](<https://liquipedia.net/dota2/Super_(Su_Peng)>)
 
   🇨🇳 Su Peng
 
@@ -2126,13 +2126,13 @@ Opening Hours
 
   Analyst
 
-- [![](./images/talent/chinese/tokki.png) _Tokki_](https://liquipedia.net/dota2/XiiTuzi)
+- [![](./images/talent/chinese/tokki.webp) _Tokki_](https://liquipedia.net/dota2/XiiTuzi)
 
   🇺🇸 Helen Xu
 
   Interviewer / Interpreter
 
-- [![](./images/talent/chinese/monet.png) _Monet_](https://liquipedia.net/dota2/Monet)
+- [![](./images/talent/chinese/monet.webp) _Monet_](https://liquipedia.net/dota2/Monet)
 
   🇨🇳 Du Peng
 
@@ -2140,7 +2140,7 @@ Opening Hours
 
   Analyst
 
-- [![](./images/talent/chinese/lanm.png) _LaNm_](https://liquipedia.net/dota2/LaNm)
+- [![](./images/talent/chinese/lanm.webp) _LaNm_](https://liquipedia.net/dota2/LaNm)
 
   🇨🇳 Zhang Zhicheng
 
@@ -2148,13 +2148,13 @@ Opening Hours
 
   Analyst
 
-- [![](./images/talent/chinese/jin.png) _Jin_](https://liquipedia.net/dota2/Jin)
+- [![](./images/talent/chinese/jin.webp) _Jin_](https://liquipedia.net/dota2/Jin)
 
   🇨🇳 Jin Ru
 
   Interviewer / Interpreter
 
-- [![](./images//talent//chinese/yao.png) _Yao_](https://liquipedia.net/dota2/Yao)
+- [![](./images//talent//chinese/yao.webp) _Yao_](https://liquipedia.net/dota2/Yao)
 
   🇨🇳 Yao Zhengzheng
 
@@ -2162,7 +2162,7 @@ Opening Hours
 
   Analyst
 
-- [![](./images/talent/chinese/sccc`.png) _Sccc`_](https://liquipedia.net/dota2/Sccc)
+- [![](./images/talent/chinese/sccc`.webp) _Sccc`_](https://liquipedia.net/dota2/Sccc)
 
   🇨🇳 Song Chun
 
@@ -2170,7 +2170,7 @@ Opening Hours
 
   Caster, Analyst
 
-- [![](./images/talent/chinese/yuno.png) _Yuno_](https://liquipedia.net/dota2/Yuno)
+- [![](./images/talent/chinese/yuno.webp) _Yuno_](https://liquipedia.net/dota2/Yuno)
 
   🇨🇳 Wang Jing
 
@@ -2178,7 +2178,7 @@ Opening Hours
 
   Caster, Analyst
 
-- [![](./images/talent/chinese/ero.png) _Ero_](https://liquipedia.net/dota2/Ero)
+- [![](./images/talent/chinese/ero.webp) _Ero_](https://liquipedia.net/dota2/Ero)
 
   🇨🇳 Li Yao
 
@@ -2186,7 +2186,7 @@ Opening Hours
 
   Caster
 
-- [![](./images/talent/chinese/dy.png) _Dy_](https://liquipedia.net/dota2/Dy)
+- [![](./images/talent/chinese/dy.webp) _Dy_](https://liquipedia.net/dota2/Dy)
 
   🇨🇳 Ding Cong
 
@@ -2194,13 +2194,13 @@ Opening Hours
 
   Analyst
 
-- [![](./images/talent/chinese/wang-yue.png) _朔月_](https://liquipedia.net/dota2/%E6%9C%94%E6%9C%88)
+- [![](./images/talent/chinese/wang-yue.webp) _朔月_](https://liquipedia.net/dota2/%E6%9C%94%E6%9C%88)
 
   🇨🇳 Wang Yue
 
   Caster
 
-- [![](./images/talent/chinese/freeagain.png) _FreeAgain_](https://liquipedia.net/dota2/FreeAgain)
+- [![](./images/talent/chinese/freeagain.webp) _FreeAgain_](https://liquipedia.net/dota2/FreeAgain)
 
   🇨🇳 Hao Peng
 
@@ -2208,7 +2208,7 @@ Opening Hours
 
   Caster
 
-- [![](./images/talent/chinese/ori.png) _Ori_](https://liquipedia.net/dota2/Ori)
+- [![](./images/talent/chinese/ori.webp) _Ori_](https://liquipedia.net/dota2/Ori)
 
   🇨🇳 Zeng Jiaoyang
 
@@ -2216,13 +2216,13 @@ Opening Hours
 
   Analyst
 
-- [![](./images/talent/chinese/yun.png) \_Yun]()
+- [![](./images/talent/chinese/yun.webp) \_Yun]()
 
   🇨🇳 Chen Yunfan
 
   Caster
 
-- [![](./images/talent/chinese/lavenderaa.png) \_LavenderAA](<https://liquipedia.net/dota2/AA_(Li_Qiming)>)
+- [![](./images/talent/chinese/lavenderaa.webp) \_LavenderAA](<https://liquipedia.net/dota2/AA_(Li_Qiming)>)
 
   🇨🇳 Li Qiming
 
@@ -2230,7 +2230,7 @@ Opening Hours
 
   Caster
 
-- [![](./images/talent/chinese/mashall.png) _Mashall_](https://liquipedia.net/dota2/Mashall)
+- [![](./images/talent/chinese/mashall.webp) _Mashall_](https://liquipedia.net/dota2/Mashall)
 
   🇨🇳 Ma Shaowei
 
@@ -2238,7 +2238,7 @@ Opening Hours
 
   Caster
 
-- [![](./images/talent/chinese/mad-.png) _Mad_](https://liquipedia.net/dota2/Mad)
+- [![](./images/talent/chinese/mad-.webp) _Mad_](https://liquipedia.net/dota2/Mad)
 
   🇨🇳 Cheng Han
 
@@ -2246,7 +2246,7 @@ Opening Hours
 
   Caster
 
-- [![](./images/talent/chinese/m4.png) _M4_](https://liquipedia.net/dota2/M4)
+- [![](./images/talent/chinese/m4.webp) _M4_](https://liquipedia.net/dota2/M4)
 
   🇨🇳 Sun Yabin
 
@@ -2254,13 +2254,13 @@ Opening Hours
 
   Caster
 
-- [![](./images/talent/chinese/luna.png) \_Luna](<https://liquipedia.net/dota2/Luna_(Wang_Miqi)>)
+- [![](./images/talent/chinese/luna.webp) \_Luna](<https://liquipedia.net/dota2/Luna_(Wang_Miqi)>)
 
   🇨🇳 Wang Miqi
 
   Caster
 
-- [![](./images/talent/chinese/bbc.png) _BBC_](https://liquipedia.net/dota2/BBC)
+- [![](./images/talent/chinese/bbc.webp) _BBC_](https://liquipedia.net/dota2/BBC)
 
   🇨🇳 Zhang Hongsheng
 
@@ -2270,145 +2270,145 @@ Opening Hours
 
 ### Spanish
 
-- [![](./images/talent/spanish/doncookie.png) _DonCookie_](https://liquipedia.net/dota2/DonCookie)
+- [![](./images/talent/spanish/doncookie.webp) _DonCookie_](https://liquipedia.net/dota2/DonCookie)
 
   🇵🇪 Oscar Idiáquez Martinez
 
   Host, Analyst
 
-- [![](./images/talent/spanish/tio-inka.png) _Tio Inka_](https://liquipedia.net/dota2/Tio_Inka)
+- [![](./images/talent/spanish/tio-inka.webp) _Tio Inka_](https://liquipedia.net/dota2/Tio_Inka)
 
   🇵🇪 Paul Richard de la Cruz Gomez
 
   Caster
 
-- [![](./images/talent/spanish/blue.png) _Blue_](https://liquipedia.net/dota2/Blue)
+- [![](./images/talent/spanish/blue.webp) _Blue_](https://liquipedia.net/dota2/Blue)
 
   🇵🇪 Marco Espinoza Oliveros
 
   Caster
 
-- [![](./images/talent/spanish/falcostyle.png) _FalcoStyle_](https://liquipedia.net/dota2/FalcoStyle)
+- [![](./images/talent/spanish/falcostyle.webp) _FalcoStyle_](https://liquipedia.net/dota2/FalcoStyle)
 
   🇵🇪 Huester Esley Alejandro Valenzuela Davila
 
   Analyst
 
-- [![](./images/talent/spanish/cutipo.png) _Cutipo_](https://liquipedia.net/dota2/Cutipo)
+- [![](./images/talent/spanish/cutipo.webp) _Cutipo_](https://liquipedia.net/dota2/Cutipo)
 
   🇵🇪 Frank Williams Galán Cutipa
 
   Caster
 
-- [![](./images/talent/spanish/yolosergio.png) _YoloSergio_](https://liquipedia.net/dota2/YoloSergio)
+- [![](./images/talent/spanish/yolosergio.webp) _YoloSergio_](https://liquipedia.net/dota2/YoloSergio)
 
   🇵🇪 Sergio André Pérez Chávez
 
   Caster
 
-- [![](./images/talent/spanish/maverick.png) _Maverick_](https://liquipedia.net/dota2/Maverick)
+- [![](./images/talent/spanish/maverick.webp) _Maverick_](https://liquipedia.net/dota2/Maverick)
 
   🇵🇪 Aarón Isai Galvez Tapayuri
 
   Caster
 
-- [![](./images/talent/spanish/d1smar.png) _D1smar_](https://liquipedia.net/dota2/D1smar)
+- [![](./images/talent/spanish/d1smar.webp) _D1smar_](https://liquipedia.net/dota2/D1smar)
 
   🇵🇪 José Dismar Carhuajulca Levano
 
   Analyst
 
-- [![](./images/talent/spanish/panda.png) _Panda_](https://liquipedia.net/dota2/Panda)
+- [![](./images/talent/spanish/panda.webp) _Panda_](https://liquipedia.net/dota2/Panda)
 
   🇵🇪 Jose Leonardo Padilla Hernandez
 
   Analyst
 
-- [![](./images/talent/spanish/rethmonster.png) _RedMonster_](https://liquipedia.net/dota2/RedMonster)
+- [![](./images/talent/spanish/rethmonster.webp) _RedMonster_](https://liquipedia.net/dota2/RedMonster)
 
   🇵🇪 Jhon Albert Mamani Condori
 
   Analyst
 
-- [![](./images/talent/spanish/vadare.png) _Vadare_](https://liquipedia.net/dota2/Vadare)
+- [![](./images/talent/spanish/vadare.webp) _Vadare_](https://liquipedia.net/dota2/Vadare)
 
   🇵🇪 Cristhian Andrade Azpur
 
   Caster
 
-- [![](./images/talent/spanish/study.png) _Study_](https://liquipedia.net/dota2/StudyCaster)
+- [![](./images/talent/spanish/study.webp) _Study_](https://liquipedia.net/dota2/StudyCaster)
 
   🇦🇷 Cristopher Carlos Fuentes
 
   Caster
 
-- [![](./images/talent/spanish/dorayaki.png) _Dorayaki_](https://liquipedia.net/dota2/Dorayaki)
+- [![](./images/talent/spanish/dorayaki.webp) _Dorayaki_](https://liquipedia.net/dota2/Dorayaki)
 
   🇪🇨 Jhonatan Esteban López Quinga
 
   Caster
 
-- [![](./images/talent/spanish/flapjack`.png) _Flapjack_](https://liquipedia.net/dota2/Flapjack)
+- [![](./images/talent/spanish/flapjack`.webp) _Flapjack_](https://liquipedia.net/dota2/Flapjack)
 
   🇪🇸 Julián Esnaider Carbajal Ylave
 
   Analyst
 
-- [![](./images/talent/spanish/caosfenix.png) _Caosfenix_](https://liquipedia.net/dota2/Caosfenix)
+- [![](./images/talent/spanish/caosfenix.webp) _Caosfenix_](https://liquipedia.net/dota2/Caosfenix)
 
   🇵🇪 William Edgardo Morera Guzman
 
   Caster
 
-- [![](./images/talent/spanish/mr.choco.png) _Mr.Choco_](https://liquipedia.net/dota2/Mr.Choco)
+- [![](./images/talent/spanish/mr.choco.webp) _Mr.Choco_](https://liquipedia.net/dota2/Mr.Choco)
 
   🇵🇪 Rikardo Mendoza Mattos
 
   Caster
 
-- [![](./images/talent/spanish/giulio.png) _Giulio_](https://liquipedia.net/dota2/Giulio)
+- [![](./images/talent/spanish/giulio.webp) _Giulio_](https://liquipedia.net/dota2/Giulio)
 
   🇧🇴 Edgar Julio Nuñez Murillo
 
   Host, Caster
 
-- [![](./images/talent/spanish/avo+.png) _AvoPlus_](https://liquipedia.net/dota2/Avo%2B)
+- [![](./images/talent/spanish/avo+.webp) _AvoPlus_](https://liquipedia.net/dota2/Avo%2B)
 
   🇪🇸 Álvaro Sánchez Velasco
 
   Caster, Analyst
 
-- [![](./images/talent/spanish/axl.png) _AxL-_](https://liquipedia.net/dota2/AxL-)
+- [![](./images/talent/spanish/axl.webp) _AxL-_](https://liquipedia.net/dota2/AxL-)
 
   🇲🇽 Axel Ramos
 
   Caster, Analyst
 
-- [![](./images/talent/spanish/masoku.png) _Masoku_](https://liquipedia.net/dota2/Masoku)
+- [![](./images/talent/spanish/masoku.webp) _Masoku_](https://liquipedia.net/dota2/Masoku)
 
   🇵🇪 Jair Alex Dávila Matallana
 
   Analyst
 
-- [![](./images/talent/spanish/polaris.png) _Polaris_](https://liquipedia.net/dota2/Polaris)
+- [![](./images/talent/spanish/polaris.webp) _Polaris_](https://liquipedia.net/dota2/Polaris)
 
   🇲🇽 Gabriel García Dávalos
 
   Caster
 
-- [![](./images/talent/spanish/lucky.png) _Lucky_](https://liquipedia.net/dota2/Lucky)
+- [![](./images/talent/spanish/lucky.webp) _Lucky_](https://liquipedia.net/dota2/Lucky)
 
   🇵🇪 Kevin Nahyr Muñoz Carbajal
 
   Caster
 
-- [![](./images/talent/spanish/patrick.png) _Patrick_](https://liquipedia.net/dota2/Patrick)
+- [![](./images/talent/spanish/patrick.webp) _Patrick_](https://liquipedia.net/dota2/Patrick)
 
   🇵🇪 Andrés Condori Castillo
 
   Caster, Analyst
 
-- [![](./images/talent/spanish/dkgamer.png) _DKgamer_](https://liquipedia.net/dota2/DKgamer)
+- [![](./images/talent/spanish/dkgamer.webp) _DKgamer_](https://liquipedia.net/dota2/DKgamer)
 
   🇵🇪 David Nina Sulca
 
