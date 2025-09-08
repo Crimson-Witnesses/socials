@@ -1582,7 +1582,7 @@ Opening Hours
 : <span class="tundra pos2">[![](./images/teams/tundra-esports/bzm.webp) <em>bzm</em>](https://liquipedia.net/dota2/Bzm) 🇧🇬 Bozhidar Bogdanov<br/>(Божидар Богданов)</span>
 : <span class="tundra pos3">[![](./images/teams/tundra-esports/33.webp) 🏆🏆 <em>33</em>](https://liquipedia.net/dota2/33) 🇮🇱 Neta Shapira<br/>(נטע שפירא)</span>
 : <span class="tundra pos4">[![](./images/teams/tundra-esports/saksa.webp) 🏆 <em>Saksa</em>](https://liquipedia.net/dota2/Saksa) 🇲🇰 Martin Sazdov<br/>(Мартин Саздов)</span>
-: <span class="tundra pos5">[![](./images/teams/tundra-esports/whitemon.webp) <em>Tobi</em>](https://liquipedia.net/dota2/Tobi) 🇦🇹 Tobias Buchner</span>
+: <span class="tundra pos5">[![](./images/teams/tundra-esports/tobi.webp) <em>Tobi</em>](https://liquipedia.net/dota2/Tobi) 🇦🇹 Tobias Buchner</span>
 
 [![Yakutou Brothers](./images/teams/yakutou-brothers/yakutou-brothers.webp)](https://liquipedia.net/dota2/Yakult_Brothers)
 : [Yakutou Brothers](https://liquipedia.net/dota2/Yakult_Brothers)
@@ -3055,7 +3055,7 @@ Ask your questions on the Reddit post or over on the [Crimson Witnesses Discord 
         width: 100% !important;
         border-top-left-radius: 8px;
         border-top-right-radius: 8px;
-        background: center/cover url("./images/ti-2025-bg.webp");
+        background: center/cover url("./images/bg-ti-2025.webp");
         aspect-ratio: 1 / 1;
         
         /* VSCode Preview Overrides */
@@ -3279,7 +3279,7 @@ Ask your questions on the Reddit post or over on the [Crimson Witnesses Discord 
         }
 
         &.yakotou:before {
-          background: center/cover url("./images/ti-2025-bg.webp"); 
+          background: center/cover url("./images/bg-ti-2025.webp"); 
         }
 
         &.navi:before {
