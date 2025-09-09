@@ -1,0 +1,54 @@
+:root {
+  --text-gradient:
+    linear-gradient(0deg, rgba(255, 255, 255, 0.15), rgba(255, 255, 255, 0.15)),
+    linear-gradient(180deg, #ffffff 0%, #d3b8d7 100%);
+  --link-gradient:
+    linear-gradient(0deg, rgba(38, 33, 90, 0.25), rgba(38, 33, 90, 0.25)),
+    linear-gradient(180deg, #ffffff 0%, #d3b8d7 100%);
+  --family-display: "Gemunu Libre Variable", "Gemunu Libre", sans-serif;
+  --family-body: "Noto Sans Variable", "Noto Sans", sans-serif;
+  --family-accent: "Asul", serif;
+  --font-base: 16px;
+  --scale: 1.125;
+
+  --fs-50: calc(var(--fs-75) / var(--scale));
+  --fs-75: calc(var(--fs-100) / var(--scale));
+  --fs-100: var(--font-base);
+  --fs-200: calc(var(--fs-100) * var(--scale));
+  --fs-300: calc(var(--fs-200) * var(--scale));
+  --fs-400: calc(var(--fs-300) * var(--scale));
+  --fs-500: calc(var(--fs-400) * var(--scale));
+  --fs-600: calc(var(--fs-500) * var(--scale));
+  --fs-700: calc(var(--fs-600) * var(--scale));
+  --fs-800: calc(var(--fs-700) * var(--scale));
+  --fs-900: calc(var(--fs-800) * var(--scale));
+  --fs-950: calc(var(--fs-900) * var(--scale));
+  --fs-975: calc(var(--fs-950) * var(--scale));
+
+  /* Header Font Sizes */
+  --hu: var(--fs-975); /* h1 */
+  --hh: var(--fs-900); /* h2 */
+  --hl: var(--fs-700); /* h3 */
+  --hm: var(--fs-500); /* h4 */
+  --hs: var(--fs-400); /* h5 */
+  --ht: var(--fs-200); /* h6 */
+
+  /* Body Font Sizes */
+  --bu: var(--fs-500);
+  --bh: var(--fs-400);
+  --bl: var(--fs-300);
+  --bm: var(--fs-200);
+  --bs: var(--fs-100);
+  --bt: var(--fs-75);
+
+  /* Label Font Sizes */
+  --ll: var(--fs-200);
+  --lm: var(--fs-100);
+  --ls: var(--fs-75);
+  --lt: var(--fs-50);
+
+  /* Default Font Sizes */
+  --fs-heading: var(--hu);
+  --fs-body: var(--bs);
+  --fs-label: var(--ls);
+}

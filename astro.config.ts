@@ -1,3 +1,4 @@
+import { readFileSync } from "node:fs";
 import AstroPWA from "@vite-pwa/astro";
 import { defineConfig } from "astro/config";
 import mdx from "@astrojs/mdx";
@@ -28,7 +29,18 @@ export default defineConfig({
   markdown: {
     remarkPlugins: [
       remarkDirective,
-      remarkAlerts,
+      [
+        remarkAlerts,
+        {
+          icons: {
+            note: readFileSync(`./src/icons/info.svg`).toString(),
+            tip: readFileSync(`./src/icons/tip.svg`).toString(),
+            important: readFileSync(`./src/icons/success.svg`).toString(),
+            warning: readFileSync(`./src/icons/warning.svg`).toString(),
+            caution: readFileSync(`./src/icons/danger.svg`).toString()
+          }
+        }
+      ],
       remarkDefinitionList,
       remarkFlexibleMarkers,
       remarkSqueezeParagraphs,

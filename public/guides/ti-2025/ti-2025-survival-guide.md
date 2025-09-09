@@ -4,6 +4,10 @@ year: 2025
 city: Hamburg
 ---
 
+<style>
+  @import url("../../markdown.css");
+</style>
+
 ## Introduction
 
 Welcome to the Crimson Witnesses event guide for The International 2025 in Hamburg! The purpose of this guide is to disseminate information relevant to an overall positive experience of the event by answering questions you may have and giving information that may otherwise be hard to find. Information contained within this guide is based on travel experiences to Hamburg, hours of research, community feedback from those living in the area, feedback from attendees of previous ESL events that have been held at the same location, and my own experience at TIs 4-13! I hope that this guide will result in a relaxing, enjoyable, exciting, and safe trip for as many attendees as possible. This is a live document and will be updated with feedback as new information becomes available. Please check the FAQ and leave any additional comments or questions on the Crimson Witnesses Discord or the Reddit post.
@@ -131,13 +135,23 @@ Companies available for use in Hamburg-
 
 ## Venue
 
-The address of the Barclays Arena is:
+<figure>
 
-<address>
+[![Barclays Arena](./images/barclays-arena.png)](https://www.barclayscenter.com/)
 
-[Hellgrundweg 44<br />22525 Hamburg](https://maps.app.goo.gl/gwM3pLMuXis8QhSB9)
+<figcaption>Barclays Arena</figcaption>
 
-</address>
+</figure>
+
+Address
+: <address>
+
+    [Hellgrundweg 44<br />22525 Hamburg](https://maps.app.goo.gl/gwM3pLMuXis8QhSB9)
+
+  </address>
+
+Website
+: https://www.barclayscenter.com/
 
 ### General Info
 
@@ -149,25 +163,23 @@ Since opening in November 2002, the Barclays Arena in Hamburg has hosted over 2,
 
 <figure>
 
-![Barclays Arena Map](./images/arena.png)
+![Barclays Arena Map](./images/arena-map.png)
 
-<figcaption>Barclays Arena Map</captfigcaptionion>
+<figcaption>Barclays Arena Map (Concert Seating Configuration)</captfigcaptionion>
 
 </figure>
 
 ### Rules and Restrictions
 
-The venue will not allow Bags larger than 14”x14”x6” or that are hard-sided. So we recommend you pack a small bag that can fit your daily needed items. All bags will be subjected to screening, so leave extra time to get through the scanners.
+Below are some important excerpts from the [Venue's Guide](https://www.barclayscenter.com/center-info/a-z-guide):
 
-<figure>
+> [!caution] Bag Policy:
+> _"Any bags larger than 10" x 6" x 2" are not permitted inside Barclays Center. We encourage all guests to travel light and leave bags at home. Guests without bags can use Express Lanes to enter the arena faster."_
+>
+> _"Barclays Center has implemented the above policy to ensure a safe and enjoyable event experience for all guests. Special consideration will be made for guests with medical needs and those caring for infants. This policy does not apply to credentialed media. All bags are subject to thorough screening and will be x-ray screened where available, which may delay entry into Barclays Center. Guests are strongly encouraged to leave their bags at home, or bring bags within the approved size and type."_
 
-![Restricted Items](./images/restrictions.png)
-
-<figcaption>Restricted Items</captfigcaptionion>
-
-</figure>
-
-Cameras with telephoto or interchangeable/detachable lenses and external flash (professional photography equipment) are not permitted inside Barclays Center at any time. Video recording devices, audio recording devices, monopods, bipods, and tripods are also not permitted. This policy will be strictly enforced, and management reserves the right to deny any electronic device at their discretion.
+> [!Caution] Camera Policy:
+> _"Cameras with telephoto or interchangeable/detachable lenses and external flash (professional photography equipment) are not permitted inside Barclays Center at any time. Video recording devices, audio recording devices, monopods, bipods, and tripods are also not permitted. This policy will be strictly enforced, and management reserves the right to deny any electronic device at their discretion."_
 
 On the arena forecourt (height of entrance E2), you will find a container where you can leave larger pieces of luggage for a fee (3€ in cash) for the duration of your event. Please note that the space to store luggage is limited.
 
@@ -1428,7 +1440,15 @@ Address
 
 ## Points of Interest/Side Events
 
-### [Minatur Wunderland](https://youtu.be/R669l5CA1YA)
+### Minatur Wunderland
+
+<figure>
+
+[![Minatur Wunderland](./images/minatur-wunderland.png)](https://youtu.be/R669l5CA1YA)
+
+  <figcaption>Minatur Wunderland</figcaption>
+
+</figure>
 
 > “Welcome to Miniatur Wunderland, the world's largest model railway!”
 
@@ -1447,9 +1467,17 @@ Address
   </address>
 
 Opening Hours  
-: 09:30 - 22:00
+: 09\:30 \- 22\:00
 
-### [Hamburg Rathaus](https://www.hamburg.de/politik-und-verwaltung/senat/rathaus-hamburg)
+### Hamburg Rathaus
+
+<figure>
+
+[![Hamburg Rathaus](./images/hamburg-rathaus.png)](https://www.hamburg.de/politik-und-verwaltung/senat/rathaus-hamburg)
+
+  <figcaption>Hamburg Rathaus</figcaption>
+
+</figure>
 
 The handsome sandstone marvel that is Hamburg’s Town Hall has been the centrepiece of Altstadt since 1897. Dominating its surroundings thanks to its towering spire and vast platz, the Rathaus is a functioning government building and houses the city’s government. It also contains heaps of history in its exhibitions – members of the public can visit daily, either through guided tours or on their own.
 
@@ -1463,7 +1491,15 @@ Address
 Opening Hours
 : It depends on the day and if yours are running/slots available.
 
-### [Strandperle](https://www.strandperle-hamburg.de)
+### Strandperle
+
+<figure>
+
+[![Strandperle](./images/strandperle.png)](https://www.strandperle-hamburg.de)
+
+  <figcaption>Strandperle</figcaption>
+
+</figure>
 
 Just because you're in the city doesn't mean you can't visit the beach. Strandperle is a stalwart in Hamburg's sandy stretch along the Elbe River, which is dotted with sunbathers and swimmers in the warmer months. With a large deck of tables, chairs, and umbrellas, a bar, kitchen, and the harbor in the backdrop, Strandperle is a favourite place to hang out for locals and tourists alike. Open all day Friday to Sunday, you can enjoy beer and a burger here on a visit, catch-up with cocktails and friends, or hire out the 'upper deck' for an intimate dinner party.
 
@@ -1477,7 +1513,15 @@ Address
 Opening Hours
 : Monday to Friday from 12 noon / Weekend from 11 am
 
-### [Planten un Blomen](https://www.hamburg-travel.com/see-explore/events/wasserlichtspiele-planten-un-blomen/)
+### Planten un Blomen
+
+<figure>
+
+[![Planten un Blomen](./images/planten-un-blomen.png)](https://www.hamburg-travel.com/see-explore/events/wasserlichtspiele-planten-un-blomen/)
+
+  <figcaption>Planten un Blomen</figcaption>
+
+</figure>
 
 Planten un Blomen is an urban park in the inner-city of Hamburg, Germany. Centrally located, the park is home to a number of themed gardens, including Hamburg's Old Botanical Garden and one of the largest Japanese landscape gardens in Europe.
 
@@ -1491,9 +1535,17 @@ Address
   </address>
 
 Opening Hours
-: September 7:00 a.m. ─ 11:00 p.m.
+: September 7\:00 a.m. \- 11\:00 p.m.
 
 ### [Tierpark Hagenbeck](https://www.hagenbeck.de/de/)
+
+<figure>
+
+[![Tierpark Hagenbeck](./images/tierpark-hagenbeck.png)](https://www.hagenbeck.de/de/)
+
+  <figcaption>Tierpark Hagenbeck</figcaption>
+
+</figure>
 
 Tierpark Hagenbeck has established itself as one of Germany's most popular zoos. The zoo has been family-owned for six generations, ever since its opening in 1907.
 
@@ -1507,9 +1559,17 @@ Address
   </address>
 
 Opening Hours
-: 09:00 - 16:30 Daily
+: 09\:00 \- 16\:30 Daily
 
-### [Dialogue in the Dark](https://www.dialogue-se.com/what-we-do/dialogue-in-the-dark/)
+### Dialogue in the Dark
+
+<figure>
+
+[![Dialogue in the Dark](./images/dialogue-in-the-dark.png)](https://www.dialogue-se.com/what-we-do/dialogue-in-the-dark/)
+
+  <figcaption>Dialogue in the Dark</figcaption>
+
+</figure>
 
 Dialogue in the Dark is one of the world’s most exciting life-changing experiences where visitors are guided by blind guides in absolute darkness. You get the chance to experience daily environments from a completely new perspective when you enjoy a walk in the park, take a boat cruise, or visit a café in our specially designed darkened rooms. Daily routines become exciting, and a reversal of roles is created where the sighted become blind and the blind become sighted.
 
@@ -1523,7 +1583,7 @@ Address
   </address>
 
 Opening Hours
-: 10:00 - 17:00 Daily
+: 10\:00 \- 17\:00 Daily
 
 ---
 
@@ -2464,1066 +2524,3 @@ Ask your questions on the Reddit post or over on the [Crimson Witnesses Discord 
 [https://www.timeout.com/hamburg/attractions/best-attractions-in-hamburg](https://www.timeout.com/hamburg/attractions/best-attractions-in-hamburg)  
 [https://www.hamburg-travel.com/see-explore/events/wasserlichtspiele-planten-un-blomen/](https://www.hamburg-travel.com/see-explore/events/wasserlichtspiele-planten-un-blomen/)  
 [https://www.dialogue-se.com/what-we-do/dialogue-in-the-dark/](https://www.dialogue-se.com/what-we-do/dialogue-in-the-dark/)
-
-<style>
-  :root {
-    --text-gradient: linear-gradient(0deg, rgba(255, 255, 255, 0.15), rgba(255, 255, 255, 0.15)), linear-gradient(180deg, #FFFFFF 0%, #D3B8D7 100%);
-    --link-gradient: linear-gradient(0deg, rgba(38, 33, 90, 0.25), rgba(38, 33, 90, 0.25)), linear-gradient(180deg, #FFFFFF 0%, #D3B8D7 100%);
-    --family-display: "Gemunu Libre", sans-serif;
-    --family-body: "Noto Sans", sans-serif;
-    --font-base: 16px;
-    --scale: 1.125;
-
-    --fs-50: calc(var(--fs-75) / var(--scale));
-    --fs-75: calc(var(--fs-100) / var(--scale));
-    --fs-100: var(--font-base);
-    --fs-200: calc(var(--fs-100) * var(--scale));
-    --fs-300: calc(var(--fs-200) * var(--scale));
-    --fs-400: calc(var(--fs-300) * var(--scale));
-    --fs-500: calc(var(--fs-400) * var(--scale));
-    --fs-600: calc(var(--fs-500) * var(--scale));
-    --fs-700: calc(var(--fs-600) * var(--scale));
-    --fs-800: calc(var(--fs-700) * var(--scale));
-    --fs-900: calc(var(--fs-800) * var(--scale));
-    --fs-950: calc(var(--fs-900) * var(--scale));
-    --fs-975: calc(var(--fs-950) * var(--scale));
-
-    /* Header Font Sizes */
-    --hu: var(--fs-975); /* h1 */
-    --hh: var(--fs-900); /* h2 */
-    --hl: var(--fs-700); /* h3 */
-    --hm: var(--fs-500); /* h4 */
-    --hs: var(--fs-400); /* h5 */
-    --ht: var(--fs-200); /* h6 */
-
-    /* Body Font Sizes */
-    --bu: var(--fs-500);
-    --bh: var(--fs-400);
-    --bl: var(--fs-300);
-    --bm: var(--fs-200);
-    --bs: var(--fs-100);
-    --bt: var(--fs-75);
-
-    /* Label Font Sizes */
-    --ll: var(--fs-200);
-    --lm: var(--fs-100);
-    --ls: var(--fs-75);
-    --lt: var(--fs-50);
-
-    /* Default Font Sizes */
-    --fs-heading: var(--hu);
-    --fs-body: var(--bs);
-    --fs-label: var(--ls);
-  }
-
-  /* VSCode Preview Only */
-  .github-markdown-body {
-    padding-top: 64px !important;
-    background: fixed center / cover url("../../bg.png");
-  }
-
-  .github-markdown-body, #cw-main {
-    color: #fcecfe;
-    font: 400 var(--fs-body) / 1.3 var(--family-body);
-  }
-
-  /* VSCode Preview Only */
-  .github-markdown-content {
-    box-sizing: border-box;
-    display: flex;
-    flex-direction: column;
-    width: 100%;
-    max-width: 1024px;
-    padding: 0px 32px 64px !important;
-    border-radius: 24px;
-    background: rgba(38, 33, 90, 0.25);
-    background-blend-mode: hard-light;
-    backdrop-filter: blur(8px);
-    filter: drop-shadow(0px 2px 4px rgba(38, 33, 90, 0.5))
-      drop-shadow(0px 6px 12px rgba(38, 33, 90, 0.75))
-      drop-shadow(0px 16px 32px rgba(38, 33, 90, 0.25));
-
-    @media screen and (max-width: 1024px) {
-    }
-
-    @media screen and (max-width: 522px) {
-      padding-inline: 24px !important;
-    }
-  }
-
-  hr {
-    align-self: center;
-    width: calc(100% - 24px);
-    height: 2px;
-    margin-block: calc(var(--fs-body) / 1.125) calc(var(--fs-body) * 0.25) !important;
-    border-radius: 2px;
-    background: linear-gradient(180deg, rgba(255, 255, 255, 0.5) 0%, rgba(211, 184, 215, 0.5) 100%) !important;
-    mix-blend-mode: soft-light;
-  }
-
-  h1, h2, h3, h4, h5, h6 {
-    border-bottom: none !important;
-    background: var(--text-gradient);
-    background-blend-mode: lighten, normal;
-    background-clip: text;
-    -webkit-text-fill-color: transparent;
-    font: 400 var(--fs-heading) / 1.3 var(--family-display) !important;
-    padding: 0px !important;
-    margin-block: calc(var(--fs-heading) / 1.125) calc(var(--fs-heading) * 0.25) !important;
-    text-wrap: pretty;
-
-    a {
-      color: var(--color-text);
-      text-decoration: none;
-
-      &:hover {
-        text-decoration: underline;
-      }
-
-      &:visited {
-        color: initial;
-      }
-    }
-  }
-
-  h2 {
-    --fs-heading: var(--hh);
-    font-weight: 500 !important;
-    letter-spacing: 0.06em;
-  }
-
-  h3 {
-    --fs-heading: var(--hl);
-    font-weight: 600 !important;
-    letter-spacing: 0.06em;
-  }
-
-  h4 {
-    --fs-heading: var(--hm);
-    font-weight: 700 !important;
-    letter-spacing: 0.08em;
-  }
-
-  h5 {
-    --fs-heading: var(--hs);
-    font-weight: 700 !important;
-    letter-spacing: 0.08em;
-  }
-
-  h6 {
-    --fs-heading: var(--ht);
-    font-weight: 800 !important;
-    letter-spacing: 0.12em;
-  }
-
-  p,
-  ol,
-  dl,
-  details,
-  blockquote {
-    margin-block: calc(var(--fs-body) / 1.125) calc(var(--fs-body) * 0.25) !important;
-    letter-spacing: 0.02em;
-    text-wrap: pretty;
-  }
-
-  p {
-    font: 400 var(--fs-body) / 1.3 var(--family-body);
-  }
-
-  a {
-    color: oklch(76.51% 0.204 328.58) !important;
-    
-    &:hover {
-      text-decoration: underline;
-    }
-  }
-
-  blockquote {
-    --shadow-color: #282269;
-    position: relative;
-    padding: 20px 24px !important;
-    border-left: none !important;
-    border-radius: 12px;
-    background: rgba(38, 33, 90, 0.30) !important;
-    background-blend-mode: color-burn;
-    backdrop-filter: blur(4px);
-
-    p {
-      font-style: italic;
-      font-weight: 300;
-      font-size: var(--bm);
-      text-align: center;
-      background: var(--text-gradient);
-      -webkit-text-fill-color: transparent;
-      background-blend-mode: screen, normal;
-      background-clip: text;
-    }
-
-    &:after {
-      position: absolute;
-      content: "";
-      top: 0;
-      left: 0;
-      bottom: 0;
-      right: 0;
-      border-radius: 12px;
-      mix-blend-mode: multiply;
-      box-shadow:
-        inset 0px 2px 8px
-          oklch(from var(--shadow-color) l c h / 25%),
-        inset 0px 1px 8px
-          oklch(from var(--shadow-color) l c h / 35%),
-        inset 0px 1px 3px
-          oklch(from var(--shadow-color) l c h / 45%),
-        inset 0px -1px 3px
-          oklch(from var(--shadow-color) l c h / 45%),
-        inset 0px -1px 8px
-          oklch(from var(--shadow-color) l c h / 35%),
-        inset 0px -2px 8px
-          oklch(from var(--shadow-color) l c h / 25%);
-    }
-  }
-
-  .markdown-alert {
-    --shadow-color: #282269;
-    position: relative;
-    display: flex;
-    flex-direction: column;
-    margin-block: calc(var(--fs-body) / 1.125) calc(var(--fs-body) * 0.25) !important;
-    padding: 12px 16px;
-    border-radius: 8px;
-    background: 
-      linear-gradient(90deg,
-        oklch(from var(--accent-color) l c h / 45%) 0%,
-        oklch(from var(--accent-color) l c h / 10%) 25%,
-        oklch(from var(--accent-color) l c h / 5%) 65%
-      ),
-      linear-gradient(oklch(from var(--shadow-color) l c h / 60%));
-    background-blend-mode: hard-light, color-burn;
-    border-left: 5px solid oklch(from var(--accent-color) l c h / 95%) !important;
-    &:after {
-      content: '';
-      position: absolute;
-      top: 0;
-      left: 0;
-      right: 0;
-      bottom: 0;
-      border-top: 3px solid transparent !important;
-      border-bottom: 3px solid transparent !important;
-      border-left: 0;
-      border-right: 0;
-      border-image: linear-gradient(90deg,
-          oklch(from var(--accent-color) l c h / 70%) 0%,
-          oklch(from var(--accent-color) l c h / 0%) 75%
-        );
-      border-image-slice: 1 0 1 0;
-    }
-    &:before {
-      content: '';
-      position: absolute;
-      top: 0;
-      left: 0;
-      right: 0;
-      bottom: 0;
-      border-radius: 8px;
-      mix-blend-mode: multiply;
-      box-shadow:
-        inset 0px 2px 8px
-          oklch(from var(--accent-color) calc(l * 0.85) calc(c * 1.25) h / 25%),
-        inset 0px 1px 8px
-          oklch(from var(--accent-color) calc(l * 0.85) calc(c * 1.25) h / 35%),
-        inset 0px 1px 3px
-          oklch(from var(--accent-color) calc(l * 0.85) calc(c * 1.25) h / 45%),
-        inset 0px -1px 3px
-          oklch(from var(--accent-color) calc(l * 0.85) calc(c * 1.25) h / 45%),
-        inset 0px -1px 8px
-          oklch(from var(--accent-color) calc(l * 0.85) calc(c * 1.25) h / 35%),
-        inset 0px -2px 8px
-          oklch(from var(--accent-color) calc(l * 0.85) calc(c * 1.25) h / 25%);
-    }
-    backdrop-filter: blur(4px);
-
-    .markdown-alert-title {
-      display: flex;
-      align-items: center;
-      gap: 8px;
-      font: normal 500 var(--hs) / 1.5 var(--family-display);
-      letter-spacing: 0.04em;
-      text-transform: uppercase;
-      background:
-        linear-gradient(0deg, rgba(255, 255, 255, 0.15), rgba(255, 255, 255, 0.15)),
-        linear-gradient(180deg, #FFFFFF 0%, #D3B8D7 100%);
-      background-blend-mode: lighten, normal;
-      background-clip: text;
-      -webkit-text-fill-color: transparent;
-      filter:
-        drop-shadow(0px 0px 2px
-          oklch(from var(--accent-color) l c h / 75%)
-        )
-        drop-shadow(0px 0px 4px
-          oklch(from var(--accent-color) l c h / 65%)
-        )
-        drop-shadow(0px 0px 8px
-          oklch(from var(--accent-color) l c h / 45%)
-        );
-      
-      svg {
-        fill: #fff;
-      }
-    }
-
-    &.markdown-alert-note {
-      --accent-color: oklch(64.26% 0.186 250.77);
-    }
-
-    &.markdown-alert-important {
-      --accent-color: oklch(66.53% 0.21 300.72);
-    }
-
-    &.markdown-alert-tip {
-      --accent-color: oklch(62.62% 0.12 172.98);
-    }
-
-    &.markdown-alert-warning {
-      --accent-color: oklch(66.77% 0.156 60.11);
-    }
-
-    &.markdown-alert-caution {
-      --accent-color: oklch(67.01% 0.217 22.5);
-    }
-  }
-
-  figure {
-    display: flex !important;
-    flex-direction: column;
-    align-items: center;
-    align-self: center;
-    justify-self: center;
-    gap: 8px;
-    width: fit-content;
-    min-width: 300px;
-    max-width: 800px;
-    margin: unset !important;
-    margin-inline: auto;
-    margin-block: calc(var(--fs-label) / 1.125) calc(var(--fs-label) * 0.25) !important;
-
-    img {
-      display: block;
-      width: 100%;
-      height: 100%;
-      object-fit: cover;
-      border-radius: 8px;
-    }
-
-    figcaption {
-      width: fit-content;
-      font: italic 300 var(--ls) / 1.5 var(--family-body);
-      text-align: center;
-      letter-spacing: 0.02em;
-      background: linear-gradient(0deg, rgba(255, 255, 255, 0.15), rgba(255, 255, 255, 0.15)), linear-gradient(180deg, #FFFFFF 0%, #D3B8D7 100%);
-      background-blend-mode: screen, normal;
-      background-clip: text;
-      -webkit-text-fill-color: transparent;
-    }
-  }
-
-  dt {
-    margin-bottom: 16px;
-  }
-  
-  dd {
-    margin-inline-start: unset;
-    margin-bottom: 16px;
-  }
-  
-  dl {
-    width: 100%;
-    margin: auto 0;
-    columns: auto 300px;
-    column-fill: balance;
-    text-wrap: pretty;
-
-    dt:first-child {
-      margin-top: 0 !important;
-    }
-
-    dt, dd, address {
-      break-inside: avoid-column;
-    }
-
-    dd:not(:last-child) {
-      break-before: avoid-column;
-    }
-  }
-
-  dt:has(img) {
-    display: grid;
-    place-items: center;
-    overflow: hidden;
-    break-after: avoid-column;
-
-    img {
-      display: block;
-      width: 100%;
-      max-width: 300px !important;
-      max-height: 180px;
-      aspect-ratio: 5 / 3;
-      object-fit: cover;
-    }
-  }
-  
-  dl dd > ul {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 2px 4px;
-    margin: 0;
-    padding: 0;
-    margin-bottom: 0 !important;
-    padding-left: 0 !important;
-    list-style: none;
-    
-    li {
-      display: inline-flex;
-      margin: 0 !important;
-      padding-block: 2px;
-      padding-inline: 8px 12px;
-      border-radius: 24px;
-      background-color: #C5F3FF;
-      font-size: small;
-      text-wrap: nowrap;
-      break-inside: avoid;
-    }
-  }
-
-  /* Restaurant Lists */
-  dl:has(ul) {
-    --accent-color: #9F21E8;
-    justify-items: center;
-    width: 100%;
-    margin: auto 0;
-    columns: auto 300px;
-    column-fill: balance;
-
-    dt, dd {
-      width: 100%;
-      max-width: 300px;
-      padding-inline: 0px !important;
-    }
-
-    /* Photo + Name */
-    dt a:has(img) {
-      position: relative;
-      display: flex;
-      flex-direction: column;
-      align-items: center;
-      row-gap: 12px;
-      width: 100%;
-
-      img {
-        display: block;
-        width: 100%;
-        height: 100%;
-        aspect-ratio: 3 / 2;
-        object-fit: cover;
-        border-radius: 8px;
-      }
-
-      &:before {
-        position: absolute;
-        content: "";
-        top: -20px;
-        left: 0;
-        width: 100%;
-        aspect-ratio: 3 / 2;
-        border-radius: 8px;
-        mix-blend-mode: multiply;
-        box-shadow: 0px 2px 4px rgba(72, 64, 182, 0.35),
-          0px 2px 8px rgba(72, 64, 182, 0.25),
-          0px 4px 16px rgba(72, 64, 182, 0.15);
-      }
-
-      &:hover {
-        img {
-          filter:
-            brightness(1.25)
-            drop-shadow(0px 0px 2px
-              oklch(from var(--accent-color) l c h / 75%)
-            )
-            drop-shadow(0px 0px 4px
-              oklch(from var(--accent-color) l c h / 65%)
-            )
-            drop-shadow(0px 0px 8px
-              oklch(from var(--accent-color) l c h / 45%)
-            );
-        }
-      }
-
-      /* Name */
-      em {
-        position: relative;
-        background: var(--text-gradient);
-        background-blend-mode: lighten, normal;
-        background-clip: text;
-        -webkit-text-fill-color: transparent;
-        font: normal 800 var(--hm) / 1.5 var(--family-display);
-        letter-spacing: 0.04em;
-        text-align: center;
-        filter:
-          drop-shadow(0px 0px 2px
-            oklch(from var(--accent-color) l c h / 75%)
-          )
-          drop-shadow(0px 0px 4px
-            oklch(from var(--accent-color) l c h / 65%)
-          )
-          drop-shadow(0px 0px 8px
-            oklch(from var(--accent-color) l c h / 45%)
-          );
-      }
-    }
-
-    /* Description */
-    dd:not(:has(ul, address)) {
-      p {
-        font-size: var(--bm);
-      }
-    }
-
-    /* Tags */
-    dd:has(ul) {
-      ul {
-        display: flex;
-        flex-wrap: wrap;
-        gap: 4px;
-        margin-top: 0 !important;
-
-        li {
-          position: relative;
-          display: flex;
-          justify-content: center;
-          align-items: center;
-          padding-block: 4px;
-          padding-inline: 6px 8px;
-          border-radius: 12px;
-          background: oklch(from var(--accent-color) l c h / 45%);
-          background-blend-mode: lighten;
-          -webkit-text-fill-color: unset;
-          font-size: var(--lt);
-          backdrop-filter: blur(4px);
-          box-shadow:
-            inset -0.25px -0.75px 1.25px
-              oklch(from var(--accent-color) l c h / 75%),
-            inset 1.25px 0.75px 1px
-              oklch(from var(--accent-color) l c h / 75%),
-            inset -0.25px 0.5px 2px rgba(56, 15, 78, 0.5),
-            inset 0.25px 0.25px 4px rgba(56, 15, 78, 0.25);
-
-          &:before {
-            position: absolute;
-            content: "";
-            top: 0;
-            left: 0;
-            bottom: 0;
-            right: 0;
-            border-radius: 12px;
-            mix-blend-mode: multiply;
-            box-shadow: 0px 1px 2px rgba(72, 64, 182, 0.35),
-              0px 2px 4px rgba(72, 64, 182, 0.25),
-              0px 4px 12px rgba(72, 64, 182, 0.15);
-          }
-        }
-      }
-    }
-
-    /* Address */
-    dd:has(address) {
-      position: relative;
-
-      /* Last address of maybe multiple, last in whole list */
-      &:has(+ dt), &:last-child {
-        margin-bottom: 24px !important;
-      }
-
-      address {
-        position: relative;
-        padding-inline: 44px 0 !important;
-        filter:
-          drop-shadow(0px 0px 2px
-            oklch(from var(--accent-color) l c h / 75%)
-          )
-          drop-shadow(0px 0px 4px
-            oklch(from var(--accent-color) l c h / 65%)
-          )
-          drop-shadow(0px 0px 8px
-            oklch(from var(--accent-color) l c h / 45%)
-          );
-
-        &:before {
-          position: absolute;
-          content: " ";
-          left: 0;
-          width: 44px;
-          height: 100%;
-          background: var(--link-gradient);
-          background-blend-mode: color-burn, normal;
-          mask: no-repeat center / 20px 20px url(./images/icons/location.svg);
-          mix-blend-mode: hard-light;
-        }
-
-        p {
-          margin: 0 !important;
-          font-size: var(--bm);
-        }
-      }
-    }
-  }
-
-  /* Teams */
-  dl:has(span:is(.pos1, .pos2, .pos3, .pos4, .pos5)) {
-    display: grid;
-    grid-template-columns: repeat(6, minmax(150px, 1fr));
-    grid-auto-flow: dense;
-    column-gap: 12px;
-
-    @media screen and (max-width: 1024px) {
-      grid-template-columns: repeat(3, minmax(150px, 1fr));
-      column-gap: 8px;
-    }
-
-    @media screen and (max-width: 522px) {
-      grid-template-columns: repeat(2, minmax(150px, 1fr));
-      column-gap: 6px;
-    }
-
-    dt {
-      grid-column: 1;
-      display: flex;
-      justify-content: center;
-      width: 100%;
-      margin: 0 !important;
-      padding-inline: 12px;
-      box-sizing: border-box;
-
-      img {
-        display: block;
-        width: 100;
-        height: 100%;
-        aspect-ratio: 1 / 1;
-        object-fit: cover;
-        justify-self: center;
-        filter:
-          drop-shadow(0px 0px 4px
-            oklch(from var(--accent-color) l c h / 45%)
-          )
-          drop-shadow(0px 0px 12px
-            oklch(from var(--accent-color) l c h / 45%)
-          )
-          drop-shadow(0px 0px 24px
-            oklch(from var(--accent-color) l c h / 75%)
-          );
-      }
-    }
-
-    /* Name & Region */
-    dd:nth-of-type(7n + 1), dd:nth-of-type(7n + 2) {
-      grid-column: 1;
-      box-sizing: border-box;
-      height: 1lh;
-      padding: 0;
-      margin: 0;
-      text-align: center;
-    }
-
-    /* Team Name */
-    dd:nth-of-type(7n+1) {
-      font-size: var(--bl);
-      font-weight: 700;
-
-      a {
-        background: var(--text-gradient);
-        background-blend-mode: screen, normal;
-        background-clip: text;
-        -webkit-text-fill-color: transparent;
-      }
-    }
-
-    /* Region */
-    dd:nth-of-type(7n+2) {
-      font-size: var(--bs);
-      font-weight: 700;
-      background: var(--text-gradient);
-      background-blend-mode: screen, normal;
-      background-clip: text;
-      -webkit-text-fill-color: transparent;
-    }
-
-    /* Players */
-    dd:has(span:is(.pos1, .pos2, .pos3, .pos4, .pos5)) {
-      grid-row: span 3;
-      display: flex;
-      gap: 12px;
-      justify-content: center;
-      height: 100%;
-      padding: 0px;
-
-      span {
-        position: relative;
-        display: flex;
-        flex-direction: column;
-        gap: 8px;
-        width: 100%;
-        border-radius: 8px;
-        margin-bottom: 24px;
-        padding-block: 0 12px;
-        padding-inline: 12px;
-        background-color: oklch(
-          from var(--accent-color)
-          calc(l * 0.85) calc(c * 1.25) h / 15%
-        );
-        box-sizing: border-box;
-        font-size: var(--bt);
-        text-align: center;
-        text-wrap: pretty;
-        box-shadow:
-          /* drop shadow */
-          0px 1px 4px oklch(from var(--accent-color) calc(l * 0.15) calc(c * 1.25) h / 75%),
-          0px 4px 8px oklch(from var(--accent-color) calc(l * 0.20) calc(c * 1.5) h / 45%),
-          0px 8px 16px oklch(from var(--accent-color) calc(l * 0.25) calc(c * 1.75) h / 25%),
-          /* inner glow */
-          inset 0px 2px 8px
-            oklch(from var(--accent-color) calc(l * 0.85) calc(c * 1.25) h / 25%),
-          inset 0px 1px 8px
-            oklch(from var(--accent-color) calc(l * 0.85) calc(c * 1.25) h / 35%),
-          inset 0px 1px 3px
-            oklch(from var(--accent-color) calc(l * 0.85) calc(c * 1.25) h / 45%),
-          inset 0px -1px 3px
-            oklch(from var(--accent-color) calc(l * 0.85) calc(c * 1.25) h / 45%),
-          inset 0px -1px 8px
-            oklch(from var(--accent-color) calc(l * 0.85) calc(c * 1.25) h / 35%),
-          inset 0px -2px 8px
-            oklch(from var(--accent-color) calc(l * 0.85) calc(c * 1.25) h / 25%);
-
-        &:before {
-          content: "";
-          position: absolute;
-          top: 0;
-          left: 0;
-          width: 100%;
-          border-top-left-radius: 8px;
-          border-top-right-radius: 8px;
-          background: var(--background);
-          aspect-ratio: 1 / 1;
-        }
-
-        &:after {
-          position: absolute;
-          content: "";
-          top: 8px;
-          right: 8px;
-          width: 32px;
-          height: 32px;
-          pointer-events: none;
-          filter: opacity(0.85)
-            drop-shadow(0px 0px 2px
-              oklch(from var(--accent-color) l c h / 90%)
-            )
-            drop-shadow(0px 0px 4px
-              oklch(from var(--accent-color) l c h / 50%)
-            )
-            drop-shadow(0px 0px 8px
-              oklch(from var(--accent-color) l c h / 25%)
-            );
-        }
-
-        &.pos1:after {
-          background: no-repeat center / 32px 32px url("./images/icons/safelane.svg");
-        }
-
-        &.pos2:after {
-          background: no-repeat center / 32px 32px url("./images/icons/midlane.svg");
-        }
-
-        &.pos3:after {
-          background: no-repeat center / 32px 32px url("./images/icons/offlane.svg");
-        }
-
-        &.pos4:after {
-          background: no-repeat center / 32px 32px url("./images/icons/soft-support.svg");
-        }
-
-        &.pos5:after {
-          background: no-repeat center / 32px 32px url("./images/icons/hard-support.svg");
-        }
-
-        a {
-          position: relative;
-          display: table;
-          margin-inline: -12px;
-          margin-bottom: 8px;
-          font-size: var(--bs);
-          text-align: center;
-
-          img {
-            position: relative;
-            display: block;
-            width: 100%;
-            height: 100%;
-            margin-bottom: 8px;
-            aspect-ratio: 1 / 1;
-            object-fit: cover;
-            clip-path: content-box;
-            filter:
-              drop-shadow(0px 0px 4px
-                oklch(from var(--accent-color) l c h / 45%)
-              )
-              drop-shadow(0px 0px 12px
-                oklch(from var(--accent-color) l c h / 45%)
-              )
-              drop-shadow(0px 0px 24px
-                oklch(from var(--accent-color) l c h / 75%)
-              );
-            transition: filter 0.5s cubic-bezier(0.4, 0, 0.2, 1);
-          }
-
-          &:hover {
-            img {
-              filter:
-                contrast(1.15)
-                brightness(1.05)
-                drop-shadow(0px 0px 4px
-                  oklch(from var(--accent-color) l c h / 45%)
-                )
-                drop-shadow(0px 0px 12px 
-                  oklch(from var(--accent-color) l c h / 45%)
-                )
-                drop-shadow(0px 0px 24px 
-                  oklch(from var(--accent-color) l c h / 75%)
-                );
-            }
-          }
-
-          /* Name */
-          em {
-            background: var(--text-gradient);
-            background-blend-mode: lighten, normal;
-            background-clip: text;
-            -webkit-text-fill-color: transparent;
-            font: normal 800 var(--ht) / 1.5 var(--family-display);
-            filter:
-              drop-shadow(0px 0px 2px
-                oklch(from var(--accent-color) l c h / 75%)
-              )
-              drop-shadow(0px 0px 4px
-                oklch(from var(--accent-color) l c h / 65%)
-              )
-              drop-shadow(0px 0px 8px
-                oklch(from var(--accent-color) l c h / 45%)
-              );
-          }
-        }
-
-        /* Team Backgrounds */
-        &.liquid {
-          --accent-color: oklch(53.6% 0.166 253.21);
-          --background: center/cover url("./images/teams/team-liquid/bg-team-liquid.webp");
-        }
-
-        &.paravision {
-          --accent-color: oklch(81.09% 0.138 164.5);
-          --background: center/cover url("./images/teams/paravision/bg-paravision.webp");
-        }
-
-        &.betboom {
-          --accent-color: oklch(75.61% 0.146 21.61);
-          --background: center/cover url("./images/teams/betboom-team/bg-betboom-team.webp");
-        }
-
-        &.tidebound {
-          --accent-color: oklch(82.41% 0.096 243.21);
-          --background: center/cover url("./images/teams/team-tidebound/bg-team-tidebound.webp");
-        }
-
-        &.spirit {
-          --accent-color: oklch(66.53% 0.21 300.72);
-          --background: center/cover url("./images/teams/team-spirit/bg-team-spirit.webp");
-        }
-
-        &.falcons {
-          --accent-color: oklch(73.43% 0.195 136.47);
-          --background: center/cover url("./images/teams/team-falcons/bg-team-falcons.webp");
-        }
-
-        &.tundra {
-          --accent-color: oklch(70.91% 0.184 302.3);
-          --background: center/cover url("./images/teams/tundra-esports/bg-tundra-esports.webp");
-        }
-
-        &.yakotou {
-          --accent-color: oklch(73.66% 0.165 11.43);
-          --background: center/cover url("./images/bg-ti-2025.webp"); 
-        }
-
-        &.navi {
-          --accent-color: oklch(92.35% 0.168 100.65);
-          --background: center/cover url("./images/teams/natus-vincere/bg-natus-vincere.webp");
-        }
-
-        &.nigma {
-          --accent-color: oklch(55.93% 0.218 297.18);
-          --background: center/cover url("./images/teams/nigma-galaxy/bg-nigma-galaxy.webp");
-        }
-
-        &.aurora {
-          --accent-color: oklch(81.24% 0.152 164.49);
-          --background: center/cover url("./images/teams/aurora-gaming/bg-aurora-gaming.webp");
-        }
-
-        &.xtreme {
-          --accent-color: oklch(75.68% 0.155 304.26);
-          --background: center/cover url("./images/teams/xtreme-gaming/bg-xtreme-gaming.webp");
-        }
-
-        &.nemesis {
-          --accent-color: oklch(55.93% 0.218 297.18);
-          --background: center/cover url("./images/teams/team-nemesis/bg-team-nemesis.webp");
-        }
-
-        &.boom {
-          --accent-color: oklch(54.36% 0.219 21.84);
-          --background: center/cover url("./images/teams/boom-esports/bg-boom-esports.webp");
-        }
-
-        &.wildcard { 
-          --accent-color: oklch(84.04% 0.112 222.24);
-          --background: center/cover url("./images/teams/wildcard/bg-wildcard.webp");
-        }
-
-        &.heroic { 
-          --accent-color: oklch(67.01% 0.217 22.5);
-          --background: center/cover url("./images/teams/heroic/bg-heroic.webp");
-        }
-      }
-    }
-  }
-
-  /* Boardcast Talent Lists */
-  ul:has(a > img) {
-    --accent-color: #9F21E8;
-    display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
-    justify-content: space-between;
-    gap: 24px 12px;
-    padding: 0 !important;
-    list-style: none;
-
-    li {
-      position: relative;
-      border-radius: 8px;
-      margin-top: 0px !important;
-      padding-block: 0 12px;
-      padding-inline: 12px;
-      background: rgba(38, 33, 90, 0.45);
-      background-blend-mode: hard-light;
-      box-shadow: 0px 1px 4px rgba(12, 0, 40, 0.75),
-        0px 4px 8px rgba(12, 0, 40, 0.45),
-        0px 8px 16px rgba(12, 0, 40, 0.25);
-
-      a {
-        position: relative;
-        margin-inline: -12px;
-        margin-bottom: 8px;
-        font-size: var(--bs);
-        text-align: center;
-
-        img {
-          position: relative;
-          display: block;
-          width: 100%;
-          height: 100%;
-          border-radius: 8px;
-          aspect-ratio: 1 / 1;
-          object-fit: cover;
-          clip-path: border-box;
-          filter:
-            drop-shadow(0px 0px 4px
-              oklch(from var(--accent-color) l c h / 55%)
-            )
-            drop-shadow(0px 0px 12px
-              oklch(from var(--accent-color) l c h / 65%)
-            )
-            drop-shadow(0px 0px 24px
-              oklch(from var(--accent-color) l c h / 75%)
-            );
-          transition: filter 0.5s cubic-bezier(0.4, 0, 0.2, 1);
-        }
-
-        &:hover {
-          img {
-            filter:
-              contrast(1.15)
-              brightness(1.05)
-              drop-shadow(0px 0px 4px
-                oklch(from var(--accent-color) l c h / 55%)
-              )
-              drop-shadow(0px 0px 12px
-                oklch(from var(--accent-color) l c h / 65%)
-              )
-              drop-shadow(0px 0px 24px
-                oklch(from var(--accent-color) l c h / 75%)
-              );
-          }
-          text-decoration: underline;
-        }
-
-        /* Name */
-        em {
-          background: var(--text-gradient);
-          background-blend-mode: lighten, normal;
-          background-clip: text;
-          -webkit-text-fill-color: transparent;
-          font: normal 800 var(--hs) / 1.5 var(--family-display);
-          filter:
-            drop-shadow(0px 0px 2px
-              oklch(from var(--accent-color) l c h / 55%)
-            )
-            drop-shadow(0px 0px 4px
-              oklch(from var(--accent-color) l c h / 65%)
-            )
-            drop-shadow(0px 0px 8px
-              oklch(from var(--accent-color) l c h / 75%)
-            );
-        }
-      }
-
-      /* About */
-      p { 
-        position: relative;
-        display: flex;
-        flex-direction: column;
-        gap: 8px;
-        margin-block: 0px !important;
-        font-weight: 600;
-        font-size: var(--bt);
-        text-align: center;
-      }
-
-      /* Portrait Background */
-      &:before {
-        content: " ";
-        position: absolute;
-        top: 0;
-        left: 0 !important;
-        bottom: 0;
-        right: 0;
-        width: 100% !important;
-        border-top-left-radius: 8px;
-        border-top-right-radius: 8px;
-        background: center/cover url("./images/bg-ti-2025.webp");
-        aspect-ratio: 1 / 1;
-        
-        /* VSCode Preview Overrides */
-        border-left: unset !important;
-        height: unset !important;
-      }
-    }
-  }
-</style>
