@@ -137,7 +137,7 @@ Companies available for use in Hamburg-
 
 <figure>
 
-[![Barclays Arena](./images/barclays-arena.png)](https://www.barclayscenter.com/)
+[![Barclays Arena](./images/barclays-arena.webp)](https://www.barclayscenter.com/)
 
 <figcaption>Barclays Arena</figcaption>
 
@@ -163,7 +163,7 @@ Since opening in November 2002, the Barclays Arena in Hamburg has hosted over 2,
 
 <figure>
 
-![Barclays Arena Map](./images/arena-map.png)
+![Barclays Arena Map](./images/arena-map.webp)
 
 <figcaption>Barclays Arena Map (Concert Seating Configuration)</captfigcaptionion>
 
@@ -264,7 +264,7 @@ Due to the large variety of available options, we have provided a breakdown of t
 
 <figure>
 
-![City Map](./images/city.png)
+![City Map](./images/city.webp)
 
 <figcaption>Hamburg City Map</figcaption>
 
@@ -360,7 +360,7 @@ It is generally prohibited to bring any food and drink into the Barclays Arena. 
 
 Food options near the arena are fairly limited. These are the closest, but you should expect a trip to them to take an hour or more between walking and eating. Many more options are available within the locality but would require either public transport, a taxi, or a car share with others at the event.
 
-[![](./images/grill-pavillion.png) _Grill-Pavillion_](https://pommeskoenig.jimdoweb.com/)
+[![](./images/restaurants/grill-pavillion.webp) _Grill-Pavillion_](https://pommeskoenig.jimdoweb.com/)
 : <ul><li>🍳 Breakfast</li><li>🥪 Lunch</li><li>🍽️ Dinner</li><li>🍔 Fast Food</li><li>🥗 Vegetarian</li><li>🌱 Vegan</li><li>🍺 Beer</li></ul>
 : <address>
 
@@ -368,7 +368,7 @@ Food options near the arena are fairly limited. These are the closest, but you s
 
   </address>
 
-[![](./images/fruhstucksladen.png) _Frühstücksladen_](https://www.fruehstuecksladen-eidelstedt.de/)
+[![](./images/restaurants/fruhstucksladen.webp) _Frühstücksladen_](https://www.fruehstuecksladen-eidelstedt.de/)
 : <ul><li>🍳 Breakfast</li><li>🥪 Lunch</li><li>☕ Coffee</li></ul>
 : <address>
 
@@ -376,7 +376,7 @@ Food options near the arena are fairly limited. These are the closest, but you s
 
   </address>
 
-[![](./images/das-moin-moin.png) _Das Moin Moin_](https://www.dasmoinmoin.de/)
+[![](./images/restaurants/das-moin-moin.webp) _Das Moin Moin_](https://www.dasmoinmoin.de/)
 : <ul><li>🍳 Breakfast</li><li>🥪 Lunch</li><li>🍔 Fast Food</li><li>🍺 Beer</li></ul>
 : <address>
 
@@ -384,7 +384,7 @@ Food options near the arena are fairly limited. These are the closest, but you s
 
   </address>
 
-[![](./images/namaste-hamburg.png) _Namaste Hamburg_](https://www.namaste-food.de/)
+[![](./images/restaurants/namaste-hamburg.webp) _Namaste Hamburg_](https://www.namaste-food.de/)
 : <ul><li>🥪 Lunch</li><li>🍽️ Dinner</li><li>🥘 Indian</li><li>حلال Halal</li><li>🥗 Vegetarian</li><li>🌱 Vegan</li><li>🍺 Beer</li><li>🍷 Wine</li></ul>
 : <address>
 
@@ -392,7 +392,7 @@ Food options near the arena are fairly limited. These are the closest, but you s
 
   </address>
 
-[![](./images/bistro-picknick.png) _Bistro Picknick_](https://bistro-picknick.de)
+[![](./images/restaurants/bistro-picknick.webp) _Bistro Picknick_](https://bistro-picknick.de)
 : Informal all-day snack bar dispensing currywurst, goulash & other unpretentious offerings.
 : <ul><li>🍳 Breakfast</li><li>🥪 Lunch</li><li>🍽️ Dinner</li><li>🌱 Vegan</li><li>🍺 Beer</li><li>🍸 Cocktails</li><li>🍷 Wine</li></ul>
 : <address>
@@ -409,7 +409,7 @@ Visit the [Google List](https://maps.app.goo.gl/7hS2okZWvrkhTcZ89) for the most 
 
 [Google List](https://maps.app.goo.gl/7hS2okZWvrkhTcZ89)
 
-[![](./images/la-casita.png) _La Casita_](https://lacasita-azul.de/)
+[![](./images/restaurants/la-casita.webp) _La Casita_](https://lacasita-azul.de/)
 : <ul><li>🥪 Lunch</li><li>🍽️ Dinner</li><li>🌮 Mexican</li><li>🥗 Vegetarian</li><li>🌱 Vegan</li><li>🍺 Beer</li><li>🍸 Cocktails</li><li>🍷 Wine</li></ul>
 : <address>
 
@@ -417,7 +417,7 @@ Visit the [Google List](https://maps.app.goo.gl/7hS2okZWvrkhTcZ89) for the most 
 
   </address>
 
-[![](./images/ottos-burger-ottensen.png) _Otto's Burger Ottensen_](https://www.ottosburger.com/)
+[![](./images/restaurants/ottos-burger-ottensen.webp) _Otto's Burger Ottensen_](https://www.ottosburger.com/)
 : <ul><li>🥪 Lunch</li><li>🍽️ Dinner</li><li>🍔 Burgers</li><li>🍺 Beer</li><li>🍸 Cocktails</li><li>🍷 Wine</li></ul>
 : <address>
 
@@ -425,7 +425,7 @@ Visit the [Google List](https://maps.app.goo.gl/7hS2okZWvrkhTcZ89) for the most 
 
   </address>
 
-[![](./images/ottos-burger-lange-reihe.png) _Otto's Burger Lange Reihe_](https://www.ottosburger.com/)
+[![](./images/restaurants/ottos-burger-lange-reihe.webp) _Otto's Burger Lange Reihe_](https://www.ottosburger.com/)
 : <ul><li>🥪 Lunch</li><li>🍽️ Dinner</li><li>🍔 Burgers</li><li>🍺 Beer</li><li>🍸 Cocktails</li><li>🍷 Wine</li></ul>
 : <address>
 
@@ -433,7 +433,7 @@ Visit the [Google List](https://maps.app.goo.gl/7hS2okZWvrkhTcZ89) for the most 
 
   </address>
 
-[![](./images/ottos-burger-grindel.png) _Otto's Burger Grindel_](https://www.ottosburger.com/)
+[![](./images/restaurants/ottos-burger-grindel.webp) _Otto's Burger Grindel_](https://www.ottosburger.com/)
 : <ul><li>🥪 Lunch</li><li>🍽️ Dinner</li><li>🍔 Burgers</li><li>🍺 Beer</li><li>🍸 Cocktails</li><li>🍷 Wine</li></ul>
 : <address>
 
@@ -441,7 +441,7 @@ Visit the [Google List](https://maps.app.goo.gl/7hS2okZWvrkhTcZ89) for the most 
 
   </address>
 
-[![](./images/ottos-burger-schanze.png) _Otto's Burger Schanze_](https://www.ottosburger.com/)
+[![](./images/restaurants/ottos-burger-schanze.webp) _Otto's Burger Schanze_](https://www.ottosburger.com/)
 : <ul><li>🥪 Lunch</li><li>🍽️ Dinner</li><li>🍔 Burgers</li><li>🍺 Beer</li><li>🍸 Cocktails</li><li>🍷 Wine</li></ul>
 : <address>
 
@@ -449,7 +449,7 @@ Visit the [Google List](https://maps.app.goo.gl/7hS2okZWvrkhTcZ89) for the most 
 
   </address>
 
-[![](./images/maharaja-go-go.png) _Maharaja go-go_](https://www.maharaja-hamburg.de/maharaja-41/index.php)
+[![](./images/restaurants/maharaja-go-go.webp) _Maharaja go-go_](https://www.maharaja-hamburg.de/maharaja-41/index.php)
 : <ul><li>🥪 Lunch</li><li>🍽️ Dinner</li><li>🥘 Indian</li><li>🥗 Vegetarian</li><li>🌱 Vegan</li><li>🍺 Beer</li><li>🍷 Wine</li></ul>
 : <address>
 
@@ -457,7 +457,7 @@ Visit the [Google List](https://maps.app.goo.gl/7hS2okZWvrkhTcZ89) for the most 
 
   </address>
 
-[![](./images/balutschistan.png) _Balutschistan_](https://www.balutschistan-schanze.de/)
+[![](./images/restaurants/balutschistan.webp) _Balutschistan_](https://www.balutschistan-schanze.de/)
 : <ul><li>🥪 Lunch</li><li>🍽️ Dinner</li><li>🍛 Pakistani</li><li>🍺 Beer</li><li>🍸 Cocktails</li><li>🍷 Wine</li></ul>
 : <address>
 
@@ -465,7 +465,7 @@ Visit the [Google List](https://maps.app.goo.gl/7hS2okZWvrkhTcZ89) for the most 
 
   </address>
 
-[![](./images/brucke-10-am-alten-elbtunnel.png) _Brücke 10 am Alten Elbtunnel_](https://bruecke10.com/)
+[![](./images/restaurants/brucke-10-am-alten-elbtunnel.webp) _Brücke 10 am Alten Elbtunnel_](https://bruecke10.com/)
 : <ul><li>🥪 Lunch</li><li>🐟 Seafood</li><li>🥗 Vegetarian</li><li>☕ Coffee</li><li>🍺 Beer</li></ul>
 : <address>
 
@@ -473,7 +473,7 @@ Visit the [Google List](https://maps.app.goo.gl/7hS2okZWvrkhTcZ89) for the most 
 
   </address>
 
-[![](./images/brucke-10.png) _Brücke 10_](https://bruecke10.com/)
+[![](./images/restaurants/brucke-10.webp) _Brücke 10_](https://bruecke10.com/)
 : Laid-back restaurant serving seafood sandwiches & beers on a landing stage by the harbor.
 : <ul><li>🥪 Lunch</li><li>🍽️ Dinner</li><li>🐟 Seafood</li><li>🌱 Vegan</li><li>🍺 Beer</li><li>🍷 Wine</li></ul>
 : <address>
@@ -482,7 +482,7 @@ Visit the [Google List](https://maps.app.goo.gl/7hS2okZWvrkhTcZ89) for the most 
 
   </address>
 
-[![](./images/taverna-olympisches-feuer.png) _Taverna Olympisches Feuer_](http://www.olympisches-feuer.de/) (Website may not function)
+[![](./images/restaurants/taverna-olympisches-feuer.webp) _Taverna Olympisches Feuer_](http://www.olympisches-feuer.de/) (Website may not function)
 : <ul><li>🥪 Lunch</li><li>🍽️ Dinner</li><li>🌱 Vegan</li><li>🍺 Beer</li><li>🍸 Cocktails</li><li>🍷 Wine</li></ul>
 : <address>
 
@@ -490,7 +490,7 @@ Visit the [Google List](https://maps.app.goo.gl/7hS2okZWvrkhTcZ89) for the most 
 
   </address>
 
-[![](./images/karo-fisch.png) _Karo Fisch_](https://karofisch.website/)
+[![](./images/restaurants/karo-fisch.webp) _Karo Fisch_](https://karofisch.website/)
 : Mediterranean seafood delicacies are offered in this compact, unpretentious eatery with a terrace.
 : <ul><li>🥪 Lunch</li><li>🍽️ Dinner</li><li>🥙 Mediterranean</li><li>🐟 Seafood</li><li>حلال Halal</li><li>🌱 Vegan</li><li>🍺 Beer</li><li>🍷 Wine</li></ul>
 : <address>
@@ -499,7 +499,7 @@ Visit the [Google List](https://maps.app.goo.gl/7hS2okZWvrkhTcZ89) for the most 
 
   </address>
 
-[![](./images/underdocks.png) _Underdocks_](https://underdocks.de/)
+[![](./images/restaurants/underdocks.webp) _Underdocks_](https://underdocks.de/)
 : Convivial locale with outdoor seating serving creative seafood rolls, sandwiches & tacos.
 : <ul><li>🥪 Lunch</li><li>🍽️ Dinner</li><li>🐟 Seafood</li><li>🌮 Tacos</li><li>🥗 Vegetarian</li><li>🌱 Vegan</li><li>🍺 Beer</li><li>🍸 Cocktails</li><li>🍷 Wine</li></ul>
 : <address>
@@ -518,7 +518,7 @@ Visit the [Google List](https://maps.app.goo.gl/7hS2okZWvrkhTcZ89) for the most 
 
   </address>
 
-[![](./images/schweinske-restaurant-bahrenfeld.png) _Schweinske Restaurant Bahrenfeld_](https://schweinske.de/standorte/bahrenfeld)
+[![](./images/restaurants/schweinske-restaurant-bahrenfeld.webp) _Schweinske Restaurant Bahrenfeld_](https://schweinske.de/standorte/bahrenfeld)
 : <ul><li>🍳 Breakfast</li><li>🥪 Lunch</li><li>🍽️ Dinner</li><li>🥨 German</li><li>🌱 Vegan</li><li>🍺 Beer</li><li>🍸 Cocktails</li><li>🍷 Wine</li></ul>
 : <address>
 
@@ -526,7 +526,7 @@ Visit the [Google List](https://maps.app.goo.gl/7hS2okZWvrkhTcZ89) for the most 
 
   </address>
 
-[![](./images/schweinske-restaurant-eimsbuttel.png) _Schweinske Restaurant Eimsbüttel_](https://schweinske.de/standorte/eimsbuettel)
+[![](./images/restaurants/schweinske-restaurant-eimsbuttel.webp) _Schweinske Restaurant Eimsbüttel_](https://schweinske.de/standorte/eimsbuettel)
 : <ul><li>🍳 Breakfast</li><li>🥪 Lunch</li><li>🍽️ Dinner</li><li>🥨 German</li><li>🌱 Vegan</li><li>🍺 Beer</li><li>🍸 Cocktails</li><li>🍷 Wine</li></ul>
 : <address>
 
@@ -534,7 +534,7 @@ Visit the [Google List](https://maps.app.goo.gl/7hS2okZWvrkhTcZ89) for the most 
 
   </address>
 
-[![](./images/jim-burritos.png) _Jim Burrito's_](https://www.jimburritos.com/)
+[![](./images/restaurants/jim-burritos.webp) _Jim Burrito's_](https://www.jimburritos.com/)
 : Compact, casual space offering Mexican specialties, cocktails & a take-out option.
 : <ul><li>🍽️ Dinner</li><li>🌮 Tacos</li><li>🥗 Vegetarian</li><li>🌱 Vegan</li><li>🍺 Beer</li><li>🍸 Cocktails</li></ul>
 : <address>
@@ -1177,7 +1177,7 @@ LOKMAM KÖZ
 
   </address>
 
-[![](./images/the-madison-restaurant.png) _The Madison Restaurant_](the-madison-restaurant)
+[![](./images/restaurants/the-madison-restaurant.webp) _The Madison Restaurant_](the-madison-restaurant)
 : Trendy hotel restaurant offering all-day Italian- & Asian-inspired dining, plus a breakfast buffet.
 : <ul><li>🥪 Lunch</li><li>🍽 Dinner</li><li>🍝 Italian</li><li>🥗 Vegetarian</li><li>🍺 Beer</li><li>🍸 Cocktails</li><li>🍷 Wine</li></ul>
 : <address>
@@ -1186,7 +1186,7 @@ LOKMAM KÖZ
 
   </address>
 
-[![](./images/lamira-steindamm.png) _L'Amira Steindamm_](https://lamira-steindamm.de/)
+[![](./images/restaurants/lamira-steindamm.webp) _L'Amira Steindamm_](https://lamira-steindamm.de/)
 : <ul><li>🍳 Breakfast</li><li>🥪 Lunch</li><li>🍽 Dinner</li><li>🧆 Lebanese</li><li>حلال Halal</li><li>🥗 Vegetarian</li><li>🌱 Vegan</li></ul>
 : <address>
 
@@ -1194,7 +1194,7 @@ LOKMAM KÖZ
 
   </address>
 
-[![](./images/restaurant-charmant.png) _Restaurant Charmant_](https://www.restaurant-charmant.de/)
+[![](./images/restaurants/restaurant-charmant.webp) _Restaurant Charmant_](https://www.restaurant-charmant.de/)
 : Pasta dishes, pizzas, roast meats & schnitzels in tranquil, low-lit surroundings.
 : <ul><li>🥪 Lunch</li><li>🍽 Dinner</li><li>🥨 German</li><li>🍝 Pasta</li><li>🥗 Vegetarian</li><li>🍺 Beer</li><li>🍸 Cocktails</li><li>🍷 Wine</li></ul>
 : <address>
@@ -1207,7 +1207,7 @@ LOKMAM KÖZ
 
 [Google List](https://maps.app.goo.gl/Ydk34ZMjkxBuH9Vs8)
 
-[![](./images/kofookoo.png) _Kofookoo_](https://sushigrillbar.kofookoo.de/)
+[![](./images/restaurants/kofookoo.webp) _Kofookoo_](https://sushigrillbar.kofookoo.de/)
 : <ul><li>🥪 Lunch</li><li>🍽 Dinner</li><li>🍱 Japanese</li><li>🍣 Sushi</li><li>حلال Halal</li><li>🥗 Vegetarian</li><li>🌱 Vegan</li><li>🍺 Beer</li><li>🍸 Cocktails</li><li>🍷 Wine</li></ul>
 : <address>
 
@@ -1215,7 +1215,7 @@ LOKMAM KÖZ
 
   </address>
 
-[![](./images/tschebull-restaurant.png) _Tschebull Restaurant|Beisl|Bar_](https://www.tschebull.de/de/)
+[![](./images/restaurants/tschebull-restaurant.webp) _Tschebull Restaurant|Beisl|Bar_](https://www.tschebull.de/de/)
 : Classic Austrian-style tapas & meat dishes, plus a long wine list, in a formal dining room.
 : <ul><li>🥪 Lunch</li><li>🍽 Dinner</li><li>🥧 Austrian</li><li>🥩 Meat</li><li>🌱 Vegan</li><li>🍺 Beer</li><li>🍸 Cocktails</li><li>🍷 Wine</li></ul>
 : <address>
@@ -1224,7 +1224,7 @@ LOKMAM KÖZ
 
   </address>
 
-[![](./images/deichgraf-restaurant.png) _Deichgraf Restaurant_](https://speisekartenweb.de/restaurants/hamburg/deichgraf-restaurant-30023?utm_source=google_profile&utm_medium=google_profile&utm_campaign=admin)
+[![](./images/restaurants/deichgraf-restaurant.webp) _Deichgraf Restaurant_](https://speisekartenweb.de/restaurants/hamburg/deichgraf-restaurant-30023?utm_source=google_profile&utm_medium=google_profile&utm_campaign=admin)
 : Salted meat labskaus & other northern specialities in a posh dining room or on a sidewalk terrace.
 : <ul><li>📅 Reservation Required</li><li>🥪 Lunch</li><li>🍽 Dinner</li><li>🥨 German</li><li>🥩 Meat</li><li>🌱 Vegan</li><li>🍺 Beer</li><li>🍷 Wine</li></ul>
 : <address>
@@ -1233,7 +1233,7 @@ LOKMAM KÖZ
 
   </address>
 
-[![](./images/restaurant-cox.png) _Restaurant Cox_](https://www.restaurant-cox.de/cox.html)
+[![](./images/restaurants/restaurant-cox.webp) _Restaurant Cox_](https://www.restaurant-cox.de/cox.html)
 : Longstanding, rustic-chic tavern offering game dishes like wild boar & an extensive wine selection.
 : <ul><li>🥪 Lunch</li><li>🍽 Dinner</li><li>🥩 Meat</li><li>🥗 Vegetarian</li><li>🌱 Vegan</li><li>🍺 Beer</li><li>🍸 Cocktails</li><li>🍷 Wine</li></ul>
 : <address>
@@ -1242,7 +1242,7 @@ LOKMAM KÖZ
 
   </address>
 
-[![](./images/fischereihafen-restaurant.png) _Fischereihafen Restaurant_](https://www.fischereihafenrestaurant.de/en/)
+[![](./images/restaurants/fischereihafen-restaurant.webp) _Fischereihafen Restaurant_](https://www.fischereihafenrestaurant.de/en/)
 : Lively, long-running place for oysters, caviar & grilled seafood, with views of the harbor.
 : <ul><li>📅 Reservation Required</li><li>🥪 Lunch</li><li>🍽 Dinner</li><li>🐟 Seafood</li><li>🦪 Oysters</li><li>🍺 Beer</li><li>🍸 Cocktails</li><li>🍷 Wine</li></ul>
 : <address>
@@ -1251,7 +1251,7 @@ LOKMAM KÖZ
 
   </address>
 
-[![](./images/das-dorf.png) _Das Dorf_](https://restaurant-dorf.de/eng/)
+[![](./images/restaurants/das-dorf.webp) _Das Dorf_](https://restaurant-dorf.de/eng/)
 : Informal eatery serving local staples including schnitzel, meat plates & desserts, plus draft beer.
 : <ul><li>🍽 Dinner</li><li>🥨 German</li><li>🍺 Beer</li><li>🍸 Cocktails</li><li>🍷 Wine</li></ul>
 : <address>
@@ -1260,7 +1260,7 @@ LOKMAM KÖZ
 
   </address>
 
-[![](./images/neni.png) _NENI_](https://nenifood.com/restaurants/hamburg)
+[![](./images/restaurants/neni.webp) _NENI_](https://nenifood.com/restaurants/hamburg)
 : Upmarket pos2dle Eastern classics, served in an airy, industrial-chic space with kelim rugs.
 : <ul><li>🍳 Breakfast</li><li>🥪 Lunch</li><li>🍽 Dinner</li><li>🧆 pos2dle Eastern</li><li>حلال Halal</li><li>🥗 Vegetarian</li><li>🌱 Vegan</li><li>🍺 Beer</li><li>🍸 Cocktails</li><li>🍷 Wine</li></ul>
 : <address>
@@ -1269,7 +1269,7 @@ LOKMAM KÖZ
 
   </address>
 
-[![](./images/petit-bonheur.png) _Petit Bonheur_](https://www.petitbonheur-restaurant.de/)
+[![](./images/restaurants/petit-bonheur.webp) _Petit Bonheur_](https://www.petitbonheur-restaurant.de/)
 : Romantic restaurant with red walls & eclectic artwork, serving classic French dishes & wines.
 : <ul><li>🥪 Lunch</li><li>🍽 Dinner</li><li>🥖 French</li><li>🍺 Beer</li><li>🍸 Cocktails</li><li>🍷 Wine</li></ul>
 : <address>
@@ -1278,7 +1278,7 @@ LOKMAM KÖZ
 
   </address>
 
-[![](./images/philipps-restaurant.png) _philipps Restaurant_](https://www.philipps-restaurant.de/)
+[![](./images/restaurants/philipps-restaurant.webp) _philipps Restaurant_](https://www.philipps-restaurant.de/)
 : Modern space with a rustic-chic vibe for an international menu of pasta, schnitzels & steak tartare.
 : <ul><li>🥪 Lunch</li><li>🍽 Dinner</li><li>🥨 German</li><li>🍝 Pasta</li><li>🥩 Steak</li><li>🍺 Beer</li><li>🍸 Cocktails</li><li>🍷 Wine</li></ul>
 : <address>
@@ -1287,7 +1287,7 @@ LOKMAM KÖZ
 
   </address>
 
-[![](./images/restaurant-casa-di-roma.png) _Restaurant Casa di Roma_](https://casadiroma.de/)
+[![](./images/restaurants/restaurant-casa-di-roma.webp) _Restaurant Casa di Roma_](https://casadiroma.de/)
 : Creatively presented antipasti, pasta & mains, plus a robust wine list, at a stylish trattoria.
 : <ul><li>🥪 Lunch</li><li>🍽 Dinner</li><li>🍝 Italian</li><li>🥙 Mediterranean</li><li>🍺 Beer</li><li>🍸 Cocktails</li><li>🍷 Wine</li></ul>
 : <address>
@@ -1296,7 +1296,7 @@ LOKMAM KÖZ
 
   </address>
 
-[![](./images/patio-restaurant-weinbar.png) _PATIO Restaurant Weinbar_](https://patio.hamburg/)
+[![](./images/restaurants/patio-restaurant-weinbar.webp) _PATIO Restaurant Weinbar_](https://patio.hamburg/)
 : Contemporary Mediterranean cuisine, tapas & wine in a stylishly designed space with dark accents.
 : <ul><li>🍳 Breakfast</li><li>🥑 Brunch</li><li>🥪 Lunch</li><li>🍽 Dinner</li><li>🥙 Mediterranean</li><li>🍺 Beer</li><li>🍸 Cocktails</li><li>🍷 Wine</li></ul>
 : <address>
@@ -1305,7 +1305,7 @@ LOKMAM KÖZ
 
   </address>
 
-[![](./images/restaurant-freudenhaus-st-paulim.png) _Restaurant Freudenhaus St. Paulim_](https://www.stpauli-freudenhaus.de/restaurant/)
+[![](./images/restaurants/restaurant-freudenhaus-st-paulim.webp) _Restaurant Freudenhaus St. Paulim_](https://www.stpauli-freudenhaus.de/restaurant/)
 : Robust northern German meat & fish dishes in a cozy, elaborately decorated bar/restaurant.
 : <ul><li>📅 Reservation Required</li><li>🍽 Dinner</li><li>🥨 German</li><li>🐟 Seafood</li></ul>
 : <address>
@@ -1318,7 +1318,7 @@ LOKMAM KÖZ
 
 [Google List](https://maps.app.goo.gl/EbM1JYgna85GGrKGA)
 
-[![](./images/the-table.png) _The Table_](https://the-table-hamburg.de/)
+[![](./images/restaurants/the-table.webp) _The Table_](https://the-table-hamburg.de/)
 : Elevated global cuisine around a single table snaking around a stylish room with an open kitchen.
 : <ul><li>📅 Reservation Required</li><li>👨‍🍳 Fine Dining</li><li>🍽 Dinner</li><li>🍸 Cocktails</li><li>🍷 Wine</li></ul>
 : <address>
@@ -1327,7 +1327,7 @@ LOKMAM KÖZ
 
   </address>
 
-[![](./images/petit-amour.png) _Petit Amour_](https://petitamour-hh.com/)
+[![](./images/restaurants/petit-amour.webp) _Petit Amour_](https://petitamour-hh.com/)
 : Urbane choice with understated decor & a terrace specializing in imaginative French cuisine.
 : <ul><li>📅 Reservation Required</li><li>👨‍🍳 Fine Dining</li><li>🍽 Dinner</li><li>🥖 French</li><li>🍷 Wine</li></ul>
 : <address>
@@ -1336,7 +1336,7 @@ LOKMAM KÖZ
 
   </address>
 
-[![](./images/haerlin-restaurant.png) _Haerlin Restaurant_](https://hvj.de/en/restaurant-haerlin.html)
+[![](./images/restaurants/haerlin-restaurant.webp) _Haerlin Restaurant_](https://hvj.de/en/restaurant-haerlin.html)
 : Sophisticated plates of seasonally inspired cuisine, plus wine, offered in refined pastel surrounds.
 : <ul><li>⭐ Michelin Starred</li><li>📅 Reservation Required</li><li>👨‍🍳 Fine Dining</li><li>🍽 Dinner</li><li>🍸 Cocktails</li><li>🍷 Wine</li></ul>
 : <address>
@@ -1345,7 +1345,7 @@ LOKMAM KÖZ
 
   </address>
 
-[![](./images/lakeside.png) _Lakeside_](https://www.thefontenay.com/en/restaurants-bar/lakeside-restaurant)
+[![](./images/restaurants/lakeside.webp) _Lakeside_](https://www.thefontenay.com/en/restaurants-bar/lakeside-restaurant)
 : <ul><li>⭐ Michelin Starred</li><li>📅 Reservation Required</li><li>👨‍🍳 Fine Dining</li><li>🍽 Dinner</li><li>🍸 Cocktails</li><li>🍷 Wine</li></ul>
 : <address>
 
@@ -1353,7 +1353,7 @@ LOKMAM KÖZ
 
   </address>
 
-[![](./images/100-200-kitchen.png) _100/200 Kitchen_](https://www.100200.kitchen/restaurant/)
+[![](./images/restaurants/100-200-kitchen.webp) _100/200 Kitchen_](https://www.100200.kitchen/restaurant/)
 : A changing seasonal menu with elegant plate presentations & wine in a funky warehouse setting.
 : <ul><li>⭐ Michelin Starred</li><li>📅 Reservation Required</li><li>👨‍🍳 Fine Dining</li><li>🥪 Lunch</li><li>🍽 Dinner</li><li>🍷 Wine</li></ul>
 : <address>
@@ -1362,7 +1362,7 @@ LOKMAM KÖZ
 
   </address>
 
-[![](./images/the-lisbeth.png) _The Lisbeth_](https://www.cantinepapalisbeth.de/)
+[![](./images/restaurants/the-lisbeth.webp) _The Lisbeth_](https://www.cantinepapalisbeth.de/)
 : Industrial-chic eatery with a sidewalk terrace featuring fish rolls, pasta & other seafood dishes.
 : <ul><li>👨‍🍳 Fine Dining</li><li>🍽 Dinner</li><li>🐟 Seafood</li><li>🍝 Pasta</li><li>🍷 Wine</li></ul>
 : <address>
@@ -1371,7 +1371,7 @@ LOKMAM KÖZ
 
   </address>
 
-[![](./images/le-petit-chef.png) _Le Petit Chef_](https://lepetitchef.com/Hamburg)
+[![](./images/restaurants/le-petit-chef.webp) _Le Petit Chef_](https://lepetitchef.com/Hamburg)
 : <ul><li>👨‍🍳 Fine Dining</li><li>🎭 Dinner Show</li><li>🥪 Lunch</li><li>🍽 Dinner</li><li>🍷 Wine</li></ul>
 : <address>
 
@@ -1379,7 +1379,7 @@ LOKMAM KÖZ
 
   </address>
 
-[![](./images/criss-studio.png) _Criss Studio Polish-Jamaican_](https://www.criss.studio/)
+[![](./images/restaurants/criss-studio.webp) _Criss Studio Polish-Jamaican_](https://www.criss.studio/)
 : <ul><li>📅 Reservation Required</li><li>👨‍🍳 Fine Dining</li><li>🍽 Dinner</li><li>🥟 Polish</li><li>🍗 Jamaican</li><li>🍷 Wine</li></ul>
 : <address>
 
@@ -1387,7 +1387,7 @@ LOKMAM KÖZ
 
   </address>
 
-[![](./images/restaurant-zeik.png) _Restaurant Zeik_](https://zeik.de/)
+[![](./images/restaurants/restaurant-zeik.webp) _Restaurant Zeik_](https://zeik.de/)
 : Elevated regional tasting menus with seasonal ingredients & optional wine pairings plus a terrace.
 : <ul><li>⭐ Michelin Starred</li><li>📅 Reservation Required</li><li>👨‍🍳 Fine Dining</li><li>🍽 Dinner</li><li>🍷 Wine</li></ul>
 : <address>
@@ -1396,7 +1396,7 @@ LOKMAM KÖZ
 
   </address>
 
-[![](./images/meatery-restaurant-and-bar.png) _[m]eatery restaurant & botanist bar_](https://www.meatery.de/restaurants-bar/meatery-hamburg/)
+[![](./images/restaurants/meatery-restaurant-and-bar.webp) _[m]eatery restaurant & botanist bar_](https://www.meatery.de/restaurants-bar/meatery-hamburg/)
 : <ul><li>📅 Reservation Required</li><li>👨‍🍳 Fine Dining</li><li>🍽 Dinner</li><li>🥩 Steakhouse</li><li>🍸 Cocktails</li></ul>
 : <address>
 
@@ -1404,7 +1404,7 @@ LOKMAM KÖZ
 
   </address>
 
-[![](./images/restaurant-atlantic-grill-and-health.png) _Restaurant Atlantic Grill & Health_](https://brhhh.com/atlantic-hamburg/taste/)
+[![](./images/restaurants/restaurant-atlantic-grill-and-health.webp) _Restaurant Atlantic Grill & Health_](https://brhhh.com/atlantic-hamburg/taste/)
 : Posh, wood-paneled eatery serving locally sourced seafood entrees & market-fresh salads, plus wine.
 : <ul><li>📅 Reservation Required</li><li>👨‍🍳 Fine Dining</li><li>🥪 Lunch</li><li>🍽 Dinner</li><li>🐟 Seafood</li><li>🍷 Wine</li></ul>
 : <address>
@@ -1413,7 +1413,7 @@ LOKMAM KÖZ
 
   </address>
 
-[![](./images/salt-and-silver.png) _Salt & Silver_](https://saltandsilver.de/restaurants/hamburg)
+[![](./images/restaurants/salt-and-silver.webp) _Salt & Silver_](https://saltandsilver.de/restaurants/hamburg)
 : Hip stop for creative tasting menus with Mexican & Peruvian dishes, plus a terrace for harbor views.
 : <ul><li>📅 Reservation Required</li><li>👨‍🍳 Fine Dining</li><li>🍽 Dinner</li><li>🌮 Mexican</li><li>🥘 Peruvian</li><li>🍷 Wine</li></ul>
 : <address>
@@ -1444,7 +1444,7 @@ Address
 
 <figure>
 
-[![Minatur Wunderland](./images/minatur-wunderland.png)](https://youtu.be/R669l5CA1YA)
+[![Minatur Wunderland](./images/minatur-wunderland.webp)](https://youtu.be/R669l5CA1YA)
 
   <figcaption>Minatur Wunderland</figcaption>
 
@@ -1473,7 +1473,7 @@ Opening Hours
 
 <figure>
 
-[![Hamburg Rathaus](./images/hamburg-rathaus.png)](https://www.hamburg.de/politik-und-verwaltung/senat/rathaus-hamburg)
+[![Hamburg Rathaus](./images/hamburg-rathaus.webp)](https://www.hamburg.de/politik-und-verwaltung/senat/rathaus-hamburg)
 
   <figcaption>Hamburg Rathaus</figcaption>
 
@@ -1495,7 +1495,7 @@ Opening Hours
 
 <figure>
 
-[![Strandperle](./images/strandperle.png)](https://www.strandperle-hamburg.de)
+[![Strandperle](./images/strandperle.webp)](https://www.strandperle-hamburg.de)
 
   <figcaption>Strandperle</figcaption>
 
@@ -1517,7 +1517,7 @@ Opening Hours
 
 <figure>
 
-[![Planten un Blomen](./images/planten-un-blomen.png)](https://www.hamburg-travel.com/see-explore/events/wasserlichtspiele-planten-un-blomen/)
+[![Planten un Blomen](./images/planten-un-blomen.webp)](https://www.hamburg-travel.com/see-explore/events/wasserlichtspiele-planten-un-blomen/)
 
   <figcaption>Planten un Blomen</figcaption>
 
@@ -1541,7 +1541,7 @@ Opening Hours
 
 <figure>
 
-[![Tierpark Hagenbeck](./images/tierpark-hagenbeck.png)](https://www.hagenbeck.de/de/)
+[![Tierpark Hagenbeck](./images/tierpark-hagenbeck.webp)](https://www.hagenbeck.de/de/)
 
   <figcaption>Tierpark Hagenbeck</figcaption>
 
@@ -1565,7 +1565,7 @@ Opening Hours
 
 <figure>
 
-[![Dialogue in the Dark](./images/dialogue-in-the-dark.png)](https://www.dialogue-se.com/what-we-do/dialogue-in-the-dark/)
+[![Dialogue in the Dark](./images/dialogue-in-the-dark.webp)](https://www.dialogue-se.com/what-we-do/dialogue-in-the-dark/)
 
   <figcaption>Dialogue in the Dark</figcaption>
 
