@@ -213,6 +213,7 @@ blockquote {
       oklch(from var(--accent-color) l c h / 0%) 75%
     );
     border-image-slice: 1 0 1 0;
+    pointer-events: none;
   }
   &:before {
     content: "";
