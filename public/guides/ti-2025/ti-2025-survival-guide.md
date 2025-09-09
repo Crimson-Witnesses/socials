@@ -1,4 +1,8 @@
-# The International 2025 Survival Guide
+---
+title: The International 2025 Survival Guide
+year: 2025
+city: Hamburg
+---
 
 ## Introduction
 
@@ -143,21 +147,25 @@ Since opening in November 2002, the Barclays Arena in Hamburg has hosted over 2,
 
 ### Map
 
-<center>
+<figure>
 
 ![Barclays Arena Map](./images/arena.png)
 
-</center>
+<figcaption>Barclays Arena Map</captfigcaptionion>
+
+</figure>
 
 ### Rules and Restrictions
 
 The venue will not allow Bags larger than 14”x14”x6” or that are hard-sided. So we recommend you pack a small bag that can fit your daily needed items. All bags will be subjected to screening, so leave extra time to get through the scanners.
 
-<center>
+<figure>
 
 ![Restricted Items](./images/restrictions.png)
 
-</center>
+<figcaption>Restricted Items</captfigcaptionion>
+
+</figure>
 
 Cameras with telephoto or interchangeable/detachable lenses and external flash (professional photography equipment) are not permitted inside Barclays Center at any time. Video recording devices, audio recording devices, monopods, bipods, and tripods are also not permitted. This policy will be strictly enforced, and management reserves the right to deny any electronic device at their discretion.
 
@@ -167,7 +175,7 @@ From March 1, 2025, all payment terminals in the arena will be converted to cash
 
 Accepted payment methods in the Barclays Arena from March 1, 2025, are:
 
-<div style="columns: auto 12em;">
+<div style="columns: auto 12em; margin-block: calc(var(--fs-body) / 1.125) calc(var(--fs-body) * 0.25);">
 
 - VISA
 - Mastercard
@@ -242,11 +250,13 @@ Hamburg has a wide range of accommodation options, including hotels, hostels, Ai
 
 Due to the large variety of available options, we have provided a breakdown of the major areas of the city to aid you in deciding what will work best for you.
 
-<center>
+<figure>
 
 ![City Map](./images/city.png)
 
-</center>
+<figcaption>Hamburg City Map</figcaption>
+
+</figure>
 
 ### City Center – Altstadt & Neu Stadt
 
@@ -1164,7 +1174,7 @@ LOKMAM KÖZ
 
   </address>
 
-[![](./images/l'amira-steindamm.png) _L'Amira Steindamm_](https://lamira-steindamm.de/)
+[![](./images/lamira-steindamm.png) _L'Amira Steindamm_](https://lamira-steindamm.de/)
 : <ul><li>🍳 Breakfast</li><li>🥪 Lunch</li><li>🍽 Dinner</li><li>🧆 Lebanese</li><li>حلال Halal</li><li>🥗 Vegetarian</li><li>🌱 Vegan</li></ul>
 : <address>
 
@@ -1546,7 +1556,7 @@ Opening Hours
 : <span class="betboom pos2">[![](./images/teams/betboom-team/gpk.webp) <em>gpk</em>](https://liquipedia.net/dota2/Gpk) 🇷🇺 Danil Skutin<br/>(Данил Скутин)</span>
 : <span class="betboom pos3">[![](./images/teams/betboom-team/miero.webp) <em>MieRo</em>](https://liquipedia.net/dota2/MieRo) 🇷🇺 Matvey Vasyunin<br/>(Матвей Васюнин)</span>
 : <span class="betboom pos4">[![](./images/teams/betboom-team/save-.webp) <em>Save-</em>](https://liquipedia.net/dota2/Save-) 🇲🇩 Vitalie Melnic<br/>(Виталий Мельник)</span>
-: <span class="betboom pos5">[![](./images/teams/betboom-team/kataomi`.webp) <em>Kataomi`</em>](https://liquipedia.net/dota2/Kataomi) 🇷🇺 Vladislav Semenov<br/>(Владислав Семёнов)</span>
+: <span class="betboom pos5">[![](./images/teams/betboom-team/kataomi.webp) <em>Kataomi`</em>](https://liquipedia.net/dota2/Kataomi) 🇷🇺 Vladislav Semenov<br/>(Владислав Семёнов)</span>
 
 [![Team Tidebound](./images/teams/team-tidebound/team-tidebound.webp)](https://liquipedia.net/dota2/Team_Tidebound)
 : [Team Tidebound](https://liquipedia.net/dota2/Team_Tidebound)
@@ -1555,7 +1565,7 @@ Opening Hours
 : <span class="tidebound pos2">[![](./images/teams/team-tidebound/nothingtosay.webp) <em>NothingToSay</em>](https://liquipedia.net/dota2/NothingToSay) 🇲🇾 Cheng Jin Xiang<br/>(庄进祥)</span>
 : <span class="tidebound pos3">[![](./images/teams/team-tidebound/bach.webp) 🏆 <em>Bach</em>](https://liquipedia.net/dota2/Faith_bian) 🇨🇳 Zhang Ruida<br/>(张睿达)</span>
 : <span class="tidebound pos4">[![](./images/teams/team-tidebound/planet.webp) <em>planet</em>](https://liquipedia.net/dota2/Planet) 🇨🇳 Lin Hao<br/>(林灏)</span>
-: <span class="tidebound pos5">[![](./images/teams/team-tidebound/y`.webp) 🏆 <em>y`</em>](https://liquipedia.net/dota2/Y%60) 🇨🇳 Zhang Yiping<br/>(张懿萍)</span>
+: <span class="tidebound pos5">[![](./images/teams/team-tidebound/y.webp) 🏆 <em>y`</em>](https://liquipedia.net/dota2/Y%60) 🇨🇳 Zhang Yiping<br/>(张懿萍)</span>
 
 [![Team Spirit](./images/teams/team-spirit/team-spirit.webp)](https://liquipedia.net/dota2/Team_Spirit)
 : [Team Spirit](https://liquipedia.net/dota2/Team_Spirit)
@@ -2162,7 +2172,7 @@ Opening Hours
 
   Analyst
 
-- [![](./images/talent/chinese/sccc`.webp) _Sccc`_](https://liquipedia.net/dota2/Sccc)
+- [![](./images/talent/chinese/sccc.webp) _Sccc`_](https://liquipedia.net/dota2/Sccc)
 
   🇨🇳 Song Chun
 
@@ -2348,7 +2358,7 @@ Opening Hours
 
   Caster
 
-- [![](./images/talent/spanish/flapjack`.webp) _Flapjack_](https://liquipedia.net/dota2/Flapjack)
+- [![](./images/talent/spanish/flapjack.webp) _Flapjack_](https://liquipedia.net/dota2/Flapjack)
 
   🇪🇸 Julián Esnaider Carbajal Ylave
 
@@ -2447,13 +2457,13 @@ Ask your questions on the Reddit post or over on the [Crimson Witnesses Discord 
 
 ## References
 
-> [https://www.barclays-arena.de](https://www.barclays-arena.de)  
-> [https://misstourist.com/where-to-stay-in-hamburg-germany/](https://misstourist.com/where-to-stay-in-hamburg-germany/) (ref)  
-> [https://www.hamburg-airport.de/en/arrival-and-departure-to-the-airport-36990](https://www.hamburg-airport.de/en/arrival-and-departure-to-the-airport-36990)  
-> [https://airporttransfer.com/blog/transfer-from-hamburg-airport-to-city-center](https://airporttransfer.com/blog/transfer-from-hamburg-airport-to-city-center)  
-> [https://www.timeout.com/hamburg/attractions/best-attractions-in-hamburg](https://www.timeout.com/hamburg/attractions/best-attractions-in-hamburg)  
-> [https://www.hamburg-travel.com/see-explore/events/wasserlichtspiele-planten-un-blomen/](https://www.hamburg-travel.com/see-explore/events/wasserlichtspiele-planten-un-blomen/)  
-> [https://www.dialogue-se.com/what-we-do/dialogue-in-the-dark/](https://www.dialogue-se.com/what-we-do/dialogue-in-the-dark/)
+[https://www.barclays-arena.de](https://www.barclays-arena.de)  
+[https://misstourist.com/where-to-stay-in-hamburg-germany/](https://misstourist.com/where-to-stay-in-hamburg-germany/)
+[https://www.hamburg-airport.de/en/arrival-and-departure-to-the-airport-36990](https://www.hamburg-airport.de/en/arrival-and-departure-to-the-airport-36990)  
+[https://airporttransfer.com/blog/transfer-from-hamburg-airport-to-city-center](https://airporttransfer.com/blog/transfer-from-hamburg-airport-to-city-center)  
+[https://www.timeout.com/hamburg/attractions/best-attractions-in-hamburg](https://www.timeout.com/hamburg/attractions/best-attractions-in-hamburg)  
+[https://www.hamburg-travel.com/see-explore/events/wasserlichtspiele-planten-un-blomen/](https://www.hamburg-travel.com/see-explore/events/wasserlichtspiele-planten-un-blomen/)  
+[https://www.dialogue-se.com/what-we-do/dialogue-in-the-dark/](https://www.dialogue-se.com/what-we-do/dialogue-in-the-dark/)
 
 <style>
   :root {
@@ -2461,7 +2471,7 @@ Ask your questions on the Reddit post or over on the [Crimson Witnesses Discord 
     --link-gradient: linear-gradient(0deg, rgba(38, 33, 90, 0.25), rgba(38, 33, 90, 0.25)), linear-gradient(180deg, #FFFFFF 0%, #D3B8D7 100%);
     --family-display: "Gemunu Libre", sans-serif;
     --family-body: "Noto Sans", sans-serif;
-    --font-base: 14px;
+    --font-base: 16px;
     --scale: 1.125;
 
     --fs-50: calc(var(--fs-75) / var(--scale));
@@ -2508,22 +2518,27 @@ Ask your questions on the Reddit post or over on the [Crimson Witnesses Discord 
 
   /* VSCode Preview Only */
   .github-markdown-body {
-    background: fixed center / cover url("../../bg.png");
     padding-top: 64px !important;
+    background: fixed center / cover url("../../bg.png");
+  }
+
+  .github-markdown-body, #cw-main {
     color: #fcecfe;
     font: 400 var(--fs-body) / 1.3 var(--family-body);
   }
 
   /* VSCode Preview Only */
   .github-markdown-content {
+    box-sizing: border-box;
     display: flex;
     flex-direction: column;
-    max-width: 1200px;
-    padding: 24px 24px 64px;
+    width: 100%;
+    max-width: 1024px;
+    padding: 0px 32px 64px !important;
     border-radius: 24px;
     background: rgba(38, 33, 90, 0.25);
     background-blend-mode: hard-light;
-    backdro-filter: blur(8px);
+    backdrop-filter: blur(8px);
     filter: drop-shadow(0px 2px 4px rgba(38, 33, 90, 0.5))
       drop-shadow(0px 6px 12px rgba(38, 33, 90, 0.75))
       drop-shadow(0px 16px 32px rgba(38, 33, 90, 0.25));
@@ -2595,10 +2610,8 @@ Ask your questions on the Reddit post or over on the [Crimson Witnesses Discord 
   }
 
   p,
-  ul,
   ol,
   dl,
-  dt,
   details,
   blockquote {
     margin-block: calc(var(--fs-body) / 1.125) calc(var(--fs-body) * 0.25) !important;
@@ -2724,6 +2737,9 @@ Ask your questions on the Reddit post or over on the [Crimson Witnesses Discord 
     backdrop-filter: blur(4px);
 
     .markdown-alert-title {
+      display: flex;
+      align-items: center;
+      gap: 8px;
       font: normal 500 var(--hs) / 1.5 var(--family-display);
       letter-spacing: 0.04em;
       text-transform: uppercase;
@@ -2768,6 +2784,49 @@ Ask your questions on the Reddit post or over on the [Crimson Witnesses Discord 
     &.markdown-alert-caution {
       --accent-color: oklch(67.01% 0.217 22.5);
     }
+  }
+
+  figure {
+    display: flex !important;
+    flex-direction: column;
+    align-items: center;
+    align-self: center;
+    justify-self: center;
+    gap: 8px;
+    width: fit-content;
+    min-width: 300px;
+    max-width: 800px;
+    margin: unset !important;
+    margin-inline: auto;
+    margin-block: calc(var(--fs-label) / 1.125) calc(var(--fs-label) * 0.25) !important;
+
+    img {
+      display: block;
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      border-radius: 8px;
+    }
+
+    figcaption {
+      width: fit-content;
+      font: italic 300 var(--ls) / 1.5 var(--family-body);
+      text-align: center;
+      letter-spacing: 0.02em;
+      background: linear-gradient(0deg, rgba(255, 255, 255, 0.15), rgba(255, 255, 255, 0.15)), linear-gradient(180deg, #FFFFFF 0%, #D3B8D7 100%);
+      background-blend-mode: screen, normal;
+      background-clip: text;
+      -webkit-text-fill-color: transparent;
+    }
+  }
+
+  dt {
+    margin-bottom: 16px;
+  }
+  
+  dd {
+    margin-inline-start: unset;
+    margin-bottom: 16px;
   }
   
   dl {
@@ -2856,6 +2915,7 @@ Ask your questions on the Reddit post or over on the [Crimson Witnesses Discord 
       img {
         display: block;
         width: 100%;
+        height: 100%;
         aspect-ratio: 3 / 2;
         object-fit: cover;
         border-radius: 8px;
@@ -3039,6 +3099,7 @@ Ask your questions on the Reddit post or over on the [Crimson Witnesses Discord 
       img {
         display: block;
         width: 100;
+        height: 100%;
         aspect-ratio: 1 / 1;
         object-fit: cover;
         justify-self: center;
@@ -3101,6 +3162,7 @@ Ask your questions on the Reddit post or over on the [Crimson Witnesses Discord 
         position: relative;
         display: flex;
         flex-direction: column;
+        gap: 8px;
         width: 100%;
         border-radius: 8px;
         margin-bottom: 24px;
@@ -3187,6 +3249,7 @@ Ask your questions on the Reddit post or over on the [Crimson Witnesses Discord 
 
         a {
           position: relative;
+          display: table;
           margin-inline: -12px;
           margin-bottom: 8px;
           font-size: var(--bs);
@@ -3196,6 +3259,7 @@ Ask your questions on the Reddit post or over on the [Crimson Witnesses Discord 
             position: relative;
             display: block;
             width: 100%;
+            height: 100%;
             margin-bottom: 8px;
             aspect-ratio: 1 / 1;
             object-fit: cover;
@@ -3367,6 +3431,7 @@ Ask your questions on the Reddit post or over on the [Crimson Witnesses Discord 
           position: relative;
           display: block;
           width: 100%;
+          height: 100%;
           border-radius: 8px;
           aspect-ratio: 1 / 1;
           object-fit: cover;

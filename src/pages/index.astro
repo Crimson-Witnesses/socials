@@ -1,0 +1,89 @@
+---
+import Main from "../layouts/Main.astro";
+import Logo from "../components/logo.svg";
+import SocialLink from "../components/SocialLink.astro";
+import Discord from "../icons/discord.svg"
+import Luma from "../icons/luma.svg"
+import Twitter from "../icons/twitter.svg"
+import Instagram from "../icons/instagram.svg"
+---
+
+<style is:global>
+  section {
+    gap: 38px;
+  }
+
+  .profile {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 12px;
+    width: 100%;
+    max-width: 80ch;
+    margin: 0;
+    padding: 0;
+    padding-inline: 2.4rem;
+    height: fit-content;
+
+    span {
+      font-family: "Asul";
+      font-weight: 700;
+      font-size: 15px;
+      line-height: 18px;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+      background:
+        linear-gradient(rgba(255, 255, 255, 0.75)),
+        linear-gradient(#ffffff 0%, #d3b8d7 100%);
+      background-blend-mode: soft-light, normal;
+      background-clip: text;
+      -webkit-text-fill-color: transparent;
+      mix-blend-mode: hard-light;
+      filter: drop-shadow(0px 0px 1px rgba(40, 0, 0, 0.9))
+        drop-shadow(0px 0px 7.06722px rgba(0, 0, 0, 0.75))
+        drop-shadow(0px 0px 14.1344px rgba(0, 0, 0, 0.5));
+    }
+  }
+
+  .links {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 24px;
+    height: fit-content;
+    list-style: none;
+  }
+</style>
+
+<Main title="Home">
+  <section>
+    <article class="profile">
+      <Logo />
+      <span>Dota 2 Esports Community</span>
+    </article>
+
+    <ul class="links">
+      <SocialLink url="//discord.gg/crimsonwitnesses">
+        <Discord />
+        <span>Discord</span>
+      </SocialLink>
+
+      <SocialLink url="//luma.com/crimsonwitnesses">
+        <Luma />
+        <span>Events</span>
+      </SocialLink>
+
+      <SocialLink url="//x.com/crimwitnesses">
+        <Twitter />
+        <span>Twitter</span>
+      </SocialLink>
+
+      <SocialLink url="//www.instagram.com/crimson_witnesses">
+        <Instagram />
+        <span>Instagram</span>
+      </SocialLink>
+    </ul>
+  </section>
+</Main>

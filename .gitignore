@@ -65,7 +65,7 @@ types/
 .env
 .env.*
 
-.next/
+.astro/
 .cache/
 dist/
 **/public/workbox-*.js*

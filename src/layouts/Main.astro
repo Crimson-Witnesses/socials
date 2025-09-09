@@ -1,0 +1,14 @@
+---
+import Root from "./Root.astro";
+import "../styles/reset.css";
+
+export interface Props {
+  title: string;
+}
+
+const { title } = Astro.props as Props;
+---
+
+<Root title={title}>
+  <slot />
+</Root>
