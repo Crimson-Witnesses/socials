@@ -237,10 +237,10 @@ As the entrances and exits to most parking lots (especially BLUE, RED, BROWN, an
 
 For almost all events, you can purchase tickets for the VIP parking lots, gray and blue, which are located directly at the Barclays Arena. The parking tickets can usually be booked two months before the event via the respective event page.
 
-> [!Warning] IMPORTANT INFO!!
-> **Re-entry is only possible on special request. Please speak to our security staff on site. They will issue so-called "re-entry tickets" that will allow you to re-enter the arena.**
+> [!Warning] Re-entry Policy:
+> According to [Valve](https://www.dota2.com/newsentry/536611691635409409):
 >
-> **As a general rule, the validity of your ticket expires when you leave the arena.**
+> _"**Is re-entry permitted?** Yes. On your way out you must scan your ticket when you are exiting the building, otherwise re-entry will not be permitted."_
 
 ### Accessibility
 
