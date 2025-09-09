@@ -2542,6 +2542,13 @@ Ask your questions on the Reddit post or over on the [Crimson Witnesses Discord 
     filter: drop-shadow(0px 2px 4px rgba(38, 33, 90, 0.5))
       drop-shadow(0px 6px 12px rgba(38, 33, 90, 0.75))
       drop-shadow(0px 16px 32px rgba(38, 33, 90, 0.25));
+
+    @media screen and (max-width: 1024px) {
+    }
+
+    @media screen and (max-width: 522px) {
+      padding-inline: 24px !important;
+    }
   }
 
   hr {
@@ -3487,18 +3494,13 @@ Ask your questions on the Reddit post or over on the [Crimson Witnesses Discord 
         }
       }
 
+      /* About */
       p { 
         position: relative;
         display: flex;
         flex-direction: column;
         gap: 8px;
         margin-block: 0px !important;
-        background:
-          linear-gradient(rgba(255, 255, 255, 0.15)),
-          linear-gradient(#ffffff 0%, #d3b8d7 100%);
-        background-blend-mode: screen, normal;
-        background-clip: text;
-        -webkit-text-fill-color: transparent;
         font-weight: 600;
         font-size: var(--bt);
         text-align: center;

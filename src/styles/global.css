@@ -56,4 +56,8 @@ main {
     max-width: 80ch;
     backface-visibility: hidden;
   }
+
+  @media screen and (max-width: 522px) {
+    gap: unset;
+  }
 }

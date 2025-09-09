@@ -23,7 +23,7 @@ const { title } = Astro.props as Props;
 <!doctype html>
 <html lang="en">
   <head>
-    <title>{meta.name} - {title}</title>
+    <title>{title ? `${meta.name} - ${title}` : meta.name}</title>
     <meta charset="UTF-8" />
     <link rel="icon" href="/icon.svg" />
     <link rel="mask-icon" color="white" href="/icon.svg" />
@@ -37,7 +37,7 @@ const { title } = Astro.props as Props;
     <meta property="og:url" content="https://crimsonwitnesses.com" />
     <meta property="og:type" content="website" />
     <meta property="og:title" content={meta.name} />
-    <meta property="og:description" content={meta.title} />
+    <meta property="og:description" content={title ?? meta.title} />
     <meta property="og:locale" content="en_US" />
 
     <meta
@@ -50,7 +50,7 @@ const { title } = Astro.props as Props;
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:site" content="@crimwitnesses" />
     <meta name="twitter:title" content={meta.name} />
-    <meta name="twitter:description" content={meta.title} />
+    <meta name="twitter:description" content={title ?? meta.title} />
 
     <meta
       name="twitter:image"
@@ -74,19 +74,11 @@ const { title } = Astro.props as Props;
     <ClientRouter />
   </head>
   <body>
-    <svg
-      style={{
-        width: 0,
-        height: 0,
-        position: `absolute`
-      }}
-      aria-hidden="true"
-      focusable="false"
-    >
-      <linearGradient id="svg-fill-2" x1="0%" y1="0%" x2="0%" y2="100%">
-        <stop offset="0%" stop-color="#FFFFFF"></stop>
-        <stop offset="100%" stop-color="#D3B8D7"></stop>
-      </linearGradient>
+    <svg style="position: absolute; width: 0; height: 0;" aria-hidden="true" focusable="false">
+        <linearGradient id="svg-fill-2" x1="0%" y1="0%" x2="0%" y2="100%">
+            <stop offset="0%" stop-color="#FFFFFF"></stop>
+            <stop offset="100%" stop-color="#D3B8D7"></stop>
+        </linearGradient>
     </svg>
     <main id="cw-main">
       <Navigation />
