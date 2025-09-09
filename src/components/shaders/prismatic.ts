@@ -211,8 +211,9 @@ for (let i = 0; i < count; i++) {
 
 const renderer = new Renderer({
   dpr: Math.min(window.devicePixelRatio || 1, 2),
-  alpha: false,
-  antialias: false
+  alpha: true,
+  antialias: false,
+  premultipliedAlpha: true
 });
 
 const gl = renderer.gl;

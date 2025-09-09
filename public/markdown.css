@@ -14,19 +14,36 @@
 
 /* VSCode Preview Only */
 .github-markdown-content {
-  box-sizing: border-box;
+  --shadow-color: #282269;
+  position: relative;
   display: flex;
   flex-direction: column;
   width: 100%;
   max-width: 1024px;
   padding: 0px 32px 64px !important;
   border-radius: 24px;
-  background: rgba(38, 33, 90, 0.25);
-  background-blend-mode: hard-light;
+  background: oklch(0.31 0.12 280.56 / 0.35);
   backdrop-filter: blur(8px);
-  filter: drop-shadow(0px 2px 4px rgba(38, 33, 90, 0.5))
-    drop-shadow(0px 6px 12px rgba(38, 33, 90, 0.75))
-    drop-shadow(0px 16px 32px rgba(38, 33, 90, 0.25));
+  box-sizing: border-box;
+  box-shadow:
+    inset -0.5px -0.75px 1px oklch(0.96 0.02 286.23 / 0.15),
+    inset 0.5px 0.75px 1px oklch(0.96 0.02 286.23 / 0.25);
+
+  &:before {
+    position: absolute;
+    z-index: -1;
+    content: "";
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    border-radius: 24px;
+    mix-blend-mode: hard-light;
+    box-shadow:
+      0px 2px 4px oklch(from var(--shadow-color) l c h / 0.75),
+      0px 6px 12px oklch(from var(--shadow-color) l c h / 0.5),
+      0px 16px 32px oklch(from var(--shadow-color) l c h / 0.25);
+  }
 
   @media screen and (max-width: 1024px) {
   }
@@ -150,18 +167,20 @@ blockquote {
   &:before {
     position: absolute;
     content: "";
+    z-index: -1;
     top: 0;
     left: 0;
     bottom: 0;
     right: 0;
     border-radius: 12px;
     mix-blend-mode: color-burn;
-    background: oklch(0.29 0.1 282.29 / 0.5) !important;
+    background: oklch(0.29 0.1 282.29 / 0.35) !important;
   }
 
   &:after {
     position: absolute;
     content: "";
+    z-index: -1;
     top: 0;
     left: 0;
     bottom: 0;
@@ -179,6 +198,7 @@ blockquote {
 }
 
 .markdown-alert {
+  --accent-color: #9f21e8;
   --shadow-color: #282269;
   position: relative;
   display: flex;
@@ -197,8 +217,9 @@ blockquote {
   background-blend-mode: hard-light, color-burn;
   border-left: 5px solid oklch(from var(--accent-color) l c h / 95%) !important;
   &:after {
-    content: "";
     position: absolute;
+    content: "";
+    z-index: -1;
     top: 0;
     left: 0;
     right: 0;
@@ -213,11 +234,11 @@ blockquote {
       oklch(from var(--accent-color) l c h / 0%) 75%
     );
     border-image-slice: 1 0 1 0;
-    pointer-events: none;
   }
   &:before {
-    content: "";
     position: absolute;
+    content: "";
+    z-index: -1;
     top: 0;
     left: 0;
     right: 0;
@@ -290,6 +311,7 @@ blockquote {
 }
 
 figure {
+  --accent-color: #9f21e8;
   display: flex !important;
   flex-direction: column;
   align-items: center;
@@ -309,6 +331,18 @@ figure {
     height: 100%;
     object-fit: cover;
     border-radius: 8px;
+    filter: drop-shadow(0px 1px 4px rgba(12, 0, 40, 0.75))
+      drop-shadow(0px 4px 8px rgba(12, 0, 40, 0.45))
+      drop-shadow(0px 8px 16px rgba(12, 0, 40, 0.25));
+  }
+
+  a:hover {
+    img {
+      filter: brightness(1.25)
+        drop-shadow(0px 0px 2px oklch(from var(--accent-color) l c h / 75%))
+        drop-shadow(0px 0px 4px oklch(from var(--accent-color) l c h / 65%))
+        drop-shadow(0px 0px 8px oklch(from var(--accent-color) l c h / 45%));
+    }
   }
 
   figcaption {
@@ -408,6 +442,9 @@ dl:has(ul) {
       aspect-ratio: 3 / 2;
       object-fit: cover;
       border-radius: 8px;
+      filter: drop-shadow(0px 1px 4px rgba(12, 0, 40, 0.75))
+        drop-shadow(0px 4px 8px rgba(12, 0, 40, 0.45))
+        drop-shadow(0px 8px 16px rgba(12, 0, 40, 0.25));
     }
 
     &:before {
@@ -548,6 +585,7 @@ dl:has(ul) {
 
 /* Teams */
 dl:has(span:is(.pos1, .pos2, .pos3, .pos4, .pos5)) {
+  --accent-color: #9f21e8;
   display: grid;
   grid-template-columns: repeat(6, minmax(150px, 1fr));
   grid-auto-flow: dense;
@@ -579,11 +617,18 @@ dl:has(span:is(.pos1, .pos2, .pos3, .pos4, .pos5)) {
       aspect-ratio: 1 / 1;
       object-fit: cover;
       justify-self: center;
-      filter: drop-shadow(
-          0px 0px 4px oklch(from var(--accent-color) l c h / 45%)
-        )
-        drop-shadow(0px 0px 12px oklch(from var(--accent-color) l c h / 45%))
-        drop-shadow(0px 0px 24px oklch(from var(--accent-color) l c h / 75%));
+    }
+
+    &:hover,
+    &:has(+ dd > a:hover) {
+      img,
+      & + dd > a {
+        filter: drop-shadow(
+            0px 0px 2px oklch(from var(--accent-color) l c h / 75%)
+          )
+          drop-shadow(0px 0px 4px oklch(from var(--accent-color) l c h / 65%))
+          drop-shadow(0px 0px 8px oklch(from var(--accent-color) l c h / 45%));
+      }
     }
   }
 
@@ -608,6 +653,14 @@ dl:has(span:is(.pos1, .pos2, .pos3, .pos4, .pos5)) {
       background-blend-mode: screen, normal;
       background-clip: text;
       -webkit-text-fill-color: transparent;
+
+      &:hover {
+        filter: drop-shadow(
+            0px 0px 2px oklch(from var(--accent-color) l c h / 75%)
+          )
+          drop-shadow(0px 0px 4px oklch(from var(--accent-color) l c h / 65%))
+          drop-shadow(0px 0px 8px oklch(from var(--accent-color) l c h / 45%));
+      }
     }
   }
 
@@ -671,6 +724,7 @@ dl:has(span:is(.pos1, .pos2, .pos3, .pos4, .pos5)) {
       &:before {
         content: "";
         position: absolute;
+        z-index: -1;
         top: 0;
         left: 0;
         width: 100%;

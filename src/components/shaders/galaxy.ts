@@ -210,7 +210,8 @@ const fragmentShader = /* glsl*/ `#version 300 es
 
 const renderer = new Renderer({
   alpha: true,
-  premultipliedAlpha: false
+  antialias: false,
+  premultipliedAlpha: true
 });
 const gl = renderer.gl;
 gl.canvas.style.position = `absolute`;
