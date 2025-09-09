@@ -5,6 +5,18 @@
   margin: 0;
 }
 
+html {
+  background-color: #18063d;
+}
+
+html,
+body {
+  height: 100%;
+  height: 100dvh;
+  padding: 0;
+  overflow: hidden;
+}
+
 @media (display-mode: standalone) {
   html,
   body {
@@ -21,39 +33,26 @@ body {
   overflow: hidden;
 }
 
-html {
-  background-color: #18063d;
-}
-
-html,
-body {
-  height: 100%;
-  height: 100dvh;
-  padding: 0;
-  overflow: hidden;
-}
-
-main {
+#cw-main {
   position: relative;
   z-index: 1;
   display: flex;
   flex-direction: column;
   align-items: center;
   gap: 48px;
-  height: 100dvh;
+  height: 100%;
   /* https://webkit.org/blog/7929/designing-websites-for-iphone-x/ */
   padding: env(safe-area-inset-top) env(safe-area-inset-right)
-    max(3.2rem, env(safe-area-inset-bottom)) env(safe-area-inset-left);
+    max(32px, env(safe-area-inset-bottom)) env(safe-area-inset-left);
   backdrop-filter: brightness(0.7);
-  font-family:
-    Noto Sans,
-    ui-sans-serif,
-    system-ui;
+  color: #fcecfe;
+  font: 400 var(--fs-body) / 1.3 var(--family-body);
   overflow: auto;
 
   > section {
     display: flex;
     flex-direction: column;
+    gap: 38px;
     width: 100%;
     max-width: 80ch;
     backface-visibility: hidden;
