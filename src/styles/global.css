@@ -1,5 +1,12 @@
 @import url("./theme.css");
 
+html {
+  scroll-behavior: smooth;
+  @media (prefers-reduced-motion: reduce) {
+    scroll-behavior: auto;
+  }
+}
+
 /* Remove default margins */
 * {
   margin: 0;
@@ -29,10 +36,8 @@ body {
   display: flex;
   flex-direction: column;
   width: 100%;
-  height: 100%;
   color: #fcecfe;
   font: 400 var(--fs-body) / 1.3 var(--family-body);
-  overflow: hidden;
 }
 
 #cw-main {

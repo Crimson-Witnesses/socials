@@ -17,10 +17,10 @@ import Glow from "./glow.svg";
       if (link.getAttribute("href") === currentPath) {
         link.classList.add("active");
       }
-    })
-  }
+    });
+  };
 
-  document.addEventListener("DOMContentLoaded", updateActiveLink)
+  document.addEventListener("DOMContentLoaded", updateActiveLink);
   document.addEventListener("astro:page-load", updateActiveLink);
 </script>
 
@@ -164,16 +164,17 @@ import Glow from "./glow.svg";
       }
     }
 
+    /* Phone */
     @media screen and (max-width: 522px) {
-        width: 100%;
-        padding-inline: 22px;
+      width: 100%;
+      padding-inline: 22px;
 
-        ul {
-          justify-content: space-between;
-          gap: 12px;
-          width: 100%;
-        }
+      ul {
+        justify-content: space-between;
+        gap: 12px;
+        width: 100%;
       }
+    }
 
     &:has(+ article.github-markdown-content) {
       /* bugfix */
