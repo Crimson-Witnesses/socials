@@ -30,12 +30,13 @@ body {
   flex-direction: column;
   width: 100%;
   height: 100%;
+  color: #fcecfe;
+  font: 400 var(--fs-body) / 1.3 var(--family-body);
   overflow: hidden;
 }
 
 #cw-main {
   position: relative;
-  z-index: 1;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -45,8 +46,6 @@ body {
   padding: env(safe-area-inset-top) env(safe-area-inset-right)
     max(32px, env(safe-area-inset-bottom)) env(safe-area-inset-left);
   backdrop-filter: brightness(0.7);
-  color: #fcecfe;
-  font: 400 var(--fs-body) / 1.3 var(--family-body);
   overflow: auto;
 
   > section {
@@ -58,6 +57,7 @@ body {
     backface-visibility: hidden;
   }
 
+  /* Phone */
   @media screen and (max-width: 522px) {
     gap: unset;
   }

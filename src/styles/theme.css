@@ -51,4 +51,29 @@
   --fs-heading: var(--hu);
   --fs-body: var(--bs);
   --fs-label: var(--ls);
+
+  /* Margins */
+  --margin-top-ratio: 1.125; /* Major Second */
+  --header-margin: calc(var(--fs-heading) / var(--margin-top-ratio))
+    calc(var(--fs-heading) * 0.25);
+  --body-margin: calc(var(--fs-body) / var(--margin-top-ratio))
+    calc(var(--fs-body) * 0.25);
+  --label-margin: calc(var(--fs-label) / var(--margin-top-ratio))
+    calc(var(--fs-label) * 0.25);
+
+  /* Phone */
+  @media screen and (max-width: 522px) {
+    --font-base: 18px;
+
+    /* Header Font Sizes */
+    --hu: var(--fs-900); /* h1 */
+    --hh: var(--fs-800); /* h2 */
+    --hl: var(--fs-600); /* h3 */
+    --hm: var(--fs-400); /* h4 */
+    --hs: var(--fs-300); /* h5 */
+    --ht: var(--fs-200); /* h6 */
+
+    /* Margins */
+    --margin-top-ratio: 1.618; /* Golden Ratio */
+  }
 }

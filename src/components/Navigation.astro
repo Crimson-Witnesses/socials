@@ -5,12 +5,23 @@ import Glow from "./glow.svg";
 ---
 
 <script>
-  const activeLink = `a[href="${new URL(location.href).pathname}"]`;
-  const link = document.querySelector(`main > nav ${activeLink}`);
+  const updateActiveLink = () => {
+    const currentPath = new URL(location.href).pathname;
+    const navLinks = document.querySelectorAll(`main > nav a`);
 
-  if (link) {
-    link.classList.add("active");
+    navLinks.forEach((link) => {
+      // Remove any existing active class
+      link.classList.remove("active");
+
+      // Check if the link's href matches the current path
+      if (link.getAttribute("href") === currentPath) {
+        link.classList.add("active");
+      }
+    })
   }
+
+  document.addEventListener("DOMContentLoaded", updateActiveLink)
+  document.addEventListener("astro:page-load", updateActiveLink);
 </script>
 
 <style is:global>
@@ -154,10 +165,36 @@ import Glow from "./glow.svg";
     }
 
     @media screen and (max-width: 522px) {
-      max-width: 100%;
-      padding-inline: unset;
-      ul {
-        gap: 12px;
+        width: 100%;
+        padding-inline: 22px;
+
+        ul {
+          justify-content: space-between;
+          gap: 12px;
+          width: 100%;
+        }
+      }
+
+    &:has(+ article.github-markdown-content) {
+      /* bugfix */
+      ul li a:not(:has(svg)) {
+        height: 34px;
+      }
+
+      /* Phone */
+      @media screen and (max-width: 522px) {
+        width: 100%;
+        padding: unset;
+
+        ul {
+          gap: unset;
+          width: 100%;
+          justify-content: space-between;
+          padding-block: 30px;
+          padding-inline: 32px;
+          border-radius: unset;
+          box-shadow: unset;
+        }
       }
     }
   }
