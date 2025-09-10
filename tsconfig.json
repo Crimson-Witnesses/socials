@@ -1,52 +1,42 @@
 {
-  "include": [
-    "./src/**/*",
-    ".next/types/**/*.ts"
-  ],
-  "exclude": [
-    "node_modules",
-    "**/__mocks__/**/*",
-    "**/__test__/**/*",
-    "**/*.spec.ts"
-  ],
+  "extends": "astro/tsconfigs/strict", 
+  "ts-node": {
+    "transpileOnly": true
+  },
+  "exclude": ["node_modules", "./*.mjs", "./*.ts"],
   "compilerOptions": {
     "noEmit": true,
     "isolatedModules": true,
-    // Always include these settings
     "declarationMap": true,
     "sourceMap": true,
     "importHelpers": true,
-    /* Basic Options */
     "target": "ESNext",
     "module": "ESNext",
-    "lib": [
-      "ESNext", // adds support for ESNext functionality
-      "DOM" // adds support for 'window' other dom methods
-    ],
+    "allowImportingTsExtensions": true,
+    "lib": ["ESNext", "DOM"],
     "allowJs": true,
-    /* JSX support */
-    "jsx": "preserve",
+    "jsx": "react-jsx",
     "declaration": true,
-    /* Strict Type-Checking Options */
     "strict": false,
     "strictNullChecks": true,
     "noUnusedLocals": true,
     "noUnusedParameters": true,
     "noFallthroughCasesInSwitch": true,
-    // "strictFunctionTypes": true,
-    /* Module Resolution Options */
     "moduleResolution": "bundler",
     "esModuleInterop": true,
     "resolveJsonModule": true,
-    /* Advanced Options */
     "forceConsistentCasingInFileNames": true,
     "skipLibCheck": true,
     "incremental": true,
     "noErrorTruncation": true,
     "plugins": [
       {
-        "name": "next"
+        "name": "@astrojs/ts-plugin"
+      },
+      {
+        "name": "typescript-plugin-css-modules"
       }
-    ]
+    ],
+    "jsxImportSource": "react"
   }
 }

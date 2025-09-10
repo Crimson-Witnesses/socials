@@ -1,0 +1,222 @@
+---
+import Home from "../icons/home.svg";
+import QR from "../icons/qr.svg";
+import Glow from "./glow.svg";
+---
+
+<script>
+  const updateActiveLink = () => {
+    const currentPath = new URL(location.href).pathname;
+    const navLinks = document.querySelectorAll(`main > nav a`);
+
+    navLinks.forEach((link) => {
+      // Remove any existing active class
+      link.classList.remove("active");
+
+      // Check if the link's href matches the current path
+      if (link.getAttribute("href") === currentPath) {
+        link.classList.add("active");
+      }
+    });
+  };
+
+  document.addEventListener("DOMContentLoaded", updateActiveLink);
+  document.addEventListener("astro:page-load", updateActiveLink);
+</script>
+
+<style is:global>
+  #cw-main > nav {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 16px 24px;
+
+    ul {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      gap: 24px;
+      list-style: none;
+      margin: unset !important;
+      padding: 6px 10px;
+      border-radius: 32px;
+      background: oklch(0.31 0.12 280.56 / 0.25);
+      backdrop-filter: blur(2px);
+      box-sizing: border-box;
+      box-shadow:
+        inset -0.5px -0.75px 1px oklch(0.96 0.02 286.23 / 0.15),
+        inset 0.5px 0.75px 1px oklch(0.96 0.02 286.23 / 0.25);
+
+      li {
+        position: relative;
+        margin-top: unset;
+        border-radius: 20px;
+
+        a {
+          display: flex;
+          justify-content: center;
+          align-items: center;
+          padding: 3px 24px;
+          gap: 8px;
+          background:
+            linear-gradient(0deg, oklch(1 0 0 / 0.15), oklch(1 0 0 / 0.15)),
+            linear-gradient(
+              180deg,
+              oklch(1 0 0) 0%,
+              oklch(0.82 0.05 321.95) 100%
+            );
+          background-blend-mode: screen, normal;
+          background-clip: text;
+          -webkit-text-fill-color: transparent;
+          font: 700 24px / 1.4 var(--family-display);
+          text-align: center;
+          letter-spacing: 0.02em;
+          mix-blend-mode: hard-light;
+          filter: drop-shadow(0px 0px 4px oklch(0.31 0.12 280.56 / 0.35))
+            drop-shadow(0px 0px 2px oklch(0.31 0.12 280.56 / 0.75))
+            drop-shadow(0px 0px 1px oklch(0.31 0.12 280.56 / 0.95));
+
+          &:has(svg) {
+            width: fit-content;
+            height: fit-content;
+            padding: 4px;
+
+            svg {
+              width: 32px;
+              height: 32px;
+              mix-blend-mode: plus-lighter;
+              fill: url(#svg-fill-2);
+            }
+          }
+
+          &:not(:has(svg)) {
+            height: 40px;
+          }
+        }
+
+        &:has(a.active):not(:hover, :focus-within, :focus-visible) {
+          a {
+            filter: drop-shadow(0px 0px 4.5px rgba(50, 33, 229, 0.5))
+              drop-shadow(0px 0px 1px rgba(50, 33, 229, 0.9));
+          }
+          background: radial-gradient(
+            50% 50% at 50% 50%,
+            oklch(0.31 0.12 280.56 / 0) 0%,
+            oklch(0.31 0.12 280.56 / 0.65) 100%
+          );
+          background-blend-mode: color-dodge;
+          box-shadow:
+            inset -0.5px -0.75px 1px oklch(0.96 0.02 286.23 / 0.15),
+            inset 0.5px 0.75px 1px oklch(0.96 0.02 286.23 / 0.25),
+            inset 0px -1px 3px oklch(0.31 0.12 280.56 / 0.15),
+            inset 0px 1px 3px oklch(0.31 0.12 280.56 / 0.15),
+            inset 0px -2px 8px oklch(0.31 0.12 280.56 / 0.2),
+            inset 0px 2px 8px oklch(0.31 0.12 280.56 / 0.2);
+        }
+
+        &:hover,
+        &:focus-within,
+        &:focus-visible {
+          outline: none;
+          a {
+            outline: none;
+            filter: drop-shadow(0px 0px 4.5px rgba(50, 33, 229, 0.5))
+              drop-shadow(0px 0px 1px rgba(50, 33, 229, 0.9));
+          }
+          background: radial-gradient(
+            50% 50% at 50% 50%,
+            rgba(40, 34, 105, 0) 0%,
+            rgba(40, 34, 105, 0.1) 100%
+          );
+          background-blend-mode: hard-light;
+          box-shadow:
+            0px 19.4223px 36.6866px rgba(159, 33, 232, 0.5),
+            0px 5.85527px 11.06px rgba(159, 33, 232, 0.22154),
+            0px 1px 1px rgba(0, 0, 0, 0.35),
+            0px 2px 2px rgba(0, 0, 0, 0.25),
+            inset 0px -1px 1px rgba(242, 242, 255, 0.5),
+            inset 0px 1px 1px rgba(242, 242, 255, 0.5),
+            inset 0px 6px 8px rgba(159, 33, 232, 0.78),
+            inset 0px -4px 5px rgba(159, 33, 232, 0.84);
+
+          svg:last-child {
+            opacity: 1;
+          }
+        }
+
+        a + svg {
+          position: absolute;
+          opacity: 0;
+          left: 20px;
+          bottom: 2px;
+          width: calc(100% - 40px);
+          height: fit-content;
+          mix-blend-mode: color-dodge;
+          filter: blur(2.5px);
+          transition: opacity 0.15s cubic-bezier(0.4, 0, 0.2, 1);
+          pointer-events: none;
+        }
+        &:has(a > svg) a + svg {
+          left: 4px;
+          width: calc(100% - 8px);
+        }
+      }
+    }
+
+    /* Phone */
+    @media screen and (max-width: 522px) {
+      width: 100%;
+      padding-inline: 22px;
+
+      ul {
+        justify-content: space-between;
+        gap: 12px;
+        width: 100%;
+      }
+    }
+
+    &:has(+ article.github-markdown-content) {
+      /* bugfix */
+      ul li a:not(:has(svg)) {
+        height: 34px;
+      }
+
+      /* Phone */
+      @media screen and (max-width: 522px) {
+        width: 100%;
+        padding: unset;
+
+        ul {
+          gap: unset;
+          width: 100%;
+          justify-content: space-between;
+          padding-block: 22px 30px;
+          padding-inline: 32px;
+          border-radius: unset;
+          box-shadow: unset;
+        }
+      }
+    }
+  }
+</style>
+
+<nav>
+  <ul>
+    <li>
+      <a title="Home" href="/">
+        <Home />
+      </a>
+      <Glow />
+    </li>
+    <li>
+      <a href="/guide">Guide</a>
+      <Glow />
+    </li>
+    <li>
+      <a title="View QR Code" href="/qr">
+        <QR />
+      </a>
+      <Glow />
+    </li>
+  </ul>
+</nav>

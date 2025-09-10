@@ -3,41 +3,6 @@
  * different browsers
  */
 
-/* Remove default margins */
-* {
-  margin: 0;
-}
-
-html {
-  background-color: #18063d;
-  /* Setup rem units (1rem = 10px) */
-  font-size: 62.5%;
-}
-
-html,
-body {
-  height: 100%;
-  height: 100dvh;
-  padding: 0;
-  overflow: hidden;
-}
-
-@media (display-mode: standalone) {
-  html,
-  body {
-    height: 100vh;
-  }
-}
-
-#__next {
-  position: relative;
-  display: flex;
-  flex-direction: column;
-  width: 100%;
-  height: 100%;
-  overflow: hidden;
-}
-
 /* Use a sensible box model */
 *,
 *::before,

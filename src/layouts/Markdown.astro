@@ -1,0 +1,32 @@
+---
+import Root from "./Root.astro";
+import type { MarkdownHeading } from "astro";
+import "../styles/gfm/base.css";
+import "../styles/gfm/github-markdown-theme-base.css";
+import "../styles/gfm/markdown.css";
+import ScrollToTop from "../components/ScrollToTop.astro";
+
+export interface Props {
+  title: string;
+  headings?: MarkdownHeading[];
+}
+
+const { title } = Astro.props as Props;
+---
+
+<style is:global>
+  article {
+    > section {
+      display: flex;
+      flex-direction: column;
+    }
+  }
+</style>
+
+<Root title={title}>
+  <link slot="header" rel="preload" href="/markdown.css" />
+  <article class="github-markdown-content">
+    <slot />
+  </article>
+  <ScrollToTop />
+</Root>

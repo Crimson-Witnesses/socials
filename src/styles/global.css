@@ -1,0 +1,61 @@
+@import url("./theme.css");
+
+html {
+  scroll-behavior: smooth;
+  @media (prefers-reduced-motion: reduce) {
+    scroll-behavior: auto;
+  }
+}
+
+/* Remove default margins */
+* {
+  margin: 0;
+}
+
+html {
+  background-color: #18063d;
+}
+
+html,
+body {
+  height: 100%;
+  height: 100dvh;
+  padding: 0;
+  overflow: hidden;
+}
+
+@media (display-mode: standalone) {
+  html,
+  body {
+    height: 100vh;
+  }
+}
+
+body {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  color: #fcecfe;
+  font: 400 var(--fs-body) / 1.3 var(--family-body);
+}
+
+#cw-main {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 48px;
+  height: 100%;
+  /* https://webkit.org/blog/7929/designing-websites-for-iphone-x/ */
+  padding-block: max(8px, env(safe-area-inset-top))
+    max(32px, env(safe-area-inset-bottom));
+  padding-inline: env(safe-area-inset-left) env(safe-area-inset-right);
+  backdrop-filter: brightness(0.7);
+  overflow: auto;
+
+  /* Phone */
+  @media screen and (max-width: 522px) {
+    gap: unset;
+  }
+}

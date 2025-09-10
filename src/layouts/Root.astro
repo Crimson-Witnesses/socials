@@ -1,0 +1,100 @@
+---
+// @ts-expect-error
+import { pwaInfo } from "virtual:pwa-info";
+import { ClientRouter } from "astro:transitions";
+import SpeedInsights from "@vercel/speed-insights/astro";
+import Navigation from "../components/Navigation.astro";
+import Shaders from "../components/Shaders.astro";
+import "@fontsource/asul";
+import "@fontsource-variable/gemunu-libre";
+import "@fontsource-variable/noto-sans";
+import "../styles/global.css";
+
+export interface Props {
+  title: string;
+}
+
+const meta = {
+  name: `Crimson Witnesses`,
+  title: `Dota 2 Esports Community`
+};
+
+const { title } = Astro.props as Props;
+---
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <title>{title ? `${meta.name} - ${title}` : meta.name}</title>
+    <meta charset="UTF-8" />
+    <link rel="icon" href="/icon.svg" />
+    <link rel="mask-icon" color="white" href="/icon.svg" />
+    <link rel="manifest" href="/manifest.webmanifest" />
+    <meta name="description" content={meta.title} />
+
+    <meta name="image" content="https://crimsonwitnesses.com/share-card.png" />
+
+    {/* OpenGraph */}
+    <meta property="og:site_name" content={meta.name} />
+    <meta property="og:url" content="https://crimsonwitnesses.com" />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content={meta.name} />
+    <meta property="og:description" content={title ?? meta.title} />
+    <meta property="og:locale" content="en_US" />
+
+    <meta
+      property="og:image"
+      content="https://crimsonwitnesses.com/share-card.png"
+    />
+
+    <meta property="og:image:alt" content={meta.title} />
+    {/* Twitter */}
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:site" content="@crimwitnesses" />
+    <meta name="twitter:title" content={meta.name} />
+    <meta name="twitter:description" content={title ?? meta.title} />
+
+    <meta
+      name="twitter:image"
+      content="https://crimsonwitnesses.com/share-card.png"
+    />
+
+    {/* iOS */}
+    <link rel="apple-touch-icon" href="/app-icon-192.png" />
+    <meta name="mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+
+    <meta
+      name="apple-mobile-web-app-status-bar-style"
+      content="black-translucent"
+    />
+
+    <meta
+      name="viewport"
+      content="viewport-fit=cover, width=device-width, height=device-height, initial-scale=1, user-scalable=no"
+    />
+    <ClientRouter />
+    <script>
+      import "../pwa";
+    </script>
+    {pwaInfo && <Fragment set:html={pwaInfo.webManifest.linkTag} />}
+  </head>
+  <body>
+    <svg
+      style="position: absolute; width: 0; height: 0;"
+      aria-hidden="true"
+      focusable="false"
+    >
+      <linearGradient id="svg-fill-2" x1="0%" y1="0%" x2="0%" y2="100%">
+        <stop offset="0%" stop-color="#FFFFFF"></stop>
+        <stop offset="100%" stop-color="#D3B8D7"></stop>
+      </linearGradient>
+    </svg>
+    <main id="cw-main">
+      <Navigation />
+      <slot />
+    </main>
+    <Shaders />
+    <SpeedInsights />
+  </body>
+</html>

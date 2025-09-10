@@ -1,1 +1,0 @@
-export { Galaxy } from "./Galaxy";
