@@ -6,6 +6,7 @@ import Glow from "./glow.svg";
 <style is:global>
   #cw-main {
     container-type: scroll-state;
+    isolation: isolate;
   }
 
   #back-to-top {
@@ -37,6 +38,7 @@ import Glow from "./glow.svg";
       drop-shadow(0px 0px 2px oklch(0.31 0.12 280.56 / 0.75))
       drop-shadow(0px 0px 1px oklch(0.31 0.12 280.56 / 0.95));
     opacity: 1;
+    transform: translateZ(0);
     transition:
       translate 0.2s ease,
       opacity 0.2s ease;

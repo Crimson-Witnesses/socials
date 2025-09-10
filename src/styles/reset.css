@@ -10,12 +10,6 @@
   box-sizing: border-box;
 }
 
-/* ios safari perf */
-* {
-  backdrop-filter: initial;
-  filter: initial;
-}
-
 /* Don't underline Links */
 a {
   text-decoration: none;
