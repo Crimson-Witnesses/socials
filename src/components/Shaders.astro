@@ -1,19 +1,16 @@
-<style>
+<style is:global>
   #shaders {
     position: absolute;
     z-index: -1;
-    width: 100%;
-    height: 100%;
+    width: stretch;
+    height: stretch;
     top: 0;
     left: 0;
     bottom: 0;
     right: 0;
+    mix-blend-mode: plus-lighter;
     overflow: hidden;
     pointer-events: none;
-  }
-  
-  #shaders.paused {
-    opacity: 0.3;
   }
 </style>
 
@@ -418,12 +415,6 @@
   });
 
   const gl = renderer.gl;
-  gl.canvas.style.position = `absolute`;
-  gl.canvas.style.inset = `0`;
-  gl.canvas.style.width = `100%`;
-  gl.canvas.style.height = `100%`;
-  gl.canvas.style.mixBlendMode = `plus-lighter`;
-  gl.canvas.getContext(`webgl`, { antialias: false });
   gl.enable(gl.BLEND);
   gl.blendFunc(gl.SRC_ALPHA, gl.ONE_MINUS_SRC_ALPHA);
   gl.clearColor(0, 0, 0, 0);

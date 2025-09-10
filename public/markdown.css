@@ -24,6 +24,8 @@
   border-radius: 24px;
   background: oklch(0.31 0.12 280.56 / 0.35);
   backdrop-filter: blur(8px);
+  /* blur perf hack */
+  transform: translate3d(0, 0, 0);
   box-sizing: border-box;
   box-shadow:
     inset -0.5px -0.75px 1px oklch(0.96 0.02 286.23 / 0.15),
@@ -264,6 +266,8 @@ blockquote {
         oklch(from var(--accent-color) calc(l * 0.85) calc(c * 1.25) h / 25%);
   }
   backdrop-filter: blur(4px);
+  /* blur perf hack */
+  transform: translate3d(0, 0, 0);
 
   .markdown-alert-title {
     display: flex;
@@ -518,10 +522,11 @@ dl:has(ul) {
         padding-inline: 6px 8px;
         border-radius: 12px;
         background: oklch(from var(--accent-color) l c h / 45%);
-        background-blend-mode: lighten;
         -webkit-text-fill-color: unset;
         font-size: var(--lt);
         backdrop-filter: blur(4px);
+        /* blur perf hack */
+        transform: translate3d(0, 0, 0);
         box-shadow:
           inset -0.25px -0.75px 1.25px
             oklch(from var(--accent-color) l c h / 75%),
@@ -953,7 +958,6 @@ ul:has(a > img) {
     padding-block: 0 12px;
     padding-inline: 12px;
     background: rgba(38, 33, 90, 0.45);
-    background-blend-mode: hard-light;
     box-shadow:
       0px 1px 4px rgba(12, 0, 40, 0.75),
       0px 4px 8px rgba(12, 0, 40, 0.45),

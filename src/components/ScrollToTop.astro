@@ -63,6 +63,8 @@ import Glow from "./glow.svg";
       height: fit-content;
       mix-blend-mode: color-dodge;
       filter: blur(2.5px);
+      /* blur perf hack */
+      transform: translate3d(0, 0, 0);
       transition: opacity 0.15s cubic-bezier(0.4, 0, 0.2, 1);
       pointer-events: none;
     }
