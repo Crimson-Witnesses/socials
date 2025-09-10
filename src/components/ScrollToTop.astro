@@ -22,13 +22,7 @@ import Glow from "./glow.svg";
     height: fit-content;
     padding: 4px;
     border-radius: 20px;
-    background:
-      linear-gradient(
-        182.41deg,
-        rgba(241, 241, 241, 0.06) -27.41%,
-        rgba(153, 153, 153, 0) 151.75%
-      ),
-      rgba(40, 34, 105, 0.37);
+    background: oklch(0.31 0.12 280.56 / 0.5);
     box-shadow:
       0px 0px 4px oklch(0.31 0.12 280.56 / 0.35),
       0px 0px 2px oklch(0.31 0.12 280.56 / 0.75),
@@ -36,7 +30,6 @@ import Glow from "./glow.svg";
       inset -0.5px -0.75px 1px rgba(242, 242, 255, 0.5),
       inset 0.5px 0.75px 1px rgba(242, 242, 255, 0.5),
       inset 0px -4px 5px rgba(159, 33, 232, 0.51);
-    mix-blend-mode: hard-light;
     opacity: 1;
     transition:
       translate 0.2s ease,
