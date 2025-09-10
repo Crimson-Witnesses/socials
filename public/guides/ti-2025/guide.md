@@ -30,7 +30,7 @@ Welcome to the Crimson Witnesses event guide for The International 2025 in Hambu
 : [Type F (Schuko)](https://en.wikipedia.org/wiki/Schuko), Most [Europlugs](https://en.wikipedia.org/wiki/Europlug)
 
 **Phone service/Sim cards**
-: Lots of choices in [this article](https://www.mygermanyvacation.com/best-prepaid-sim-card-for-germany/https://www.mygermanyvacation.com/best-prepaid-sim-card-for-germany/)
+: Lots of choices in [this article](https://www.mygermanyvacation.com/best-prepaid-sim-card-for-germany/)
 
 <center style="font-size: xx-large;">
 
