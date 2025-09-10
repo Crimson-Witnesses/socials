@@ -137,7 +137,7 @@ Companies available for use in Hamburg-
 
 <figure>
 
-[![Barclays Arena](./images/barclays-arena.webp)](https://www.barclayscenter.com/)
+[![Barclays Arena](./images/barclays-arena.webp)](https://www.barclays-arena.de/)
 
 <figcaption>Barclays Arena</figcaption>
 
@@ -151,7 +151,7 @@ Address
   </address>
 
 Website
-: https://www.barclayscenter.com/
+: https://www.barclays-arena.de/
 
 ### General Info
 
@@ -171,17 +171,15 @@ Since opening in November 2002, the Barclays Arena in Hamburg has hosted over 2,
 
 ### Rules and Restrictions
 
-Below are some important excerpts from the [Venue's Guide](https://www.barclayscenter.com/center-info/a-z-guide):
+Below are some important excerpts from the [Venue's Guide](https://www.barclays-arena.de/besuch-planen/allgemeine-hinweise-infos-von-a-z):
 
 > [!caution] Bag Policy:
-> _"Any bags larger than 10" x 6" x 2" are not permitted inside Barclays Center. We encourage all guests to travel light and leave bags at home. Guests without bags can use Express Lanes to enter the arena faster."_
->
-> _"Barclays Center has implemented the above policy to ensure a safe and enjoyable event experience for all guests. Special consideration will be made for guests with medical needs and those caring for infants. This policy does not apply to credentialed media. All bags are subject to thorough screening and will be x-ray screened where available, which may delay entry into Barclays Center. Guests are strongly encouraged to leave their bags at home, or bring bags within the approved size and type."_
+> _"**No Bags:** Bags and rucksacks larger than DIN A4 (21 cm / 8.27 inches by 29.7 cm / 11.69 inches), suitcases, boxes, cardboard boxes, motorcycle helmets and baby carriages are generally not permitted in the arena. Items of luggage covered by the ban can be collected for a fee of €4 at the bag drop-off point on the Arena forecourt (important: limited capacity)."_
 
 > [!Caution] Camera Policy:
-> _"Cameras with telephoto or interchangeable/detachable lenses and external flash (professional photography equipment) are not permitted inside Barclays Center at any time. Video recording devices, audio recording devices, monopods, bipods, and tripods are also not permitted. This policy will be strictly enforced, and management reserves the right to deny any electronic device at their discretion."_
-
-On the arena forecourt (height of entrance E2), you will find a container where you can leave larger pieces of luggage for a fee (3€ in cash) for the duration of your event. Please note that the space to store luggage is limited.
+> _"In general, professional (DSLR and DSLR-like) cameras with interchangeable lenses or tablets are not permitted in the Barclays Arena and may only be used in the interior by previously accredited photographers. At sporting events, you can bring your digital camera without an interchangeable lens and take photos with it."_
+>
+> _"The decision as to whether and which cameras are permitted at concerts is ultimately made by the respective organizer of an event or the security staff on site."_
 
 From March 1, 2025, all payment terminals in the arena will be converted to cashless payment. At all events, food and drink orders can only be paid for by card at the catering stands, at mobile stations, and in the premium areas and boxes. Only cashless payments will be accepted at the checkrooms and merchandise stands.
 
