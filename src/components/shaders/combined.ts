@@ -486,6 +486,7 @@ export class Shader {
     }
     this.#resize();
 
+    this.#renderer.render({ scene: this.#mesh });
     requestAnimationFrame(this.#update);
   }
 

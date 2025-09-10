@@ -1594,11 +1594,11 @@ Opening Hours
 [![Team Liquid](./images/teams/team-liquid/team-liquid.webp)](https://liquipedia.net/dota2/Team_Liquid)
 : [Team Liquid](https://liquipedia.net/dota2/Team_Liquid)
 : Western Europe
-: <span class="liquid pos1">[![](./images/teams/team-liquid/m1cke.webp) 🏆 <em>miCKe</em>](https://liquipedia.net/dota2/MiCKe) 🇸🇪 Michael Vu</span>
-: <span class="liquid pos2">[![](./images/teams/team-liquid/nisha.webp) 🏆 <em>Nisha</em>](https://liquipedia.net/dota2/Nisha) 🇵🇱 Michał Jankowski</span>
+: <span class="liquid pos1">[![](./images/teams/team-liquid/m1cke.webp) <em>miCKe</em>](https://liquipedia.net/dota2/MiCKe) 🇸🇪 Michael Vu<br/><br/>🏆 2024</span>
+: <span class="liquid pos2">[![](./images/teams/team-liquid/nisha.webp) <em>Nisha</em>](https://liquipedia.net/dota2/Nisha) 🇵🇱 Michał Jankowski<br/><br/>🏆 2024</span>
 : <span class="liquid pos3">[![](./images/teams/team-liquid/saberlight.webp) <em>SaberLight</em>](https://liquipedia.net/dota2/SabeRLight-) 🇨🇿 Jonáš Volek</span>
-: <span class="liquid pos4">[![](./images/teams/team-liquid/boxi.webp) 🏆 <em>Boxi</em>](https://liquipedia.net/dota2/Boxi) 🇸🇪 Samuel Svahn</span>
-: <span class="liquid pos5">[![](./images/teams/team-liquid/insania.webp) 🏆 <em>Insania</em>](https://liquipedia.net/dota2/Insania) 🇸🇪 Aydin Sarkohi</span>
+: <span class="liquid pos4">[![](./images/teams/team-liquid/boxi.webp) <em>Boxi</em>](https://liquipedia.net/dota2/Boxi) 🇸🇪 Samuel Svahn<br/><br/>🏆 2024</span>
+: <span class="liquid pos5">[![](./images/teams/team-liquid/insania.webp) <em>Insania</em>](https://liquipedia.net/dota2/Insania) 🇸🇪 Aydin Sarkohi<br/><br/>🏆 2024</span>
 
 [![PARAVISION](./images/teams/paravision/paravision.webp)](https://liquipedia.net/dota2/PARIVISION)
 : [PARAVISION](https://liquipedia.net/dota2/PARIVISION)
@@ -1623,35 +1623,35 @@ Opening Hours
 : China
 : <span class="tidebound pos1">[![](./images/teams/team-tidebound/shiro.webp) <em>shiro</em>](https://liquipedia.net/dota2/Shiro) 🇨🇳 Guo Xuanang<br/>(郭轩昂)</span>
 : <span class="tidebound pos2">[![](./images/teams/team-tidebound/nothingtosay.webp) <em>NothingToSay</em>](https://liquipedia.net/dota2/NothingToSay) 🇲🇾 Cheng Jin Xiang<br/>(庄进祥)</span>
-: <span class="tidebound pos3">[![](./images/teams/team-tidebound/bach.webp) 🏆 <em>Bach</em>](https://liquipedia.net/dota2/Faith_bian) 🇨🇳 Zhang Ruida<br/>(张睿达)</span>
+: <span class="tidebound pos3">[![](./images/teams/team-tidebound/bach.webp) <em>Bach</em>](https://liquipedia.net/dota2/Faith_bian) 🇨🇳 Zhang Ruida<br/>(张睿达)<br/><br/>🏆 2016</span>
 : <span class="tidebound pos4">[![](./images/teams/team-tidebound/planet.webp) <em>planet</em>](https://liquipedia.net/dota2/Planet) 🇨🇳 Lin Hao<br/>(林灏)</span>
-: <span class="tidebound pos5">[![](./images/teams/team-tidebound/y.webp) 🏆 <em>y`</em>](https://liquipedia.net/dota2/Y%60) 🇨🇳 Zhang Yiping<br/>(张懿萍)</span>
+: <span class="tidebound pos5">[![](./images/teams/team-tidebound/y.webp) <em>y`</em>](https://liquipedia.net/dota2/Y%60) 🇨🇳 Zhang Yiping<br/>(张懿萍)<br/><br/>🏆 2016</span>
 
 [![Team Spirit](./images/teams/team-spirit/team-spirit.webp)](https://liquipedia.net/dota2/Team_Spirit)
 : [Team Spirit](https://liquipedia.net/dota2/Team_Spirit)
 : Eastern Europe
-: <span class="spirit pos1">[![](./images/teams/team-spirit/yatoro.webp) 🏆🏆 <em>Yatoro</em>](https://liquipedia.net/dota2/Yatoro) 🇺🇦 Illya Mulyarchuk<br/>(Ілля Мулярчук)</span>
-: <span class="spirit pos2">[![](./images/teams/team-spirit/larl.webp) 🏆 <em>Larl</em>](https://liquipedia.net/dota2/Larl) 🇷🇺 Denis Sigitov<br/>(Денис Сигитов)</span>
-: <span class="spirit pos3">[![](./images/teams/team-spirit/collapse.webp) 🏆🏆 <em>Collapse</em>](https://liquipedia.net/dota2/Collapse) 🇷🇺 Magomed Khalilov<br/>(Магомед Халилов)</span>
+: <span class="spirit pos1">[![](./images/teams/team-spirit/yatoro.webp) <em>Yatoro</em>](https://liquipedia.net/dota2/Yatoro) 🇺🇦 Illya Mulyarchuk<br/>(Ілля Мулярчук)<br/><br/>🏆 2021<br/>🏆 2023</span>
+: <span class="spirit pos2">[![](./images/teams/team-spirit/larl.webp) <em>Larl</em>](https://liquipedia.net/dota2/Larl) 🇷🇺 Denis Sigitov<br/>(Денис Сигитов)<br/><br/>🏆 2023</span>
+: <span class="spirit pos3">[![](./images/teams/team-spirit/collapse.webp) <em>Collapse</em>](https://liquipedia.net/dota2/Collapse) 🇷🇺 Magomed Khalilov<br/>(Магомед Халилов)<br/><br/>🏆 2021<br/>🏆 2023</span>
 : <span class="spirit pos4">[![](./images/teams/team-spirit/rue.webp) <em>rue</em>](https://liquipedia.net/dota2/Rue) 🇷🇺 Aleksandr Filin<br/>(Александр Филин)</span>
-: <span class="spirit pos5">[![](./images/teams/team-spirit/miposhka.webp) 🏆🏆 <em>Miposhka</em>](https://liquipedia.net/dota2/Miposhka) 🇷🇺 Yaroslav Naidenov<br/>(Ярослав Найдёнов)</span>
+: <span class="spirit pos5">[![](./images/teams/team-spirit/miposhka.webp) <em>Miposhka</em>](https://liquipedia.net/dota2/Miposhka) 🇷🇺 Yaroslav Naidenov<br/>(Ярослав Найдёнов)<br/><br/>🏆 2021<br/>🏆 2023</span>
 
 [![Team Falcons](./images/teams/team-falcons/team-falcons.webp)](https://liquipedia.net/dota2/Team_Falcons)
 : [Team Falcons](https://liquipedia.net/dota2/Team_Falcons)
 : Western Europe
-: <span class="falcons pos1">[![](./images/teams/team-falcons/skiter.webp) 🏆 <em>skiter</em>](https://liquipedia.net/dota2/Skiter) 🇸🇰 Oliver Lepko</span>
+: <span class="falcons pos1">[![](./images/teams/team-falcons/skiter.webp) <em>skiter</em>](https://liquipedia.net/dota2/Skiter) 🇸🇰 Oliver Lepko<br/><br/>🏆 2022</span>
 : <span class="falcons pos2">[![](./images/teams/team-falcons/malr1ne.webp) <em>Malr1ne</em>](https://liquipedia.net/dota2/Malr1ne) 🇷🇺 Stanislav Potorak<br/>(Станислав Поторак)</span>
 : <span class="falcons pos3">[![](./images/teams/team-falcons/atf.webp) <em>ATF</em>](https://liquipedia.net/dota2/ATF) 🇯🇴 Ammar Al-Assaf<br/>(عمار موسى العساف)</span>
 : <span class="falcons pos4">[![](./images/teams/team-falcons/cr1t-.webp) <em>Cr1t-</em>](https://liquipedia.net/dota2/Cr1t-) 🇩🇰 Andreas Franck Nielsen</span>
-: <span class="falcons pos5">[![](./images/teams/team-falcons/sneyking.webp) 🏆 <em>Sneyking</em>](https://liquipedia.net/dota2/Sneyking) 🇺🇸 Wu Jingjun<br/>(伍敬俊)</span>
+: <span class="falcons pos5">[![](./images/teams/team-falcons/sneyking.webp) <em>Sneyking</em>](https://liquipedia.net/dota2/Sneyking) 🇺🇸 Wu Jingjun<br/>(伍敬俊)<br/><br/>🏆 2022</span>
 
 [![Tundra Esports](./images/teams/tundra-esports/tundra-esports.webp)](https://liquipedia.net/dota2/Tundra_Esports)
 : [Tundra Esports](https://liquipedia.net/dota2/Tundra_Esports)
 : Western Europe
 : <span class="tundra pos1">[![](./images/teams/tundra-esports/crystallis.webp) <em>Crystallis</em>](https://liquipedia.net/dota2/Crystallis) 🇳🇱 Remco Arets</span>
 : <span class="tundra pos2">[![](./images/teams/tundra-esports/bzm.webp) <em>bzm</em>](https://liquipedia.net/dota2/Bzm) 🇧🇬 Bozhidar Bogdanov<br/>(Божидар Богданов)</span>
-: <span class="tundra pos3">[![](./images/teams/tundra-esports/33.webp) 🏆🏆 <em>33</em>](https://liquipedia.net/dota2/33) 🇮🇱 Neta Shapira<br/>(נטע שפירא)</span>
-: <span class="tundra pos4">[![](./images/teams/tundra-esports/saksa.webp) 🏆 <em>Saksa</em>](https://liquipedia.net/dota2/Saksa) 🇲🇰 Martin Sazdov<br/>(Мартин Саздов)</span>
+: <span class="tundra pos3">[![](./images/teams/tundra-esports/33.webp) <em>33</em>](https://liquipedia.net/dota2/33) 🇮🇱 Neta Shapira<br/>(נטע שפירא)<br/><br/>🏆 2022<br/>🏆 2024</span>
+: <span class="tundra pos4">[![](./images/teams/tundra-esports/saksa.webp) <em>Saksa</em>](https://liquipedia.net/dota2/Saksa) 🇲🇰 Martin Sazdov<br/>(Мартин Саздов)<br/><br/>🏆 2022</span>
 : <span class="tundra pos5">[![](./images/teams/tundra-esports/tobi.webp) <em>Tobi</em>](https://liquipedia.net/dota2/Tobi) 🇦🇹 Tobias Buchner</span>
 
 [![Yakutou Brothers](./images/teams/yakutou-brothers/yakutou-brothers.webp)](https://liquipedia.net/dota2/Yakult_Brothers)
@@ -1678,7 +1678,7 @@ Opening Hours
 : [Nigma Galaxy](https://liquipedia.net/dota2/Nigma_Galaxy)
 : Western Europe
 : <span class="nigma pos1">[![](./images/teams/nigma-galaxy/ghost.webp) <em>Ghost</em>](<https://liquipedia.net/dota2/Ghost_(Daniel_Chan)%3E>) 🇲🇾 Daniel Chan Kok Hong<br/>(陈国康)</span>
-: <span class="nigma pos2">[![](./images/teams/nigma-galaxy/sumail.webp) 🏆 <em>Sumail</em>](https://liquipedia.net/dota2/SumaiL) 🇵🇰 Syed Sumail Hassan<br/>(سید سمائل حسن)</span>
+: <span class="nigma pos2">[![](./images/teams/nigma-galaxy/sumail.webp) <em>Sumail</em>](https://liquipedia.net/dota2/SumaiL) 🇵🇰 Syed Sumail Hassan<br/>(سید سمائل حسن)<br/><br/>🏆 2015</span>
 : <span class="nigma pos3">[![](./images/teams/nigma-galaxy/no!ob.webp) <em>No!ob</em>](https://liquipedia.net/dota2/No!ob) 🇱🇧 Tony Assaf</span>
 : <span class="nigma pos4">[![](./images/teams/nigma-galaxy/omar.webp) <em>OmaR</em>](https://liquipedia.net/dota2/OmaR) 🇱🇧 Omar Moughrabi</span>
 : <span class="nigma pos5">[![](./images/teams/nigma-galaxy/gh.webp) <em>GH</em>](https://liquipedia.net/dota2/GH) 🇱🇧 Maroun Merhej<br/>(مارون مرهج)</span>
@@ -1688,8 +1688,8 @@ Opening Hours
 : Eastern Europe
 : <span class="aurora pos1">[![](./images/teams/aurora-gaming/nightfall.webp) <em>Nightfall</em>](https://liquipedia.net/dota2/Nightfall) 🇷🇺 Egor Grigorenko<br/>(Егор Григоренко)</span>
 : <span class="aurora pos2">[![](./images/teams/aurora-gaming/kiyotaka.webp) <em>kiyotaka</em>](https://liquipedia.net/dota2/Kiyotaka) 🇷🇺 Gleb Zyryanov<br/>(Глеб Зырянов)</span>
-: <span class="aurora pos3">[![](./images/teams/aurora-gaming/torontotokyo.webp) 🏆 <em>TORONOTOTOKYO</em>](https://liquipedia.net/dota2/TORONTOTOKYO) 🇷🇺 Alexander Khertek<br/>(Александр Хертек)</span>
-: <span class="aurora pos4">[![](./images/teams/aurora-gaming/mira.webp) 🏆🏆 <em>Mira</em>](https://liquipedia.net/dota2/Mira) 🇺🇦 Myroslav Kolpakov<br/>(Мирослав Колпаков)</span>
+: <span class="aurora pos3">[![](./images/teams/aurora-gaming/torontotokyo.webp) <em>TORONOTOTOKYO</em>](https://liquipedia.net/dota2/TORONTOTOKYO) 🇷🇺 Alexander Khertek<br/>(Александр Хертек)<br/><br/>🏆 2021</span>
+: <span class="aurora pos4">[![](./images/teams/aurora-gaming/mira.webp) <em>Mira</em>](https://liquipedia.net/dota2/Mira) 🇺🇦 Myroslav Kolpakov<br/>(Мирослав Колпаков)<br/><br/>🏆 2021<br/>🏆 2023</span>
 : <span class="aurora pos5">[![](./images/teams/aurora-gaming/panto.webp) <em>panto</em>](https://liquipedia.net/dota2/Panto) 🇧🇾 Nikita Balaganin<br/>(Никита Балаганин)</span>
 
 [![Xtreme Gaming](./images/teams/xtreme-gaming/xtreme-gaming.webp)](https://liquipedia.net/dota2/Xtreme_Gaming)

@@ -4,7 +4,7 @@ import { getEntry, render } from "astro:content";
 
 export const prerender = true;
 
-const entry = await getEntry("guides", "ti-2025/ti-2025-survival-guide");
+const entry = await getEntry("guides", "ti-2025/guide");
 
 if (typeof entry === `undefined`) throw new Error(`Unable to load page`);
 
