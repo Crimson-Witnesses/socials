@@ -38,8 +38,8 @@ body {
   position: relative;
   display: flex;
   flex-direction: column;
-  width: stretch;
-  color: #fcecfe;
+  width: 100%;
+  color: var(--color-text);
   font: 400 var(--fs-body) / 1.3 var(--family-body);
 }
 
@@ -49,6 +49,7 @@ body {
   flex-direction: column;
   align-items: center;
   gap: 48px;
+  max-width: 100%;
   height: 100%;
   /* https://webkit.org/blog/7929/designing-websites-for-iphone-x/ */
   padding-block: max(8px, env(safe-area-inset-top))

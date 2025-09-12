@@ -77,6 +77,7 @@
     --margin-top-ratio: 1.618; /* Golden Ratio */
   }
 
+  --color-text: #fcecfe;
   --color-bg: #26215a;
   --color-link: oklch(76.51% 0.204 328.58);
   --color-accent: #9f21e8;

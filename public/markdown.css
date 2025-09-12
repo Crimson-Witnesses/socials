@@ -320,18 +320,17 @@ figure {
   align-self: center;
   justify-self: center;
   gap: 8px;
-  width: fit-content;
-  min-width: 300px;
-  max-width: 800px;
+  width: 100%;
   margin: unset !important;
   margin-inline: auto;
   margin-block: var(--label-margin) !important;
 
   img {
     display: block;
-    width: -webkit-fill-available;
-    width: stretch;
+    width: 100%;
     height: 100%;
+    min-width: 300px;
+    max-width: 800px;
     object-fit: cover;
     border-radius: 8px;
     filter: drop-shadow(
@@ -399,8 +398,7 @@ dt:has(img) {
 
   img {
     display: block;
-    width: -webkit-fill-available;
-    width: stretch;
+    width: 100%;
     max-width: 300px !important;
     max-height: 180px;
     aspect-ratio: 5 / 3;
@@ -432,13 +430,11 @@ dl:has(ul) {
     flex-direction: column;
     align-items: center;
     row-gap: 12px;
-    width: -webkit-fill-available;
-    width: stretch;
+    width: 100%;
 
     img {
       display: block;
-      width: -webkit-fill-available;
-      width: stretch;
+      width: 100%;
       height: 100%;
       aspect-ratio: 3 / 2;
       object-fit: cover;
@@ -451,8 +447,7 @@ dl:has(ul) {
       content: "";
       top: -20px;
       left: 0;
-      width: -webkit-fill-available;
-      width: stretch;
+      width: 100%;
       aspect-ratio: 3 / 2;
       border-radius: 8px;
       mix-blend-mode: multiply;
@@ -603,7 +598,7 @@ dl:has(span:is(.pos1, .pos2, .pos3, .pos4, .pos5)) {
 
     img {
       display: block;
-      width: 100;
+      width: 100%;
       height: 100%;
       aspect-ratio: 1 / 1;
       object-fit: cover;
@@ -777,8 +772,7 @@ dl:has(span:is(.pos1, .pos2, .pos3, .pos4, .pos5)) {
         img {
           position: relative;
           display: block;
-          width: -webkit-fill-available;
-          width: stretch;
+          width: 100%;
           height: 100%;
           margin-bottom: 8px;
           aspect-ratio: 1 / 1;
@@ -868,7 +862,7 @@ dl:has(span:is(.pos1, .pos2, .pos3, .pos4, .pos5)) {
       &.yakotou {
         --team-accent: oklch(73.66% 0.165 11.43);
         --background: center/cover
-          url("./guides/ti-2025/images/bg-ti-2025.webp");
+          url("./guides/ti-2025/images/teams/yakutou-brothers/bg-yakutou-brothers.webp");
       }
 
       &.navi {
@@ -950,8 +944,7 @@ ul:has(a > img) {
       img {
         position: relative;
         display: block;
-        width: -webkit-fill-available;
-        width: stretch;
+        width: 100%;
         height: 100%;
         border-radius: 8px;
         aspect-ratio: 1 / 1;

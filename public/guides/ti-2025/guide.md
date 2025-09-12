@@ -1879,7 +1879,7 @@ Opening Hours
 
   Analyst
 
-- [![](./images/talent/english/purge.webp) \_Purge](<https://liquipedia.net/dota2/Purge_(Kevin_Godec)>)
+- [![](./images/talent/english/purge.webp) _Purge_](<https://liquipedia.net/dota2/Purge_(Kevin_Godec)>)
 
   🇺🇸 Kevin Godec
 
@@ -1939,7 +1939,7 @@ Opening Hours
 
   Caster
 
-- [![](./images/talent/english/fear.webp) \_Fear](<https://liquipedia.net/dota2/Fear_(Clinton_Loomis)>)
+- [![](./images/talent/english/fear.webp) _Fear_](<https://liquipedia.net/dota2/Fear_(Clinton_Loomis)>)
 
   🇺🇸 Clinton Loomis
 
@@ -2187,7 +2187,7 @@ Opening Hours
 
   Caster, Analyst
 
-- [![](./images/talent/chinese/super.webp) \_super](<https://liquipedia.net/dota2/Super_(Su_Peng)>)
+- [![](./images/talent/chinese/super.webp) _super_](<https://liquipedia.net/dota2/Super_(Su_Peng)>)
 
   🇨🇳 Su Peng
 
@@ -2285,13 +2285,13 @@ Opening Hours
 
   Analyst
 
-- [![](./images/talent/chinese/yun.webp) \_Yun]()
+- [![](./images/talent/chinese/yun.webp) _Yun_]()
 
   🇨🇳 Chen Yunfan
 
   Caster
 
-- [![](./images/talent/chinese/lavenderaa.webp) \_LavenderAA](<https://liquipedia.net/dota2/AA_(Li_Qiming)>)
+- [![](./images/talent/chinese/lavenderaa.webp) _LavenderAA_](<https://liquipedia.net/dota2/AA_(Li_Qiming)>)
 
   🇨🇳 Li Qiming
 
@@ -2323,7 +2323,7 @@ Opening Hours
 
   Caster
 
-- [![](./images/talent/chinese/luna.webp) \_Luna](<https://liquipedia.net/dota2/Luna_(Wang_Miqi)>)
+- [![](./images/talent/chinese/luna.webp) _Luna_](<https://liquipedia.net/dota2/Luna_(Wang_Miqi)>)
 
   🇨🇳 Wang Miqi
 
