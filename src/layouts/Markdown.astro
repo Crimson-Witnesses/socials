@@ -100,8 +100,8 @@ const { title, headings } = Astro.props as Props;
   }
 </style>
 
-<link slot="header" rel="preload" href="/markdown.css" />
 <Root title={title}>
+  <link slot="header" rel="preload" as="style" href="/markdown.css" />
   <article class="github-markdown-content">
     <section id="article-title">
       <ToC headings={headings} />
