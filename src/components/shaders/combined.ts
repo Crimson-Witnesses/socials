@@ -490,7 +490,7 @@ export class Shader {
   }
 
   #resize = (): void => {
-    requestIdleCallback(() => {
+    requestAnimationFrame(() => {
       const gl = this.#gl;
       const width = this.#container.offsetWidth || 1;
       const height = this.#container.offsetHeight || 1;
