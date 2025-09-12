@@ -7,7 +7,7 @@ import Glow from "./glow.svg";
 <script>
   const updateActiveLink = () => {
     const currentPath = new URL(location.href).pathname;
-    const navLinks = document.querySelectorAll(`main > nav a`);
+    const navLinks = document.querySelectorAll(`#site-nav a`);
 
     navLinks.forEach((link) => {
       // Remove any existing active class
@@ -25,7 +25,7 @@ import Glow from "./glow.svg";
 </script>
 
 <style is:global>
-  .site-nav {
+  #site-nav {
     display: flex;
     justify-content: center;
     align-items: center;
@@ -200,7 +200,7 @@ import Glow from "./glow.svg";
   }
 </style>
 
-<nav class="site-nav">
+<nav id="site-nav">
   <ul>
     <li>
       <a title="Home" href="/">
