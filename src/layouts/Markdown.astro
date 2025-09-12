@@ -1,11 +1,12 @@
 ---
 import type { MarkdownHeading } from "astro";
 import Root from "./Root.astro";
-import "../styles/gfm/base.css";
-import "../styles/gfm/github-markdown-theme-base.css";
-import "../styles/gfm/markdown.css";
 import ScrollToTop from "../components/ScrollToTop.astro";
 import ToC from "../components/ToC.astro";
+import "../styles/gfm/base.css";
+import "../styles/gfm/github-markdown-theme-base.css";
+import "../styles/markdown.css";
+import "../styles/gfm/markdown.css";
 
 export interface Props {
   title: string;
@@ -101,7 +102,6 @@ const { title, headings } = Astro.props as Props;
 </style>
 
 <Root title={title}>
-  <link slot="header" rel="preload" as="style" href="/markdown.css" />
   <article class="github-markdown-content">
     <section id="article-title">
       <ToC headings={headings} />
