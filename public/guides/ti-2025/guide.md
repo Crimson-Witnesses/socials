@@ -5,6 +5,7 @@ city: Hamburg
 ---
 
 <style>
+  @import url("../../../src/styles/theme.css");
   @import url("../../markdown.css");
 </style>
 
