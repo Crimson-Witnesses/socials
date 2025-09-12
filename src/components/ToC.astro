@@ -228,7 +228,7 @@ const { headings } = Astro.props;
     }
 
     hr {
-      width: 100%;
+      width: stretch;
     }
 
     section {
@@ -257,7 +257,8 @@ const { headings } = Astro.props;
 
     @media screen and (max-width: 522px) {
       width: stretch;
-      padding: 32px;
+      padding-block: calc(32px + env(safe-area-inset-top)) 32px;
+      padding-inline: calc(32px + env(safe-area-inset-left)) calc(32px + env(safe-area-inset-right));
 
       section .scrollable {
         width: stretch;

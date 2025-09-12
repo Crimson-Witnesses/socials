@@ -15,7 +15,7 @@
   position: relative;
   display: flex;
   flex-direction: column;
-  width: 100%;
+  width: stretch;
   max-width: 1024px;
   padding: 0px 32px 64px !important;
   border-radius: 24px;
@@ -327,7 +327,7 @@ figure {
 
   img {
     display: block;
-    width: 100%;
+    width: stretch;
     height: 100%;
     object-fit: cover;
     border-radius: 8px;
@@ -357,7 +357,7 @@ figure {
 }
 
 dl {
-  width: 100%;
+  width: stretch;
   margin: auto 0;
   columns: auto 228px;
   column-fill: balance;
@@ -395,7 +395,7 @@ dt:has(img) {
 
   img {
     display: block;
-    width: 100%;
+    width: stretch;
     max-width: 300px !important;
     max-height: 180px;
     aspect-ratio: 5 / 3;
@@ -406,14 +406,14 @@ dt:has(img) {
 /* Restaurant Lists */
 dl:has(ul) {
   justify-items: center;
-  width: 100%;
+  width: stretch;
   margin: auto 0;
   columns: auto 300px;
   column-fill: balance;
 
   dt,
   dd {
-    width: 100%;
+    width: stretch;
     max-width: 300px;
     padding-inline: 0px !important;
   }
@@ -425,11 +425,11 @@ dl:has(ul) {
     flex-direction: column;
     align-items: center;
     row-gap: 12px;
-    width: 100%;
+    width: stretch;
 
     img {
       display: block;
-      width: 100%;
+      width: stretch;
       height: 100%;
       aspect-ratio: 3 / 2;
       object-fit: cover;
@@ -442,7 +442,7 @@ dl:has(ul) {
       content: "";
       top: -20px;
       left: 0;
-      width: 100%;
+      width: stretch;
       aspect-ratio: 3 / 2;
       border-radius: 8px;
       mix-blend-mode: multiply;
@@ -585,7 +585,7 @@ dl:has(span:is(.pos1, .pos2, .pos3, .pos4, .pos5)) {
     grid-column: 1;
     display: flex;
     justify-content: center;
-    width: 100%;
+    width: stretch;
     margin: 0 !important;
     padding-inline: 12px;
     box-sizing: border-box;
@@ -668,7 +668,7 @@ dl:has(span:is(.pos1, .pos2, .pos3, .pos4, .pos5)) {
       display: flex;
       flex-direction: column;
       gap: 8px;
-      width: 100%;
+      width: stretch;
       border-radius: 8px;
       margin-bottom: 24px;
       padding-block: 0 12px;
@@ -707,7 +707,7 @@ dl:has(span:is(.pos1, .pos2, .pos3, .pos4, .pos5)) {
         z-index: -1;
         top: 0;
         left: 0;
-        width: 100%;
+        width: stretch;
         border-top-left-radius: 8px;
         border-top-right-radius: 8px;
         background: var(--background);
@@ -764,7 +764,7 @@ dl:has(span:is(.pos1, .pos2, .pos3, .pos4, .pos5)) {
         img {
           position: relative;
           display: block;
-          width: 100%;
+          width: stretch;
           height: 100%;
           margin-bottom: 8px;
           aspect-ratio: 1 / 1;
@@ -936,7 +936,7 @@ ul:has(a > img) {
       img {
         position: relative;
         display: block;
-        width: 100%;
+        width: stretch;
         height: 100%;
         border-radius: 8px;
         aspect-ratio: 1 / 1;
@@ -984,7 +984,7 @@ ul:has(a > img) {
       left: 0 !important;
       bottom: 0;
       right: 0;
-      width: 100% !important;
+      width: stretch !important;
       border-top-left-radius: 8px;
       border-top-right-radius: 8px;
       background: center/cover url("./guides/ti-2025/images/bg-ti-2025.webp");

@@ -43,7 +43,7 @@ body {
 
   img,
   video {
-    max-width: 100%;
+    max-width: stretch;
     max-height: 100%;
   }
 
