@@ -1,6 +1,9 @@
 @import url("./theme.css");
 
 html {
+  scrollbar-width: thin;
+  scrollbar-color: #ab6cfe transparent;
+  scrollbar-gutter: stable;
   scroll-behavior: smooth;
   @media (prefers-reduced-motion: reduce) {
     scroll-behavior: auto;

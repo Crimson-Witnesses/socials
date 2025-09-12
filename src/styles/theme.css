@@ -31,7 +31,7 @@
   --hl: var(--fs-700); /* h3 */
   --hm: var(--fs-500); /* h4 */
   --hs: var(--fs-400); /* h5 */
-  --ht: var(--fs-200); /* h6 */
+  --ht: var(--fs-300); /* h6 */
 
   /* Body Font Sizes */
   --bu: var(--fs-500);
@@ -76,4 +76,28 @@
     /* Margins */
     --margin-top-ratio: 1.618; /* Golden Ratio */
   }
+
+  --color-bg: #26215a;
+  --color-link: oklch(76.51% 0.204 328.58);
+  --color-accent: #9f21e8;
+  --color-shadow: #282269;
+
+  --drop-shadow-accent: drop-shadow(
+      0px 0px 2px oklch(from var(--color-accent) l c h / 75%)
+    )
+    drop-shadow(0px 0px 4px oklch(from var(--color-accent) l c h / 65%))
+    drop-shadow(0px 0px 8px oklch(from var(--color-accent) l c h / 45%));
+  --drop-shadow-shadow: drop-shadow(
+      0px 1px 4px oklch(from var(--color-shadow) l c h / 0.75)
+    )
+    drop-shadow(0px 4px 8px oklch(from var(--color-shadow) l c h / 0.45))
+    drop-shadow(0px 8px 16px oklch(from var(--color-shadow) l c h / 0.25));
+
+  --box-shadow-highlight:
+    inset -0.5px -0.75px 1px oklch(0.96 0.02 286.23 / 0.15),
+    inset 0.5px 0.75px 1px oklch(0.96 0.02 286.23 / 0.25);
+  --box-shadow-shadow:
+    0px 1px 4px oklch(from var(--color-shadow) l c h / 0.75),
+    0px 4px 8px oklch(from var(--color-shadow) l c h / 0.45),
+    0px 8px 16px oklch(from var(--color-shadow) l c h / 0.25);
 }

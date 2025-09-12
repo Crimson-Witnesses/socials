@@ -1,0 +1,339 @@
+---
+import type { MarkdownHeading } from "astro";
+import List from "../icons/list.svg";
+import Close from "../icons/x.svg";
+
+export interface Props {
+  headings?: MarkdownHeading[];
+}
+
+const { headings } = Astro.props;
+---
+
+<script>
+  document.addEventListener("astro:page-load", () => {
+    const observer = new IntersectionObserver((sections) => {
+      sections.forEach((section) => {
+        const heading = section.target.querySelector("h2, h3, h4, h5");
+        if (!heading) return;
+        const id = heading.getAttribute("id");
+        const link = document.querySelector(`.headings li a[href="#${id}"]`);
+        if (!link) return;
+
+        const addRemove = section.intersectionRatio > 0 ? "add" : "remove";
+        link.classList[addRemove]("active");
+      });
+    });
+
+    document
+      .querySelectorAll(".github-markdown-content section")
+      .forEach((section) => {
+        observer.observe(section);
+      });
+    
+    const dialog = document.querySelector<HTMLDialogElement>("#toc-drawer");
+    const openButton = document.querySelector<HTMLButtonElement>("#toc-open");
+    const closeButton = document.querySelector<HTMLButtonElement>("#toc-close");
+    const dialogLink =
+      document.querySelectorAll<HTMLAnchorElement>("#toc-drawer a");
+    let previousActiveElement: HTMLElement | null;
+
+    openButton?.addEventListener("click", () => {
+      previousActiveElement =
+        document.activeElement instanceof HTMLElement
+          ? document.activeElement
+          : null;
+      openButton.setAttribute("aria-expanded", "true");
+      dialog?.showModal();
+      closeButton?.focus();
+    });
+
+    closeButton?.addEventListener("click", () => {
+      dialog?.requestClose();
+      openButton?.setAttribute("aria-expanded", "false");
+      previousActiveElement?.focus();
+    });
+
+    dialogLink.forEach((node) =>
+      node?.addEventListener("click", () => {
+        dialog?.requestClose();
+        openButton?.setAttribute("aria-expanded", "false");
+      })
+    );
+  })
+</script>
+
+<style is:global>
+  #toc,
+  #toc-drawer {
+    color: var(--text);
+
+    h2 {
+      margin-block: unset;
+      border: none;
+      padding: 0;
+      background: var(--text-gradient);
+      background-blend-mode: screen, normal;
+      background-clip: text;
+      -webkit-text-fill-color: transparent;
+      font: 600 var(--ll) / 1.3 var(--family-display);
+    }
+
+    hr {
+      justify-self: center;
+    }
+
+    .scrollable {
+      container: scrollable / scroll-state;
+      position: relative;
+      display: grid;
+      min-height: 200px;
+      max-height: calc(100dvh - 96px);
+      padding-block: 10px;
+      padding-inline: 16px 10px;
+      overflow-x: hidden;
+      overflow-y: auto;
+    }
+
+    .headings {
+      --stroke-width: 2px;
+      border-left: var(--stroke-width) solid var(--color-shadow);
+      margin-left: unset;
+      padding-block: 12px;
+      padding-left: unset;
+
+      li {
+        --depth: 2;
+        --stroke: var(--color-shadow);
+
+        &:hover {
+          --stroke-width: 3px;
+          --stroke: var(--color-accent);
+        }
+
+        &:has(a.active) {
+          --stroke-width: 4px;
+          --stroke: var(--color-accent);
+        }
+
+        margin-top: unset;
+        margin-left: -2px;
+        border-left: var(--stroke-width) solid var(--stroke);
+        padding-left: calc((1ch * (var(--depth) - 1) - var(--stroke-width)));
+      }
+    }
+
+    ul {
+      display: flex;
+      flex-direction: column;
+      box-sizing: border-box;
+
+      li {
+        --outline: transparent;
+        --shadow: transparent;
+
+        display: flex;
+        align-items: center;
+        padding-block: 2px;
+        box-sizing: border-box;
+
+        a {
+          display: inline-flex;
+          align-items: center;
+          gap: 0.5em;
+          max-width: 20ch;
+          border-radius: 4px;
+          border: 1px solid var(--outline);
+          padding-inline: 4px;
+          color: var(--text);
+          text-decoration: none;
+          font: 600 var(--lm) / 1.3 var(--family-display);
+          letter-spacing: 0.04em;
+          background: var(--text-gradient);
+          background-blend-mode: screen, normal;
+          background-clip: text;
+          -webkit-text-fill-color: transparent;
+
+          &:focus-visible {
+            box-shadow: 0 0 0 1.5px var(--shadow);
+            outline: none;
+          }
+        }
+      }
+    }
+  }
+
+  #toc {
+    position: absolute;
+    top: 8px;
+    left: calc((240px + 24px) * -1);
+    width: 240px;
+    height: 100%;
+    padding-block: 24px;
+
+    .container {
+      position: sticky;
+      display: grid;
+      top: 24px;
+      padding-block: 6px;
+      padding-right: 6px;
+      border-radius: 16px;
+      background: oklch(from var(--color-bg) l c h / 0.45);
+      box-shadow: var(--box-shadow-highlight);
+    }
+
+    @media screen and (max-width: 1600px) {
+      display: none;
+    }
+  }
+
+  #toc-open,
+  #toc-close {
+    all: unset;
+    display: none !important;
+    width: 32px;
+    height: 32px;
+    border-radius: 8px;
+    cursor: pointer;
+
+    @media screen and (max-width: 1600px) {
+      display: block !important;
+    }
+
+    &:hover,
+    &:focus-visible {
+      filter: drop-shadow(0px 0px 4.5px rgba(50, 33, 229, 0.5))
+        drop-shadow(0px 0px 1px rgba(50, 33, 229, 0.9));
+    }
+  }
+
+  #toc-drawer {
+    opacity: 1;
+    padding: 24px;
+    border: none;
+    background: oklch(
+      from var(--color-bg) calc(l * 0.65) calc(c * 0.8) h / 0.85
+    );
+
+    header {
+      display: inline-flex;
+      gap: 16px;
+      align-items: center;
+      justify-content: space-between;
+      width: stretch;
+
+      h2 {
+        font: 600 var(--hm) / 1.3 var(--family-display);
+      }
+    }
+
+    hr {
+      width: 100%;
+    }
+
+    section {
+      display: grid;
+
+      .scrollable {
+        max-height: stretch;
+      }
+    }
+
+    &::backdrop {
+      background-color: transparent;
+      backdrop-filter: blur(4px);
+      mix-blend-mode: multiply;
+      transition:
+        display 0.7s allow-discrete,
+        overlay 0.7s allow-discrete,
+        background-color 0.7s;
+
+      &:open,
+      &[open] {
+        background-color: oklch(from var(--color-shadow) l c h / 0.25);
+        animation: fadeIn 0.3s ease forwards;
+      }
+    }
+
+    @media screen and (max-width: 522px) {
+      width: stretch;
+      padding: 32px;
+
+      section .scrollable {
+        width: stretch;
+        padding-inline: unset;
+      }
+
+      ul li a {
+        font-size: var(--ll);
+      }
+    }
+  }
+
+  @starting-style {
+    #toc-drawer:open,
+    #toc-drawer[open] {
+      opacity: 0;
+    }
+
+    #toc-drawer:open::backdrop,
+    #toc-drawer[open]::backdrop {
+      background-color: transparent;
+    }
+  }
+</style>
+
+<button
+  id="toc-open"
+  type="button"
+  aria-haspopup="dialog"
+  aria-expanded="false"
+  aria-label="Open Table of Contents"
+>
+  <List />
+</button>
+
+<aside id="toc">
+  <section class="container">
+    {
+      headings?.length ? (
+        <nav class="scrollable">
+          <h2>On this page</h2>
+          <hr />
+          <ul class="headings">
+            {headings.map((heading) => (
+              <li style={{ "--depth": heading.depth }}>
+                <a href={"#" + heading.slug}>{heading.text}</a>
+              </li>
+            ))}
+          </ul>
+        </nav>
+      ) : null
+    }
+  </section>
+</aside>
+
+<dialog id="toc-drawer" aria-labelledby="Table of Contents" closedby="any">
+  <header>
+    <h2>On this page</h2>
+    <button id="toc-close" type="button" aria-label="Close Table of Contents">
+      <Close />
+    </button>
+  </header>
+  <hr />
+  <section>
+    {
+      headings?.length ? (
+        <nav class="scrollable">
+          <ul class="headings">
+            {headings.map((heading) => (
+              <li style={{ "--depth": heading.depth }}>
+                <a href={"#" + heading.slug}>{heading.text}</a>
+              </li>
+            ))}
+          </ul>
+        </nav>
+      ) : null
+    }
+  </section>
+</dialog>

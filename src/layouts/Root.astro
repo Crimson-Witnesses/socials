@@ -78,6 +78,7 @@ const { title } = Astro.props as Props;
       import "../pwa";
     </script>
     {pwaInfo && <Fragment set:html={pwaInfo.webManifest.linkTag} />}
+    <slot name="header" />
   </head>
   <body>
     <svg

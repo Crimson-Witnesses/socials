@@ -1,31 +1,112 @@
 ---
-import Root from "./Root.astro";
 import type { MarkdownHeading } from "astro";
+import Root from "./Root.astro";
 import "../styles/gfm/base.css";
 import "../styles/gfm/github-markdown-theme-base.css";
 import "../styles/gfm/markdown.css";
 import ScrollToTop from "../components/ScrollToTop.astro";
+import ToC from "../components/ToC.astro";
 
 export interface Props {
   title: string;
-  headings?: MarkdownHeading[];
+  headings: MarkdownHeading[];
 }
 
-const { title } = Astro.props as Props;
+const { title, headings } = Astro.props as Props;
 ---
 
 <style is:global>
   article {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+
     > section {
       display: flex;
       flex-direction: column;
+      scroll-margin-top: 116px;
+    }
+
+    #article-title {
+      container-type: scroll-state;
+      position: sticky;
+      z-index: 1;
+      top: -8px;
+      flex-direction: row;
+      align-items: center;
+      gap: 16px;
+      margin-inline: -32px;
+      padding-block: 32px;
+      padding-inline: 32px;
+      transition: font-size 0.2s ease;
+
+      @media screen and (max-width: 522px) {
+        h1 {
+          font-size: var(--hm);
+          font-weight: 600;
+        }
+      }
+
+      &:before {
+        opacity: 0;
+        transition: opacity 0.2s ease;
+      }
+
+      @container scroll-state(stuck: top) {
+        h1 {
+          font-size: var(--hm);
+          font-weight: 600;
+
+          @media screen and (max-width: 522px) {
+            font-size: var(--ht);
+            font-weight: 800;
+          }
+        }
+
+        &:before {
+          position: absolute;
+          z-index: -1;
+          content: "";
+          top: 0;
+          left: 0;
+          bottom: 0;
+          right: 0;
+          border-radius: 16px;
+          background: oklch(
+            from var(--color-bg) calc(l * 0.65) calc(c * 0.8) h / 0.85
+          );
+          mix-blend-mode: hard-light;
+          opacity: 1;
+          box-shadow: var(--box-shadow-highlight), var(--box-shadow-shadow);
+        }
+      }
+
+      h1 {
+        margin: unset !important;
+      }
+
+      button {
+        all: unset;
+        width: 32px;
+        height: 32px;
+        border-radius: 8px;
+        cursor: pointer;
+      }
+    }
+
+    @media screen and (max-width: 1280px) {
+      max-width: stretch;
     }
   }
 </style>
 
+<link slot="header" rel="preload" href="/markdown.css" />
 <Root title={title}>
-  <link slot="header" rel="preload" href="/markdown.css" />
   <article class="github-markdown-content">
+    <section id="article-title">
+      <ToC headings={headings} />
+      <h1>{title}</h1>
+    </section>
     <slot />
   </article>
   <ScrollToTop />

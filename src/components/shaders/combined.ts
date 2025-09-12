@@ -486,20 +486,22 @@ export class Shader {
     }
     this.#resize();
 
-    this.#renderer.render({ scene: this.#mesh });
     requestAnimationFrame(this.#update);
   }
 
   #resize = (): void => {
-    const gl = this.#gl;
-    const width = this.#container.offsetWidth || 1;
-    const height = this.#container.offsetHeight || 1;
-    this.#renderer.setSize(width, height);
-    this.#program.uniforms.uResolution.value = new Color(
-      gl.canvas.width,
-      gl.canvas.height,
-      gl.canvas.width / gl.canvas.height
-    );
+    requestIdleCallback(() => {
+      const gl = this.#gl;
+      const width = this.#container.offsetWidth || 1;
+      const height = this.#container.offsetHeight || 1;
+      this.#renderer.setSize(width, height);
+      this.#program.uniforms.uResolution.value = new Color(
+        gl.canvas.width,
+        gl.canvas.height,
+        gl.canvas.width / gl.canvas.height
+      );
+      this.#renderer.render({ scene: this.#mesh });
+    });
   };
 
   #update = (t: number): void => {

@@ -14,7 +14,6 @@
 
 /* VSCode Preview Only */
 .github-markdown-content {
-  --shadow-color: #282269;
   position: relative;
   display: flex;
   flex-direction: column;
@@ -22,7 +21,7 @@
   max-width: 1024px;
   padding: 0px 32px 64px !important;
   border-radius: 24px;
-  background: oklch(0.31 0.12 280.56 / 0.35);
+  background: oklch(from var(--color-bg) l c h / 0.35);
   backdrop-filter: blur(8px);
   /* blur perf hack */
   transform: translate3d(0, 0, 0);
@@ -42,9 +41,9 @@
     border-radius: 24px;
     mix-blend-mode: hard-light;
     box-shadow:
-      0px 2px 4px oklch(from var(--shadow-color) l c h / 0.75),
-      0px 6px 12px oklch(from var(--shadow-color) l c h / 0.5),
-      0px 16px 32px oklch(from var(--shadow-color) l c h / 0.25);
+      0px 2px 4px oklch(from var(--color-shadow) l c h / 0.75),
+      0px 6px 12px oklch(from var(--color-shadow) l c h / 0.5),
+      0px 16px 32px oklch(from var(--color-shadow) l c h / 0.25);
   }
 
   /* Tablet */
@@ -74,20 +73,17 @@ hr {
   mix-blend-mode: soft-light;
 }
 
-h1,
-h2,
-h3,
-h4,
-h5,
-h6 {
+:is(h1, h2, h3, h4, h5, h6):not(#toc *, dialog *) {
+  scroll-margin-top: 116px;
+  margin-block: calc(var(--fs-heading) / var(--margin-top-ratio))
+    calc(var(--fs-heading) * 0.25) !important;
   border-bottom: none !important;
+  padding: 0px !important;
   background: var(--text-gradient);
   background-blend-mode: lighten, normal;
   background-clip: text;
   -webkit-text-fill-color: transparent;
-  font: 400 var(--fs-heading) / 1.3 var(--family-display) !important;
-  padding: 0px !important;
-  margin-block: var(--header-margin) !important;
+  font: 400 var(--fs-heading) / 1.3 var(--family-display);
   text-wrap: pretty;
 
   a {
@@ -104,41 +100,48 @@ h6 {
   }
 }
 
-h2 {
+h2:not(#toc *, dialog *) {
   --fs-heading: var(--hh);
+  margin-block: calc(var(--fs-heading) / var(--margin-top-ratio))
+    calc(var(--fs-heading) * 0.25) !important;
   font-weight: 500 !important;
   letter-spacing: 0.06em;
 }
 
-h3 {
+h3:not(#toc *, dialog *) {
   --fs-heading: var(--hl);
+  margin-block: calc(var(--fs-heading) / var(--margin-top-ratio))
+    calc(var(--fs-heading) * 0.25) !important;
   font-weight: 600 !important;
   letter-spacing: 0.06em;
 }
 
-h4 {
+h4:not(#toc *, dialog *) {
   --fs-heading: var(--hm);
+  margin-block: calc(var(--fs-heading) / var(--margin-top-ratio))
+    calc(var(--fs-heading) * 0.25) !important;
   font-weight: 700 !important;
   letter-spacing: 0.08em;
 }
 
-h5 {
+h5:not(#toc *, dialog *) {
   --fs-heading: var(--hs);
+  margin-block: calc(var(--fs-heading) / var(--margin-top-ratio))
+    calc(var(--fs-heading) * 0.25) !important;
   font-weight: 700 !important;
   letter-spacing: 0.08em;
 }
 
-h6 {
+h6:not(#toc *, dialog *) {
   --fs-heading: var(--ht);
+  margin-block: calc(var(--fs-heading) / var(--margin-top-ratio))
+    calc(var(--fs-heading) * 0.25) !important;
   font-weight: 800 !important;
   letter-spacing: 0.12em;
 }
 
-p,
-ol,
-dl,
-details,
-blockquote {
+:is(p):not(li > p, #toc *),
+:is(, ol, dl, details, blockquote):not(#toc *, dialog *) {
   margin-block: var(--body-margin) !important;
   letter-spacing: 0.02em;
   text-wrap: pretty;
@@ -149,7 +152,7 @@ p {
 }
 
 a {
-  color: oklch(76.51% 0.204 328.58) !important;
+  color: var(--color-link) !important;
 
   &:hover {
     text-decoration: underline;
@@ -157,7 +160,6 @@ a {
 }
 
 blockquote {
-  --shadow-color: #282269;
   position: relative;
   padding: 20px 24px !important;
   border-left: none !important;
@@ -180,7 +182,7 @@ blockquote {
     right: 0;
     border-radius: 12px;
     mix-blend-mode: color-burn;
-    background: oklch(0.29 0.1 282.29 / 0.35) !important;
+    background: oklch(from var(--color-bg) l c h / 0.35) !important;
   }
 
   &:after {
@@ -194,18 +196,17 @@ blockquote {
     border-radius: 12px;
     mix-blend-mode: multiply;
     box-shadow:
-      inset 0px 2px 8px oklch(from var(--shadow-color) l c h / 25%),
-      inset 0px 1px 8px oklch(from var(--shadow-color) l c h / 35%),
-      inset 0px 1px 3px oklch(from var(--shadow-color) l c h / 45%),
-      inset 0px -1px 3px oklch(from var(--shadow-color) l c h / 45%),
-      inset 0px -1px 8px oklch(from var(--shadow-color) l c h / 35%),
-      inset 0px -2px 8px oklch(from var(--shadow-color) l c h / 25%);
+      inset 0px 2px 8px oklch(from var(--color-shadow) l c h / 25%),
+      inset 0px 1px 8px oklch(from var(--color-shadow) l c h / 35%),
+      inset 0px 1px 3px oklch(from var(--color-shadow) l c h / 45%),
+      inset 0px -1px 3px oklch(from var(--color-shadow) l c h / 45%),
+      inset 0px -1px 8px oklch(from var(--color-shadow) l c h / 35%),
+      inset 0px -2px 8px oklch(from var(--color-shadow) l c h / 25%);
   }
 }
 
 .markdown-alert {
-  --accent-color: #9f21e8;
-  --shadow-color: #282269;
+  --alert-accent: var(--color-accent);
   position: relative;
   display: flex;
   flex-direction: column;
@@ -215,13 +216,13 @@ blockquote {
   background:
     linear-gradient(
       90deg,
-      oklch(from var(--accent-color) l c h / 45%) 0%,
-      oklch(from var(--accent-color) l c h / 10%) 25%,
-      oklch(from var(--accent-color) l c h / 5%) 65%
+      oklch(from var(--alert-accent) l c h / 45%) 0%,
+      oklch(from var(--alert-accent) l c h / 10%) 25%,
+      oklch(from var(--alert-accent) l c h / 5%) 65%
     ),
-    linear-gradient(oklch(from var(--shadow-color) l c h / 60%));
+    linear-gradient(oklch(from var(--color-shadow) l c h / 60%));
   background-blend-mode: hard-light, color-burn;
-  border-left: 5px solid oklch(from var(--accent-color) l c h / 95%) !important;
+  border-left: 5px solid oklch(from var(--alert-accent) l c h / 95%) !important;
   &:after {
     position: absolute;
     content: "";
@@ -236,8 +237,8 @@ blockquote {
     border-right: 0;
     border-image: linear-gradient(
       90deg,
-      oklch(from var(--accent-color) l c h / 70%) 0%,
-      oklch(from var(--accent-color) l c h / 0%) 75%
+      oklch(from var(--alert-accent) l c h / 70%) 0%,
+      oklch(from var(--alert-accent) l c h / 0%) 75%
     );
     border-image-slice: 1 0 1 0;
   }
@@ -253,17 +254,17 @@ blockquote {
     mix-blend-mode: multiply;
     box-shadow:
       inset 0px 2px 8px
-        oklch(from var(--accent-color) calc(l * 0.85) calc(c * 1.25) h / 25%),
+        oklch(from var(--alert-accent) calc(l * 0.85) calc(c * 1.25) h / 25%),
       inset 0px 1px 8px
-        oklch(from var(--accent-color) calc(l * 0.85) calc(c * 1.25) h / 35%),
+        oklch(from var(--alert-accent) calc(l * 0.85) calc(c * 1.25) h / 35%),
       inset 0px 1px 3px
-        oklch(from var(--accent-color) calc(l * 0.85) calc(c * 1.25) h / 45%),
+        oklch(from var(--alert-accent) calc(l * 0.85) calc(c * 1.25) h / 45%),
       inset 0px -1px 3px
-        oklch(from var(--accent-color) calc(l * 0.85) calc(c * 1.25) h / 45%),
+        oklch(from var(--alert-accent) calc(l * 0.85) calc(c * 1.25) h / 45%),
       inset 0px -1px 8px
-        oklch(from var(--accent-color) calc(l * 0.85) calc(c * 1.25) h / 35%),
+        oklch(from var(--alert-accent) calc(l * 0.85) calc(c * 1.25) h / 35%),
       inset 0px -2px 8px
-        oklch(from var(--accent-color) calc(l * 0.85) calc(c * 1.25) h / 25%);
+        oklch(from var(--alert-accent) calc(l * 0.85) calc(c * 1.25) h / 25%);
   }
   backdrop-filter: blur(4px);
   /* blur perf hack */
@@ -276,19 +277,13 @@ blockquote {
     font: normal 500 var(--hs) / 1.5 var(--family-display);
     letter-spacing: 0.04em;
     text-transform: uppercase;
-    background:
-      linear-gradient(
-        0deg,
-        rgba(255, 255, 255, 0.15),
-        rgba(255, 255, 255, 0.15)
-      ),
-      linear-gradient(180deg, #ffffff 0%, #d3b8d7 100%);
+    background: var(--text-gradient);
     background-blend-mode: lighten, normal;
     background-clip: text;
     -webkit-text-fill-color: transparent;
-    filter: drop-shadow(0px 0px 2px oklch(from var(--accent-color) l c h / 75%))
-      drop-shadow(0px 0px 4px oklch(from var(--accent-color) l c h / 65%))
-      drop-shadow(0px 0px 8px oklch(from var(--accent-color) l c h / 45%));
+    filter: drop-shadow(0px 0px 2px oklch(from var(--alert-accent) l c h / 75%))
+      drop-shadow(0px 0px 4px oklch(from var(--alert-accent) l c h / 65%))
+      drop-shadow(0px 0px 8px oklch(from var(--alert-accent) l c h / 45%));
 
     svg {
       fill: #fff;
@@ -298,28 +293,27 @@ blockquote {
   }
 
   &.markdown-alert-note {
-    --accent-color: oklch(64.26% 0.186 250.77);
+    --alert-accent: oklch(64.26% 0.186 250.77);
   }
 
   &.markdown-alert-important {
-    --accent-color: oklch(66.53% 0.21 300.72);
+    --alert-accent: oklch(66.53% 0.21 300.72);
   }
 
   &.markdown-alert-tip {
-    --accent-color: oklch(62.62% 0.12 172.98);
+    --alert-accent: oklch(62.62% 0.12 172.98);
   }
 
   &.markdown-alert-warning {
-    --accent-color: oklch(66.77% 0.156 60.11);
+    --alert-accent: oklch(66.77% 0.156 60.11);
   }
 
   &.markdown-alert-caution {
-    --accent-color: oklch(67.01% 0.217 22.5);
+    --alert-accent: oklch(67.01% 0.217 22.5);
   }
 }
 
 figure {
-  --accent-color: #9f21e8;
   display: flex !important;
   flex-direction: column;
   align-items: center;
@@ -339,17 +333,16 @@ figure {
     height: 100%;
     object-fit: cover;
     border-radius: 8px;
-    filter: drop-shadow(0px 1px 4px rgba(12, 0, 40, 0.75))
-      drop-shadow(0px 4px 8px rgba(12, 0, 40, 0.45))
-      drop-shadow(0px 8px 16px rgba(12, 0, 40, 0.25));
+    filter: drop-shadow(
+        0px 1px 4px oklch(fromk var(--color-shadow) l c h / 0.75)
+      )
+      drop-shadow(0px 4px 8px oklch(fromk var(--color-shadow) l c h / 0.45))
+      drop-shadow(0px 8px 16px oklch(fromk var(--color-shadow) l c h / 0.25));
   }
 
   a:hover {
     img {
-      filter: brightness(1.25)
-        drop-shadow(0px 0px 2px oklch(from var(--accent-color) l c h / 75%))
-        drop-shadow(0px 0px 4px oklch(from var(--accent-color) l c h / 65%))
-        drop-shadow(0px 0px 8px oklch(from var(--accent-color) l c h / 45%));
+      filter: brightness(1.25) var(--drop-shadow-accent);
     }
   }
 
@@ -358,13 +351,7 @@ figure {
     font: italic 300 var(--ls) / 1.5 var(--family-body);
     text-align: center;
     letter-spacing: 0.02em;
-    background:
-      linear-gradient(
-        0deg,
-        rgba(255, 255, 255, 0.15),
-        rgba(255, 255, 255, 0.15)
-      ),
-      linear-gradient(180deg, #ffffff 0%, #d3b8d7 100%);
+    background: var(--text-gradient);
     background-blend-mode: screen, normal;
     background-clip: text;
     -webkit-text-fill-color: transparent;
@@ -374,7 +361,7 @@ figure {
 dl {
   width: 100%;
   margin: auto 0;
-  columns: auto 300px;
+  columns: auto 228px;
   column-fill: balance;
   text-wrap: pretty;
 
@@ -420,7 +407,6 @@ dt:has(img) {
 
 /* Restaurant Lists */
 dl:has(ul) {
-  --accent-color: #9f21e8;
   justify-items: center;
   width: 100%;
   margin: auto 0;
@@ -450,9 +436,7 @@ dl:has(ul) {
       aspect-ratio: 3 / 2;
       object-fit: cover;
       border-radius: 8px;
-      filter: drop-shadow(0px 1px 4px rgba(12, 0, 40, 0.75))
-        drop-shadow(0px 4px 8px rgba(12, 0, 40, 0.45))
-        drop-shadow(0px 8px 16px rgba(12, 0, 40, 0.25));
+      filter: var(--drop-shadow-shadow);
     }
 
     &:before {
@@ -472,10 +456,7 @@ dl:has(ul) {
 
     &:hover {
       img {
-        filter: brightness(1.25)
-          drop-shadow(0px 0px 2px oklch(from var(--accent-color) l c h / 75%))
-          drop-shadow(0px 0px 4px oklch(from var(--accent-color) l c h / 65%))
-          drop-shadow(0px 0px 8px oklch(from var(--accent-color) l c h / 45%));
+        filter: brightness(1.25) var(--drop-shadow-accent);
       }
     }
 
@@ -489,11 +470,7 @@ dl:has(ul) {
       font: normal 800 var(--hm) / 1.5 var(--family-display);
       letter-spacing: 0.04em;
       text-align: center;
-      filter: drop-shadow(
-          0px 0px 2px oklch(from var(--accent-color) l c h / 75%)
-        )
-        drop-shadow(0px 0px 4px oklch(from var(--accent-color) l c h / 65%))
-        drop-shadow(0px 0px 8px oklch(from var(--accent-color) l c h / 45%));
+      filter: var(--drop-shadow-accent);
     }
   }
 
@@ -521,7 +498,7 @@ dl:has(ul) {
         padding-block: 4px;
         padding-inline: 6px 8px;
         border-radius: 12px;
-        background: oklch(from var(--accent-color) l c h / 45%);
+        background: oklch(from var(--color-accent) l c h / 45%);
         -webkit-text-fill-color: unset;
         font-size: var(--lt);
         backdrop-filter: blur(4px);
@@ -529,8 +506,8 @@ dl:has(ul) {
         transform: translate3d(0, 0, 0);
         box-shadow:
           inset -0.25px -0.75px 1.25px
-            oklch(from var(--accent-color) l c h / 75%),
-          inset 1.25px 0.75px 1px oklch(from var(--accent-color) l c h / 75%),
+            oklch(from var(--color-accent) l c h / 75%),
+          inset 1.25px 0.75px 1px oklch(from var(--color-accent) l c h / 75%),
           inset -0.25px 0.5px 2px rgba(56, 15, 78, 0.5),
           inset 0.25px 0.25px 4px rgba(56, 15, 78, 0.25);
 
@@ -565,11 +542,7 @@ dl:has(ul) {
     address {
       position: relative;
       padding-inline: 44px 0 !important;
-      filter: drop-shadow(
-          0px 0px 2px oklch(from var(--accent-color) l c h / 75%)
-        )
-        drop-shadow(0px 0px 4px oklch(from var(--accent-color) l c h / 65%))
-        drop-shadow(0px 0px 8px oklch(from var(--accent-color) l c h / 45%));
+      filter: var(--drop-shadow-accent);
 
       &:before {
         position: absolute;
@@ -594,7 +567,7 @@ dl:has(ul) {
 
 /* Teams */
 dl:has(span:is(.pos1, .pos2, .pos3, .pos4, .pos5)) {
-  --accent-color: #9f21e8;
+  --team-accent: var(--color-accent);
   display: grid;
   grid-template-columns: repeat(6, minmax(150px, 1fr));
   grid-auto-flow: dense;
@@ -633,10 +606,10 @@ dl:has(span:is(.pos1, .pos2, .pos3, .pos4, .pos5)) {
       img,
       & + dd > a {
         filter: drop-shadow(
-            0px 0px 2px oklch(from var(--accent-color) l c h / 75%)
+            0px 0px 2px oklch(from var(--team-accent) l c h / 75%)
           )
-          drop-shadow(0px 0px 4px oklch(from var(--accent-color) l c h / 65%))
-          drop-shadow(0px 0px 8px oklch(from var(--accent-color) l c h / 45%));
+          drop-shadow(0px 0px 4px oklch(from var(--team-accent) l c h / 65%))
+          drop-shadow(0px 0px 8px oklch(from var(--team-accent) l c h / 45%));
       }
     }
   }
@@ -665,10 +638,10 @@ dl:has(span:is(.pos1, .pos2, .pos3, .pos4, .pos5)) {
 
       &:hover {
         filter: drop-shadow(
-            0px 0px 2px oklch(from var(--accent-color) l c h / 75%)
+            0px 0px 2px oklch(from var(--team-accent) l c h / 75%)
           )
-          drop-shadow(0px 0px 4px oklch(from var(--accent-color) l c h / 65%))
-          drop-shadow(0px 0px 8px oklch(from var(--accent-color) l c h / 45%));
+          drop-shadow(0px 0px 4px oklch(from var(--team-accent) l c h / 65%))
+          drop-shadow(0px 0px 8px oklch(from var(--team-accent) l c h / 45%));
       }
     }
   }
@@ -703,7 +676,7 @@ dl:has(span:is(.pos1, .pos2, .pos3, .pos4, .pos5)) {
       padding-block: 0 12px;
       padding-inline: 12px;
       background-color: oklch(
-        from var(--accent-color) calc(l * 0.85) calc(c * 1.25) h / 15%
+        from var(--team-accent) calc(l * 0.85) calc(c * 1.25) h / 15%
       );
       box-sizing: border-box;
       font-size: var(--bt);
@@ -712,23 +685,23 @@ dl:has(span:is(.pos1, .pos2, .pos3, .pos4, .pos5)) {
       box-shadow:
           /* drop shadow */
         0px 1px 4px
-          oklch(from var(--accent-color) calc(l * 0.15) calc(c * 1.25) h / 75%),
+          oklch(from var(--team-accent) calc(l * 0.15) calc(c * 1.25) h / 75%),
         0px 4px 8px
-          oklch(from var(--accent-color) calc(l * 0.2) calc(c * 1.5) h / 45%),
+          oklch(from var(--team-accent) calc(l * 0.2) calc(c * 1.5) h / 45%),
         0px 8px 16px
-          oklch(from var(--accent-color) calc(l * 0.25) calc(c * 1.75) h / 25%),
+          oklch(from var(--team-accent) calc(l * 0.25) calc(c * 1.75) h / 25%),
         /* inner glow */ inset 0px 2px 8px
-          oklch(from var(--accent-color) calc(l * 0.85) calc(c * 1.25) h / 25%),
+          oklch(from var(--team-accent) calc(l * 0.85) calc(c * 1.25) h / 25%),
         inset 0px 1px 8px
-          oklch(from var(--accent-color) calc(l * 0.85) calc(c * 1.25) h / 35%),
+          oklch(from var(--team-accent) calc(l * 0.85) calc(c * 1.25) h / 35%),
         inset 0px 1px 3px
-          oklch(from var(--accent-color) calc(l * 0.85) calc(c * 1.25) h / 45%),
+          oklch(from var(--team-accent) calc(l * 0.85) calc(c * 1.25) h / 45%),
         inset 0px -1px 3px
-          oklch(from var(--accent-color) calc(l * 0.85) calc(c * 1.25) h / 45%),
+          oklch(from var(--team-accent) calc(l * 0.85) calc(c * 1.25) h / 45%),
         inset 0px -1px 8px
-          oklch(from var(--accent-color) calc(l * 0.85) calc(c * 1.25) h / 35%),
+          oklch(from var(--team-accent) calc(l * 0.85) calc(c * 1.25) h / 35%),
         inset 0px -2px 8px
-          oklch(from var(--accent-color) calc(l * 0.85) calc(c * 1.25) h / 25%);
+          oklch(from var(--team-accent) calc(l * 0.85) calc(c * 1.25) h / 25%);
 
       &:before {
         content: "";
@@ -752,9 +725,9 @@ dl:has(span:is(.pos1, .pos2, .pos3, .pos4, .pos5)) {
         height: 32px;
         pointer-events: none;
         filter: opacity(0.85)
-          drop-shadow(0px 0px 2px oklch(from var(--accent-color) l c h / 90%))
-          drop-shadow(0px 0px 4px oklch(from var(--accent-color) l c h / 50%))
-          drop-shadow(0px 0px 8px oklch(from var(--accent-color) l c h / 25%));
+          drop-shadow(0px 0px 2px oklch(from var(--team-accent) l c h / 90%))
+          drop-shadow(0px 0px 4px oklch(from var(--team-accent) l c h / 50%))
+          drop-shadow(0px 0px 8px oklch(from var(--team-accent) l c h / 25%));
       }
 
       &.pos1:after {
@@ -800,14 +773,10 @@ dl:has(span:is(.pos1, .pos2, .pos3, .pos4, .pos5)) {
           object-fit: cover;
           clip-path: content-box;
           filter: drop-shadow(
-              0px 0px 4px oklch(from var(--accent-color) l c h / 45%)
+              0px 0px 4px oklch(from var(--team-accent) l c h / 45%)
             )
-            drop-shadow(
-              0px 0px 12px oklch(from var(--accent-color) l c h / 45%)
-            )
-            drop-shadow(
-              0px 0px 24px oklch(from var(--accent-color) l c h / 75%)
-            );
+            drop-shadow(0px 0px 12px oklch(from var(--team-accent) l c h / 45%))
+            drop-shadow(0px 0px 24px oklch(from var(--team-accent) l c h / 75%));
           transition: filter 0.5s cubic-bezier(0.4, 0, 0.2, 1);
         }
 
@@ -815,13 +784,13 @@ dl:has(span:is(.pos1, .pos2, .pos3, .pos4, .pos5)) {
           img {
             filter: contrast(1.15) brightness(1.05)
               drop-shadow(
-                0px 0px 4px oklch(from var(--accent-color) l c h / 45%)
+                0px 0px 4px oklch(from var(--team-accent) l c h / 45%)
               )
               drop-shadow(
-                0px 0px 12px oklch(from var(--accent-color) l c h / 45%)
+                0px 0px 12px oklch(from var(--team-accent) l c h / 45%)
               )
               drop-shadow(
-                0px 0px 24px oklch(from var(--accent-color) l c h / 75%)
+                0px 0px 24px oklch(from var(--team-accent) l c h / 75%)
               );
           }
         }
@@ -834,106 +803,106 @@ dl:has(span:is(.pos1, .pos2, .pos3, .pos4, .pos5)) {
           -webkit-text-fill-color: transparent;
           font: normal 800 var(--ht) / 1.5 var(--family-display);
           filter: drop-shadow(
-              0px 0px 2px oklch(from var(--accent-color) l c h / 75%)
+              0px 0px 2px oklch(from var(--team-accent) l c h / 75%)
             )
-            drop-shadow(0px 0px 4px oklch(from var(--accent-color) l c h / 65%))
-            drop-shadow(0px 0px 8px oklch(from var(--accent-color) l c h / 45%));
+            drop-shadow(0px 0px 4px oklch(from var(--team-accent) l c h / 65%))
+            drop-shadow(0px 0px 8px oklch(from var(--team-accent) l c h / 45%));
         }
       }
 
       /* Team Backgrounds */
       &.liquid {
-        --accent-color: oklch(53.6% 0.166 253.21);
+        --team-accent: oklch(53.6% 0.166 253.21);
         --background: center/cover
           url("./guides/ti-2025/images/teams/team-liquid/bg-team-liquid.webp");
       }
 
       &.paravision {
-        --accent-color: oklch(81.09% 0.138 164.5);
+        --team-accent: oklch(81.09% 0.138 164.5);
         --background: center/cover
           url("./guides/ti-2025/images/teams/paravision/bg-paravision.webp");
       }
 
       &.betboom {
-        --accent-color: oklch(75.61% 0.146 21.61);
+        --team-accent: oklch(75.61% 0.146 21.61);
         --background: center/cover
           url("./guides/ti-2025/images/teams/betboom-team/bg-betboom-team.webp");
       }
 
       &.tidebound {
-        --accent-color: oklch(82.41% 0.096 243.21);
+        --team-accent: oklch(82.41% 0.096 243.21);
         --background: center/cover
           url("./guides/ti-2025/images/teams/team-tidebound/bg-team-tidebound.webp");
       }
 
       &.spirit {
-        --accent-color: oklch(66.53% 0.21 300.72);
+        --team-accent: oklch(66.53% 0.21 300.72);
         --background: center/cover
           url("./guides/ti-2025/images/teams/team-spirit/bg-team-spirit.webp");
       }
 
       &.falcons {
-        --accent-color: oklch(73.43% 0.195 136.47);
+        --team-accent: oklch(73.43% 0.195 136.47);
         --background: center/cover
           url("./guides/ti-2025/images/teams/team-falcons/bg-team-falcons.webp");
       }
 
       &.tundra {
-        --accent-color: oklch(70.91% 0.184 302.3);
+        --team-accent: oklch(70.91% 0.184 302.3);
         --background: center/cover
           url("./guides/ti-2025/images/teams/tundra-esports/bg-tundra-esports.webp");
       }
 
       &.yakotou {
-        --accent-color: oklch(73.66% 0.165 11.43);
+        --team-accent: oklch(73.66% 0.165 11.43);
         --background: center/cover
           url("./guides/ti-2025/images/bg-ti-2025.webp");
       }
 
       &.navi {
-        --accent-color: oklch(92.35% 0.168 100.65);
+        --team-accent: oklch(92.35% 0.168 100.65);
         --background: center/cover
           url("./guides/ti-2025/images/teams/natus-vincere/bg-natus-vincere.webp");
       }
 
       &.nigma {
-        --accent-color: oklch(55.93% 0.218 297.18);
+        --team-accent: oklch(55.93% 0.218 297.18);
         --background: center/cover
           url("./guides/ti-2025/images/teams/nigma-galaxy/bg-nigma-galaxy.webp");
       }
 
       &.aurora {
-        --accent-color: oklch(81.24% 0.152 164.49);
+        --team-accent: oklch(81.24% 0.152 164.49);
         --background: center/cover
           url("./guides/ti-2025/images/teams/aurora-gaming/bg-aurora-gaming.webp");
       }
 
       &.xtreme {
-        --accent-color: oklch(75.68% 0.155 304.26);
+        --team-accent: oklch(75.68% 0.155 304.26);
         --background: center/cover
           url("./guides/ti-2025/images/teams/xtreme-gaming/bg-xtreme-gaming.webp");
       }
 
       &.nemesis {
-        --accent-color: oklch(55.93% 0.218 297.18);
+        --team-accent: oklch(55.93% 0.218 297.18);
         --background: center/cover
           url("./guides/ti-2025/images/teams/team-nemesis/bg-team-nemesis.webp");
       }
 
       &.boom {
-        --accent-color: oklch(54.36% 0.219 21.84);
+        --team-accent: oklch(54.36% 0.219 21.84);
         --background: center/cover
           url("./guides/ti-2025/images/teams/boom-esports/bg-boom-esports.webp");
       }
 
       &.wildcard {
-        --accent-color: oklch(84.04% 0.112 222.24);
+        --team-accent: oklch(84.04% 0.112 222.24);
         --background: center/cover
           url("./guides/ti-2025/images/teams/wildcard/bg-wildcard.webp");
       }
 
       &.heroic {
-        --accent-color: oklch(67.01% 0.217 22.5);
+        --team-accent: oklch(67.01% 0.217 22.5);
         --background: center/cover
           url("./guides/ti-2025/images/teams/heroic/bg-heroic.webp");
       }
@@ -943,7 +912,6 @@ dl:has(span:is(.pos1, .pos2, .pos3, .pos4, .pos5)) {
 
 /* Boardcast Talent Lists */
 ul:has(a > img) {
-  --accent-color: #9f21e8;
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
   justify-content: space-between;
@@ -958,10 +926,7 @@ ul:has(a > img) {
     padding-block: 0 12px;
     padding-inline: 12px;
     background: rgba(38, 33, 90, 0.45);
-    box-shadow:
-      0px 1px 4px rgba(12, 0, 40, 0.75),
-      0px 4px 8px rgba(12, 0, 40, 0.45),
-      0px 8px 16px rgba(12, 0, 40, 0.25);
+    box-shadow: var(--box-shadow-shadow);
 
     a {
       position: relative;
@@ -979,24 +944,13 @@ ul:has(a > img) {
         aspect-ratio: 1 / 1;
         object-fit: cover;
         clip-path: border-box;
-        filter: drop-shadow(
-            0px 0px 4px oklch(from var(--accent-color) l c h / 55%)
-          )
-          drop-shadow(0px 0px 12px oklch(from var(--accent-color) l c h / 65%))
-          drop-shadow(0px 0px 24px oklch(from var(--accent-color) l c h / 75%));
+        filter: var(--drop-shadow-accent);
         transition: filter 0.5s cubic-bezier(0.4, 0, 0.2, 1);
       }
 
       &:hover {
         img {
-          filter: contrast(1.15) brightness(1.05)
-            drop-shadow(0px 0px 4px oklch(from var(--accent-color) l c h / 55%))
-            drop-shadow(
-              0px 0px 12px oklch(from var(--accent-color) l c h / 65%)
-            )
-            drop-shadow(
-              0px 0px 24px oklch(from var(--accent-color) l c h / 75%)
-            );
+          filter: contrast(1.15) brightness(1.05) var(--drop-shadow-accent);
         }
         text-decoration: underline;
       }
@@ -1008,11 +962,7 @@ ul:has(a > img) {
         background-clip: text;
         -webkit-text-fill-color: transparent;
         font: normal 800 var(--hs) / 1.5 var(--family-display);
-        filter: drop-shadow(
-            0px 0px 2px oklch(from var(--accent-color) l c h / 55%)
-          )
-          drop-shadow(0px 0px 4px oklch(from var(--accent-color) l c h / 65%))
-          drop-shadow(0px 0px 8px oklch(from var(--accent-color) l c h / 75%));
+        filter: var(--drop-shadow-accent);
       }
     }
 

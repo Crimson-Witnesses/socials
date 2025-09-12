@@ -8,43 +8,43 @@ body {
   box-sizing: border-box;
   margin: 0 auto;
   width: 100% !important;
-}
 
-.github-markdown-content {
-  padding: 32px !important;
-  max-width: 980px;
-  min-width: 200px;
-  margin: 0 auto;
-}
+  .github-markdown-content {
+    padding: 32px;
+    max-width: 980px;
+    min-width: 200px;
+    margin: 0 auto;
 
-blockquote {
-  background-color: initial;
-}
+    blockquote {
+      background-color: initial;
+    }
 
-pre {
-  color: initial;
-  border: none;
-}
+    pre {
+      color: initial;
+      border: none;
+    }
 
-code {
-  color: inherit;
-}
+    code {
+      color: inherit;
+    }
 
-pre code {
-  color: initial;
-}
+    pre code {
+      color: initial;
+    }
 
-code > div {
-  background: none;
-}
+    code > div {
+      background: none;
+    }
 
-p,
-blockquote,
-ul,
-ol,
-dl,
-table,
-pre {
-  margin-top: 16px;
-  margin-bottom: 16px;
+    p,
+    blockquote,
+    ul,
+    ol,
+    dl,
+    table,
+    pre {
+      margin-top: 16px;
+      margin-bottom: 16px;
+    }
+  }
 }
