@@ -590,7 +590,6 @@ dl:has(span:is(.pos1, .pos2, .pos3, .pos4, .pos5)) {
     grid-column: 1;
     display: flex;
     justify-content: center;
-    width: -webkit-fill-available;
     width: stretch;
     margin: 0 !important;
     padding-inline: 12px;
@@ -674,8 +673,7 @@ dl:has(span:is(.pos1, .pos2, .pos3, .pos4, .pos5)) {
       display: flex;
       flex-direction: column;
       gap: 8px;
-      width: -webkit-fill-available;
-      width: stretch;
+      width: 100%;
       border-radius: 8px;
       margin-bottom: 24px;
       padding-block: 0 12px;
@@ -714,8 +712,7 @@ dl:has(span:is(.pos1, .pos2, .pos3, .pos4, .pos5)) {
         z-index: -1;
         top: 0;
         left: 0;
-        width: -webkit-fill-available;
-        width: stretch;
+        width: 100%;
         border-top-left-radius: 8px;
         border-top-right-radius: 8px;
         background: var(--background);
