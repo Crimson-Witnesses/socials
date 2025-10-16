@@ -1,16 +1,11 @@
 {
     "recommendations": [
         "bierner.github-markdown-preview",
-        "billaferd.vscode-deflist",
+        "saeris.markdown-definition-list",
         "saeris.markdown-denden-furigana",
-        "bierner.markdown-emoji",
-        "bierner.markdown-footnotes",
         "saeris.markdown-github-alerts",
         "saeris.markdown-ins",
         "saeris.markdown-mark",
-        "bierner.markdown-preview-github-styles",
-        "bierner.markdown-shiki",
-        "christian-kohler.path-intellisense",
         "csstools.postcss",
         "esbenp.prettier-vscode",
         "rvest.vs-code-prettier-eslint"
