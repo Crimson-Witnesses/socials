@@ -51,7 +51,7 @@ const fragmentShader = /* glsl*/ `#version 300 es
   in vec2 vUv;
   out vec4 fragColor;
 
-  #define NUM_LAYER 4.0
+  #define NUM_LAYER 3.0
   #define STAR_COLOR_CUTOFF 0.2
   #define MAT45 mat2(0.7071, -0.7071, 0.7071, 0.7071)
   #define PERIOD 3.0
@@ -250,7 +250,7 @@ const fragmentShader = /* glsl*/ `#version 300 es
     bool useRayCount = uRayCount > 0;
     bool useUserColors = uColorCount > 0;
     
-    for (int i = 0; i < 32; ++i) {
+    for (int i = 0; i < 24; ++i) {
       vec3 P = marchT * dir;
       P.z -= 2.0;
       float rad = length(P);
@@ -399,7 +399,7 @@ export class Shader {
   #renderer = new Renderer({
     alpha: true,
     premultipliedAlpha: false,
-    dpr: Math.min(window.devicePixelRatio || 1, 2),
+    dpr: Math.min(window.devicePixelRatio || 1, 1.5),
     antialias: false
   });
 
@@ -453,7 +453,7 @@ export class Shader {
         })
       },
       uNoiseAmount: { value: 0.3 },
-      uRayCount: { value: 32 }
+      uRayCount: { value: 24 }
     }
   });
 
@@ -469,6 +469,10 @@ export class Shader {
   #container: HTMLDivElement;
   #canvas: HTMLCanvasElement;
   #observer?: ResizeObserver;
+  
+  #frameInterval = 1000 / 30; // ~33ms per frame
+  #lastFrameTime = 0;
+  
   constructor() {
     const gl = this.#gl;
     gl.enable(gl.BLEND);
@@ -485,6 +489,9 @@ export class Shader {
       window.addEventListener(`resize`, this.#resize);
     }
     this.#resize();
+
+    // Pause when page is hidden to save resources
+    document.addEventListener('visibilitychange', this.#handleVisibilityChange);
 
     requestAnimationFrame(this.#update);
   }
@@ -508,6 +515,17 @@ export class Shader {
     if (this.paused) {
       return;
     }
+    
+    // Frame rate limiting - only render if enough time has passed
+    const timeSinceLastFrame = t - this.#lastFrameTime;
+    if (timeSinceLastFrame < this.#frameInterval) {
+      this.#animation = requestAnimationFrame(this.#update);
+      return;
+    }
+    
+    // Update last frame time, accounting for any overflow
+    this.#lastFrameTime = t - (timeSinceLastFrame % this.#frameInterval);
+    
     if (!this.#startTime) {
       this.#startTime = t;
     }
@@ -520,6 +538,14 @@ export class Shader {
       (timeInSeconds * starSpeed) / 10.0;
 
     this.#animation = requestAnimationFrame(this.#update);
+  };
+
+  #handleVisibilityChange = (): void => {
+    if (document.hidden) {
+      this.pause();
+    } else {
+      this.resume();
+    }
   };
 
   pause = (): void => {
@@ -543,6 +569,7 @@ export class Shader {
 
   cleanup = (): void => {
     cancelAnimationFrame(this.#animation);
+    document.removeEventListener('visibilitychange', this.#handleVisibilityChange);
     this.#container.removeChild(this.#canvas);
     if (this.#observer) {
       this.#observer.disconnect();
