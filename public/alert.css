@@ -1,0 +1,107 @@
+.markdown-alert {
+  --alert-accent: var(--color-accent);
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  margin-block: var(--body-margin) !important;
+  padding: 12px 16px;
+  border-radius: 8px;
+  background:
+    linear-gradient(
+      90deg,
+      oklch(from var(--alert-accent) l c h / 45%) 0%,
+      oklch(from var(--alert-accent) l c h / 10%) 25%,
+      oklch(from var(--alert-accent) l c h / 5%) 65%
+    ),
+    linear-gradient(oklch(from var(--color-shadow) l c h / 60%));
+  background-blend-mode: hard-light, color-burn;
+  border-left: 5px solid oklch(from var(--alert-accent) l c h / 95%) !important;
+  &:after {
+    position: absolute;
+    content: "";
+    z-index: -1;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    border-top: 3px solid transparent !important;
+    border-bottom: 3px solid transparent !important;
+    border-left: 0;
+    border-right: 0;
+    border-image: linear-gradient(
+      90deg,
+      oklch(from var(--alert-accent) l c h / 70%) 0%,
+      oklch(from var(--alert-accent) l c h / 0%) 75%
+    );
+    border-image-slice: 1 0 1 0;
+  }
+  &:before {
+    position: absolute;
+    content: "";
+    z-index: -1;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    border-radius: 8px;
+    mix-blend-mode: multiply;
+    box-shadow:
+      inset 0px 2px 8px
+        oklch(from var(--alert-accent) calc(l * 0.85) calc(c * 1.25) h / 25%),
+      inset 0px 1px 8px
+        oklch(from var(--alert-accent) calc(l * 0.85) calc(c * 1.25) h / 35%),
+      inset 0px 1px 3px
+        oklch(from var(--alert-accent) calc(l * 0.85) calc(c * 1.25) h / 45%),
+      inset 0px -1px 3px
+        oklch(from var(--alert-accent) calc(l * 0.85) calc(c * 1.25) h / 45%),
+      inset 0px -1px 8px
+        oklch(from var(--alert-accent) calc(l * 0.85) calc(c * 1.25) h / 35%),
+      inset 0px -2px 8px
+        oklch(from var(--alert-accent) calc(l * 0.85) calc(c * 1.25) h / 25%);
+  }
+  backdrop-filter: blur(4px);
+  /* blur perf hack */
+  transform: translate3d(0, 0, 0);
+
+  .markdown-alert-title {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    font: normal 500 var(--hs) / 1.5 var(--family-display);
+    letter-spacing: 0.04em;
+    text-transform: uppercase;
+    background: var(--text-gradient);
+    background-blend-mode: lighten, normal;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    filter: drop-shadow(0px 0px 2px oklch(from var(--alert-accent) l c h / 75%))
+      drop-shadow(0px 0px 4px oklch(from var(--alert-accent) l c h / 65%))
+      drop-shadow(0px 0px 8px oklch(from var(--alert-accent) l c h / 45%));
+
+    svg {
+      fill: #fff;
+      width: 20px;
+      height: 20px;
+    }
+  }
+
+  &.markdown-alert-note {
+    --alert-accent: oklch(64.26% 0.186 250.77);
+  }
+
+  &.markdown-alert-important {
+    --alert-accent: oklch(66.53% 0.21 300.72);
+  }
+
+  &.markdown-alert-tip {
+    --alert-accent: oklch(62.62% 0.12 172.98);
+  }
+
+  &.markdown-alert-warning {
+    --alert-accent: oklch(66.77% 0.156 60.11);
+  }
+
+  &.markdown-alert-caution {
+    --alert-accent: oklch(67.01% 0.217 22.5);
+  }
+}

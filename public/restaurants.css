@@ -1,0 +1,163 @@
+/* Restaurant Lists */
+.github-markdown-content dl:has(ul) {
+  justify-items: center;
+  width: -webkit-fill-available;
+  width: stretch;
+  margin: auto 0;
+  columns: auto 300px;
+  column-fill: balance;
+
+  dt,
+  dd {
+    width: -webkit-fill-available;
+    width: stretch;
+    max-width: 300px;
+    padding-inline: 0px !important;
+  }
+
+  /* Photo + Name */
+  dt a:has(img) {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    row-gap: 12px;
+    width: 100%;
+
+    img {
+      display: block;
+      width: 100%;
+      height: 100%;
+      min-width: 300px;
+      min-width: 200px;
+      aspect-ratio: 3 / 2;
+      object-fit: cover;
+      border-radius: 8px;
+      filter: var(--drop-shadow-shadow);
+    }
+
+    &:before {
+      position: absolute;
+      content: "";
+      top: -20px;
+      left: 0;
+      width: 100%;
+      aspect-ratio: 3 / 2;
+      border-radius: 8px;
+      mix-blend-mode: multiply;
+      box-shadow:
+        0px 2px 4px rgba(72, 64, 182, 0.35),
+        0px 2px 8px rgba(72, 64, 182, 0.25),
+        0px 4px 16px rgba(72, 64, 182, 0.15);
+    }
+
+    &:hover {
+      img {
+        filter: brightness(1.25) var(--drop-shadow-accent);
+      }
+    }
+
+    /* Name */
+    em {
+      position: relative;
+      background: var(--text-gradient);
+      background-blend-mode: lighten, normal;
+      background-clip: text;
+      -webkit-text-fill-color: transparent;
+      font: normal 800 var(--hm) / 1.5 var(--family-display);
+      letter-spacing: 0.04em;
+      text-align: center;
+      filter: var(--drop-shadow-accent);
+    }
+  }
+
+  /* Description */
+  dd:not(:has(ul, address)) {
+    p {
+      font-size: var(--bm);
+    }
+  }
+
+  /* Tags */
+  dd:has(ul) {
+    ul {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 4px;
+      margin-top: 0 !important;
+      padding: unset !important;
+
+      li {
+        position: relative;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        padding-block: 4px;
+        padding-inline: 6px 8px;
+        border-radius: 12px;
+        background: oklch(from var(--color-accent) l c h / 45%);
+        -webkit-text-fill-color: unset;
+        font-size: var(--lt);
+        backdrop-filter: blur(4px);
+        /* blur perf hack */
+        transform: translate3d(0, 0, 0);
+        box-shadow:
+          inset -0.25px -0.75px 1.25px
+            oklch(from var(--color-accent) l c h / 75%),
+          inset 1.25px 0.75px 1px oklch(from var(--color-accent) l c h / 75%),
+          inset -0.25px 0.5px 2px rgba(56, 15, 78, 0.5),
+          inset 0.25px 0.25px 4px rgba(56, 15, 78, 0.25);
+
+        &:before {
+          position: absolute;
+          content: "";
+          top: 0;
+          left: 0;
+          bottom: 0;
+          right: 0;
+          border-radius: 12px;
+          mix-blend-mode: multiply;
+          box-shadow:
+            0px 1px 2px rgba(72, 64, 182, 0.35),
+            0px 2px 4px rgba(72, 64, 182, 0.25),
+            0px 4px 12px rgba(72, 64, 182, 0.15);
+        }
+      }
+    }
+  }
+
+  /* Address */
+  dd:has(address) {
+    position: relative;
+
+    /* Last address of maybe multiple, last in whole list */
+    &:has(+ dt),
+    &:last-child {
+      margin-bottom: 24px !important;
+    }
+
+    address {
+      position: relative;
+      padding-inline: 44px 0 !important;
+      filter: var(--drop-shadow-accent);
+
+      &:before {
+        position: absolute;
+        content: " ";
+        left: 0;
+        width: 44px;
+        height: 100%;
+        background: var(--link-gradient);
+        background-blend-mode: color-burn, normal;
+        mask: no-repeat center / 20px 20px
+          url("./guides/ti-2025/images/icons/location.svg");
+        mix-blend-mode: hard-light;
+      }
+
+      p {
+        margin: 0 !important;
+        font-size: var(--bm);
+      }
+    }
+  }
+}

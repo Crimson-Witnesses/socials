@@ -55,7 +55,6 @@ body {
   padding-block: max(8px, env(safe-area-inset-top))
     max(32px, env(safe-area-inset-bottom));
   padding-inline: env(safe-area-inset-left) env(safe-area-inset-right);
-  backdrop-filter: brightness(0.7);
   overflow: auto;
 
   /* Phone */

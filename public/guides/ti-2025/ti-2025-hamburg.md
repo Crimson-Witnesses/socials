@@ -7,6 +7,10 @@ city: Hamburg
 <style>
   @import url("../../../src/styles/theme.css");
   @import url("../../markdown.css");
+  @import url("../../alert.css");
+  @import url("../../restaurants.css");
+  @import url("../../talent.css");
+  @import url("../../teams.css");
 </style>
 
 ## Introduction
@@ -166,7 +170,7 @@ Since opening in November 2002, the Barclays Arena in Hamburg has hosted over 2,
 
 ![Barclays Arena Map](./images/arena-map.webp)
 
-<figcaption>Barclays Arena Map (Concert Seating Configuration)</captfigcaptionion>
+<figcaption>Barclays Arena Map (Concert Seating Configuration)</figcaption>
 
 </figure>
 
@@ -542,28 +546,33 @@ Visit the [Google List](https://maps.app.goo.gl/7hS2okZWvrkhTcZ89) for the most 
 
   </address>
 
-Mama Kumpir
+[![](./images/restaurants/mama-kumpir.png) Mama Kumpir](https://www.mamakumpir.de/)
+: <ul><li>🥪 Lunch</li><li>🍽️ Dinner</li><li>🥙 Turkish</li><li>🥗 Vegetarian</li><li>🌱 Vegan</li></ul>
 : <address>
 
     [Langenfelder Damm 90<br/>22525 Hamburg](https://maps.app.goo.gl/rABoKtuVzzndk9XLA)
 
   </address>
 
-Asia Imbiss Kim
+[![](./images/restaurants/asia-imbiss-kim.png) Asia Imbiss Kim](https://www.tripadvisor.de/Restaurant_Review-g187331-d2196565-Reviews-Asia_Imbiss_Kim-Hamburg.html)
+: <ul><li>🥪 Lunch</li><li>🍽️ Dinner</li><li>🥡 Asian</li><li>🥗 Vegetarian</li><li>🌱 Vegan</li><li>🍺 Beer</li></ul>
 : <address>
 
     [Hein-Hoyer-Straße 78<br/>20359 Hamburg](https://maps.app.goo.gl/TbCBUHeDuWeYRxsC7)
 
   </address>
 
-[Cup n' Go](https://wolt.com/de/deu/hamburg/restaurant/cup-n-go) (Fast food)
+[![](./images/restaurants/cup-n-go.png) Cup n' Go](https://wolt.com/de/deu/hamburg/restaurant/cup-n-go)
+: <ul><li>🥪 Lunch</li><li>🍔 Fast Food</li><li>☕ Coffee</li></ul>
 : <address>
 
     [Grindelhof 7<br/>20146 Hamburg](https://maps.app.goo.gl/i2zoS9cPpheT5Cmf9)
 
   </address>
 
-[Sphinx Döner Landwehr](https://sphinxdoener.de/)
+[![](<./images/restaurants/sphinx -doner-landwehr.png>) Sphinx Döner Landwehr](https://sphinxdoener.de/)
+: Long-running diner with outdoor tables serving falafel, doner kebab & other Middle Eastern fare.
+: <ul><li>🍳 Breakfast</li><li>🥪 Lunch</li><li>🍽️ Dinner</li><li>🧆 Middle Eastern</li><li>حلال Halal</li><li>🥗 Vegetarian</li><li>🌱 Vegan</li><li>☕ Coffee</li></ul>
 : <address>
 
     [Landwehr 39<br/>22087 Hamburg](https://maps.app.goo.gl/C3mCRYkWM31nwNjj8)

@@ -207,6 +207,13 @@ const { headings } = Astro.props;
     }
   }
 
+  @media screen and (max-width: 522px) {
+    #toc-open {
+      position: sticky;
+      left: 0;
+    }
+  }
+
   #toc-drawer {
     opacity: 1;
     padding: 24px;

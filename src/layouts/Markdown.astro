@@ -40,6 +40,8 @@ const { title, headings } = Astro.props as Props;
       transition: font-size 0.2s ease;
 
       @media screen and (max-width: 522px) {
+        position: relative;
+
         h1 {
           font-size: var(--hm);
           font-weight: 600;
@@ -55,11 +57,6 @@ const { title, headings } = Astro.props as Props;
         h1 {
           font-size: var(--hm);
           font-weight: 600;
-
-          @media screen and (max-width: 522px) {
-            font-size: var(--ht);
-            font-weight: 800;
-          }
         }
 
         &:before {
@@ -100,7 +97,13 @@ const { title, headings } = Astro.props as Props;
 </style>
 
 <Root title={title}>
-  <link slot="header" rel="stylesheet" href="/markdown.css" />
+  <Fragment slot="header">
+    <link rel="stylesheet" href="/markdown.css" />
+    <link rel="stylesheet" href="/alert.css" />
+    <link rel="stylesheet" href="/restaurants.css" />
+    <link rel="stylesheet" href="/talent.css" />
+    <link rel="stylesheet" href="/teams.css" />
+  </Fragment>
   <article class="github-markdown-content">
     <section id="article-title">
       <ToC headings={headings} />
