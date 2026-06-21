@@ -1,0 +1,57 @@
+<div class="progressive-blur">
+  <hr />
+  <hr />
+  <hr />
+  <hr />
+  <hr />
+</div>
+
+<style>
+  .progressive-blur {
+    all: unset;
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    width: stretch;
+    height: 25%;
+    pointer-events: none;
+
+    > hr {
+      all: unset;
+      position: absolute;
+      content: "";
+      top: 0;
+      left: 0;
+      bottom: 0;
+      right: 0;
+      margin-block: unset !important;
+      background: unset !important;
+
+      &:not(:last-child) {
+        --n: 8;
+        backdrop-filter: blur(calc(1px * var(--n)));
+
+        mask: linear-gradient(
+          oklch(0 0 0 / 0) calc((3 * (var(--n) - 1)) * 1%),
+          oklch(0 0 0 / 1) calc((5 * var(--n)) * 1%),
+          oklch(0 0 0 / 1) calc((7 * (var(--n) + 2)) * 1%),
+          oklch(0 0 0 / 0) calc((9 * (var(--n) + 3)) * 1%)
+        );
+      }
+
+      &:nth-child(2) {
+        --n: 12;
+      }
+      &:nth-child(3) {
+        --n: 16;
+      }
+      &:nth-child(4) {
+        --n: 20;
+      }
+      &:nth-child(5) {
+        --n: 24;
+      }
+    }
+  }
+</style>

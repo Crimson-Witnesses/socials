@@ -1,13 +1,11 @@
 {
-    "recommendations": [
-        "bierner.github-markdown-preview",
-        "saeris.markdown-definition-list",
-        "saeris.markdown-denden-furigana",
-        "saeris.markdown-github-alerts",
-        "saeris.markdown-ins",
-        "saeris.markdown-mark",
-        "csstools.postcss",
-        "esbenp.prettier-vscode",
-        "rvest.vs-code-prettier-eslint"
-    ]
+  "recommendations": [
+    "bierner.github-markdown-preview",
+    "saeris.markdown-definition-list",
+    "saeris.markdown-denden-furigana",
+    "saeris.markdown-github-alerts",
+    "saeris.markdown-ins",
+    "saeris.markdown-mark",
+    "VoidZero.vite-plus-extension-pack"
+  ]
 }

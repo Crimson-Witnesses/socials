@@ -81,3 +81,6 @@ cypress/e2e/build
 
 .DS_Store
 .vercel
+
+# Claude Code local config
+.claude

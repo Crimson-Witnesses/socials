@@ -1,3 +1,5 @@
+<canvas id="shaders" transition:persist></canvas>
+
 <style is:global>
   #shaders {
     position: absolute;
@@ -8,56 +10,13 @@
     left: 0;
     bottom: 0;
     right: 0;
-    mix-blend-mode: plus-lighter;
     overflow: hidden;
     pointer-events: none;
+    /* Fallback that matches the shader's void color, shown until WebGPU
+       finishes compiling and draws the first frame. Eliminates the flash of
+       the page background during the (sometimes slow) shader init. */
+    background: #05030f;
   }
 </style>
 
-<div id="shaders" transition:persist></div>
-
-<script>
-  import { Shader } from "./shaders/combined";
-  
-  const routes = ["/about", "/guide"];
-  const shader = new Shader();
-  
-  const prefersReducedMotion = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
-  
-  if (prefersReducedMotion) {
-    shader.pause();
-  }
-  
-  function handleRouteChange() {
-    const currentPath = window.location.pathname;
-    const shouldPause = routes.includes(currentPath) || prefersReducedMotion;
-    
-    if (shouldPause) {
-      shader.pause();
-    } else {
-      // Only resume if user doesn't prefer reduced motion
-      if (!prefersReducedMotion) {
-        shader.resume();
-      }
-    }
-  }
-  
-  // Listen for Astro navigation events
-  document.addEventListener('astro:page-load', handleRouteChange);
-  document.addEventListener('astro:after-swap', handleRouteChange);
-  
-  // Handle initial page load
-  handleRouteChange();
-  
-  window.matchMedia('(prefers-reduced-motion: reduce)').addEventListener('change', (e) => {
-    if (e.matches) {
-      shader.pause();
-    } else {
-      // Only resume if we're not on a route that should be paused
-      const currentPath = window.location.pathname;
-      if (!routes.includes(currentPath)) {
-        shader.resume();
-      }
-    }
-  });
-</script>
+<script src="./shaders/nebula.ts"></script>

@@ -1,0 +1,354 @@
+---
+// Dev-only control panel for live-tuning the Nebula shader uniforms.
+// Included from Root.astro behind `import.meta.env.DEV`, so it never ships to
+// production. Reads/writes the uniforms the shader exposes on `window.__nebula`
+// and the renderer on `globalThis.__renderer` for the GPU-time readout.
+import Gear from "../icons/gear.svg";
+import Glow from "./glow.svg";
+---
+
+<style is:global>
+  #shader-controls-toggle {
+    all: unset;
+    position: fixed;
+    inset-block-end: calc(32px + env(safe-area-inset-bottom));
+    inset-inline-start: calc(32px + env(safe-area-inset-left));
+    z-index: 100;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: fit-content;
+    height: fit-content;
+    padding: 4px;
+    border-radius: 20px;
+    background: oklch(0.31 0.12 280.56 / 0.5);
+    box-shadow:
+      0px 0px 4px oklch(0.31 0.12 280.56 / 0.35),
+      0px 0px 2px oklch(0.31 0.12 280.56 / 0.75),
+      0px 0px 1px oklch(0.31 0.12 280.56 / 0.95),
+      inset -0.5px -0.75px 1px rgba(242, 242, 255, 0.5),
+      inset 0.5px 0.75px 1px rgba(242, 242, 255, 0.5),
+      inset 0px -4px 5px rgba(159, 33, 232, 0.51);
+    cursor: pointer;
+    transition: rotate 0.3s ease;
+
+    &:hover,
+    &:focus-visible {
+      outline: none;
+      rotate: 30deg;
+      box-shadow:
+        0px 0px 4.5px rgba(50, 33, 229, 0.5),
+        0px 0px 1px rgba(50, 33, 229, 0.9),
+        0px 12px 24px rgba(159, 33, 232, 0.5),
+        inset 0px -1px 1px rgba(242, 242, 255, 0.5),
+        inset 0px 1px 1px rgba(242, 242, 255, 0.5),
+        inset 0px 6px 8px rgba(159, 33, 232, 0.75),
+        inset 0px -4px 5px rgba(159, 33, 232, 0.85);
+
+      svg:last-child {
+        opacity: 1;
+      }
+    }
+
+    svg:first-child {
+      width: 32px;
+      height: 32px;
+      mix-blend-mode: plus-lighter;
+      fill: url(#svg-fill-2);
+    }
+
+    svg:last-child {
+      position: absolute;
+      opacity: 0;
+      left: 4px;
+      bottom: 2px;
+      width: calc(100% - 8px);
+      height: fit-content;
+      mix-blend-mode: color-dodge;
+      filter: blur(2.5px);
+      transition: opacity 0.15s cubic-bezier(0.4, 0, 0.2, 1);
+      pointer-events: none;
+    }
+  }
+
+  #shader-controls {
+    position: fixed;
+    inset-block-end: calc(88px + env(safe-area-inset-bottom));
+    inset-inline-start: calc(32px + env(safe-area-inset-left));
+    z-index: 100;
+    display: none;
+    flex-direction: column;
+    gap: 10px;
+    width: 280px;
+    max-height: min(70dvh, 600px);
+    overflow-y: auto;
+    padding: 16px;
+    border-radius: 16px;
+    color: rgb(242, 242, 255);
+    background: oklch(from var(--color-bg, oklch(0.2 0.1 280)) l c h / 0.85);
+    backdrop-filter: blur(8px);
+    box-shadow: var(--box-shadow-highlight, 0 8px 24px rgba(0, 0, 0, 0.5));
+    font: 600 13px / 1.3 var(--family-display, system-ui);
+
+    &[data-open="true"] {
+      display: flex;
+    }
+
+    h2 {
+      margin: 0 0 4px;
+      font-size: 15px;
+      letter-spacing: 0.04em;
+    }
+
+    .row {
+      display: grid;
+      grid-template-columns: 1fr auto;
+      align-items: center;
+      gap: 6px 10px;
+    }
+
+    .row label {
+      grid-column: 1 / -1;
+      display: flex;
+      justify-content: space-between;
+      opacity: 0.85;
+    }
+
+    .row label .val {
+      font-variant-numeric: tabular-nums;
+      opacity: 0.7;
+    }
+
+    input[type="range"] {
+      grid-column: 1 / -1;
+      width: 100%;
+      accent-color: rgb(159, 33, 232);
+    }
+
+    .color-row {
+      display: grid;
+      grid-template-columns: 1fr auto;
+      align-items: center;
+      gap: 8px;
+    }
+
+    input[type="color"] {
+      width: 36px;
+      height: 24px;
+      padding: 0;
+      border: 1px solid rgba(242, 242, 255, 0.2);
+      border-radius: 4px;
+      background: none;
+      cursor: pointer;
+    }
+
+    .gpu {
+      margin-top: 4px;
+      padding-top: 8px;
+      border-top: 1px solid rgba(242, 242, 255, 0.15);
+      font-variant-numeric: tabular-nums;
+      opacity: 0.85;
+    }
+
+    button.copy {
+      all: unset;
+      margin-top: 4px;
+      padding: 6px 10px;
+      border-radius: 8px;
+      text-align: center;
+      background: rgba(159, 33, 232, 0.35);
+      cursor: pointer;
+
+      &:hover {
+        background: rgba(159, 33, 232, 0.55);
+      }
+    }
+  }
+</style>
+
+<button
+  id="shader-controls-toggle"
+  type="button"
+  aria-haspopup="dialog"
+  aria-expanded="false"
+  aria-controls="shader-controls"
+  aria-label="Toggle shader controls"
+>
+  <Gear />
+  <Glow />
+</button>
+
+<section id="shader-controls" data-open="false" aria-label="Shader controls">
+  <h2>Nebula</h2>
+  <div class="sliders"></div>
+  <div class="octaves"></div>
+  <div class="colors"></div>
+  <div class="gpu">GPU: <span id="sc-gpu">—</span></div>
+  <button class="copy" type="button">Copy config to clipboard</button>
+</section>
+
+<script>
+  const SLIDERS = [
+    { key: "speed", label: "Motion", min: 0, max: 2.5, step: 0.01 },
+    { key: "scale", label: "Scale", min: 0.4, max: 3, step: 0.01 },
+    { key: "warp", label: "Warp", min: 0, max: 1.5, step: 0.01 },
+    { key: "stars", label: "Stars", min: 0, max: 1, step: 0.01 },
+    { key: "starSat", label: "Star color", min: 0, max: 1, step: 0.01 },
+    { key: "grain", label: "Grain", min: 0, max: 1, step: 0.01 }
+  ] as const;
+  const COLORS = [
+    { key: "cVoid", label: "Void" },
+    { key: "cMid", label: "Mid" },
+    { key: "cHot", label: "Hot" },
+    { key: "cCore", label: "Core" }
+  ] as const;
+  const OCTAVES = [
+    { key: "density", label: "Density octaves", min: 1, max: 8, step: 1 },
+    { key: "warp", label: "Warp octaves", min: 1, max: 6, step: 1 }
+  ] as const;
+
+  interface ColorValue {
+    getHexString(): string;
+    set(hex: string): void;
+  }
+  interface NebulaHandle {
+    uniforms: Record<string, { value: number } | { value: ColorValue }>;
+    octaves: Record<string, number>;
+    rebuild(): void;
+  }
+
+  function toHex(c: { getHexString(): string }): string {
+    return "#" + c.getHexString();
+  }
+
+  function init(): void {
+    const panel = document.getElementById("shader-controls");
+    const toggle = document.getElementById("shader-controls-toggle");
+    if (!panel || !toggle) return;
+
+    const nebula = (window as unknown as { __nebula?: NebulaHandle }).__nebula;
+    if (!nebula) {
+      // Shader not ready yet — retry shortly.
+      window.setTimeout(init, 300);
+      return;
+    }
+    const u = nebula.uniforms;
+
+    toggle.addEventListener("click", () => {
+      const open = panel.dataset.open === "true";
+      panel.dataset.open = String(!open);
+      toggle.setAttribute("aria-expanded", String(!open));
+    });
+
+    const sliders = panel.querySelector(".sliders")!;
+    for (const s of SLIDERS) {
+      const uniform = u[s.key] as { value: number };
+      const row = document.createElement("div");
+      row.className = "row";
+      const valSpan = `<span class="val">${uniform.value.toFixed(2)}</span>`;
+      row.innerHTML =
+        `<label>${s.label}${valSpan}</label>` +
+        `<input type="range" min="${s.min}" max="${s.max}" step="${s.step}" value="${uniform.value}" />`;
+      const input = row.querySelector("input")!;
+      const out = row.querySelector(".val")!;
+      input.addEventListener("input", () => {
+        const v = Number(input.value);
+        uniform.value = v;
+        out.textContent = v.toFixed(2);
+      });
+      sliders.appendChild(row);
+    }
+
+    // Octaves are compile-time, so changing one rebuilds the node graph.
+    const octs = panel.querySelector(".octaves")!;
+    for (const o of OCTAVES) {
+      const current = nebula.octaves[o.key];
+      const row = document.createElement("div");
+      row.className = "row";
+      row.innerHTML =
+        `<label>${o.label}<span class="val">${current}</span></label>` +
+        `<input type="range" min="${o.min}" max="${o.max}" step="${o.step}" value="${current}" />`;
+      const input = row.querySelector("input")!;
+      const out = row.querySelector(".val")!;
+      input.addEventListener("input", () => {
+        const v = Number(input.value);
+        nebula.octaves[o.key] = v;
+        out.textContent = String(v);
+        nebula.rebuild();
+      });
+      octs.appendChild(row);
+    }
+
+    const colors = panel.querySelector(".colors")!;
+    for (const c of COLORS) {
+      const uniform = u[c.key] as { value: ColorValue };
+      const row = document.createElement("div");
+      row.className = "color-row";
+      row.innerHTML =
+        `<label>${c.label}</label>` +
+        `<input type="color" value="${toHex(uniform.value)}" />`;
+      const input = row.querySelector("input")!;
+      input.addEventListener("input", () => {
+        uniform.value.set(input.value);
+      });
+      colors.appendChild(row);
+    }
+
+    // Live GPU-time readout (WebGPU timestamp queries).
+    const gpuOut = document.getElementById("sc-gpu");
+    const renderer = (
+      globalThis as unknown as {
+        __renderer?: {
+          backend: { trackTimestamp: boolean };
+          info: { render: { timestamp: number } };
+          resolveTimestampsAsync(type: string): Promise<unknown>;
+        };
+      }
+    ).__renderer;
+    if (renderer && gpuOut) {
+      // Only track while the panel is open, and resolve every frame so the
+      // timestamp query pool drains instead of overflowing.
+      let resolving = false;
+      let lastShown = 0;
+      const pump = (): void => {
+        const open = panel.dataset.open === "true";
+        renderer.backend.trackTimestamp = open;
+        if (open && !resolving) {
+          resolving = true;
+          void (async () => {
+            await renderer.resolveTimestampsAsync("render");
+            const ms = renderer.info.render.timestamp;
+            const now = performance.now();
+            if (ms > 0 && now - lastShown > 300) {
+              gpuOut.textContent = ms.toFixed(2) + " ms";
+              lastShown = now;
+            }
+            resolving = false;
+          })();
+        }
+        requestAnimationFrame(pump);
+      };
+      requestAnimationFrame(pump);
+    }
+
+    panel.querySelector("button.copy")!.addEventListener("click", () => {
+      const cfg: Record<string, number> = {};
+      for (const s of SLIDERS) {
+        cfg[s.key] = Number((u[s.key] as { value: number }).value.toFixed(3));
+      }
+      const pal: Record<string, string> = {};
+      for (const c of COLORS) {
+        pal[c.label.toLowerCase()] = toHex((u[c.key] as { value: ColorValue }).value);
+      }
+      const text = JSON.stringify(
+        { config: cfg, palette: pal, octaves: nebula.octaves },
+        null,
+        2
+      );
+      void navigator.clipboard.writeText(text);
+      console.log("[shader-controls] config copied:\n" + text);
+    });
+  }
+
+  document.addEventListener("astro:page-load", init);
+</script>

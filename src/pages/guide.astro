@@ -1,10 +1,10 @@
 ---
-import Markdown from "../layouts/Markdown.astro";
 import { getEntry, render } from "astro:content";
+import Markdown from "../layouts/Markdown.astro";
 
 export const prerender = true;
 
-const entry = await getEntry("guides", "ti-2025/guide");
+const entry = await getEntry("guides", "ti-2025/ti-2025-hamburg");
 
 if (typeof entry === `undefined`) throw new Error(`Unable to load page`);
 

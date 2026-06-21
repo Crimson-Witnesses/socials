@@ -1,5 +1,5 @@
-// eslint-disable-next-line import/no-unresolved
-import { z, defineCollection } from "astro:content";
+import { z } from "astro/zod";
+import { defineCollection } from "astro:content";
 import { glob } from "astro/loaders";
 
 const guideSchema = z.object({
@@ -12,7 +12,16 @@ export type GuidePage = z.infer<typeof guideSchema>;
 
 export const collections = {
   guides: defineCollection({
-    loader: glob({ pattern: "**/*.md", base: "./public/guides" }),
+    loader: glob({
+      pattern: `**/*.md`,
+      base: `./public/guides`
+    }),
     schema: guideSchema
+  }),
+  resume: defineCollection({
+    loader: glob({
+      pattern: `**/*.md`,
+      base: `./public/resume`
+    })
   })
 };
