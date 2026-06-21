@@ -5,3 +5,5 @@ declare module "*.module.css" {
 declare module "*.svg" {
   export default `` as string;
 }
+// remark-captions ships no type declarations.
+declare module "remark-captions";
