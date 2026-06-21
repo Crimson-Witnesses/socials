@@ -12,6 +12,10 @@
     right: 0;
     overflow: hidden;
     pointer-events: none;
+    /* Fallback that matches the shader's void color, shown until WebGPU
+       finishes compiling and draws the first frame. Eliminates the flash of
+       the page background during the (sometimes slow) shader init. */
+    background: #05030f;
   }
 </style>
 
